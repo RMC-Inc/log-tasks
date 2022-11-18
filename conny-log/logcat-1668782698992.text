@@ -1,0 +1,1070 @@
+--------- beginning of system
+11-18 15:37:52.932 25277 25277 W Looper  : PerfMonitor looperActivity : package=com.rmc.natour21/.Splashscreen time=199ms latency=876ms running=159ms  procState=2 ClientTransaction{ callbacks=[android.app.servertransaction.LaunchActivityItem] lifecycleRequest=android.app.servertransaction.ResumeActivityItem } historyMsgCount=1 (msgIndex=1 wall=895ms seq=3 running=799ms runnable=12ms io=17ms h=android.app.ActivityThread$H w=110)
+11-18 15:37:52.933 25277 25277 W Looper  : PerfMonitor looperActivity : package=com.rmc.natour21/.Splashscreen time=0ms latency=1075ms running=0ms  procState=2 ClientTransaction{ callbacks=[android.app.servertransaction.TopResumedActivityChangeItem] } historyMsgCount=2 (msgIndex=1 wall=895ms seq=3 running=799ms runnable=12ms io=17ms h=android.app.ActivityThread$H w=110) (msgIndex=2 wall=199ms seq=4 running=159ms runnable=20ms late=876ms h=android.app.ActivityThread$H w=159)
+11-18 15:37:53.479 25277 25445 I Timeline: Timeline: Activity_launch_request time:190847566
+11-18 15:37:53.821 25277 25277 W Looper  : PerfMonitor looperActivity : package=com.rmc.natour21/.Login time=0ms latency=319ms running=1ms  procState=2 ClientTransaction{ callbacks=[android.app.servertransaction.TopResumedActivityChangeItem] } historyMsgCount=3 (msgIndex=1 wall=201ms seq=57 running=171ms runnable=5ms io=11ms late=1ms h=android.app.ActivityThread$H w=159) (msgIndex=2 wall=116ms seq=58 running=57ms io=8ms late=4ms h=android.view.Choreographer$FrameHandler w=0)
+11-18 15:38:11.378 25277 25277 I Timeline: Timeline: Activity_launch_request time:190865465
+11-18 15:38:11.428 25277 25277 I Timeline: Timeline: Activity_launch_request time:190865515
+11-18 15:38:48.838 25277 25445 I Timeline: Timeline: Activity_launch_request time:190902925
+11-18 15:38:49.202 25277 25277 W Activity: Slow Operation: Activity com.rmc.natour21/.MainActivity onStart took 177ms
+11-18 15:38:49.223 25277 25277 W Looper  : PerfMonitor looperActivity : package=com.rmc.natour21/.MainActivity time=0ms latency=353ms running=0ms  procState=2 ClientTransaction{ callbacks=[android.app.servertransaction.TopResumedActivityChangeItem] } historyMsgCount=2 (msgIndex=2 wall=350ms seq=209 running=293ms runnable=12ms io=7ms late=2ms h=android.app.ActivityThread$H w=159)
+11-18 15:38:51.778 25277 25277 W BpBinder: Slow Binder: BpBinder transact took 286 ms, interface=android.location.ILocationManager, code=10 oneway=false
+11-18 15:38:52.030 25277 25277 W BpBinder: Slow Binder: BpBinder transact took 240 ms, interface=android.location.ILocationManager, code=10 oneway=false
+11-18 15:38:52.247 25277 25277 W BpBinder: Slow Binder: BpBinder transact took 202 ms, interface=android.location.ILocationManager, code=10 oneway=false
+11-18 15:38:52.499 25277 25277 W BpBinder: Slow Binder: BpBinder transact took 239 ms, interface=android.location.ILocationManager, code=10 oneway=false
+11-18 15:38:52.745 25277 25277 W BpBinder: Slow Binder: BpBinder transact took 239 ms, interface=android.location.ILocationManager, code=10 oneway=false
+11-18 15:38:52.761 25277 25277 W Looper  : PerfMonitor longMsg : seq=394 plan=15:38:51.453 late=1ms wall=1304ms running=89ms runnable=5ms h=android.os.Handler c=kotlinx.coroutines.internal.DispatchedContinuation procState=2
+11-18 15:38:52.767 25277 25277 W Looper  : PerfMonitor doFrame : time=5ms vsyncFrame=0 latency=1303ms procState=2 historyMsgCount=1 (msgIndex=1 wall=1304ms seq=394 running=89ms runnable=5ms late=1ms h=android.os.Handler c=kotlinx.coroutines.internal.DispatchedContinuation)
+11-18 15:38:53.344 25277 25277 W Looper  : PerfMonitor doFrame : time=346ms vsyncFrame=0 latency=2ms procState=2
+11-18 15:39:00.729 25277 25277 I Timeline: Timeline: Activity_launch_request time:190914816
+--------- beginning of main
+11-18 15:44:49.457 30995 30995 I om.rmc.natour2: Late-enabling -Xcheck:jni
+11-18 15:44:49.478 30995 30995 I om.rmc.natour2: Unquickening 20 vdex files!
+11-18 15:44:50.111 30995 30995 I Perf    : Connecting to perf service.
+11-18 15:44:50.126 30995 30995 D NetworkSecurityConfig: Using Network Security Config from resource network_security_config debugBuild: true
+11-18 15:44:50.128 30995 30995 D NetworkSecurityConfig: Using Network Security Config from resource network_security_config debugBuild: true
+11-18 15:44:50.172 30995 30995 I FirebaseApp: Device unlocked: initializing all Firebase APIs for app [DEFAULT]
+11-18 15:44:50.222 30995 31021 E libc    : Access denied finding property "ro.vendor.df.effect.conflict"
+11-18 15:44:50.222 30995 31021 E libc    : Access denied finding property "ro.vendor.knock.type"
+11-18 15:44:50.212 30995 30995 W Firebase-Messag: type=1400 audit(0.0:578337): avc: denied { read } for name="u:object_r:vendor_displayfeature_prop:s0" dev="tmpfs" ino=10073 scontext=u:r:untrusted_app:s0:c115,c257,c512,c768 tcontext=u:object_r:vendor_displayfeature_prop:s0 tclass=file permissive=0 app=com.rmc.natour21
+11-18 15:44:50.232 30995 31025 I TetheringManager: registerTetheringEventCallback:com.rmc.natour21
+11-18 15:44:50.245 30995 30995 I FirebaseInitProvider: FirebaseApp initialization successful
+11-18 15:44:50.251 30995 31030 I DpmTcmClient: RegisterTcmMonitor from: $Proxy1
+11-18 15:44:50.286 30995 31031 I DynamiteModule: Considering local module com.google.android.gms.measurement.dynamite:70 and remote module com.google.android.gms.measurement.dynamite:87
+11-18 15:44:50.286 30995 31031 I DynamiteModule: Selected remote version of com.google.android.gms.measurement.dynamite, version >= 87
+11-18 15:44:50.286 30995 31031 V DynamiteModule: Dynamite loader version >= 2, using loadModule2NoCrashUtils
+11-18 15:44:50.294 30995 31031 W System  : ClassLoader referenced unknown path: 
+11-18 15:44:50.302 30995 31039 I DynamiteDebugLogger: [71] com.google.android.gms.measurement.dynamite
+11-18 15:44:50.315 30995 30995 W com.facebook.UserSettingsManager: Please set a value for AutoLogAppEventsEnabled. Set the flag to TRUE if you want to collect app install, app launch and in-app purchase events automatically. To request user consent before collecting data, set the flag value to FALSE, then change to TRUE once user consent is received. Learn more: https://developers.facebook.com/docs/app-events/getting-started-app-events-android#disable-auto-events.
+11-18 15:44:50.315 30995 30995 W com.facebook.UserSettingsManager: You haven't set a value for AdvertiserIDCollectionEnabled. Set the flag to TRUE if you want to collect Advertiser ID for better advertising and analytics results. To request user consent before collecting data, set the flag value to FALSE, then change to TRUE once user consent is received. Learn more: https://developers.facebook.com/docs/app-events/getting-started-app-events-android#disable-auto-events.
+11-18 15:44:50.382 30995 30995 D KeyHash:: 3Fm4gBnqk2PYU3lntxOY4S7uHvQ=
+11-18 15:44:50.436 30995 31052 I FA      : App measurement initialized, version: 75024
+11-18 15:44:50.436 30995 31052 I FA      : To enable debug logging run: adb shell setprop log.tag.FA VERBOSE
+11-18 15:44:50.437 30995 31052 I FA      : To enable faster debug mode event logging run:
+11-18 15:44:50.437 30995 31052 I FA      :   adb shell setprop debug.firebase.analytics.app com.rmc.natour21
+11-18 15:44:50.464 30995 30995 D View    : com.rmc.natour21 initForcedUseForceDark: 1
+11-18 15:44:50.476 30995 30995 D DecorView[]: getWindowModeFromSystem  windowmode is 1
+11-18 15:44:50.476 30995 30995 D DecorView: createDecorCaptionView windowingMode:1 mWindowMode 1 isFullscreen: true
+11-18 15:44:50.505 30995 31052 I FA      : Tag Manager is not found and thus will not be used
+11-18 15:44:50.511 30995 30995 W om.rmc.natour2: Accessing hidden method Landroid/view/View;->computeFitSystemWindows(Landroid/graphics/Rect;Landroid/graphics/Rect;)Z (greylist, reflection, allowed)
+11-18 15:44:50.512 30995 30995 W om.rmc.natour2: Accessing hidden method Landroid/view/ViewGroup;->makeOptionalFitsSystemWindows()V (greylist, reflection, allowed)
+11-18 15:44:50.599 30995 30995 W Looper  : PerfMonitor looperActivity : package=com.rmc.natour21/.Splashscreen time=215ms latency=844ms running=161ms  procState=2 ClientTransaction{ callbacks=[android.app.servertransaction.LaunchActivityItem] lifecycleRequest=android.app.servertransaction.ResumeActivityItem } historyMsgCount=1 (msgIndex=1 wall=856ms seq=3 running=757ms runnable=16ms io=24ms late=1ms h=android.app.ActivityThread$H w=110)
+11-18 15:44:50.600 30995 30995 W Looper  : PerfMonitor looperActivity : package=com.rmc.natour21/.Splashscreen time=1ms latency=1058ms running=0ms  procState=2 ClientTransaction{ callbacks=[android.app.servertransaction.TopResumedActivityChangeItem] } historyMsgCount=2 (msgIndex=1 wall=856ms seq=3 running=757ms runnable=16ms io=24ms late=1ms h=android.app.ActivityThread$H w=110) (msgIndex=2 wall=215ms seq=4 running=161ms runnable=13ms io=16ms late=844ms h=android.app.ActivityThread$H w=159)
+11-18 15:44:50.627 30995 31055 W BpBinder: Slow Binder: BpBinder transact took 276 ms, interface=android.app.IActivityManager, code=22 oneway=false
+11-18 15:44:50.669 30995 31071 I AdrenoGLES-0: QUALCOMM build                   : 559e78c, Ib9d997268a
+11-18 15:44:50.669 30995 31071 I AdrenoGLES-0: Build Date                       : 10/13/20
+11-18 15:44:50.669 30995 31071 I AdrenoGLES-0: OpenGL ES Shader Compiler Version: EV031.32.02.02
+11-18 15:44:50.669 30995 31071 I AdrenoGLES-0: Local Branch                     : 
+11-18 15:44:50.669 30995 31071 I AdrenoGLES-0: Remote Branch                    : 
+11-18 15:44:50.669 30995 31071 I AdrenoGLES-0: Remote Branch                    : 
+11-18 15:44:50.669 30995 31071 I AdrenoGLES-0: Reconstruct Branch               : 
+11-18 15:44:50.669 30995 31071 I AdrenoGLES-0: Build Config                     : S P 10.0.7 AArch64
+11-18 15:44:50.669 30995 31071 I AdrenoGLES-0: Driver Path                      : /vendor/lib64/egl/libGLESv2_adreno.so
+11-18 15:44:50.676 30995 31071 I AdrenoGLES-0: PFP: 0x016ee190, ME: 0x00000000
+11-18 15:44:50.916 30995 31055 W BpBinder: Slow Binder: BpBinder transact took 288 ms, interface=android.content.IContentProvider, code=1 oneway=false
+11-18 15:44:51.097 30995 31050 W BpBinder: Slow Binder: BpBinder transact took 469 ms, interface=android.content.IContentProvider, code=1 oneway=false
+11-18 15:44:51.122 30995 31049 W BpBinder: Slow Binder: BpBinder transact took 355 ms, interface=android.content.IContentProvider, code=1 oneway=false
+11-18 15:44:51.138 30995 31053 W BpBinder: Slow Binder: BpBinder transact took 311 ms, interface=android.content.IContentProvider, code=1 oneway=false
+11-18 15:44:51.164 30995 31115 I Timeline: Timeline: Activity_launch_request time:191265251
+11-18 15:44:51.209 30995 30995 D DecorView[]: getWindowModeFromSystem  windowmode is 1
+11-18 15:44:51.209 30995 30995 D DecorView: createDecorCaptionView windowingMode:1 mWindowMode 1 isFullscreen: true
+11-18 15:44:51.504 30995 30995 W Looper  : PerfMonitor looperActivity : package=com.rmc.natour21/.Login time=0ms latency=314ms running=0ms  procState=2 ClientTransaction{ callbacks=[android.app.servertransaction.TopResumedActivityChangeItem] } historyMsgCount=5 (msgIndex=3 wall=209ms seq=57 running=188ms runnable=5ms io=3ms late=4ms h=android.app.ActivityThread$H w=159) (msgIndex=4 wall=100ms seq=58 running=54ms runnable=1ms io=4ms late=4ms h=android.view.Choreographer$FrameHandler w=0)
+11-18 15:44:52.614 30995 31231 W om.rmc.natour2: Accessing hidden method Landroid/os/WorkSource;->add(I)Z (greylist,test-api, reflection, allowed)
+11-18 15:44:52.614 30995 31231 W om.rmc.natour2: Accessing hidden method Landroid/os/WorkSource;->add(ILjava/lang/String;)Z (greylist,test-api, reflection, allowed)
+11-18 15:44:52.614 30995 31231 W om.rmc.natour2: Accessing hidden method Landroid/os/WorkSource;->get(I)I (greylist, reflection, allowed)
+11-18 15:44:52.614 30995 31231 W om.rmc.natour2: Accessing hidden method Landroid/os/WorkSource;->getName(I)Ljava/lang/String; (greylist, reflection, allowed)
+11-18 15:44:52.664 30995 31237 E SendBird: [15:44:52.662 SendBird:getInstance():553] SendBird instance hasn't been initialized. Try SendBird.init().
+11-18 15:44:52.665 30995 30995 W System.err: SendBirdException{code=800220, message=SendBird instance hasn't been initialized.}
+11-18 15:44:52.665 30995 30995 W System.err: 	at com.sendbird.android.JobResultTask$callable$1.call(JobResultTask.kt:20)
+11-18 15:44:52.665 30995 30995 W System.err: 	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+11-18 15:44:52.665 30995 30995 W System.err: 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167)
+11-18 15:44:52.665 30995 30995 W System.err: 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641)
+11-18 15:44:52.665 30995 30995 W System.err: 	at java.lang.Thread.run(Thread.java:923)
+11-18 15:44:52.971 30995 30995 I Timeline: Timeline: Activity_launch_request time:191267058
+11-18 15:44:53.015 30995 30995 I Timeline: Timeline: Activity_launch_request time:191267102
+11-18 15:44:53.044 30995 30995 D DecorView[]: getWindowModeFromSystem  windowmode is 1
+11-18 15:44:53.044 30995 30995 D DecorView: createDecorCaptionView windowingMode:1 mWindowMode 1 isFullscreen: true
+11-18 15:44:56.664 30995 31382 W System  : Ignoring header X-Firebase-Locale because its value was null.
+11-18 15:44:57.034 30995 31382 W System  : Ignoring header X-Firebase-Locale because its value was null.
+11-18 15:44:57.224 30995 31382 D FirebaseAuth: Notifying id token listeners about user ( Tahu6wttOwTjYKh9MqkAmJQyqav2 ).
+11-18 15:44:57.224 30995 31382 D FirebaseAuth: Notifying auth state listeners about user ( Tahu6wttOwTjYKh9MqkAmJQyqav2 ).
+11-18 15:44:57.234 30995 31115 I System.out: Firebase token: eyJhbGciOiJSUzI1NiIsImtpZCI6ImY4MDljZmYxMTZlNWJhNzQwNzQ1YmZlZGE1OGUxNmU4MmYzZmQ4MDUiLCJ0eXAiOiJKV1QifQ.eyJuYW1lIjoiQ29uY2V0dGEgQWNhbXBvcmEiLCJwaWN0dXJlIjoiaHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUxtNXd1Ml9WQWpjMzdPRERsZU5GUVlWQTlpYVU2czNHS1Mtd0N4QS1kX3Y9czk2LWMiLCJpc3MiOiJodHRwczovL3NlY3VyZXRva2VuLmdvb2dsZS5jb20vbmF0b3VyMjEtZmM2ZWEiLCJhdWQiOiJuYXRvdXIyMS1mYzZlYSIsImF1dGhfdGltZSI6MTY2ODc4MjY5NywidXNlcl9pZCI6IlRhaHU2d3R0T3dUallLaDlNcWtBbUpReXFhdjIiLCJzdWIiOiJUYWh1Nnd0dE93VGpZS2g5TXFrQW1KUXlxYXYyIiwiaWF0IjoxNjY4NzgyNjk3LCJleHAiOjE2Njg3ODYyOTcsImVtYWlsIjoiY29uY2V0dGFhY2FtcG9yYTIwMDFAZ21haWwuY29tIiwiZW1haWxfdmVyaWZpZWQiOnRydWUsImZpcmViYXNlIjp7ImlkZW50aXRpZXMiOnsiZ29vZ2xlLmNvbSI6WyIxMDUyMjI3ODczNjkwMjMzMDExMjYiXSwiZW1haWwiOlsiY29uY2V0dGFhY2FtcG9yYTIwMDFAZ21haWwuY29tIl19LCJzaWduX2luX3Byb3ZpZGVyIjoiZ29vZ2xlLmNvbSJ9fQ.cJgAHV6hK5MFj9bRpCbRoWQ-EM2BYUVeYaXW5W1vw6NzlohAPCmax0FgacToLVUi832asEe5_f1GRoLAez_-naKUzxkr0QKeZ_QsTpRPZH3UXikXO8NmRUBWRhvDRj2vyTAWPrl2b-ijXbavrJT9EaGqSFaRbKNIPpWm_tj4QCLGPTzVDwMPW9vOTEmp8Qh4ZB2K3zDZaXJl84Tg2O4VfbwTl0KUNtfwSe2l9hDs8ADvqb-RMN_3-Z3UXFc9mldXPR9WrZ7nx9mk4Ag5v75m3wl42bRYSPIHKeeu6Ii77h5vC2JC1_JA81nGhtMfiLTkh3y6z3UC1WGVL9Ny3jnmkg
+11-18 15:44:57.353 30995 31391 V NativeCrypto: Registering org/conscrypt/NativeCrypto's 286 native methods...
+11-18 15:44:58.128 30995 31010 I om.rmc.natour2: WaitForGcToComplete blocked RunEmptyCheckpoint on ProfileSaver for 18.436ms
+11-18 15:44:58.140 30995 31017 I om.rmc.natour2: ProcessProfilingInfo new_methods=8243 is saved saved_to_disk=1 resolve_classes_delay=8000
+11-18 15:44:58.754 30995 31115 W om.rmc.natour2: Accessing hidden method Ldalvik/system/BlockGuard;->getThreadPolicy()Ldalvik/system/BlockGuard$Policy; (greylist,core-platform-api, linking, allowed)
+11-18 15:44:58.754 30995 31115 W om.rmc.natour2: Accessing hidden method Ldalvik/system/BlockGuard$Policy;->onNetwork()V (greylist, linking, allowed)
+11-18 15:44:58.754 30995 31115 W om.rmc.natour2: Accessing hidden method Ldalvik/system/CloseGuard;->close()V (greylist,core-platform-api, linking, allowed)
+11-18 15:44:58.755 30995 31115 W om.rmc.natour2: Accessing hidden method Ldalvik/system/CloseGuard;->get()Ldalvik/system/CloseGuard; (greylist,core-platform-api, linking, allowed)
+11-18 15:44:58.755 30995 31115 W om.rmc.natour2: Accessing hidden method Ldalvik/system/CloseGuard;->open(Ljava/lang/String;)V (greylist,core-platform-api, linking, allowed)
+11-18 15:44:58.755 30995 31115 W om.rmc.natour2: Accessing hidden method Ldalvik/system/CloseGuard;->warnIfOpen()V (greylist,core-platform-api, linking, allowed)
+11-18 15:44:58.759 30995 31115 W om.rmc.natour2: Accessing hidden method Ljava/security/spec/ECParameterSpec;->getCurveName()Ljava/lang/String; (greylist, reflection, allowed)
+11-18 15:44:58.817 30995 31115 I Timeline: Timeline: Activity_launch_request time:191272904
+11-18 15:44:58.863 30995 30995 D DecorView[]: getWindowModeFromSystem  windowmode is 1
+11-18 15:44:58.863 30995 30995 D DecorView: createDecorCaptionView windowingMode:1 mWindowMode 1 isFullscreen: true
+11-18 15:44:59.161 30995 30995 W Activity: Slow Operation: Activity com.rmc.natour21/.MainActivity onStart took 152ms
+11-18 15:44:59.177 30995 30995 W Looper  : PerfMonitor looperActivity : package=com.rmc.natour21/.MainActivity time=0ms latency=336ms running=0ms  procState=2 ClientTransaction{ callbacks=[android.app.servertransaction.TopResumedActivityChangeItem] } historyMsgCount=2 (msgIndex=2 wall=334ms seq=199 running=286ms runnable=11ms io=3ms late=1ms h=android.app.ActivityThread$H w=159)
+11-18 15:44:59.180 30995 30995 D SBUIKIT : [15:44:59.179 SendBirdUIKit$1:onInitSucceed():174] >> onInitSucceed()
+11-18 15:44:59.251 30995 31565 W om.rmc.natour2: Accessing hidden field Ljava/net/Socket;->impl:Ljava/net/SocketImpl; (greylist, reflection, allowed)
+11-18 15:44:59.259 30995 31565 W om.rmc.natour2: Accessing hidden field Ljava/io/FileDescriptor;->descriptor:I (greylist, JNI, allowed)
+11-18 15:44:59.322 30995 31565 W om.rmc.natour2: Accessing hidden method Ljava/security/spec/ECParameterSpec;->setCurveName(Ljava/lang/String;)V (greylist, reflection, allowed)
+11-18 15:44:59.431 30995 30995 W Glide   : Failed to find GeneratedAppGlideModule. You should include an annotationProcessor compile dependency on com.github.bumptech.glide:compiler in your application and a @GlideModule annotated AppGlideModule implementation or LibraryGlideModules will be silently ignored
+11-18 15:44:59.512 30995 31565 W SendBird: [15:44:59.510 Connection$1:onMessage():235] onMessage instance : [LOGI] com.sendbird.android.Connection@ba2c4aa
+11-18 15:44:59.514 30995 31565 W Sendbird: [15:44:59.513 Connection$1:onMessage():236] onMessage instance : [LOGI] com.sendbird.android.Connection@ba2c4aa
+11-18 15:44:59.556 30995 31593 W SendBird: [15:44:59.555 EventController$1:call():141] ++ result[LOGI] runnable=null
+11-18 15:44:59.636 30995 31547 D SBUIKIT : [15:44:59.634 SendBirdUIKit$2:call():298] ++ user nickname = Conny🌹, profileUrl = http://dockerproxmox.duckdns.org:8125/img/56/raw
+11-18 15:44:59.639 30995 31547 D SBUIKIT : [15:44:59.637 SendBirdUIKit:updateEmojiList():400] >> SendBirdUIkit::updateEmojiList()
+11-18 15:44:59.641 30995 31565 W SendBird: [15:44:59.639 Connection$1:onMessage():235] onMessage instance : [PONG] com.sendbird.android.Connection@ba2c4aa
+11-18 15:44:59.643 30995 31565 W Sendbird: [15:44:59.641 Connection$1:onMessage():236] onMessage instance : [PONG] com.sendbird.android.Connection@ba2c4aa
+11-18 15:44:59.655 30995 31593 W SendBird: [15:44:59.654 EventController$1:call():141] ++ result[PONG] runnable=null
+11-18 15:45:00.010 30995 30995 I System.out: SENDBIRD TOKEN OK cCpFnO-0RjuEnBOkLzHfas:APA91bE8UmWhjHgvzTQmw5xhk-7ARF3K8OFTGrCvGMYxzqOyiVvfW0MjQa8Ws1w7YB_uGOCeJxwaZGF9r31FsqNMfP6CFmvUiCqTNwL8wGqL7JkLBwdfIA2yvxrFVRxaAPQ75DYvqECu
+11-18 15:45:00.589 30995 31015 I AssistStructure: Flattened final assist data: 6916 bytes, containing 1 windows, 86 views
+11-18 15:45:02.116 30995 30995 W Glide   : Load failed for [http://dockerproxmox.duckdns.org:8125/img/56/raw] with dimensions [193x193]
+11-18 15:45:02.116 30995 30995 W Glide   : class com.bumptech.glide.load.engine.GlideException: Failed to load resource
+11-18 15:45:02.116 30995 30995 W Glide   : There was 1 root cause:
+11-18 15:45:02.116 30995 30995 W Glide   : com.bumptech.glide.load.HttpException(Failed to connect or obtain data, status code: -1)
+11-18 15:45:02.116 30995 30995 W Glide   :  call GlideException#logRootCauses(String) for more detail
+11-18 15:45:02.116 30995 30995 W Glide   :   Cause (1 of 1): class com.bumptech.glide.load.engine.GlideException: Fetching data failed, class java.io.InputStream, REMOTE
+11-18 15:45:02.116 30995 30995 W Glide   : There was 1 root cause:
+11-18 15:45:02.116 30995 30995 W Glide   : com.bumptech.glide.load.HttpException(Failed to connect or obtain data, status code: -1)
+11-18 15:45:02.116 30995 30995 W Glide   :  call GlideException#logRootCauses(String) for more detail
+11-18 15:45:02.116 30995 30995 W Glide   :     Cause (1 of 1): class com.bumptech.glide.load.engine.GlideException: Fetch failed
+11-18 15:45:02.116 30995 30995 W Glide   : There was 1 root cause:
+11-18 15:45:02.116 30995 30995 W Glide   : com.bumptech.glide.load.HttpException(Failed to connect or obtain data, status code: -1)
+11-18 15:45:02.116 30995 30995 W Glide   :  call GlideException#logRootCauses(String) for more detail
+11-18 15:45:02.116 30995 30995 W Glide   :       Cause (1 of 1): class com.bumptech.glide.load.HttpException: Failed to connect or obtain data, status code: -1
+11-18 15:45:02.118 30995 30995 I Glide   : Root cause (1 of 1)
+11-18 15:45:02.118 30995 30995 I Glide   : com.bumptech.glide.load.HttpException: Failed to connect or obtain data, status code: -1
+11-18 15:45:02.118 30995 30995 I Glide   : 	at com.bumptech.glide.load.data.HttpUrlFetcher.loadDataWithRedirects(HttpUrlFetcher.java:98)
+11-18 15:45:02.118 30995 30995 I Glide   : 	at com.bumptech.glide.load.data.HttpUrlFetcher.loadData(HttpUrlFetcher.java:58)
+11-18 15:45:02.118 30995 30995 I Glide   : 	at com.bumptech.glide.load.model.MultiModelLoader$MultiFetcher.loadData(MultiModelLoader.java:100)
+11-18 15:45:02.118 30995 30995 I Glide   : 	at com.bumptech.glide.load.engine.SourceGenerator.startNextLoad(SourceGenerator.java:95)
+11-18 15:45:02.118 30995 30995 I Glide   : 	at com.bumptech.glide.load.engine.SourceGenerator.startNext(SourceGenerator.java:88)
+11-18 15:45:02.118 30995 30995 I Glide   : 	at com.bumptech.glide.load.engine.DecodeJob.runGenerators(DecodeJob.java:311)
+11-18 15:45:02.118 30995 30995 I Glide   : 	at com.bumptech.glide.load.engine.DecodeJob.runWrapped(DecodeJob.java:280)
+11-18 15:45:02.118 30995 30995 I Glide   : 	at com.bumptech.glide.load.engine.DecodeJob.run(DecodeJob.java:235)
+11-18 15:45:02.118 30995 30995 I Glide   : 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167)
+11-18 15:45:02.118 30995 30995 I Glide   : 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641)
+11-18 15:45:02.118 30995 30995 I Glide   : 	at com.bumptech.glide.load.engine.executor.GlideExecutor$DefaultThreadFactory$1.run(GlideExecutor.java:421)
+11-18 15:45:02.118 30995 30995 I Glide   : 	at java.lang.Thread.run(Thread.java:923)
+11-18 15:45:02.118 30995 30995 I Glide   : 	at com.bumptech.glide.load.engine.executor.GlideExecutor$DefaultPriorityThreadFactory$1.run(GlideExecutor.java:380)
+11-18 15:45:02.118 30995 30995 I Glide   : Caused by: java.net.SocketTimeoutException: timeout
+11-18 15:45:02.118 30995 30995 I Glide   : 	at com.android.okhttp.okio.Okio$3.newTimeoutException(Okio.java:214)
+11-18 15:45:02.118 30995 30995 I Glide   : 	at com.android.okhttp.okio.AsyncTimeout.exit(AsyncTimeout.java:263)
+11-18 15:45:02.118 30995 30995 I Glide   : 	at com.android.okhttp.okio.AsyncTimeout$2.read(AsyncTimeout.java:217)
+11-18 15:45:02.118 30995 30995 I Glide   : 	at com.android.okhttp.okio.RealBufferedSource.indexOf(RealBufferedSource.java:307)
+11-18 15:45:02.118 30995 30995 I Glide   : 	at com.android.okhttp.okio.RealBufferedSource.indexOf(RealBufferedSource.java:301)
+11-18 15:45:02.118 30995 30995 I Glide   : 	at com.android.okhttp.okio.RealBufferedSource.readUtf8LineStrict(RealBufferedSource.java:197)
+11-18 15:45:02.118 30995 30995 I Glide   : 	at com.android.okhttp.internal.http.Http1xStream.readResponse(Http1xStream.java:188)
+11-18 15:45:02.118 30995 30995 I Glide   : 	at com.android.okhttp.internal.http.Http1xStream.readResponseHeaders(Http1xStream.java:129)
+11-18 15:45:02.118 30995 30995 I Glide   : 	at com.android.okhttp.internal.http.HttpEngine.readNetworkResponse(HttpEngine.java:750)
+11-18 15:45:02.118 30995 30995 I Glide   : 	at com.android.okhttp.internal.http.HttpEngine.readResponse(HttpEngine.java:622)
+11-18 15:45:02.118 30995 30995 I Glide   : 	at com.android.okhttp.internal.huc.HttpURLConnectionImpl.execute(HttpURLConnectionImpl.java:475)
+11-18 15:45:02.118 30995 30995 I Glide   : 	at com.android.okhttp.internal.huc.HttpURLConnectionImpl.getResponse(HttpURLConnectionImpl.java:411)
+11-18 15:45:02.118 30995 30995 I Glide   : 	at com.android.okhttp.internal.huc.HttpURLConnectionImpl.getInputStream(HttpURLConnectionImpl.java:248)
+11-18 15:45:02.118 30995 30995 I Glide   : 	at com.bumptech.glide.load.data.HttpUrlFetcher.loadDataWithRedirects(HttpUrlFetcher.java:95)
+11-18 15:45:02.118 30995 30995 I Glide   : 	... 12 more
+11-18 15:45:02.118 30995 30995 I Glide   : Caused by: java.net.SocketTimeoutException: Read timed out
+11-18 15:45:02.118 30995 30995 I Glide   : 	at java.net.SocketInputStream.socketRead0(Native Method)
+11-18 15:45:02.118 30995 30995 I Glide   : 	at java.net.SocketInputStream.socketRead(SocketInputStream.java:119)
+11-18 15:45:02.118 30995 30995 I Glide   : 	at java.net.SocketInputStream.read(SocketInputStream.java:176)
+11-18 15:45:02.118 30995 30995 I Glide   : 	at java.net.SocketInputStream.read(SocketInputStream.java:144)
+11-18 15:45:02.118 30995 30995 I Glide   : 	at com.android.okhttp.okio.Okio$2.read(Okio.java:138)
+11-18 15:45:02.118 30995 30995 I Glide   : 	at com.android.okhttp.okio.AsyncTimeout$2.read(AsyncTimeout.java:213)
+11-18 15:45:02.118 30995 30995 I Glide   : 	... 23 more
+11-18 15:45:08.817 30995 30995 E RecyclerView: No adapter attached; skipping layout
+11-18 15:45:12.977 30995 30995 W Glide   : Load failed for [http://dockerproxmox.duckdns.org:8125/img/57/raw] with dimensions [1080x550]
+11-18 15:45:12.977 30995 30995 W Glide   : class com.bumptech.glide.load.engine.GlideException: Failed to load resource
+11-18 15:45:12.977 30995 30995 W Glide   : There was 1 root cause:
+11-18 15:45:12.977 30995 30995 W Glide   : com.bumptech.glide.load.HttpException(Failed to connect or obtain data, status code: -1)
+11-18 15:45:12.977 30995 30995 W Glide   :  call GlideException#logRootCauses(String) for more detail
+11-18 15:45:12.977 30995 30995 W Glide   :   Cause (1 of 1): class com.bumptech.glide.load.engine.GlideException: Fetching data failed, class java.io.InputStream, REMOTE
+11-18 15:45:12.977 30995 30995 W Glide   : There was 1 root cause:
+11-18 15:45:12.977 30995 30995 W Glide   : com.bumptech.glide.load.HttpException(Failed to connect or obtain data, status code: -1)
+11-18 15:45:12.977 30995 30995 W Glide   :  call GlideException#logRootCauses(String) for more detail
+11-18 15:45:12.977 30995 30995 W Glide   :     Cause (1 of 1): class com.bumptech.glide.load.engine.GlideException: Fetch failed
+11-18 15:45:12.977 30995 30995 W Glide   : There was 1 root cause:
+11-18 15:45:12.977 30995 30995 W Glide   : com.bumptech.glide.load.HttpException(Failed to connect or obtain data, status code: -1)
+11-18 15:45:12.977 30995 30995 W Glide   :  call GlideException#logRootCauses(String) for more detail
+11-18 15:45:12.977 30995 30995 W Glide   :       Cause (1 of 1): class com.bumptech.glide.load.HttpException: Failed to connect or obtain data, status code: -1
+11-18 15:45:12.981 30995 30995 I Glide   : Root cause (1 of 1)
+11-18 15:45:12.981 30995 30995 I Glide   : com.bumptech.glide.load.HttpException: Failed to connect or obtain data, status code: -1
+11-18 15:45:12.981 30995 30995 I Glide   : 	at com.bumptech.glide.load.data.HttpUrlFetcher.loadDataWithRedirects(HttpUrlFetcher.java:98)
+11-18 15:45:12.981 30995 30995 I Glide   : 	at com.bumptech.glide.load.data.HttpUrlFetcher.loadData(HttpUrlFetcher.java:58)
+11-18 15:45:12.981 30995 30995 I Glide   : 	at com.bumptech.glide.load.model.MultiModelLoader$MultiFetcher.loadData(MultiModelLoader.java:100)
+11-18 15:45:12.981 30995 30995 I Glide   : 	at com.bumptech.glide.load.engine.SourceGenerator.startNextLoad(SourceGenerator.java:95)
+11-18 15:45:12.981 30995 30995 I Glide   : 	at com.bumptech.glide.load.engine.SourceGenerator.startNext(SourceGenerator.java:88)
+11-18 15:45:12.981 30995 30995 I Glide   : 	at com.bumptech.glide.load.engine.DecodeJob.runGenerators(DecodeJob.java:311)
+11-18 15:45:12.981 30995 30995 I Glide   : 	at com.bumptech.glide.load.engine.DecodeJob.runWrapped(DecodeJob.java:280)
+11-18 15:45:12.981 30995 30995 I Glide   : 	at com.bumptech.glide.load.engine.DecodeJob.run(DecodeJob.java:235)
+11-18 15:45:12.981 30995 30995 I Glide   : 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167)
+11-18 15:45:12.981 30995 30995 I Glide   : 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641)
+11-18 15:45:12.981 30995 30995 I Glide   : 	at com.bumptech.glide.load.engine.executor.GlideExecutor$DefaultThreadFactory$1.run(GlideExecutor.java:421)
+11-18 15:45:12.981 30995 30995 I Glide   : 	at java.lang.Thread.run(Thread.java:923)
+11-18 15:45:12.981 30995 30995 I Glide   : 	at com.bumptech.glide.load.engine.executor.GlideExecutor$DefaultPriorityThreadFactory$1.run(GlideExecutor.java:380)
+11-18 15:45:12.981 30995 30995 I Glide   : Caused by: java.net.SocketTimeoutException: timeout
+11-18 15:45:12.981 30995 30995 I Glide   : 	at com.android.okhttp.okio.Okio$3.newTimeoutException(Okio.java:214)
+11-18 15:45:12.981 30995 30995 I Glide   : 	at com.android.okhttp.okio.AsyncTimeout.exit(AsyncTimeout.java:263)
+11-18 15:45:12.981 30995 30995 I Glide   : 	at com.android.okhttp.okio.AsyncTimeout$2.read(AsyncTimeout.java:217)
+11-18 15:45:12.981 30995 30995 I Glide   : 	at com.android.okhttp.okio.RealBufferedSource.indexOf(RealBufferedSource.java:307)
+11-18 15:45:12.981 30995 30995 I Glide   : 	at com.android.okhttp.okio.RealBufferedSource.indexOf(RealBufferedSource.java:301)
+11-18 15:45:12.981 30995 30995 I Glide   : 	at com.android.okhttp.okio.RealBufferedSource.readUtf8LineStrict(RealBufferedSource.java:197)
+11-18 15:45:12.981 30995 30995 I Glide   : 	at com.android.okhttp.internal.http.Http1xStream.readResponse(Http1xStream.java:188)
+11-18 15:45:12.981 30995 30995 I Glide   : 	at com.android.okhttp.internal.http.Http1xStream.readResponseHeaders(Http1xStream.java:129)
+11-18 15:45:12.981 30995 30995 I Glide   : 	at com.android.okhttp.internal.http.HttpEngine.readNetworkResponse(HttpEngine.java:750)
+11-18 15:45:12.981 30995 30995 I Glide   : 	at com.android.okhttp.internal.http.HttpEngine.readResponse(HttpEngine.java:622)
+11-18 15:45:12.981 30995 30995 I Glide   : 	at com.android.okhttp.internal.huc.HttpURLConnectionImpl.execute(HttpURLConnectionImpl.java:475)
+11-18 15:45:12.981 30995 30995 I Glide   : 	at com.android.okhttp.internal.huc.HttpURLConnectionImpl.getResponse(HttpURLConnectionImpl.java:411)
+11-18 15:45:12.981 30995 30995 I Glide   : 	at com.android.okhttp.internal.huc.HttpURLConnectionImpl.getInputStream(HttpURLConnectionImpl.java:248)
+11-18 15:45:12.981 30995 30995 I Glide   : 	at com.bumptech.glide.load.data.HttpUrlFetcher.loadDataWithRedirects(HttpUrlFetcher.java:95)
+11-18 15:45:12.981 30995 30995 I Glide   : 	... 12 more
+11-18 15:45:12.981 30995 30995 I Glide   : Caused by: java.net.SocketException: Socket closed
+11-18 15:45:12.981 30995 30995 I Glide   : 	at java.net.SocketInputStream.read(SocketInputStream.java:209)
+11-18 15:45:12.981 30995 30995 I Glide   : 	at java.net.SocketInputStream.read(SocketInputStream.java:144)
+11-18 15:45:12.981 30995 30995 I Glide   : 	at com.android.okhttp.okio.Okio$2.read(Okio.java:138)
+11-18 15:45:12.981 30995 30995 I Glide   : 	at com.android.okhttp.okio.AsyncTimeout$2.read(AsyncTimeout.java:213)
+11-18 15:45:12.981 30995 30995 I Glide   : 	... 23 more
+11-18 15:45:13.020 30995 30995 W Glide   : Load failed for [http://dockerproxmox.duckdns.org:8125/img/56/raw] with dimensions [275x275]
+11-18 15:45:13.020 30995 30995 W Glide   : class com.bumptech.glide.load.engine.GlideException: Failed to load resource
+11-18 15:45:13.020 30995 30995 W Glide   : There was 1 root cause:
+11-18 15:45:13.020 30995 30995 W Glide   : com.bumptech.glide.load.HttpException(Failed to connect or obtain data, status code: -1)
+11-18 15:45:13.020 30995 30995 W Glide   :  call GlideException#logRootCauses(String) for more detail
+11-18 15:45:13.020 30995 30995 W Glide   :   Cause (1 of 1): class com.bumptech.glide.load.engine.GlideException: Fetching data failed, class java.io.InputStream, REMOTE
+11-18 15:45:13.020 30995 30995 W Glide   : There was 1 root cause:
+11-18 15:45:13.020 30995 30995 W Glide   : com.bumptech.glide.load.HttpException(Failed to connect or obtain data, status code: -1)
+11-18 15:45:13.020 30995 30995 W Glide   :  call GlideException#logRootCauses(String) for more detail
+11-18 15:45:13.020 30995 30995 W Glide   :     Cause (1 of 1): class com.bumptech.glide.load.engine.GlideException: Fetch failed
+11-18 15:45:13.020 30995 30995 W Glide   : There was 1 root cause:
+11-18 15:45:13.020 30995 30995 W Glide   : com.bumptech.glide.load.HttpException(Failed to connect or obtain data, status code: -1)
+11-18 15:45:13.020 30995 30995 W Glide   :  call GlideException#logRootCauses(String) for more detail
+11-18 15:45:13.020 30995 30995 W Glide   :       Cause (1 of 1): class com.bumptech.glide.load.HttpException: Failed to connect or obtain data, status code: -1
+11-18 15:45:13.021 30995 30995 I Glide   : Root cause (1 of 1)
+11-18 15:45:13.021 30995 30995 I Glide   : com.bumptech.glide.load.HttpException: Failed to connect or obtain data, status code: -1
+11-18 15:45:13.021 30995 30995 I Glide   : 	at com.bumptech.glide.load.data.HttpUrlFetcher.loadDataWithRedirects(HttpUrlFetcher.java:98)
+11-18 15:45:13.021 30995 30995 I Glide   : 	at com.bumptech.glide.load.data.HttpUrlFetcher.loadData(HttpUrlFetcher.java:58)
+11-18 15:45:13.021 30995 30995 I Glide   : 	at com.bumptech.glide.load.model.MultiModelLoader$MultiFetcher.loadData(MultiModelLoader.java:100)
+11-18 15:45:13.021 30995 30995 I Glide   : 	at com.bumptech.glide.load.engine.SourceGenerator.startNextLoad(SourceGenerator.java:95)
+11-18 15:45:13.021 30995 30995 I Glide   : 	at com.bumptech.glide.load.engine.SourceGenerator.startNext(SourceGenerator.java:88)
+11-18 15:45:13.021 30995 30995 I Glide   : 	at com.bumptech.glide.load.engine.DecodeJob.runGenerators(DecodeJob.java:311)
+11-18 15:45:13.021 30995 30995 I Glide   : 	at com.bumptech.glide.load.engine.DecodeJob.runWrapped(DecodeJob.java:280)
+11-18 15:45:13.021 30995 30995 I Glide   : 	at com.bumptech.glide.load.engine.DecodeJob.run(DecodeJob.java:235)
+11-18 15:45:13.021 30995 30995 I Glide   : 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167)
+11-18 15:45:13.021 30995 30995 I Glide   : 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641)
+11-18 15:45:13.021 30995 30995 I Glide   : 	at com.bumptech.glide.load.engine.executor.GlideExecutor$DefaultThreadFactory$1.run(GlideExecutor.java:421)
+11-18 15:45:13.021 30995 30995 I Glide   : 	at java.lang.Thread.run(Thread.java:923)
+11-18 15:45:13.021 30995 30995 I Glide   : 	at com.bumptech.glide.load.engine.executor.GlideExecutor$DefaultPriorityThreadFactory$1.run(GlideExecutor.java:380)
+11-18 15:45:13.021 30995 30995 I Glide   : Caused by: java.net.SocketTimeoutException: timeout
+11-18 15:45:13.021 30995 30995 I Glide   : 	at com.android.okhttp.okio.Okio$3.newTimeoutException(Okio.java:214)
+11-18 15:45:13.021 30995 30995 I Glide   : 	at com.android.okhttp.okio.AsyncTimeout.exit(AsyncTimeout.java:263)
+11-18 15:45:13.021 30995 30995 I Glide   : 	at com.android.okhttp.okio.AsyncTimeout$2.read(AsyncTimeout.java:217)
+11-18 15:45:13.021 30995 30995 I Glide   : 	at com.android.okhttp.okio.RealBufferedSource.indexOf(RealBufferedSource.java:307)
+11-18 15:45:13.021 30995 30995 I Glide   : 	at com.android.okhttp.okio.RealBufferedSource.indexOf(RealBufferedSource.java:301)
+11-18 15:45:13.021 30995 30995 I Glide   : 	at com.android.okhttp.okio.RealBufferedSource.readUtf8LineStrict(RealBufferedSource.java:197)
+11-18 15:45:13.021 30995 30995 I Glide   : 	at com.android.okhttp.internal.http.Http1xStream.readResponse(Http1xStream.java:188)
+11-18 15:45:13.021 30995 30995 I Glide   : 	at com.android.okhttp.internal.http.Http1xStream.readResponseHeaders(Http1xStream.java:129)
+11-18 15:45:13.021 30995 30995 I Glide   : 	at com.android.okhttp.internal.http.HttpEngine.readNetworkResponse(HttpEngine.java:750)
+11-18 15:45:13.021 30995 30995 I Glide   : 	at com.android.okhttp.internal.http.HttpEngine.readResponse(HttpEngine.java:622)
+11-18 15:45:13.021 30995 30995 I Glide   : 	at com.android.okhttp.internal.huc.HttpURLConnectionImpl.execute(HttpURLConnectionImpl.java:475)
+11-18 15:45:13.021 30995 30995 I Glide   : 	at com.android.okhttp.internal.huc.HttpURLConnectionImpl.getResponse(HttpURLConnectionImpl.java:411)
+11-18 15:45:13.021 30995 30995 I Glide   : 	at com.android.okhttp.internal.huc.HttpURLConnectionImpl.getInputStream(HttpURLConnectionImpl.java:248)
+11-18 15:45:13.021 30995 30995 I Glide   : 	at com.bumptech.glide.load.data.HttpUrlFetcher.loadDataWithRedirects(HttpUrlFetcher.java:95)
+11-18 15:45:13.021 30995 30995 I Glide   : 	... 12 more
+11-18 15:45:13.021 30995 30995 I Glide   : Caused by: java.net.SocketException: Socket closed
+11-18 15:45:13.021 30995 30995 I Glide   : 	at java.net.SocketInputStream.read(SocketInputStream.java:209)
+11-18 15:45:13.021 30995 30995 I Glide   : 	at java.net.SocketInputStream.read(SocketInputStream.java:144)
+11-18 15:45:13.021 30995 30995 I Glide   : 	at com.android.okhttp.okio.Okio$2.read(Okio.java:138)
+11-18 15:45:13.021 30995 30995 I Glide   : 	at com.android.okhttp.okio.AsyncTimeout$2.read(AsyncTimeout.java:213)
+11-18 15:45:13.021 30995 30995 I Glide   : 	... 23 more
+11-18 15:45:14.641 30995 31565 W SendBird: [15:45:14.639 Connection$1:onMessage():235] onMessage instance : [PONG] com.sendbird.android.Connection@ba2c4aa
+11-18 15:45:14.643 30995 31565 W Sendbird: [15:45:14.642 Connection$1:onMessage():236] onMessage instance : [PONG] com.sendbird.android.Connection@ba2c4aa
+11-18 15:45:14.656 30995 31593 W SendBird: [15:45:14.655 EventController$1:call():141] ++ result[PONG] runnable=null
+11-18 15:45:16.747 30995 30995 W Glide   : Load failed for [http://dockerproxmox.duckdns.org:8125/img/56/raw] with dimensions [96x96]
+11-18 15:45:16.747 30995 30995 W Glide   : class com.bumptech.glide.load.engine.GlideException: Failed to load resource
+11-18 15:45:16.747 30995 30995 W Glide   : There was 1 root cause:
+11-18 15:45:16.747 30995 30995 W Glide   : com.bumptech.glide.load.HttpException(Failed to connect or obtain data, status code: -1)
+11-18 15:45:16.747 30995 30995 W Glide   :  call GlideException#logRootCauses(String) for more detail
+11-18 15:45:16.747 30995 30995 W Glide   :   Cause (1 of 1): class com.bumptech.glide.load.engine.GlideException: Fetching data failed, class java.io.InputStream, REMOTE
+11-18 15:45:16.747 30995 30995 W Glide   : There was 1 root cause:
+11-18 15:45:16.747 30995 30995 W Glide   : com.bumptech.glide.load.HttpException(Failed to connect or obtain data, status code: -1)
+11-18 15:45:16.747 30995 30995 W Glide   :  call GlideException#logRootCauses(String) for more detail
+11-18 15:45:16.747 30995 30995 W Glide   :     Cause (1 of 1): class com.bumptech.glide.load.engine.GlideException: Fetch failed
+11-18 15:45:16.747 30995 30995 W Glide   : There was 1 root cause:
+11-18 15:45:16.747 30995 30995 W Glide   : com.bumptech.glide.load.HttpException(Failed to connect or obtain data, status code: -1)
+11-18 15:45:16.747 30995 30995 W Glide   :  call GlideException#logRootCauses(String) for more detail
+11-18 15:45:16.747 30995 30995 W Glide   :       Cause (1 of 1): class com.bumptech.glide.load.HttpException: Failed to connect or obtain data, status code: -1
+11-18 15:45:16.751 30995 30995 I Glide   : Root cause (1 of 1)
+11-18 15:45:16.751 30995 30995 I Glide   : com.bumptech.glide.load.HttpException: Failed to connect or obtain data, status code: -1
+11-18 15:45:16.751 30995 30995 I Glide   : 	at com.bumptech.glide.load.data.HttpUrlFetcher.loadDataWithRedirects(HttpUrlFetcher.java:98)
+11-18 15:45:16.751 30995 30995 I Glide   : 	at com.bumptech.glide.load.data.HttpUrlFetcher.loadData(HttpUrlFetcher.java:58)
+11-18 15:45:16.751 30995 30995 I Glide   : 	at com.bumptech.glide.load.model.MultiModelLoader$MultiFetcher.loadData(MultiModelLoader.java:100)
+11-18 15:45:16.751 30995 30995 I Glide   : 	at com.bumptech.glide.load.engine.SourceGenerator.startNextLoad(SourceGenerator.java:95)
+11-18 15:45:16.751 30995 30995 I Glide   : 	at com.bumptech.glide.load.engine.SourceGenerator.startNext(SourceGenerator.java:88)
+11-18 15:45:16.751 30995 30995 I Glide   : 	at com.bumptech.glide.load.engine.DecodeJob.runGenerators(DecodeJob.java:311)
+11-18 15:45:16.751 30995 30995 I Glide   : 	at com.bumptech.glide.load.engine.DecodeJob.runWrapped(DecodeJob.java:280)
+11-18 15:45:16.751 30995 30995 I Glide   : 	at com.bumptech.glide.load.engine.DecodeJob.run(DecodeJob.java:235)
+11-18 15:45:16.751 30995 30995 I Glide   : 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167)
+11-18 15:45:16.751 30995 30995 I Glide   : 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641)
+11-18 15:45:16.751 30995 30995 I Glide   : 	at com.bumptech.glide.load.engine.executor.GlideExecutor$DefaultThreadFactory$1.run(GlideExecutor.java:421)
+11-18 15:45:16.751 30995 30995 I Glide   : 	at java.lang.Thread.run(Thread.java:923)
+11-18 15:45:16.751 30995 30995 I Glide   : 	at com.bumptech.glide.load.engine.executor.GlideExecutor$DefaultPriorityThreadFactory$1.run(GlideExecutor.java:380)
+11-18 15:45:16.751 30995 30995 I Glide   : Caused by: java.net.SocketTimeoutException: timeout
+11-18 15:45:16.751 30995 30995 I Glide   : 	at com.android.okhttp.okio.Okio$3.newTimeoutException(Okio.java:214)
+11-18 15:45:16.751 30995 30995 I Glide   : 	at com.android.okhttp.okio.AsyncTimeout.exit(AsyncTimeout.java:263)
+11-18 15:45:16.751 30995 30995 I Glide   : 	at com.android.okhttp.okio.AsyncTimeout$2.read(AsyncTimeout.java:217)
+11-18 15:45:16.751 30995 30995 I Glide   : 	at com.android.okhttp.okio.RealBufferedSource.indexOf(RealBufferedSource.java:307)
+11-18 15:45:16.751 30995 30995 I Glide   : 	at com.android.okhttp.okio.RealBufferedSource.indexOf(RealBufferedSource.java:301)
+11-18 15:45:16.751 30995 30995 I Glide   : 	at com.android.okhttp.okio.RealBufferedSource.readUtf8LineStrict(RealBufferedSource.java:197)
+11-18 15:45:16.751 30995 30995 I Glide   : 	at com.android.okhttp.internal.http.Http1xStream.readResponse(Http1xStream.java:188)
+11-18 15:45:16.751 30995 30995 I Glide   : 	at com.android.okhttp.internal.http.Http1xStream.readResponseHeaders(Http1xStream.java:129)
+11-18 15:45:16.751 30995 30995 I Glide   : 	at com.android.okhttp.internal.http.HttpEngine.readNetworkResponse(HttpEngine.java:750)
+11-18 15:45:16.751 30995 30995 I Glide   : 	at com.android.okhttp.internal.http.HttpEngine.readResponse(HttpEngine.java:622)
+11-18 15:45:16.751 30995 30995 I Glide   : 	at com.android.okhttp.internal.huc.HttpURLConnectionImpl.execute(HttpURLConnectionImpl.java:475)
+11-18 15:45:16.751 30995 30995 I Glide   : 	at com.android.okhttp.internal.huc.HttpURLConnectionImpl.getResponse(HttpURLConnectionImpl.java:411)
+11-18 15:45:16.751 30995 30995 I Glide   : 	at com.android.okhttp.internal.huc.HttpURLConnectionImpl.getInputStream(HttpURLConnectionImpl.java:248)
+11-18 15:45:16.751 30995 30995 I Glide   : 	at com.bumptech.glide.load.data.HttpUrlFetcher.loadDataWithRedirects(HttpUrlFetcher.java:95)
+11-18 15:45:16.751 30995 30995 I Glide   : 	... 12 more
+11-18 15:45:16.751 30995 30995 I Glide   : Caused by: java.net.SocketTimeoutException: Read timed out
+11-18 15:45:16.751 30995 30995 I Glide   : 	at java.net.SocketInputStream.socketRead0(Native Method)
+11-18 15:45:16.751 30995 30995 I Glide   : 	at java.net.SocketInputStream.socketRead(SocketInputStream.java:119)
+11-18 15:45:16.751 30995 30995 I Glide   : 	at java.net.SocketInputStream.read(SocketInputStream.java:176)
+11-18 15:45:16.751 30995 30995 I Glide   : 	at java.net.SocketInputStream.read(SocketInputStream.java:144)
+11-18 15:45:16.751 30995 30995 I Glide   : 	at com.android.okhttp.okio.Okio$2.read(Okio.java:138)
+11-18 15:45:16.751 30995 30995 I Glide   : 	at com.android.okhttp.okio.AsyncTimeout$2.read(AsyncTimeout.java:213)
+11-18 15:45:16.751 30995 30995 I Glide   : 	... 23 more
+11-18 15:45:21.002 30995 30995 I Timeline: Timeline: Activity_launch_request time:191295089
+11-18 15:45:21.640 30995 31513 E PINGER  : [15:45:21.638 Connection$Pinger:stop():522] Pinger stop true
+11-18 15:45:21.646 30995 31513 E Sendbird:PINGER: [15:45:21.643 Connection$Pinger:stop():523] Pinger stop true
+11-18 15:45:21.661 30995 31601 W SendBird: [15:45:21.659 Connection$1:onFailure():250] onFailed instance : com.sendbird.android.Connection@ba2c4aa
+11-18 15:45:21.666 30995 31601 W Sendbird: [15:45:21.663 Connection$1:onFailure():251] onFailed instance : com.sendbird.android.Connection@ba2c4aa
+11-18 15:45:21.671 30995 31601 W SendBird: [15:45:21.667 Connection$1:onFailure():256] onFailed handler : com.sendbird.android.SocketManager@3495266
+11-18 15:45:21.676 30995 31601 W Sendbird: [15:45:21.672 Connection$1:onFailure():257] onFailed handler : com.sendbird.android.SocketManager@3495266
+11-18 15:45:21.679 30995 31601 W SendBird: [15:45:21.676 SocketManager:onError():1002] >> onError : Socket is closed, reconnecting : false, explicitDisconnect : true
+11-18 15:45:43.694 30995 30995 W Activity: Slow Operation: Activity com.rmc.natour21/.MainActivity onStart took 145ms
+11-18 15:45:44.034 30995 32457 W SendBird: [15:45:44.032 Connection$1:onMessage():235] onMessage instance : [LOGI] com.sendbird.android.Connection@ba9677a
+11-18 15:45:44.037 30995 32457 W Sendbird: [15:45:44.035 Connection$1:onMessage():236] onMessage instance : [LOGI] com.sendbird.android.Connection@ba9677a
+11-18 15:45:44.052 30995 31593 W SendBird: [15:45:44.051 EventController$1:call():141] ++ result[LOGI] runnable=null
+11-18 15:45:44.114 30995 32457 W SendBird: [15:45:44.113 Connection$1:onMessage():235] onMessage instance : [PONG] com.sendbird.android.Connection@ba9677a
+11-18 15:45:44.116 30995 32457 W Sendbird: [15:45:44.115 Connection$1:onMessage():236] onMessage instance : [PONG] com.sendbird.android.Connection@ba9677a
+11-18 15:45:44.121 30995 31593 W SendBird: [15:45:44.120 EventController$1:call():141] ++ result[PONG] runnable=null
+11-18 15:45:46.138 30995 30995 W Glide   : Load failed for [http://dockerproxmox.duckdns.org:8125/img/56/raw] with dimensions [275x275]
+11-18 15:45:46.138 30995 30995 W Glide   : class com.bumptech.glide.load.engine.GlideException: Failed to load resource
+11-18 15:45:46.138 30995 30995 W Glide   : There was 1 root cause:
+11-18 15:45:46.138 30995 30995 W Glide   : com.bumptech.glide.load.HttpException(Failed to connect or obtain data, status code: -1)
+11-18 15:45:46.138 30995 30995 W Glide   :  call GlideException#logRootCauses(String) for more detail
+11-18 15:45:46.138 30995 30995 W Glide   :   Cause (1 of 1): class com.bumptech.glide.load.engine.GlideException: Fetching data failed, class java.io.InputStream, REMOTE
+11-18 15:45:46.138 30995 30995 W Glide   : There was 1 root cause:
+11-18 15:45:46.138 30995 30995 W Glide   : com.bumptech.glide.load.HttpException(Failed to connect or obtain data, status code: -1)
+11-18 15:45:46.138 30995 30995 W Glide   :  call GlideException#logRootCauses(String) for more detail
+11-18 15:45:46.138 30995 30995 W Glide   :     Cause (1 of 1): class com.bumptech.glide.load.engine.GlideException: Fetch failed
+11-18 15:45:46.138 30995 30995 W Glide   : There was 1 root cause:
+11-18 15:45:46.138 30995 30995 W Glide   : com.bumptech.glide.load.HttpException(Failed to connect or obtain data, status code: -1)
+11-18 15:45:46.138 30995 30995 W Glide   :  call GlideException#logRootCauses(String) for more detail
+11-18 15:45:46.138 30995 30995 W Glide   :       Cause (1 of 1): class com.bumptech.glide.load.HttpException: Failed to connect or obtain data, status code: -1
+11-18 15:45:46.139 30995 30995 I Glide   : Root cause (1 of 1)
+11-18 15:45:46.139 30995 30995 I Glide   : com.bumptech.glide.load.HttpException: Failed to connect or obtain data, status code: -1
+11-18 15:45:46.139 30995 30995 I Glide   : 	at com.bumptech.glide.load.data.HttpUrlFetcher.loadDataWithRedirects(HttpUrlFetcher.java:98)
+11-18 15:45:46.139 30995 30995 I Glide   : 	at com.bumptech.glide.load.data.HttpUrlFetcher.loadData(HttpUrlFetcher.java:58)
+11-18 15:45:46.139 30995 30995 I Glide   : 	at com.bumptech.glide.load.model.MultiModelLoader$MultiFetcher.loadData(MultiModelLoader.java:100)
+11-18 15:45:46.139 30995 30995 I Glide   : 	at com.bumptech.glide.load.engine.SourceGenerator.startNextLoad(SourceGenerator.java:95)
+11-18 15:45:46.139 30995 30995 I Glide   : 	at com.bumptech.glide.load.engine.SourceGenerator.startNext(SourceGenerator.java:88)
+11-18 15:45:46.139 30995 30995 I Glide   : 	at com.bumptech.glide.load.engine.DecodeJob.runGenerators(DecodeJob.java:311)
+11-18 15:45:46.139 30995 30995 I Glide   : 	at com.bumptech.glide.load.engine.DecodeJob.runWrapped(DecodeJob.java:280)
+11-18 15:45:46.139 30995 30995 I Glide   : 	at com.bumptech.glide.load.engine.DecodeJob.run(DecodeJob.java:235)
+11-18 15:45:46.139 30995 30995 I Glide   : 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167)
+11-18 15:45:46.139 30995 30995 I Glide   : 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641)
+11-18 15:45:46.139 30995 30995 I Glide   : 	at com.bumptech.glide.load.engine.executor.GlideExecutor$DefaultThreadFactory$1.run(GlideExecutor.java:421)
+11-18 15:45:46.139 30995 30995 I Glide   : 	at java.lang.Thread.run(Thread.java:923)
+11-18 15:45:46.139 30995 30995 I Glide   : 	at com.bumptech.glide.load.engine.executor.GlideExecutor$DefaultPriorityThreadFactory$1.run(GlideExecutor.java:380)
+11-18 15:45:46.139 30995 30995 I Glide   : Caused by: java.net.SocketTimeoutException: timeout
+11-18 15:45:46.139 30995 30995 I Glide   : 	at com.android.okhttp.okio.Okio$3.newTimeoutException(Okio.java:214)
+11-18 15:45:46.139 30995 30995 I Glide   : 	at com.android.okhttp.okio.AsyncTimeout.exit(AsyncTimeout.java:263)
+11-18 15:45:46.139 30995 30995 I Glide   : 	at com.android.okhttp.okio.AsyncTimeout$2.read(AsyncTimeout.java:217)
+11-18 15:45:46.139 30995 30995 I Glide   : 	at com.android.okhttp.okio.RealBufferedSource.indexOf(RealBufferedSource.java:307)
+11-18 15:45:46.139 30995 30995 I Glide   : 	at com.android.okhttp.okio.RealBufferedSource.indexOf(RealBufferedSource.java:301)
+11-18 15:45:46.139 30995 30995 I Glide   : 	at com.android.okhttp.okio.RealBufferedSource.readUtf8LineStrict(RealBufferedSource.java:197)
+11-18 15:45:46.139 30995 30995 I Glide   : 	at com.android.okhttp.internal.http.Http1xStream.readResponse(Http1xStream.java:188)
+11-18 15:45:46.139 30995 30995 I Glide   : 	at com.android.okhttp.internal.http.Http1xStream.readResponseHeaders(Http1xStream.java:129)
+11-18 15:45:46.139 30995 30995 I Glide   : 	at com.android.okhttp.internal.http.HttpEngine.readNetworkResponse(HttpEngine.java:750)
+11-18 15:45:46.139 30995 30995 I Glide   : 	at com.android.okhttp.internal.http.HttpEngine.readResponse(HttpEngine.java:622)
+11-18 15:45:46.139 30995 30995 I Glide   : 	at com.android.okhttp.internal.huc.HttpURLConnectionImpl.execute(HttpURLConnectionImpl.java:475)
+11-18 15:45:46.139 30995 30995 I Glide   : 	at com.android.okhttp.internal.huc.HttpURLConnectionImpl.getResponse(HttpURLConnectionImpl.java:411)
+11-18 15:45:46.139 30995 30995 I Glide   : 	at com.android.okhttp.internal.huc.HttpURLConnectionImpl.getInputStream(HttpURLConnectionImpl.java:248)
+11-18 15:45:46.139 30995 30995 I Glide   : 	at com.bumptech.glide.load.data.HttpUrlFetcher.loadDataWithRedirects(HttpUrlFetcher.java:95)
+11-18 15:45:46.139 30995 30995 I Glide   : 	... 12 more
+11-18 15:45:46.139 30995 30995 I Glide   : Caused by: java.net.SocketException: Socket closed
+11-18 15:45:46.139 30995 30995 I Glide   : 	at java.net.SocketInputStream.read(SocketInputStream.java:209)
+11-18 15:45:46.139 30995 30995 I Glide   : 	at java.net.SocketInputStream.read(SocketInputStream.java:144)
+11-18 15:45:46.139 30995 30995 I Glide   : 	at com.android.okhttp.okio.Okio$2.read(Okio.java:138)
+11-18 15:45:46.139 30995 30995 I Glide   : 	at com.android.okhttp.okio.AsyncTimeout$2.read(AsyncTimeout.java:213)
+11-18 15:45:46.139 30995 30995 I Glide   : 	... 23 more
+11-18 15:45:46.142 30995 30995 W Glide   : Load failed for [http://dockerproxmox.duckdns.org:8125/img/56/raw] with dimensions [96x96]
+11-18 15:45:46.142 30995 30995 W Glide   : class com.bumptech.glide.load.engine.GlideException: Failed to load resource
+11-18 15:45:46.142 30995 30995 W Glide   : There was 1 root cause:
+11-18 15:45:46.142 30995 30995 W Glide   : com.bumptech.glide.load.HttpException(Failed to connect or obtain data, status code: -1)
+11-18 15:45:46.142 30995 30995 W Glide   :  call GlideException#logRootCauses(String) for more detail
+11-18 15:45:46.142 30995 30995 W Glide   :   Cause (1 of 1): class com.bumptech.glide.load.engine.GlideException: Fetching data failed, class java.io.InputStream, REMOTE
+11-18 15:45:46.142 30995 30995 W Glide   : There was 1 root cause:
+11-18 15:45:46.142 30995 30995 W Glide   : com.bumptech.glide.load.HttpException(Failed to connect or obtain data, status code: -1)
+11-18 15:45:46.142 30995 30995 W Glide   :  call GlideException#logRootCauses(String) for more detail
+11-18 15:45:46.142 30995 30995 W Glide   :     Cause (1 of 1): class com.bumptech.glide.load.engine.GlideException: Fetch failed
+11-18 15:45:46.142 30995 30995 W Glide   : There was 1 root cause:
+11-18 15:45:46.142 30995 30995 W Glide   : com.bumptech.glide.load.HttpException(Failed to connect or obtain data, status code: -1)
+11-18 15:45:46.142 30995 30995 W Glide   :  call GlideException#logRootCauses(String) for more detail
+11-18 15:45:46.142 30995 30995 W Glide   :       Cause (1 of 1): class com.bumptech.glide.load.HttpException: Failed to connect or obtain data, status code: -1
+11-18 15:45:46.147 30995 30995 I Glide   : Root cause (1 of 1)
+11-18 15:45:46.147 30995 30995 I Glide   : com.bumptech.glide.load.HttpException: Failed to connect or obtain data, status code: -1
+11-18 15:45:46.147 30995 30995 I Glide   : 	at com.bumptech.glide.load.data.HttpUrlFetcher.loadDataWithRedirects(HttpUrlFetcher.java:98)
+11-18 15:45:46.147 30995 30995 I Glide   : 	at com.bumptech.glide.load.data.HttpUrlFetcher.loadData(HttpUrlFetcher.java:58)
+11-18 15:45:46.147 30995 30995 I Glide   : 	at com.bumptech.glide.load.model.MultiModelLoader$MultiFetcher.loadData(MultiModelLoader.java:100)
+11-18 15:45:46.147 30995 30995 I Glide   : 	at com.bumptech.glide.load.engine.SourceGenerator.startNextLoad(SourceGenerator.java:95)
+11-18 15:45:46.147 30995 30995 I Glide   : 	at com.bumptech.glide.load.engine.SourceGenerator.startNext(SourceGenerator.java:88)
+11-18 15:45:46.147 30995 30995 I Glide   : 	at com.bumptech.glide.load.engine.DecodeJob.runGenerators(DecodeJob.java:311)
+11-18 15:45:46.147 30995 30995 I Glide   : 	at com.bumptech.glide.load.engine.DecodeJob.runWrapped(DecodeJob.java:280)
+11-18 15:45:46.147 30995 30995 I Glide   : 	at com.bumptech.glide.load.engine.DecodeJob.run(DecodeJob.java:235)
+11-18 15:45:46.147 30995 30995 I Glide   : 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167)
+11-18 15:45:46.147 30995 30995 I Glide   : 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641)
+11-18 15:45:46.147 30995 30995 I Glide   : 	at com.bumptech.glide.load.engine.executor.GlideExecutor$DefaultThreadFactory$1.run(GlideExecutor.java:421)
+11-18 15:45:46.147 30995 30995 I Glide   : 	at java.lang.Thread.run(Thread.java:923)
+11-18 15:45:46.147 30995 30995 I Glide   : 	at com.bumptech.glide.load.engine.executor.GlideExecutor$DefaultPriorityThreadFactory$1.run(GlideExecutor.java:380)
+11-18 15:45:46.147 30995 30995 I Glide   : Caused by: java.net.SocketTimeoutException: timeout
+11-18 15:45:46.147 30995 30995 I Glide   : 	at com.android.okhttp.okio.Okio$3.newTimeoutException(Okio.java:214)
+11-18 15:45:46.147 30995 30995 I Glide   : 	at com.android.okhttp.okio.AsyncTimeout.exit(AsyncTimeout.java:263)
+11-18 15:45:46.147 30995 30995 I Glide   : 	at com.android.okhttp.okio.AsyncTimeout$2.read(AsyncTimeout.java:217)
+11-18 15:45:46.147 30995 30995 I Glide   : 	at com.android.okhttp.okio.RealBufferedSource.indexOf(RealBufferedSource.java:307)
+11-18 15:45:46.147 30995 30995 I Glide   : 	at com.android.okhttp.okio.RealBufferedSource.indexOf(RealBufferedSource.java:301)
+11-18 15:45:46.147 30995 30995 I Glide   : 	at com.android.okhttp.okio.RealBufferedSource.readUtf8LineStrict(RealBufferedSource.java:197)
+11-18 15:45:46.147 30995 30995 I Glide   : 	at com.android.okhttp.internal.http.Http1xStream.readResponse(Http1xStream.java:188)
+11-18 15:45:46.147 30995 30995 I Glide   : 	at com.android.okhttp.internal.http.Http1xStream.readResponseHeaders(Http1xStream.java:129)
+11-18 15:45:46.147 30995 30995 I Glide   : 	at com.android.okhttp.internal.http.HttpEngine.readNetworkResponse(HttpEngine.java:750)
+11-18 15:45:46.147 30995 30995 I Glide   : 	at com.android.okhttp.internal.http.HttpEngine.readResponse(HttpEngine.java:622)
+11-18 15:45:46.147 30995 30995 I Glide   : 	at com.android.okhttp.internal.huc.HttpURLConnectionImpl.execute(HttpURLConnectionImpl.java:475)
+11-18 15:45:46.147 30995 30995 I Glide   : 	at com.android.okhttp.internal.huc.HttpURLConnectionImpl.getResponse(HttpURLConnectionImpl.java:411)
+11-18 15:45:46.147 30995 30995 I Glide   : 	at com.android.okhttp.internal.huc.HttpURLConnectionImpl.getInputStream(HttpURLConnectionImpl.java:248)
+11-18 15:45:46.147 30995 30995 I Glide   : 	at com.bumptech.glide.load.data.HttpUrlFetcher.loadDataWithRedirects(HttpUrlFetcher.java:95)
+11-18 15:45:46.147 30995 30995 I Glide   : 	... 12 more
+11-18 15:45:46.147 30995 30995 I Glide   : Caused by: java.net.SocketException: Socket closed
+11-18 15:45:46.147 30995 30995 I Glide   : 	at java.net.SocketInputStream.read(SocketInputStream.java:209)
+11-18 15:45:46.147 30995 30995 I Glide   : 	at java.net.SocketInputStream.read(SocketInputStream.java:144)
+11-18 15:45:46.147 30995 30995 I Glide   : 	at com.android.okhttp.okio.Okio$2.read(Okio.java:138)
+11-18 15:45:46.147 30995 30995 I Glide   : 	at com.android.okhttp.okio.AsyncTimeout$2.read(AsyncTimeout.java:213)
+11-18 15:45:46.147 30995 30995 I Glide   : 	... 23 more
+11-18 15:45:46.148 30995 30995 W Glide   : Load failed for [http://dockerproxmox.duckdns.org:8125/img/57/raw] with dimensions [1080x550]
+11-18 15:45:46.148 30995 30995 W Glide   : class com.bumptech.glide.load.engine.GlideException: Failed to load resource
+11-18 15:45:46.148 30995 30995 W Glide   : There was 1 root cause:
+11-18 15:45:46.148 30995 30995 W Glide   : com.bumptech.glide.load.HttpException(Failed to connect or obtain data, status code: -1)
+11-18 15:45:46.148 30995 30995 W Glide   :  call GlideException#logRootCauses(String) for more detail
+11-18 15:45:46.148 30995 30995 W Glide   :   Cause (1 of 1): class com.bumptech.glide.load.engine.GlideException: Fetching data failed, class java.io.InputStream, REMOTE
+11-18 15:45:46.148 30995 30995 W Glide   : There was 1 root cause:
+11-18 15:45:46.148 30995 30995 W Glide   : com.bumptech.glide.load.HttpException(Failed to connect or obtain data, status code: -1)
+11-18 15:45:46.148 30995 30995 W Glide   :  call GlideException#logRootCauses(String) for more detail
+11-18 15:45:46.148 30995 30995 W Glide   :     Cause (1 of 1): class com.bumptech.glide.load.engine.GlideException: Fetch failed
+11-18 15:45:46.148 30995 30995 W Glide   : There was 1 root cause:
+11-18 15:45:46.148 30995 30995 W Glide   : com.bumptech.glide.load.HttpException(Failed to connect or obtain data, status code: -1)
+11-18 15:45:46.148 30995 30995 W Glide   :  call GlideException#logRootCauses(String) for more detail
+11-18 15:45:46.148 30995 30995 W Glide   :       Cause (1 of 1): class com.bumptech.glide.load.HttpException: Failed to connect or obtain data, status code: -1
+11-18 15:45:46.151 30995 30995 I Glide   : Root cause (1 of 1)
+11-18 15:45:46.151 30995 30995 I Glide   : com.bumptech.glide.load.HttpException: Failed to connect or obtain data, status code: -1
+11-18 15:45:46.151 30995 30995 I Glide   : 	at com.bumptech.glide.load.data.HttpUrlFetcher.loadDataWithRedirects(HttpUrlFetcher.java:98)
+11-18 15:45:46.151 30995 30995 I Glide   : 	at com.bumptech.glide.load.data.HttpUrlFetcher.loadData(HttpUrlFetcher.java:58)
+11-18 15:45:46.151 30995 30995 I Glide   : 	at com.bumptech.glide.load.model.MultiModelLoader$MultiFetcher.loadData(MultiModelLoader.java:100)
+11-18 15:45:46.151 30995 30995 I Glide   : 	at com.bumptech.glide.load.engine.SourceGenerator.startNextLoad(SourceGenerator.java:95)
+11-18 15:45:46.151 30995 30995 I Glide   : 	at com.bumptech.glide.load.engine.SourceGenerator.startNext(SourceGenerator.java:88)
+11-18 15:45:46.151 30995 30995 I Glide   : 	at com.bumptech.glide.load.engine.DecodeJob.runGenerators(DecodeJob.java:311)
+11-18 15:45:46.151 30995 30995 I Glide   : 	at com.bumptech.glide.load.engine.DecodeJob.runWrapped(DecodeJob.java:280)
+11-18 15:45:46.151 30995 30995 I Glide   : 	at com.bumptech.glide.load.engine.DecodeJob.run(DecodeJob.java:235)
+11-18 15:45:46.151 30995 30995 I Glide   : 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167)
+11-18 15:45:46.151 30995 30995 I Glide   : 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641)
+11-18 15:45:46.151 30995 30995 I Glide   : 	at com.bumptech.glide.load.engine.executor.GlideExecutor$DefaultThreadFactory$1.run(GlideExecutor.java:421)
+11-18 15:45:46.151 30995 30995 I Glide   : 	at java.lang.Thread.run(Thread.java:923)
+11-18 15:45:46.151 30995 30995 I Glide   : 	at com.bumptech.glide.load.engine.executor.GlideExecutor$DefaultPriorityThreadFactory$1.run(GlideExecutor.java:380)
+11-18 15:45:46.151 30995 30995 I Glide   : Caused by: java.net.SocketTimeoutException: timeout
+11-18 15:45:46.151 30995 30995 I Glide   : 	at com.android.okhttp.okio.Okio$3.newTimeoutException(Okio.java:214)
+11-18 15:45:46.151 30995 30995 I Glide   : 	at com.android.okhttp.okio.AsyncTimeout.exit(AsyncTimeout.java:263)
+11-18 15:45:46.151 30995 30995 I Glide   : 	at com.android.okhttp.okio.AsyncTimeout$2.read(AsyncTimeout.java:217)
+11-18 15:45:46.151 30995 30995 I Glide   : 	at com.android.okhttp.okio.RealBufferedSource.indexOf(RealBufferedSource.java:307)
+11-18 15:45:46.151 30995 30995 I Glide   : 	at com.android.okhttp.okio.RealBufferedSource.indexOf(RealBufferedSource.java:301)
+11-18 15:45:46.151 30995 30995 I Glide   : 	at com.android.okhttp.okio.RealBufferedSource.readUtf8LineStrict(RealBufferedSource.java:197)
+11-18 15:45:46.151 30995 30995 I Glide   : 	at com.android.okhttp.internal.http.Http1xStream.readResponse(Http1xStream.java:188)
+11-18 15:45:46.151 30995 30995 I Glide   : 	at com.android.okhttp.internal.http.Http1xStream.readResponseHeaders(Http1xStream.java:129)
+11-18 15:45:46.151 30995 30995 I Glide   : 	at com.android.okhttp.internal.http.HttpEngine.readNetworkResponse(HttpEngine.java:750)
+11-18 15:45:46.151 30995 30995 I Glide   : 	at com.android.okhttp.internal.http.HttpEngine.readResponse(HttpEngine.java:622)
+11-18 15:45:46.151 30995 30995 I Glide   : 	at com.android.okhttp.internal.huc.HttpURLConnectionImpl.execute(HttpURLConnectionImpl.java:475)
+11-18 15:45:46.151 30995 30995 I Glide   : 	at com.android.okhttp.internal.huc.HttpURLConnectionImpl.getResponse(HttpURLConnectionImpl.java:411)
+11-18 15:45:46.151 30995 30995 I Glide   : 	at com.android.okhttp.internal.huc.HttpURLConnectionImpl.getInputStream(HttpURLConnectionImpl.java:248)
+11-18 15:45:46.151 30995 30995 I Glide   : 	at com.bumptech.glide.load.data.HttpUrlFetcher.loadDataWithRedirects(HttpUrlFetcher.java:95)
+11-18 15:45:46.151 30995 30995 I Glide   : 	... 12 more
+11-18 15:45:46.151 30995 30995 I Glide   : Caused by: java.net.SocketException: Socket closed
+11-18 15:45:46.151 30995 30995 I Glide   : 	at java.net.SocketInputStream.read(SocketInputStream.java:209)
+11-18 15:45:46.151 30995 30995 I Glide   : 	at java.net.SocketInputStream.read(SocketInputStream.java:144)
+11-18 15:45:46.151 30995 30995 I Glide   : 	at com.android.okhttp.okio.Okio$2.read(Okio.java:138)
+11-18 15:45:46.151 30995 30995 I Glide   : 	at com.android.okhttp.okio.AsyncTimeout$2.read(AsyncTimeout.java:213)
+11-18 15:45:46.151 30995 30995 I Glide   : 	... 23 more
+11-18 15:45:46.153 30995 30995 W Glide   : Load failed for [http://dockerproxmox.duckdns.org:8125/img/56/raw] with dimensions [193x193]
+11-18 15:45:46.153 30995 30995 W Glide   : class com.bumptech.glide.load.engine.GlideException: Failed to load resource
+11-18 15:45:46.153 30995 30995 W Glide   : There was 1 root cause:
+11-18 15:45:46.153 30995 30995 W Glide   : com.bumptech.glide.load.HttpException(Failed to connect or obtain data, status code: -1)
+11-18 15:45:46.153 30995 30995 W Glide   :  call GlideException#logRootCauses(String) for more detail
+11-18 15:45:46.153 30995 30995 W Glide   :   Cause (1 of 1): class com.bumptech.glide.load.engine.GlideException: Fetching data failed, class java.io.InputStream, REMOTE
+11-18 15:45:46.153 30995 30995 W Glide   : There was 1 root cause:
+11-18 15:45:46.153 30995 30995 W Glide   : com.bumptech.glide.load.HttpException(Failed to connect or obtain data, status code: -1)
+11-18 15:45:46.153 30995 30995 W Glide   :  call GlideException#logRootCauses(String) for more detail
+11-18 15:45:46.153 30995 30995 W Glide   :     Cause (1 of 1): class com.bumptech.glide.load.engine.GlideException: Fetch failed
+11-18 15:45:46.153 30995 30995 W Glide   : There was 1 root cause:
+11-18 15:45:46.153 30995 30995 W Glide   : com.bumptech.glide.load.HttpException(Failed to connect or obtain data, status code: -1)
+11-18 15:45:46.153 30995 30995 W Glide   :  call GlideException#logRootCauses(String) for more detail
+11-18 15:45:46.153 30995 30995 W Glide   :       Cause (1 of 1): class com.bumptech.glide.load.HttpException: Failed to connect or obtain data, status code: -1
+11-18 15:45:46.154 30995 30995 I Glide   : Root cause (1 of 1)
+11-18 15:45:46.154 30995 30995 I Glide   : com.bumptech.glide.load.HttpException: Failed to connect or obtain data, status code: -1
+11-18 15:45:46.154 30995 30995 I Glide   : 	at com.bumptech.glide.load.data.HttpUrlFetcher.loadDataWithRedirects(HttpUrlFetcher.java:98)
+11-18 15:45:46.154 30995 30995 I Glide   : 	at com.bumptech.glide.load.data.HttpUrlFetcher.loadData(HttpUrlFetcher.java:58)
+11-18 15:45:46.154 30995 30995 I Glide   : 	at com.bumptech.glide.load.model.MultiModelLoader$MultiFetcher.loadData(MultiModelLoader.java:100)
+11-18 15:45:46.154 30995 30995 I Glide   : 	at com.bumptech.glide.load.engine.SourceGenerator.startNextLoad(SourceGenerator.java:95)
+11-18 15:45:46.154 30995 30995 I Glide   : 	at com.bumptech.glide.load.engine.SourceGenerator.startNext(SourceGenerator.java:88)
+11-18 15:45:46.154 30995 30995 I Glide   : 	at com.bumptech.glide.load.engine.DecodeJob.runGenerators(DecodeJob.java:311)
+11-18 15:45:46.154 30995 30995 I Glide   : 	at com.bumptech.glide.load.engine.DecodeJob.runWrapped(DecodeJob.java:280)
+11-18 15:45:46.154 30995 30995 I Glide   : 	at com.bumptech.glide.load.engine.DecodeJob.run(DecodeJob.java:235)
+11-18 15:45:46.154 30995 30995 I Glide   : 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167)
+11-18 15:45:46.154 30995 30995 I Glide   : 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641)
+11-18 15:45:46.154 30995 30995 I Glide   : 	at com.bumptech.glide.load.engine.executor.GlideExecutor$DefaultThreadFactory$1.run(GlideExecutor.java:421)
+11-18 15:45:46.154 30995 30995 I Glide   : 	at java.lang.Thread.run(Thread.java:923)
+11-18 15:45:46.154 30995 30995 I Glide   : 	at com.bumptech.glide.load.engine.executor.GlideExecutor$DefaultPriorityThreadFactory$1.run(GlideExecutor.java:380)
+11-18 15:45:46.154 30995 30995 I Glide   : Caused by: java.net.SocketTimeoutException: timeout
+11-18 15:45:46.154 30995 30995 I Glide   : 	at com.android.okhttp.okio.Okio$3.newTimeoutException(Okio.java:214)
+11-18 15:45:46.154 30995 30995 I Glide   : 	at com.android.okhttp.okio.AsyncTimeout.exit(AsyncTimeout.java:263)
+11-18 15:45:46.154 30995 30995 I Glide   : 	at com.android.okhttp.okio.AsyncTimeout$2.read(AsyncTimeout.java:217)
+11-18 15:45:46.154 30995 30995 I Glide   : 	at com.android.okhttp.okio.RealBufferedSource.indexOf(RealBufferedSource.java:307)
+11-18 15:45:46.154 30995 30995 I Glide   : 	at com.android.okhttp.okio.RealBufferedSource.indexOf(RealBufferedSource.java:301)
+11-18 15:45:46.154 30995 30995 I Glide   : 	at com.android.okhttp.okio.RealBufferedSource.readUtf8LineStrict(RealBufferedSource.java:197)
+11-18 15:45:46.154 30995 30995 I Glide   : 	at com.android.okhttp.internal.http.Http1xStream.readResponse(Http1xStream.java:188)
+11-18 15:45:46.154 30995 30995 I Glide   : 	at com.android.okhttp.internal.http.Http1xStream.readResponseHeaders(Http1xStream.java:129)
+11-18 15:45:46.154 30995 30995 I Glide   : 	at com.android.okhttp.internal.http.HttpEngine.readNetworkResponse(HttpEngine.java:750)
+11-18 15:45:46.154 30995 30995 I Glide   : 	at com.android.okhttp.internal.http.HttpEngine.readResponse(HttpEngine.java:622)
+11-18 15:45:46.154 30995 30995 I Glide   : 	at com.android.okhttp.internal.huc.HttpURLConnectionImpl.execute(HttpURLConnectionImpl.java:475)
+11-18 15:45:46.154 30995 30995 I Glide   : 	at com.android.okhttp.internal.huc.HttpURLConnectionImpl.getResponse(HttpURLConnectionImpl.java:411)
+11-18 15:45:46.154 30995 30995 I Glide   : 	at com.android.okhttp.internal.huc.HttpURLConnectionImpl.getInputStream(HttpURLConnectionImpl.java:248)
+11-18 15:45:46.154 30995 30995 I Glide   : 	at com.bumptech.glide.load.data.HttpUrlFetcher.loadDataWithRedirects(HttpUrlFetcher.java:95)
+11-18 15:45:46.154 30995 30995 I Glide   : 	... 12 more
+11-18 15:45:46.154 30995 30995 I Glide   : Caused by: java.net.SocketException: Socket closed
+11-18 15:45:46.154 30995 30995 I Glide   : 	at java.net.SocketInputStream.read(SocketInputStream.java:209)
+11-18 15:45:46.154 30995 30995 I Glide   : 	at java.net.SocketInputStream.read(SocketInputStream.java:144)
+11-18 15:45:46.154 30995 30995 I Glide   : 	at com.android.okhttp.okio.Okio$2.read(Okio.java:138)
+11-18 15:45:46.154 30995 30995 I Glide   : 	at com.android.okhttp.okio.AsyncTimeout$2.read(AsyncTimeout.java:213)
+11-18 15:45:46.154 30995 30995 I Glide   : 	... 23 more
+11-18 15:45:50.538 30995 30995 D CompatibilityChangeReporter: Compat change id reported: 147798919; UID 10371; state: ENABLED
+11-18 15:45:51.199 30995 30995 W Glide   : Load failed for [http://dockerproxmox.duckdns.org:8125/img/57/raw] with dimensions [1080x550]
+11-18 15:45:51.199 30995 30995 W Glide   : class com.bumptech.glide.load.engine.GlideException: Failed to load resource
+11-18 15:45:51.199 30995 30995 W Glide   : There was 1 root cause:
+11-18 15:45:51.199 30995 30995 W Glide   : com.bumptech.glide.load.HttpException(Failed to connect or obtain data, status code: -1)
+11-18 15:45:51.199 30995 30995 W Glide   :  call GlideException#logRootCauses(String) for more detail
+11-18 15:45:51.199 30995 30995 W Glide   :   Cause (1 of 1): class com.bumptech.glide.load.engine.GlideException: Fetching data failed, class java.io.InputStream, REMOTE
+11-18 15:45:51.199 30995 30995 W Glide   : There was 1 root cause:
+11-18 15:45:51.199 30995 30995 W Glide   : com.bumptech.glide.load.HttpException(Failed to connect or obtain data, status code: -1)
+11-18 15:45:51.199 30995 30995 W Glide   :  call GlideException#logRootCauses(String) for more detail
+11-18 15:45:51.199 30995 30995 W Glide   :     Cause (1 of 1): class com.bumptech.glide.load.engine.GlideException: Fetch failed
+11-18 15:45:51.199 30995 30995 W Glide   : There was 1 root cause:
+11-18 15:45:51.199 30995 30995 W Glide   : com.bumptech.glide.load.HttpException(Failed to connect or obtain data, status code: -1)
+11-18 15:45:51.199 30995 30995 W Glide   :  call GlideException#logRootCauses(String) for more detail
+11-18 15:45:51.199 30995 30995 W Glide   :       Cause (1 of 1): class com.bumptech.glide.load.HttpException: Failed to connect or obtain data, status code: -1
+11-18 15:45:51.200 30995 30995 I Glide   : Root cause (1 of 1)
+11-18 15:45:51.200 30995 30995 I Glide   : com.bumptech.glide.load.HttpException: Failed to connect or obtain data, status code: -1
+11-18 15:45:51.200 30995 30995 I Glide   : 	at com.bumptech.glide.load.data.HttpUrlFetcher.loadDataWithRedirects(HttpUrlFetcher.java:98)
+11-18 15:45:51.200 30995 30995 I Glide   : 	at com.bumptech.glide.load.data.HttpUrlFetcher.loadData(HttpUrlFetcher.java:58)
+11-18 15:45:51.200 30995 30995 I Glide   : 	at com.bumptech.glide.load.model.MultiModelLoader$MultiFetcher.loadData(MultiModelLoader.java:100)
+11-18 15:45:51.200 30995 30995 I Glide   : 	at com.bumptech.glide.load.engine.SourceGenerator.startNextLoad(SourceGenerator.java:95)
+11-18 15:45:51.200 30995 30995 I Glide   : 	at com.bumptech.glide.load.engine.SourceGenerator.startNext(SourceGenerator.java:88)
+11-18 15:45:51.200 30995 30995 I Glide   : 	at com.bumptech.glide.load.engine.DecodeJob.runGenerators(DecodeJob.java:311)
+11-18 15:45:51.200 30995 30995 I Glide   : 	at com.bumptech.glide.load.engine.DecodeJob.runWrapped(DecodeJob.java:280)
+11-18 15:45:51.200 30995 30995 I Glide   : 	at com.bumptech.glide.load.engine.DecodeJob.run(DecodeJob.java:235)
+11-18 15:45:51.200 30995 30995 I Glide   : 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167)
+11-18 15:45:51.200 30995 30995 I Glide   : 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641)
+11-18 15:45:51.200 30995 30995 I Glide   : 	at com.bumptech.glide.load.engine.executor.GlideExecutor$DefaultThreadFactory$1.run(GlideExecutor.java:421)
+11-18 15:45:51.200 30995 30995 I Glide   : 	at java.lang.Thread.run(Thread.java:923)
+11-18 15:45:51.200 30995 30995 I Glide   : 	at com.bumptech.glide.load.engine.executor.GlideExecutor$DefaultPriorityThreadFactory$1.run(GlideExecutor.java:380)
+11-18 15:45:51.200 30995 30995 I Glide   : Caused by: java.net.SocketTimeoutException: Read timed out
+11-18 15:45:51.200 30995 30995 I Glide   : 	at java.net.SocketInputStream.socketRead0(Native Method)
+11-18 15:45:51.200 30995 30995 I Glide   : 	at java.net.SocketInputStream.socketRead(SocketInputStream.java:119)
+11-18 15:45:51.200 30995 30995 I Glide   : 	at java.net.SocketInputStream.read(SocketInputStream.java:176)
+11-18 15:45:51.200 30995 30995 I Glide   : 	at java.net.SocketInputStream.read(SocketInputStream.java:144)
+11-18 15:45:51.200 30995 30995 I Glide   : 	at com.android.okhttp.okio.Okio$2.read(Okio.java:138)
+11-18 15:45:51.200 30995 30995 I Glide   : 	at com.android.okhttp.okio.AsyncTimeout$2.read(AsyncTimeout.java:213)
+11-18 15:45:51.200 30995 30995 I Glide   : 	at com.android.okhttp.okio.RealBufferedSource.indexOf(RealBufferedSource.java:307)
+11-18 15:45:51.200 30995 30995 I Glide   : 	at com.android.okhttp.okio.RealBufferedSource.indexOf(RealBufferedSource.java:301)
+11-18 15:45:51.200 30995 30995 I Glide   : 	at com.android.okhttp.okio.RealBufferedSource.readUtf8LineStrict(RealBufferedSource.java:197)
+11-18 15:45:51.200 30995 30995 I Glide   : 	at com.android.okhttp.internal.http.Http1xStream.readResponse(Http1xStream.java:188)
+11-18 15:45:51.200 30995 30995 I Glide   : 	at com.android.okhttp.internal.http.Http1xStream.readResponseHeaders(Http1xStream.java:129)
+11-18 15:45:51.200 30995 30995 I Glide   : 	at com.android.okhttp.internal.http.HttpEngine.readNetworkResponse(HttpEngine.java:750)
+11-18 15:45:51.200 30995 30995 I Glide   : 	at com.android.okhttp.internal.http.HttpEngine.readResponse(HttpEngine.java:622)
+11-18 15:45:51.200 30995 30995 I Glide   : 	at com.android.okhttp.internal.huc.HttpURLConnectionImpl.execute(HttpURLConnectionImpl.java:475)
+11-18 15:45:51.200 30995 30995 I Glide   : 	at com.android.okhttp.internal.huc.HttpURLConnectionImpl.getResponse(HttpURLConnectionImpl.java:411)
+11-18 15:45:51.200 30995 30995 I Glide   : 	at com.android.okhttp.internal.huc.HttpURLConnectionImpl.getInputStream(HttpURLConnectionImpl.java:248)
+11-18 15:45:51.200 30995 30995 I Glide   : 	at com.bumptech.glide.load.data.HttpUrlFetcher.loadDataWithRedirects(HttpUrlFetcher.java:95)
+11-18 15:45:51.200 30995 30995 I Glide   : 	... 12 more
+11-18 15:45:51.203 30995 30995 W Glide   : Load failed for [http://dockerproxmox.duckdns.org:8125/img/56/raw] with dimensions [275x275]
+11-18 15:45:51.203 30995 30995 W Glide   : class com.bumptech.glide.load.engine.GlideException: Failed to load resource
+11-18 15:45:51.203 30995 30995 W Glide   : There was 1 root cause:
+11-18 15:45:51.203 30995 30995 W Glide   : com.bumptech.glide.load.HttpException(Failed to connect or obtain data, status code: -1)
+11-18 15:45:51.203 30995 30995 W Glide   :  call GlideException#logRootCauses(String) for more detail
+11-18 15:45:51.203 30995 30995 W Glide   :   Cause (1 of 1): class com.bumptech.glide.load.engine.GlideException: Fetching data failed, class java.io.InputStream, REMOTE
+11-18 15:45:51.203 30995 30995 W Glide   : There was 1 root cause:
+11-18 15:45:51.203 30995 30995 W Glide   : com.bumptech.glide.load.HttpException(Failed to connect or obtain data, status code: -1)
+11-18 15:45:51.203 30995 30995 W Glide   :  call GlideException#logRootCauses(String) for more detail
+11-18 15:45:51.203 30995 30995 W Glide   :     Cause (1 of 1): class com.bumptech.glide.load.engine.GlideException: Fetch failed
+11-18 15:45:51.203 30995 30995 W Glide   : There was 1 root cause:
+11-18 15:45:51.203 30995 30995 W Glide   : com.bumptech.glide.load.HttpException(Failed to connect or obtain data, status code: -1)
+11-18 15:45:51.203 30995 30995 W Glide   :  call GlideException#logRootCauses(String) for more detail
+11-18 15:45:51.203 30995 30995 W Glide   :       Cause (1 of 1): class com.bumptech.glide.load.HttpException: Failed to connect or obtain data, status code: -1
+11-18 15:45:51.204 30995 30995 I Glide   : Root cause (1 of 1)
+11-18 15:45:51.204 30995 30995 I Glide   : com.bumptech.glide.load.HttpException: Failed to connect or obtain data, status code: -1
+11-18 15:45:51.204 30995 30995 I Glide   : 	at com.bumptech.glide.load.data.HttpUrlFetcher.loadDataWithRedirects(HttpUrlFetcher.java:98)
+11-18 15:45:51.204 30995 30995 I Glide   : 	at com.bumptech.glide.load.data.HttpUrlFetcher.loadData(HttpUrlFetcher.java:58)
+11-18 15:45:51.204 30995 30995 I Glide   : 	at com.bumptech.glide.load.model.MultiModelLoader$MultiFetcher.loadData(MultiModelLoader.java:100)
+11-18 15:45:51.204 30995 30995 I Glide   : 	at com.bumptech.glide.load.engine.SourceGenerator.startNextLoad(SourceGenerator.java:95)
+11-18 15:45:51.204 30995 30995 I Glide   : 	at com.bumptech.glide.load.engine.SourceGenerator.startNext(SourceGenerator.java:88)
+11-18 15:45:51.204 30995 30995 I Glide   : 	at com.bumptech.glide.load.engine.DecodeJob.runGenerators(DecodeJob.java:311)
+11-18 15:45:51.204 30995 30995 I Glide   : 	at com.bumptech.glide.load.engine.DecodeJob.runWrapped(DecodeJob.java:280)
+11-18 15:45:51.204 30995 30995 I Glide   : 	at com.bumptech.glide.load.engine.DecodeJob.run(DecodeJob.java:235)
+11-18 15:45:51.204 30995 30995 I Glide   : 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167)
+11-18 15:45:51.204 30995 30995 I Glide   : 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641)
+11-18 15:45:51.204 30995 30995 I Glide   : 	at com.bumptech.glide.load.engine.executor.GlideExecutor$DefaultThreadFactory$1.run(GlideExecutor.java:421)
+11-18 15:45:51.204 30995 30995 I Glide   : 	at java.lang.Thread.run(Thread.java:923)
+11-18 15:45:51.204 30995 30995 I Glide   : 	at com.bumptech.glide.load.engine.executor.GlideExecutor$DefaultPriorityThreadFactory$1.run(GlideExecutor.java:380)
+11-18 15:45:51.204 30995 30995 I Glide   : Caused by: java.net.SocketTimeoutException: timeout
+11-18 15:45:51.204 30995 30995 I Glide   : 	at com.android.okhttp.okio.Okio$3.newTimeoutException(Okio.java:214)
+11-18 15:45:51.204 30995 30995 I Glide   : 	at com.android.okhttp.okio.AsyncTimeout.exit(AsyncTimeout.java:263)
+11-18 15:45:51.204 30995 30995 I Glide   : 	at com.android.okhttp.okio.AsyncTimeout$2.read(AsyncTimeout.java:217)
+11-18 15:45:51.204 30995 30995 I Glide   : 	at com.android.okhttp.okio.RealBufferedSource.indexOf(RealBufferedSource.java:307)
+11-18 15:45:51.204 30995 30995 I Glide   : 	at com.android.okhttp.okio.RealBufferedSource.indexOf(RealBufferedSource.java:301)
+11-18 15:45:51.204 30995 30995 I Glide   : 	at com.android.okhttp.okio.RealBufferedSource.readUtf8LineStrict(RealBufferedSource.java:197)
+11-18 15:45:51.204 30995 30995 I Glide   : 	at com.android.okhttp.internal.http.Http1xStream.readResponse(Http1xStream.java:188)
+11-18 15:45:51.204 30995 30995 I Glide   : 	at com.android.okhttp.internal.http.Http1xStream.readResponseHeaders(Http1xStream.java:129)
+11-18 15:45:51.204 30995 30995 I Glide   : 	at com.android.okhttp.internal.http.HttpEngine.readNetworkResponse(HttpEngine.java:750)
+11-18 15:45:51.204 30995 30995 I Glide   : 	at com.android.okhttp.internal.http.HttpEngine.readResponse(HttpEngine.java:622)
+11-18 15:45:51.204 30995 30995 I Glide   : 	at com.android.okhttp.internal.huc.HttpURLConnectionImpl.execute(HttpURLConnectionImpl.java:475)
+11-18 15:45:51.204 30995 30995 I Glide   : 	at com.android.okhttp.internal.huc.HttpURLConnectionImpl.getResponse(HttpURLConnectionImpl.java:411)
+11-18 15:45:51.204 30995 30995 I Glide   : 	at com.android.okhttp.internal.huc.HttpURLConnectionImpl.getInputStream(HttpURLConnectionImpl.java:248)
+11-18 15:45:51.204 30995 30995 I Glide   : 	at com.bumptech.glide.load.data.HttpUrlFetcher.loadDataWithRedirects(HttpUrlFetcher.java:95)
+11-18 15:45:51.204 30995 30995 I Glide   : 	... 12 more
+11-18 15:45:51.204 30995 30995 I Glide   : Caused by: java.net.SocketTimeoutException: Read timed out
+11-18 15:45:51.204 30995 30995 I Glide   : 	at java.net.SocketInputStream.socketRead0(Native Method)
+11-18 15:45:51.204 30995 30995 I Glide   : 	at java.net.SocketInputStream.socketRead(SocketInputStream.java:119)
+11-18 15:45:51.204 30995 30995 I Glide   : 	at java.net.SocketInputStream.read(SocketInputStream.java:176)
+11-18 15:45:51.204 30995 30995 I Glide   : 	at java.net.SocketInputStream.read(SocketInputStream.java:144)
+11-18 15:45:51.204 30995 30995 I Glide   : 	at com.android.okhttp.okio.Okio$2.read(Okio.java:138)
+11-18 15:45:51.204 30995 30995 I Glide   : 	at com.android.okhttp.okio.AsyncTimeout$2.read(AsyncTimeout.java:213)
+11-18 15:45:51.204 30995 30995 I Glide   : 	... 23 more
+11-18 15:45:59.116 30995 32457 W SendBird: [15:45:59.115 Connection$1:onMessage():235] onMessage instance : [PONG] com.sendbird.android.Connection@ba9677a
+11-18 15:45:59.118 30995 32457 W Sendbird: [15:45:59.117 Connection$1:onMessage():236] onMessage instance : [PONG] com.sendbird.android.Connection@ba9677a
+11-18 15:45:59.124 30995 31593 W SendBird: [15:45:59.123 EventController$1:call():141] ++ result[PONG] runnable=null
+11-18 15:46:04.524 30995 30995 I SBUIKIT : [15:46:04.522 ChannelListFragment:onCreate():59] >> ChannelListFragment::onCreate()
+11-18 15:46:04.621 30995 30995 D SBUIKIT : [15:46:04.620 BaseFragment:connect():35] >> BaseFragment::connect()
+11-18 15:46:04.639 30995 30995 E RecyclerView: No adapter attached; skipping layout
+11-18 15:46:04.658 30995 32537 D SBUIKIT : [15:46:04.657 SendBirdUIKit$2:call():298] ++ user nickname = Conny🌹, profileUrl = http://dockerproxmox.duckdns.org:8125/img/56/raw
+11-18 15:46:04.660 30995 30995 D SBUIKIT : [15:46:04.659 BaseFragment:lambda$connect$0$com-sendbird-uikit-fragments-BaseFragment():37] ++ BaseFragment::connect e : null
+11-18 15:46:04.669 30995 30995 I SBUIKIT : [15:46:04.668 BaseGroupChannelFragment:onReady():20] >> BaseGroupChannelFragment::onReady(READY)
+11-18 15:46:04.671 30995 30995 I SBUIKIT : [15:46:04.670 BaseGroupChannelFragment:onReady():21] ++ user : User{mUserId='concettaacampora2001@gmail.com', mNickname='Conny🌹', mProfileUrl='http://dockerproxmox.duckdns.org:8125/img/56/raw', mFriendDiscoveryKey='null', mFriendName='null', mMetaData={}, mConnectionStatus=NON_AVAILABLE, mLastSeenAt=0, mIsActive=true, mPreferredLanguages=[]}
+11-18 15:46:04.673 30995 30995 I SBUIKIT : [15:46:04.672 ChannelListFragment:onDrawPage():102] >> ChannelListFragment::onDrawPage()
+11-18 15:46:04.688 30995 30995 D SBUIKIT : [15:46:04.687 ChannelListViewModel:initChannelCollection():36] >> ChannelListViewModel::initChannelCollection()
+11-18 15:46:05.187 30995 30995 D SBUIKIT : [15:46:05.186 ChannelListViewModel:disposeChannelCollection():45] >> ChannelListViewModel::disposeChannelCollection()
+11-18 15:46:05.210 30995 32541 E SBUIKIT : [15:46:05.209 ChannelListViewModel:handleError():156] SendBirdException{code=0, message=null}
+11-18 15:46:05.210 30995 32541 E SBUIKIT : 	at com.sendbird.android.GroupChannelCollection$4.run(GroupChannelCollection.java:391)
+11-18 15:46:05.210 30995 32541 E SBUIKIT : 	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:462)
+11-18 15:46:05.210 30995 32541 E SBUIKIT : 	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+11-18 15:46:05.210 30995 32541 E SBUIKIT : 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167)
+11-18 15:46:05.210 30995 32541 E SBUIKIT : 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641)
+11-18 15:46:05.210 30995 32541 E SBUIKIT : 	at java.lang.Thread.run(Thread.java:923)
+11-18 15:46:05.212 30995 32541 E SBUIKIT : [15:46:05.211 JobTask:lambda$getCallable$0$com-sendbird-uikit-tasks-JobTask():15] SendBirdException{code=0, message=null}
+11-18 15:46:05.212 30995 32541 E SBUIKIT : 	at com.sendbird.android.GroupChannelCollection$4.run(GroupChannelCollection.java:391)
+11-18 15:46:05.212 30995 32541 E SBUIKIT : 	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:462)
+11-18 15:46:05.212 30995 32541 E SBUIKIT : 	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+11-18 15:46:05.212 30995 32541 E SBUIKIT : 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167)
+11-18 15:46:05.212 30995 32541 E SBUIKIT : 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641)
+11-18 15:46:05.212 30995 32541 E SBUIKIT : 	at java.lang.Thread.run(Thread.java:923)
+11-18 15:46:08.348 30995 30995 W Glide   : Load failed for [http://dockerproxmox.duckdns.org:8125/img/57/raw] with dimensions [1080x550]
+11-18 15:46:08.348 30995 30995 W Glide   : class com.bumptech.glide.load.engine.GlideException: Failed to load resource
+11-18 15:46:08.348 30995 30995 W Glide   : There was 1 root cause:
+11-18 15:46:08.348 30995 30995 W Glide   : com.bumptech.glide.load.HttpException(Failed to connect or obtain data, status code: -1)
+11-18 15:46:08.348 30995 30995 W Glide   :  call GlideException#logRootCauses(String) for more detail
+11-18 15:46:08.348 30995 30995 W Glide   :   Cause (1 of 1): class com.bumptech.glide.load.engine.GlideException: Fetching data failed, class java.io.InputStream, REMOTE
+11-18 15:46:08.348 30995 30995 W Glide   : There was 1 root cause:
+11-18 15:46:08.348 30995 30995 W Glide   : com.bumptech.glide.load.HttpException(Failed to connect or obtain data, status code: -1)
+11-18 15:46:08.348 30995 30995 W Glide   :  call GlideException#logRootCauses(String) for more detail
+11-18 15:46:08.348 30995 30995 W Glide   :     Cause (1 of 1): class com.bumptech.glide.load.engine.GlideException: Fetch failed
+11-18 15:46:08.348 30995 30995 W Glide   : There was 1 root cause:
+11-18 15:46:08.348 30995 30995 W Glide   : com.bumptech.glide.load.HttpException(Failed to connect or obtain data, status code: -1)
+11-18 15:46:08.348 30995 30995 W Glide   :  call GlideException#logRootCauses(String) for more detail
+11-18 15:46:08.348 30995 30995 W Glide   :       Cause (1 of 1): class com.bumptech.glide.load.HttpException: Failed to connect or obtain data, status code: -1
+11-18 15:46:08.349 30995 30995 I Glide   : Root cause (1 of 1)
+11-18 15:46:08.349 30995 30995 I Glide   : com.bumptech.glide.load.HttpException: Failed to connect or obtain data, status code: -1
+11-18 15:46:08.349 30995 30995 I Glide   : 	at com.bumptech.glide.load.data.HttpUrlFetcher.loadDataWithRedirects(HttpUrlFetcher.java:98)
+11-18 15:46:08.349 30995 30995 I Glide   : 	at com.bumptech.glide.load.data.HttpUrlFetcher.loadData(HttpUrlFetcher.java:58)
+11-18 15:46:08.349 30995 30995 I Glide   : 	at com.bumptech.glide.load.model.MultiModelLoader$MultiFetcher.loadData(MultiModelLoader.java:100)
+11-18 15:46:08.349 30995 30995 I Glide   : 	at com.bumptech.glide.load.engine.SourceGenerator.startNextLoad(SourceGenerator.java:95)
+11-18 15:46:08.349 30995 30995 I Glide   : 	at com.bumptech.glide.load.engine.SourceGenerator.startNext(SourceGenerator.java:88)
+11-18 15:46:08.349 30995 30995 I Glide   : 	at com.bumptech.glide.load.engine.DecodeJob.runGenerators(DecodeJob.java:311)
+11-18 15:46:08.349 30995 30995 I Glide   : 	at com.bumptech.glide.load.engine.DecodeJob.runWrapped(DecodeJob.java:280)
+11-18 15:46:08.349 30995 30995 I Glide   : 	at com.bumptech.glide.load.engine.DecodeJob.run(DecodeJob.java:235)
+11-18 15:46:08.349 30995 30995 I Glide   : 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167)
+11-18 15:46:08.349 30995 30995 I Glide   : 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641)
+11-18 15:46:08.349 30995 30995 I Glide   : 	at com.bumptech.glide.load.engine.executor.GlideExecutor$DefaultThreadFactory$1.run(GlideExecutor.java:421)
+11-18 15:46:08.349 30995 30995 I Glide   : 	at java.lang.Thread.run(Thread.java:923)
+11-18 15:46:08.349 30995 30995 I Glide   : 	at com.bumptech.glide.load.engine.executor.GlideExecutor$DefaultPriorityThreadFactory$1.run(GlideExecutor.java:380)
+11-18 15:46:08.349 30995 30995 I Glide   : Caused by: java.net.SocketTimeoutException: timeout
+11-18 15:46:08.349 30995 30995 I Glide   : 	at com.android.okhttp.okio.Okio$3.newTimeoutException(Okio.java:214)
+11-18 15:46:08.349 30995 30995 I Glide   : 	at com.android.okhttp.okio.AsyncTimeout.exit(AsyncTimeout.java:263)
+11-18 15:46:08.349 30995 30995 I Glide   : 	at com.android.okhttp.okio.AsyncTimeout$2.read(AsyncTimeout.java:217)
+11-18 15:46:08.349 30995 30995 I Glide   : 	at com.android.okhttp.okio.RealBufferedSource.indexOf(RealBufferedSource.java:307)
+11-18 15:46:08.349 30995 30995 I Glide   : 	at com.android.okhttp.okio.RealBufferedSource.indexOf(RealBufferedSource.java:301)
+11-18 15:46:08.349 30995 30995 I Glide   : 	at com.android.okhttp.okio.RealBufferedSource.readUtf8LineStrict(RealBufferedSource.java:197)
+11-18 15:46:08.349 30995 30995 I Glide   : 	at com.android.okhttp.internal.http.Http1xStream.readResponse(Http1xStream.java:188)
+11-18 15:46:08.349 30995 30995 I Glide   : 	at com.android.okhttp.internal.http.Http1xStream.readResponseHeaders(Http1xStream.java:129)
+11-18 15:46:08.349 30995 30995 I Glide   : 	at com.android.okhttp.internal.http.HttpEngine.readNetworkResponse(HttpEngine.java:750)
+11-18 15:46:08.349 30995 30995 I Glide   : 	at com.android.okhttp.internal.http.HttpEngine.readResponse(HttpEngine.java:622)
+11-18 15:46:08.349 30995 30995 I Glide   : 	at com.android.okhttp.internal.huc.HttpURLConnectionImpl.execute(HttpURLConnectionImpl.java:475)
+11-18 15:46:08.349 30995 30995 I Glide   : 	at com.android.okhttp.internal.huc.HttpURLConnectionImpl.getResponse(HttpURLConnectionImpl.java:411)
+11-18 15:46:08.349 30995 30995 I Glide   : 	at com.android.okhttp.internal.huc.HttpURLConnectionImpl.getInputStream(HttpURLConnectionImpl.java:248)
+11-18 15:46:08.349 30995 30995 I Glide   : 	at com.bumptech.glide.load.data.HttpUrlFetcher.loadDataWithRedirects(HttpUrlFetcher.java:95)
+11-18 15:46:08.349 30995 30995 I Glide   : 	... 12 more
+11-18 15:46:08.349 30995 30995 I Glide   : Caused by: java.net.SocketException: Socket closed
+11-18 15:46:08.349 30995 30995 I Glide   : 	at java.net.SocketInputStream.read(SocketInputStream.java:209)
+11-18 15:46:08.349 30995 30995 I Glide   : 	at java.net.SocketInputStream.read(SocketInputStream.java:144)
+11-18 15:46:08.349 30995 30995 I Glide   : 	at com.android.okhttp.okio.Okio$2.read(Okio.java:138)
+11-18 15:46:08.349 30995 30995 I Glide   : 	at com.android.okhttp.okio.AsyncTimeout$2.read(AsyncTimeout.java:213)
+11-18 15:46:08.349 30995 30995 I Glide   : 	... 23 more
+11-18 15:46:08.394 30995 30995 W Glide   : Load failed for [http://dockerproxmox.duckdns.org:8125/img/80/raw] with dimensions [275x275]
+11-18 15:46:08.394 30995 30995 W Glide   : class com.bumptech.glide.load.engine.GlideException: Failed to load resource
+11-18 15:46:08.394 30995 30995 W Glide   : There was 1 root cause:
+11-18 15:46:08.394 30995 30995 W Glide   : com.bumptech.glide.load.HttpException(Failed to connect or obtain data, status code: -1)
+11-18 15:46:08.394 30995 30995 W Glide   :  call GlideException#logRootCauses(String) for more detail
+11-18 15:46:08.394 30995 30995 W Glide   :   Cause (1 of 1): class com.bumptech.glide.load.engine.GlideException: Fetching data failed, class java.io.InputStream, REMOTE
+11-18 15:46:08.394 30995 30995 W Glide   : There was 1 root cause:
+11-18 15:46:08.394 30995 30995 W Glide   : com.bumptech.glide.load.HttpException(Failed to connect or obtain data, status code: -1)
+11-18 15:46:08.394 30995 30995 W Glide   :  call GlideException#logRootCauses(String) for more detail
+11-18 15:46:08.394 30995 30995 W Glide   :     Cause (1 of 1): class com.bumptech.glide.load.engine.GlideException: Fetch failed
+11-18 15:46:08.394 30995 30995 W Glide   : There was 1 root cause:
+11-18 15:46:08.394 30995 30995 W Glide   : com.bumptech.glide.load.HttpException(Failed to connect or obtain data, status code: -1)
+11-18 15:46:08.394 30995 30995 W Glide   :  call GlideException#logRootCauses(String) for more detail
+11-18 15:46:08.394 30995 30995 W Glide   :       Cause (1 of 1): class com.bumptech.glide.load.HttpException: Failed to connect or obtain data, status code: -1
+11-18 15:46:08.395 30995 30995 I Glide   : Root cause (1 of 1)
+11-18 15:46:08.395 30995 30995 I Glide   : com.bumptech.glide.load.HttpException: Failed to connect or obtain data, status code: -1
+11-18 15:46:08.395 30995 30995 I Glide   : 	at com.bumptech.glide.load.data.HttpUrlFetcher.loadDataWithRedirects(HttpUrlFetcher.java:98)
+11-18 15:46:08.395 30995 30995 I Glide   : 	at com.bumptech.glide.load.data.HttpUrlFetcher.loadData(HttpUrlFetcher.java:58)
+11-18 15:46:08.395 30995 30995 I Glide   : 	at com.bumptech.glide.load.model.MultiModelLoader$MultiFetcher.loadData(MultiModelLoader.java:100)
+11-18 15:46:08.395 30995 30995 I Glide   : 	at com.bumptech.glide.load.engine.SourceGenerator.startNextLoad(SourceGenerator.java:95)
+11-18 15:46:08.395 30995 30995 I Glide   : 	at com.bumptech.glide.load.engine.SourceGenerator.startNext(SourceGenerator.java:88)
+11-18 15:46:08.395 30995 30995 I Glide   : 	at com.bumptech.glide.load.engine.DecodeJob.runGenerators(DecodeJob.java:311)
+11-18 15:46:08.395 30995 30995 I Glide   : 	at com.bumptech.glide.load.engine.DecodeJob.runWrapped(DecodeJob.java:280)
+11-18 15:46:08.395 30995 30995 I Glide   : 	at com.bumptech.glide.load.engine.DecodeJob.run(DecodeJob.java:235)
+11-18 15:46:08.395 30995 30995 I Glide   : 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167)
+11-18 15:46:08.395 30995 30995 I Glide   : 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641)
+11-18 15:46:08.395 30995 30995 I Glide   : 	at com.bumptech.glide.load.engine.executor.GlideExecutor$DefaultThreadFactory$1.run(GlideExecutor.java:421)
+11-18 15:46:08.395 30995 30995 I Glide   : 	at java.lang.Thread.run(Thread.java:923)
+11-18 15:46:08.395 30995 30995 I Glide   : 	at com.bumptech.glide.load.engine.executor.GlideExecutor$DefaultPriorityThreadFactory$1.run(GlideExecutor.java:380)
+11-18 15:46:08.395 30995 30995 I Glide   : Caused by: java.net.SocketTimeoutException: timeout
+11-18 15:46:08.395 30995 30995 I Glide   : 	at com.android.okhttp.okio.Okio$3.newTimeoutException(Okio.java:214)
+11-18 15:46:08.395 30995 30995 I Glide   : 	at com.android.okhttp.okio.AsyncTimeout.exit(AsyncTimeout.java:263)
+11-18 15:46:08.395 30995 30995 I Glide   : 	at com.android.okhttp.okio.AsyncTimeout$2.read(AsyncTimeout.java:217)
+11-18 15:46:08.395 30995 30995 I Glide   : 	at com.android.okhttp.okio.RealBufferedSource.indexOf(RealBufferedSource.java:307)
+11-18 15:46:08.395 30995 30995 I Glide   : 	at com.android.okhttp.okio.RealBufferedSource.indexOf(RealBufferedSource.java:301)
+11-18 15:46:08.395 30995 30995 I Glide   : 	at com.android.okhttp.okio.RealBufferedSource.readUtf8LineStrict(RealBufferedSource.java:197)
+11-18 15:46:08.395 30995 30995 I Glide   : 	at com.android.okhttp.internal.http.Http1xStream.readResponse(Http1xStream.java:188)
+11-18 15:46:08.395 30995 30995 I Glide   : 	at com.android.okhttp.internal.http.Http1xStream.readResponseHeaders(Http1xStream.java:129)
+11-18 15:46:08.395 30995 30995 I Glide   : 	at com.android.okhttp.internal.http.HttpEngine.readNetworkResponse(HttpEngine.java:750)
+11-18 15:46:08.395 30995 30995 I Glide   : 	at com.android.okhttp.internal.http.HttpEngine.readResponse(HttpEngine.java:622)
+11-18 15:46:08.395 30995 30995 I Glide   : 	at com.android.okhttp.internal.huc.HttpURLConnectionImpl.execute(HttpURLConnectionImpl.java:475)
+11-18 15:46:08.395 30995 30995 I Glide   : 	at com.android.okhttp.internal.huc.HttpURLConnectionImpl.getResponse(HttpURLConnectionImpl.java:411)
+11-18 15:46:08.395 30995 30995 I Glide   : 	at com.android.okhttp.internal.huc.HttpURLConnectionImpl.getInputStream(HttpURLConnectionImpl.java:248)
+11-18 15:46:08.395 30995 30995 I Glide   : 	at com.bumptech.glide.load.data.HttpUrlFetcher.loadDataWithRedirects(HttpUrlFetcher.java:95)
+11-18 15:46:08.395 30995 30995 I Glide   : 	... 12 more
+11-18 15:46:08.395 30995 30995 I Glide   : Caused by: java.net.SocketException: Socket closed
+11-18 15:46:08.395 30995 30995 I Glide   : 	at java.net.SocketInputStream.read(SocketInputStream.java:209)
+11-18 15:46:08.395 30995 30995 I Glide   : 	at java.net.SocketInputStream.read(SocketInputStream.java:144)
+11-18 15:46:08.395 30995 30995 I Glide   : 	at com.android.okhttp.okio.Okio$2.read(Okio.java:138)
+11-18 15:46:08.395 30995 30995 I Glide   : 	at com.android.okhttp.okio.AsyncTimeout$2.read(AsyncTimeout.java:213)
+11-18 15:46:08.395 30995 30995 I Glide   : 	... 23 more
+11-18 15:46:08.624 30995 30995 W Glide   : Load failed for [http://dockerproxmox.duckdns.org:8125/img/80/raw] with dimensions [96x96]
+11-18 15:46:08.624 30995 30995 W Glide   : class com.bumptech.glide.load.engine.GlideException: Failed to load resource
+11-18 15:46:08.624 30995 30995 W Glide   : There was 1 root cause:
+11-18 15:46:08.624 30995 30995 W Glide   : com.bumptech.glide.load.HttpException(Failed to connect or obtain data, status code: -1)
+11-18 15:46:08.624 30995 30995 W Glide   :  call GlideException#logRootCauses(String) for more detail
+11-18 15:46:08.624 30995 30995 W Glide   :   Cause (1 of 1): class com.bumptech.glide.load.engine.GlideException: Fetching data failed, class java.io.InputStream, REMOTE
+11-18 15:46:08.624 30995 30995 W Glide   : There was 1 root cause:
+11-18 15:46:08.624 30995 30995 W Glide   : com.bumptech.glide.load.HttpException(Failed to connect or obtain data, status code: -1)
+11-18 15:46:08.624 30995 30995 W Glide   :  call GlideException#logRootCauses(String) for more detail
+11-18 15:46:08.624 30995 30995 W Glide   :     Cause (1 of 1): class com.bumptech.glide.load.engine.GlideException: Fetch failed
+11-18 15:46:08.624 30995 30995 W Glide   : There was 1 root cause:
+11-18 15:46:08.624 30995 30995 W Glide   : com.bumptech.glide.load.HttpException(Failed to connect or obtain data, status code: -1)
+11-18 15:46:08.624 30995 30995 W Glide   :  call GlideException#logRootCauses(String) for more detail
+11-18 15:46:08.624 30995 30995 W Glide   :       Cause (1 of 1): class com.bumptech.glide.load.HttpException: Failed to connect or obtain data, status code: -1
+11-18 15:46:08.625 30995 30995 I Glide   : Root cause (1 of 1)
+11-18 15:46:08.625 30995 30995 I Glide   : com.bumptech.glide.load.HttpException: Failed to connect or obtain data, status code: -1
+11-18 15:46:08.625 30995 30995 I Glide   : 	at com.bumptech.glide.load.data.HttpUrlFetcher.loadDataWithRedirects(HttpUrlFetcher.java:98)
+11-18 15:46:08.625 30995 30995 I Glide   : 	at com.bumptech.glide.load.data.HttpUrlFetcher.loadData(HttpUrlFetcher.java:58)
+11-18 15:46:08.625 30995 30995 I Glide   : 	at com.bumptech.glide.load.model.MultiModelLoader$MultiFetcher.loadData(MultiModelLoader.java:100)
+11-18 15:46:08.625 30995 30995 I Glide   : 	at com.bumptech.glide.load.engine.SourceGenerator.startNextLoad(SourceGenerator.java:95)
+11-18 15:46:08.625 30995 30995 I Glide   : 	at com.bumptech.glide.load.engine.SourceGenerator.startNext(SourceGenerator.java:88)
+11-18 15:46:08.625 30995 30995 I Glide   : 	at com.bumptech.glide.load.engine.DecodeJob.runGenerators(DecodeJob.java:311)
+11-18 15:46:08.625 30995 30995 I Glide   : 	at com.bumptech.glide.load.engine.DecodeJob.runWrapped(DecodeJob.java:280)
+11-18 15:46:08.625 30995 30995 I Glide   : 	at com.bumptech.glide.load.engine.DecodeJob.run(DecodeJob.java:235)
+11-18 15:46:08.625 30995 30995 I Glide   : 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167)
+11-18 15:46:08.625 30995 30995 I Glide   : 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641)
+11-18 15:46:08.625 30995 30995 I Glide   : 	at com.bumptech.glide.load.engine.executor.GlideExecutor$DefaultThreadFactory$1.run(GlideExecutor.java:421)
+11-18 15:46:08.625 30995 30995 I Glide   : 	at java.lang.Thread.run(Thread.java:923)
+11-18 15:46:08.625 30995 30995 I Glide   : 	at com.bumptech.glide.load.engine.executor.GlideExecutor$DefaultPriorityThreadFactory$1.run(GlideExecutor.java:380)
+11-18 15:46:08.625 30995 30995 I Glide   : Caused by: java.net.SocketTimeoutException: timeout
+11-18 15:46:08.625 30995 30995 I Glide   : 	at com.android.okhttp.okio.Okio$3.newTimeoutException(Okio.java:214)
+11-18 15:46:08.625 30995 30995 I Glide   : 	at com.android.okhttp.okio.AsyncTimeout.exit(AsyncTimeout.java:263)
+11-18 15:46:08.625 30995 30995 I Glide   : 	at com.android.okhttp.okio.AsyncTimeout$2.read(AsyncTimeout.java:217)
+11-18 15:46:08.625 30995 30995 I Glide   : 	at com.android.okhttp.okio.RealBufferedSource.indexOf(RealBufferedSource.java:307)
+11-18 15:46:08.625 30995 30995 I Glide   : 	at com.android.okhttp.okio.RealBufferedSource.indexOf(RealBufferedSource.java:301)
+11-18 15:46:08.625 30995 30995 I Glide   : 	at com.android.okhttp.okio.RealBufferedSource.readUtf8LineStrict(RealBufferedSource.java:197)
+11-18 15:46:08.625 30995 30995 I Glide   : 	at com.android.okhttp.internal.http.Http1xStream.readResponse(Http1xStream.java:188)
+11-18 15:46:08.625 30995 30995 I Glide   : 	at com.android.okhttp.internal.http.Http1xStream.readResponseHeaders(Http1xStream.java:129)
+11-18 15:46:08.625 30995 30995 I Glide   : 	at com.android.okhttp.internal.http.HttpEngine.readNetworkResponse(HttpEngine.java:750)
+11-18 15:46:08.625 30995 30995 I Glide   : 	at com.android.okhttp.internal.http.HttpEngine.readResponse(HttpEngine.java:622)
+11-18 15:46:08.625 30995 30995 I Glide   : 	at com.android.okhttp.internal.huc.HttpURLConnectionImpl.execute(HttpURLConnectionImpl.java:475)
+11-18 15:46:08.625 30995 30995 I Glide   : 	at com.android.okhttp.internal.huc.HttpURLConnectionImpl.getResponse(HttpURLConnectionImpl.java:411)
+11-18 15:46:08.625 30995 30995 I Glide   : 	at com.android.okhttp.internal.huc.HttpURLConnectionImpl.getInputStream(HttpURLConnectionImpl.java:248)
+11-18 15:46:08.625 30995 30995 I Glide   : 	at com.bumptech.glide.load.data.HttpUrlFetcher.loadDataWithRedirects(HttpUrlFetcher.java:95)
+11-18 15:46:08.625 30995 30995 I Glide   : 	... 12 more
+11-18 15:46:08.625 30995 30995 I Glide   : Caused by: java.net.SocketException: Socket closed
+11-18 15:46:08.625 30995 30995 I Glide   : 	at java.net.SocketInputStream.read(SocketInputStream.java:209)
+11-18 15:46:08.625 30995 30995 I Glide   : 	at java.net.SocketInputStream.read(SocketInputStream.java:144)
+11-18 15:46:08.625 30995 30995 I Glide   : 	at com.android.okhttp.okio.Okio$2.read(Okio.java:138)
+11-18 15:46:08.625 30995 30995 I Glide   : 	at com.android.okhttp.okio.AsyncTimeout$2.read(AsyncTimeout.java:213)
+11-18 15:46:08.625 30995 30995 I Glide   : 	... 23 more
+11-18 15:46:10.393 30995 30995 I Timeline: Timeline: Activity_launch_request time:191344480
+11-18 15:46:11.047 30995 31513 E PINGER  : [15:46:11.043 Connection$Pinger:stop():522] Pinger stop true
+11-18 15:46:11.053 30995 31513 E Sendbird:PINGER: [15:46:11.048 Connection$Pinger:stop():523] Pinger stop true
+11-18 15:46:11.068 30995 32457 W SendBird: [15:46:11.065 Connection$1:onMessage():235] onMessage instance : [PONG] com.sendbird.android.Connection@ba9677a
+11-18 15:46:11.068 30995 32469 W SendBird: [15:46:11.065 Connection$1:onFailure():250] onFailed instance : com.sendbird.android.Connection@ba9677a
+11-18 15:46:11.071 30995 32457 W Sendbird: [15:46:11.069 Connection$1:onMessage():236] onMessage instance : [PONG] com.sendbird.android.Connection@ba9677a
+11-18 15:46:11.072 30995 32469 W Sendbird: [15:46:11.070 Connection$1:onFailure():251] onFailed instance : com.sendbird.android.Connection@ba9677a
+11-18 15:46:11.076 30995 32469 W SendBird: [15:46:11.074 Connection$1:onFailure():256] onFailed handler : com.sendbird.android.SocketManager@3495266
+11-18 15:46:11.079 30995 32469 W Sendbird: [15:46:11.077 Connection$1:onFailure():257] onFailed handler : com.sendbird.android.SocketManager@3495266
+11-18 15:46:11.081 30995 32469 W SendBird: [15:46:11.079 SocketManager:onError():1002] >> onError : Socket is closed, reconnecting : false, explicitDisconnect : true
+11-18 15:46:11.083 30995 31593 W SendBird: [15:46:11.081 EventController$1:call():141] ++ result[PONG] runnable=null
+11-18 15:46:13.908 30995 30995 D DecorView: createDecorCaptionView windowingMode:1 mWindowMode 1 isFullscreen: true
+11-18 15:46:14.274 30995 32643 W SendBird: [15:46:14.272 Connection$1:onMessage():235] onMessage instance : [LOGI] com.sendbird.android.Connection@71e9024
+11-18 15:46:14.276 30995 32643 W Sendbird: [15:46:14.275 Connection$1:onMessage():236] onMessage instance : [LOGI] com.sendbird.android.Connection@71e9024
+11-18 15:46:14.286 30995 31593 W SendBird: [15:46:14.285 EventController$1:call():141] ++ result[LOGI] runnable=null
+11-18 15:46:16.435 30995 30995 W Glide   : Load failed for [http://dockerproxmox.duckdns.org:8125/img/80/raw] with dimensions [96x96]
+11-18 15:46:16.435 30995 30995 W Glide   : class com.bumptech.glide.load.engine.GlideException: Failed to load resource
+11-18 15:46:16.435 30995 30995 W Glide   : There was 1 root cause:
+11-18 15:46:16.435 30995 30995 W Glide   : com.bumptech.glide.load.HttpException(Failed to connect or obtain data, status code: -1)
+11-18 15:46:16.435 30995 30995 W Glide   :  call GlideException#logRootCauses(String) for more detail
+11-18 15:46:16.435 30995 30995 W Glide   :   Cause (1 of 1): class com.bumptech.glide.load.engine.GlideException: Fetching data failed, class java.io.InputStream, REMOTE
+11-18 15:46:16.435 30995 30995 W Glide   : There was 1 root cause:
+11-18 15:46:16.435 30995 30995 W Glide   : com.bumptech.glide.load.HttpException(Failed to connect or obtain data, status code: -1)
+11-18 15:46:16.435 30995 30995 W Glide   :  call GlideException#logRootCauses(String) for more detail
+11-18 15:46:16.435 30995 30995 W Glide   :     Cause (1 of 1): class com.bumptech.glide.load.engine.GlideException: Fetch failed
+11-18 15:46:16.435 30995 30995 W Glide   : There was 1 root cause:
+11-18 15:46:16.435 30995 30995 W Glide   : com.bumptech.glide.load.HttpException(Failed to connect or obtain data, status code: -1)
+11-18 15:46:16.435 30995 30995 W Glide   :  call GlideException#logRootCauses(String) for more detail
+11-18 15:46:16.435 30995 30995 W Glide   :       Cause (1 of 1): class com.bumptech.glide.load.HttpException: Failed to connect or obtain data, status code: -1
+11-18 15:46:16.438 30995 30995 I Glide   : Root cause (1 of 1)
+11-18 15:46:16.438 30995 30995 I Glide   : com.bumptech.glide.load.HttpException: Failed to connect or obtain data, status code: -1
+11-18 15:46:16.438 30995 30995 I Glide   : 	at com.bumptech.glide.load.data.HttpUrlFetcher.loadDataWithRedirects(HttpUrlFetcher.java:98)
+11-18 15:46:16.438 30995 30995 I Glide   : 	at com.bumptech.glide.load.data.HttpUrlFetcher.loadData(HttpUrlFetcher.java:58)
+11-18 15:46:16.438 30995 30995 I Glide   : 	at com.bumptech.glide.load.model.MultiModelLoader$MultiFetcher.loadData(MultiModelLoader.java:100)
+11-18 15:46:16.438 30995 30995 I Glide   : 	at com.bumptech.glide.load.engine.SourceGenerator.startNextLoad(SourceGenerator.java:95)
+11-18 15:46:16.438 30995 30995 I Glide   : 	at com.bumptech.glide.load.engine.SourceGenerator.startNext(SourceGenerator.java:88)
+11-18 15:46:16.438 30995 30995 I Glide   : 	at com.bumptech.glide.load.engine.DecodeJob.runGenerators(DecodeJob.java:311)
+11-18 15:46:16.438 30995 30995 I Glide   : 	at com.bumptech.glide.load.engine.DecodeJob.runWrapped(DecodeJob.java:280)
+11-18 15:46:16.438 30995 30995 I Glide   : 	at com.bumptech.glide.load.engine.DecodeJob.run(DecodeJob.java:235)
+11-18 15:46:16.438 30995 30995 I Glide   : 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167)
+11-18 15:46:16.438 30995 30995 I Glide   : 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641)
+11-18 15:46:16.438 30995 30995 I Glide   : 	at com.bumptech.glide.load.engine.executor.GlideExecutor$DefaultThreadFactory$1.run(GlideExecutor.java:421)
+11-18 15:46:16.438 30995 30995 I Glide   : 	at java.lang.Thread.run(Thread.java:923)
+11-18 15:46:16.438 30995 30995 I Glide   : 	at com.bumptech.glide.load.engine.executor.GlideExecutor$DefaultPriorityThreadFactory$1.run(GlideExecutor.java:380)
+11-18 15:46:16.438 30995 30995 I Glide   : Caused by: java.net.SocketTimeoutException: timeout
+11-18 15:46:16.438 30995 30995 I Glide   : 	at com.android.okhttp.okio.Okio$3.newTimeoutException(Okio.java:214)
+11-18 15:46:16.438 30995 30995 I Glide   : 	at com.android.okhttp.okio.AsyncTimeout.exit(AsyncTimeout.java:263)
+11-18 15:46:16.438 30995 30995 I Glide   : 	at com.android.okhttp.okio.AsyncTimeout$2.read(AsyncTimeout.java:217)
+11-18 15:46:16.438 30995 30995 I Glide   : 	at com.android.okhttp.okio.RealBufferedSource.indexOf(RealBufferedSource.java:307)
+11-18 15:46:16.438 30995 30995 I Glide   : 	at com.android.okhttp.okio.RealBufferedSource.indexOf(RealBufferedSource.java:301)
+11-18 15:46:16.438 30995 30995 I Glide   : 	at com.android.okhttp.okio.RealBufferedSource.readUtf8LineStrict(RealBufferedSource.java:197)
+11-18 15:46:16.438 30995 30995 I Glide   : 	at com.android.okhttp.internal.http.Http1xStream.readResponse(Http1xStream.java:188)
+11-18 15:46:16.438 30995 30995 I Glide   : 	at com.android.okhttp.internal.http.Http1xStream.readResponseHeaders(Http1xStream.java:129)
+11-18 15:46:16.438 30995 30995 I Glide   : 	at com.android.okhttp.internal.http.HttpEngine.readNetworkResponse(HttpEngine.java:750)
+11-18 15:46:16.438 30995 30995 I Glide   : 	at com.android.okhttp.internal.http.HttpEngine.readResponse(HttpEngine.java:622)
+11-18 15:46:16.438 30995 30995 I Glide   : 	at com.android.okhttp.internal.huc.HttpURLConnectionImpl.execute(HttpURLConnectionImpl.java:475)
+11-18 15:46:16.438 30995 30995 I Glide   : 	at com.android.okhttp.internal.huc.HttpURLConnectionImpl.getResponse(HttpURLConnectionImpl.java:411)
+11-18 15:46:16.438 30995 30995 I Glide   : 	at com.android.okhttp.internal.huc.HttpURLConnectionImpl.getInputStream(HttpURLConnectionImpl.java:248)
+11-18 15:46:16.438 30995 30995 I Glide   : 	at com.bumptech.glide.load.data.HttpUrlFetcher.loadDataWithRedirects(HttpUrlFetcher.java:95)
+11-18 15:46:16.438 30995 30995 I Glide   : 	... 12 more
+11-18 15:46:16.438 30995 30995 I Glide   : Caused by: java.net.SocketException: Socket closed
+11-18 15:46:16.438 30995 30995 I Glide   : 	at java.net.SocketInputStream.read(SocketInputStream.java:209)
+11-18 15:46:16.438 30995 30995 I Glide   : 	at java.net.SocketInputStream.read(SocketInputStream.java:144)
+11-18 15:46:16.438 30995 30995 I Glide   : 	at com.android.okhttp.okio.Okio$2.read(Okio.java:138)
+11-18 15:46:16.438 30995 30995 I Glide   : 	at com.android.okhttp.okio.AsyncTimeout$2.read(AsyncTimeout.java:213)
+11-18 15:46:16.438 30995 30995 I Glide   : 	... 23 more
+11-18 15:46:16.446 30995 30995 W Glide   : Load failed for [http://dockerproxmox.duckdns.org:8125/img/56/raw] with dimensions [193x193]
+11-18 15:46:16.446 30995 30995 W Glide   : class com.bumptech.glide.load.engine.GlideException: Failed to load resource
+11-18 15:46:16.446 30995 30995 W Glide   : There was 1 root cause:
+11-18 15:46:16.446 30995 30995 W Glide   : com.bumptech.glide.load.HttpException(Failed to connect or obtain data, status code: -1)
+11-18 15:46:16.446 30995 30995 W Glide   :  call GlideException#logRootCauses(String) for more detail
+11-18 15:46:16.446 30995 30995 W Glide   :   Cause (1 of 1): class com.bumptech.glide.load.engine.GlideException: Fetching data failed, class java.io.InputStream, REMOTE
+11-18 15:46:16.446 30995 30995 W Glide   : There was 1 root cause:
+11-18 15:46:16.446 30995 30995 W Glide   : com.bumptech.glide.load.HttpException(Failed to connect or obtain data, status code: -1)
+11-18 15:46:16.446 30995 30995 W Glide   :  call GlideException#logRootCauses(String) for more detail
+11-18 15:46:16.446 30995 30995 W Glide   :     Cause (1 of 1): class com.bumptech.glide.load.engine.GlideException: Fetch failed
+11-18 15:46:16.446 30995 30995 W Glide   : There was 1 root cause:
+11-18 15:46:16.446 30995 30995 W Glide   : com.bumptech.glide.load.HttpException(Failed to connect or obtain data, status code: -1)
+11-18 15:46:16.446 30995 30995 W Glide   :  call GlideException#logRootCauses(String) for more detail
+11-18 15:46:16.446 30995 30995 W Glide   :       Cause (1 of 1): class com.bumptech.glide.load.HttpException: Failed to connect or obtain data, status code: -1
+11-18 15:46:16.448 30995 30995 I Glide   : Root cause (1 of 1)
+11-18 15:46:16.448 30995 30995 I Glide   : com.bumptech.glide.load.HttpException: Failed to connect or obtain data, status code: -1
+11-18 15:46:16.448 30995 30995 I Glide   : 	at com.bumptech.glide.load.data.HttpUrlFetcher.loadDataWithRedirects(HttpUrlFetcher.java:98)
+11-18 15:46:16.448 30995 30995 I Glide   : 	at com.bumptech.glide.load.data.HttpUrlFetcher.loadData(HttpUrlFetcher.java:58)
+11-18 15:46:16.448 30995 30995 I Glide   : 	at com.bumptech.glide.load.model.MultiModelLoader$MultiFetcher.loadData(MultiModelLoader.java:100)
+11-18 15:46:16.448 30995 30995 I Glide   : 	at com.bumptech.glide.load.engine.SourceGenerator.startNextLoad(SourceGenerator.java:95)
+11-18 15:46:16.448 30995 30995 I Glide   : 	at com.bumptech.glide.load.engine.SourceGenerator.startNext(SourceGenerator.java:88)
+11-18 15:46:16.448 30995 30995 I Glide   : 	at com.bumptech.glide.load.engine.DecodeJob.runGenerators(DecodeJob.java:311)
+11-18 15:46:16.448 30995 30995 I Glide   : 	at com.bumptech.glide.load.engine.DecodeJob.runWrapped(DecodeJob.java:280)
+11-18 15:46:16.448 30995 30995 I Glide   : 	at com.bumptech.glide.load.engine.DecodeJob.run(DecodeJob.java:235)
+11-18 15:46:16.448 30995 30995 I Glide   : 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167)
+11-18 15:46:16.448 30995 30995 I Glide   : 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641)
+11-18 15:46:16.448 30995 30995 I Glide   : 	at com.bumptech.glide.load.engine.executor.GlideExecutor$DefaultThreadFactory$1.run(GlideExecutor.java:421)
+11-18 15:46:16.448 30995 30995 I Glide   : 	at java.lang.Thread.run(Thread.java:923)
+11-18 15:46:16.448 30995 30995 I Glide   : 	at com.bumptech.glide.load.engine.executor.GlideExecutor$DefaultPriorityThreadFactory$1.run(GlideExecutor.java:380)
+11-18 15:46:16.448 30995 30995 I Glide   : Caused by: java.net.SocketTimeoutException: timeout
+11-18 15:46:16.448 30995 30995 I Glide   : 	at com.android.okhttp.okio.Okio$3.newTimeoutException(Okio.java:214)
+11-18 15:46:16.448 30995 30995 I Glide   : 	at com.android.okhttp.okio.AsyncTimeout.exit(AsyncTimeout.java:263)
+11-18 15:46:16.448 30995 30995 I Glide   : 	at com.android.okhttp.okio.AsyncTimeout$2.read(AsyncTimeout.java:217)
+11-18 15:46:16.448 30995 30995 I Glide   : 	at com.android.okhttp.okio.RealBufferedSource.indexOf(RealBufferedSource.java:307)
+11-18 15:46:16.448 30995 30995 I Glide   : 	at com.android.okhttp.okio.RealBufferedSource.indexOf(RealBufferedSource.java:301)
+11-18 15:46:16.448 30995 30995 I Glide   : 	at com.android.okhttp.okio.RealBufferedSource.readUtf8LineStrict(RealBufferedSource.java:197)
+11-18 15:46:16.448 30995 30995 I Glide   : 	at com.android.okhttp.internal.http.Http1xStream.readResponse(Http1xStream.java:188)
+11-18 15:46:16.448 30995 30995 I Glide   : 	at com.android.okhttp.internal.http.Http1xStream.readResponseHeaders(Http1xStream.java:129)
+11-18 15:46:16.448 30995 30995 I Glide   : 	at com.android.okhttp.internal.http.HttpEngine.readNetworkResponse(HttpEngine.java:750)
+11-18 15:46:16.448 30995 30995 I Glide   : 	at com.android.okhttp.internal.http.HttpEngine.readResponse(HttpEngine.java:622)
+11-18 15:46:16.448 30995 30995 I Glide   : 	at com.android.okhttp.internal.huc.HttpURLConnectionImpl.execute(HttpURLConnectionImpl.java:475)
+11-18 15:46:16.448 30995 30995 I Glide   : 	at com.android.okhttp.internal.huc.HttpURLConnectionImpl.getResponse(HttpURLConnectionImpl.java:411)
+11-18 15:46:16.448 30995 30995 I Glide   : 	at com.android.okhttp.internal.huc.HttpURLConnectionImpl.getInputStream(HttpURLConnectionImpl.java:248)
+11-18 15:46:16.448 30995 30995 I Glide   : 	at com.bumptech.glide.load.data.HttpUrlFetcher.loadDataWithRedirects(HttpUrlFetcher.java:95)
+11-18 15:46:16.448 30995 30995 I Glide   : 	... 12 more
+11-18 15:46:16.448 30995 30995 I Glide   : Caused by: java.net.SocketException: Socket closed
+11-18 15:46:16.448 30995 30995 I Glide   : 	at java.net.SocketInputStream.read(SocketInputStream.java:209)
+11-18 15:46:16.448 30995 30995 I Glide   : 	at java.net.SocketInputStream.read(SocketInputStream.java:144)
+11-18 15:46:16.448 30995 30995 I Glide   : 	at com.android.okhttp.okio.Okio$2.read(Okio.java:138)
+11-18 15:46:16.448 30995 30995 I Glide   : 	at com.android.okhttp.okio.AsyncTimeout$2.read(AsyncTimeout.java:213)
+11-18 15:46:16.448 30995 30995 I Glide   : 	... 23 more
+11-18 15:46:16.451 30995 30995 W Glide   : Load failed for [http://dockerproxmox.duckdns.org:8125/img/57/raw] with dimensions [1080x550]
+11-18 15:46:16.451 30995 30995 W Glide   : class com.bumptech.glide.load.engine.GlideException: Failed to load resource
+11-18 15:46:16.451 30995 30995 W Glide   : There was 1 root cause:
+11-18 15:46:16.451 30995 30995 W Glide   : com.bumptech.glide.load.HttpException(Failed to connect or obtain data, status code: -1)
+11-18 15:46:16.451 30995 30995 W Glide   :  call GlideException#logRootCauses(String) for more detail
+11-18 15:46:16.451 30995 30995 W Glide   :   Cause (1 of 1): class com.bumptech.glide.load.engine.GlideException: Fetching data failed, class java.io.InputStream, REMOTE
+11-18 15:46:16.451 30995 30995 W Glide   : There was 1 root cause:
+11-18 15:46:16.451 30995 30995 W Glide   : com.bumptech.glide.load.HttpException(Failed to connect or obtain data, status code: -1)
+11-18 15:46:16.451 30995 30995 W Glide   :  call GlideException#logRootCauses(String) for more detail
+11-18 15:46:16.451 30995 30995 W Glide   :     Cause (1 of 1): class com.bumptech.glide.load.engine.GlideException: Fetch failed
+11-18 15:46:16.451 30995 30995 W Glide   : There was 1 root cause:
+11-18 15:46:16.451 30995 30995 W Glide   : com.bumptech.glide.load.HttpException(Failed to connect or obtain data, status code: -1)
+11-18 15:46:16.451 30995 30995 W Glide   :  call GlideException#logRootCauses(String) for more detail
+11-18 15:46:16.451 30995 30995 W Glide   :       Cause (1 of 1): class com.bumptech.glide.load.HttpException: Failed to connect or obtain data, status code: -1
+11-18 15:46:16.454 30995 30995 I Glide   : Root cause (1 of 1)
+11-18 15:46:16.454 30995 30995 I Glide   : com.bumptech.glide.load.HttpException: Failed to connect or obtain data, status code: -1
+11-18 15:46:16.454 30995 30995 I Glide   : 	at com.bumptech.glide.load.data.HttpUrlFetcher.loadDataWithRedirects(HttpUrlFetcher.java:98)
+11-18 15:46:16.454 30995 30995 I Glide   : 	at com.bumptech.glide.load.data.HttpUrlFetcher.loadData(HttpUrlFetcher.java:58)
+11-18 15:46:16.454 30995 30995 I Glide   : 	at com.bumptech.glide.load.model.MultiModelLoader$MultiFetcher.loadData(MultiModelLoader.java:100)
+11-18 15:46:16.454 30995 30995 I Glide   : 	at com.bumptech.glide.load.engine.SourceGenerator.startNextLoad(SourceGenerator.java:95)
+11-18 15:46:16.454 30995 30995 I Glide   : 	at com.bumptech.glide.load.engine.SourceGenerator.startNext(SourceGenerator.java:88)
+11-18 15:46:16.454 30995 30995 I Glide   : 	at com.bumptech.glide.load.engine.DecodeJob.runGenerators(DecodeJob.java:311)
+11-18 15:46:16.454 30995 30995 I Glide   : 	at com.bumptech.glide.load.engine.DecodeJob.runWrapped(DecodeJob.java:280)
+11-18 15:46:16.454 30995 30995 I Glide   : 	at com.bumptech.glide.load.engine.DecodeJob.run(DecodeJob.java:235)
+11-18 15:46:16.454 30995 30995 I Glide   : 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167)
+11-18 15:46:16.454 30995 30995 I Glide   : 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641)
+11-18 15:46:16.454 30995 30995 I Glide   : 	at com.bumptech.glide.load.engine.executor.GlideExecutor$DefaultThreadFactory$1.run(GlideExecutor.java:421)
+11-18 15:46:16.454 30995 30995 I Glide   : 	at java.lang.Thread.run(Thread.java:923)
+11-18 15:46:16.454 30995 30995 I Glide   : 	at com.bumptech.glide.load.engine.executor.GlideExecutor$DefaultPriorityThreadFactory$1.run(GlideExecutor.java:380)
+11-18 15:46:16.454 30995 30995 I Glide   : Caused by: java.net.SocketTimeoutException: timeout
+11-18 15:46:16.454 30995 30995 I Glide   : 	at com.android.okhttp.okio.Okio$3.newTimeoutException(Okio.java:214)
+11-18 15:46:16.454 30995 30995 I Glide   : 	at com.android.okhttp.okio.AsyncTimeout.exit(AsyncTimeout.java:263)
+11-18 15:46:16.454 30995 30995 I Glide   : 	at com.android.okhttp.okio.AsyncTimeout$2.read(AsyncTimeout.java:217)
+11-18 15:46:16.454 30995 30995 I Glide   : 	at com.android.okhttp.okio.RealBufferedSource.indexOf(RealBufferedSource.java:307)
+11-18 15:46:16.454 30995 30995 I Glide   : 	at com.android.okhttp.okio.RealBufferedSource.indexOf(RealBufferedSource.java:301)
+11-18 15:46:16.454 30995 30995 I Glide   : 	at com.android.okhttp.okio.RealBufferedSource.readUtf8LineStrict(RealBufferedSource.java:197)
+11-18 15:46:16.454 30995 30995 I Glide   : 	at com.android.okhttp.internal.http.Http1xStream.readResponse(Http1xStream.java:188)
+11-18 15:46:16.454 30995 30995 I Glide   : 	at com.android.okhttp.internal.http.Http1xStream.readResponseHeaders(Http1xStream.java:129)
+11-18 15:46:16.454 30995 30995 I Glide   : 	at com.android.okhttp.internal.http.HttpEngine.readNetworkResponse(HttpEngine.java:750)
+11-18 15:46:16.454 30995 30995 I Glide   : 	at com.android.okhttp.internal.http.HttpEngine.readResponse(HttpEngine.java:622)
+11-18 15:46:16.454 30995 30995 I Glide   : 	at com.android.okhttp.internal.huc.HttpURLConnectionImpl.execute(HttpURLConnectionImpl.java:475)
+11-18 15:46:16.454 30995 30995 I Glide   : 	at com.android.okhttp.internal.huc.HttpURLConnectionImpl.getResponse(HttpURLConnectionImpl.java:411)
+11-18 15:46:16.454 30995 30995 I Glide   : 	at com.android.okhttp.internal.huc.HttpURLConnectionImpl.getInputStream(HttpURLConnectionImpl.java:248)
+11-18 15:46:16.454 30995 30995 I Glide   : 	at com.bumptech.glide.load.data.HttpUrlFetcher.loadDataWithRedirects(HttpUrlFetcher.java:95)
+11-18 15:46:16.454 30995 30995 I Glide   : 	... 12 more
+11-18 15:46:16.454 30995 30995 I Glide   : Caused by: java.net.SocketException: Socket closed
+11-18 15:46:16.454 30995 30995 I Glide   : 	at java.net.SocketInputStream.read(SocketInputStream.java:209)
+11-18 15:46:16.454 30995 30995 I Glide   : 	at java.net.SocketInputStream.read(SocketInputStream.java:144)
+11-18 15:46:16.454 30995 30995 I Glide   : 	at com.android.okhttp.okio.Okio$2.read(Okio.java:138)
+11-18 15:46:16.454 30995 30995 I Glide   : 	at com.android.okhttp.okio.AsyncTimeout$2.read(AsyncTimeout.java:213)
+11-18 15:46:16.454 30995 30995 I Glide   : 	... 23 more
+11-18 15:46:16.456 30995 30995 W Glide   : Load failed for [http://dockerproxmox.duckdns.org:8125/img/80/raw] with dimensions [275x275]
+11-18 15:46:16.456 30995 30995 W Glide   : class com.bumptech.glide.load.engine.GlideException: Failed to load resource
+11-18 15:46:16.456 30995 30995 W Glide   : There was 1 root cause:
+11-18 15:46:16.456 30995 30995 W Glide   : com.bumptech.glide.load.HttpException(Failed to connect or obtain data, status code: -1)
+11-18 15:46:16.456 30995 30995 W Glide   :  call GlideException#logRootCauses(String) for more detail
+11-18 15:46:16.456 30995 30995 W Glide   :   Cause (1 of 1): class com.bumptech.glide.load.engine.GlideException: Fetching data failed, class java.io.InputStream, REMOTE
+11-18 15:46:16.456 30995 30995 W Glide   : There was 1 root cause:
+11-18 15:46:16.456 30995 30995 W Glide   : com.bumptech.glide.load.HttpException(Failed to connect or obtain data, status code: -1)
+11-18 15:46:16.456 30995 30995 W Glide   :  call GlideException#logRootCauses(String) for more detail
+11-18 15:46:16.456 30995 30995 W Glide   :     Cause (1 of 1): class com.bumptech.glide.load.engine.GlideException: Fetch failed
+11-18 15:46:16.456 30995 30995 W Glide   : There was 1 root cause:
+11-18 15:46:16.456 30995 30995 W Glide   : com.bumptech.glide.load.HttpException(Failed to connect or obtain data, status code: -1)
+11-18 15:46:16.456 30995 30995 W Glide   :  call GlideException#logRootCauses(String) for more detail
+11-18 15:46:16.456 30995 30995 W Glide   :       Cause (1 of 1): class com.bumptech.glide.load.HttpException: Failed to connect or obtain data, status code: -1
+11-18 15:46:16.458 30995 30995 I Glide   : Root cause (1 of 1)
+11-18 15:46:16.458 30995 30995 I Glide   : com.bumptech.glide.load.HttpException: Failed to connect or obtain data, status code: -1
+11-18 15:46:16.458 30995 30995 I Glide   : 	at com.bumptech.glide.load.data.HttpUrlFetcher.loadDataWithRedirects(HttpUrlFetcher.java:98)
+11-18 15:46:16.458 30995 30995 I Glide   : 	at com.bumptech.glide.load.data.HttpUrlFetcher.loadData(HttpUrlFetcher.java:58)
+11-18 15:46:16.458 30995 30995 I Glide   : 	at com.bumptech.glide.load.model.MultiModelLoader$MultiFetcher.loadData(MultiModelLoader.java:100)
+11-18 15:46:16.458 30995 30995 I Glide   : 	at com.bumptech.glide.load.engine.SourceGenerator.startNextLoad(SourceGenerator.java:95)
+11-18 15:46:16.458 30995 30995 I Glide   : 	at com.bumptech.glide.load.engine.SourceGenerator.startNext(SourceGenerator.java:88)
+11-18 15:46:16.458 30995 30995 I Glide   : 	at com.bumptech.glide.load.engine.DecodeJob.runGenerators(DecodeJob.java:311)
+11-18 15:46:16.458 30995 30995 I Glide   : 	at com.bumptech.glide.load.engine.DecodeJob.runWrapped(DecodeJob.java:280)
+11-18 15:46:16.458 30995 30995 I Glide   : 	at com.bumptech.glide.load.engine.DecodeJob.run(DecodeJob.java:235)
+11-18 15:46:16.458 30995 30995 I Glide   : 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167)
+11-18 15:46:16.458 30995 30995 I Glide   : 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641)
+11-18 15:46:16.458 30995 30995 I Glide   : 	at com.bumptech.glide.load.engine.executor.GlideExecutor$DefaultThreadFactory$1.run(GlideExecutor.java:421)
+11-18 15:46:16.458 30995 30995 I Glide   : 	at java.lang.Thread.run(Thread.java:923)
+11-18 15:46:16.458 30995 30995 I Glide   : 	at com.bumptech.glide.load.engine.executor.GlideExecutor$DefaultPriorityThreadFactory$1.run(GlideExecutor.java:380)
+11-18 15:46:16.458 30995 30995 I Glide   : Caused by: java.net.SocketTimeoutException: timeout
+11-18 15:46:16.458 30995 30995 I Glide   : 	at com.android.okhttp.okio.Okio$3.newTimeoutException(Okio.java:214)
+11-18 15:46:16.458 30995 30995 I Glide   : 	at com.android.okhttp.okio.AsyncTimeout.exit(AsyncTimeout.java:263)
+11-18 15:46:16.458 30995 30995 I Glide   : 	at com.android.okhttp.okio.AsyncTimeout$2.read(AsyncTimeout.java:217)
+11-18 15:46:16.458 30995 30995 I Glide   : 	at com.android.okhttp.okio.RealBufferedSource.indexOf(RealBufferedSource.java:307)
+11-18 15:46:16.458 30995 30995 I Glide   : 	at com.android.okhttp.okio.RealBufferedSource.indexOf(RealBufferedSource.java:301)
+11-18 15:46:16.458 30995 30995 I Glide   : 	at com.android.okhttp.okio.RealBufferedSource.readUtf8LineStrict(RealBufferedSource.java:197)
+11-18 15:46:16.458 30995 30995 I Glide   : 	at com.android.okhttp.internal.http.Http1xStream.readResponse(Http1xStream.java:188)
+11-18 15:46:16.458 30995 30995 I Glide   : 	at com.android.okhttp.internal.http.Http1xStream.readResponseHeaders(Http1xStream.java:129)
+11-18 15:46:16.458 30995 30995 I Glide   : 	at com.android.okhttp.internal.http.HttpEngine.readNetworkResponse(HttpEngine.java:750)
+11-18 15:46:16.458 30995 30995 I Glide   : 	at com.android.okhttp.internal.http.HttpEngine.readResponse(HttpEngine.java:622)
+11-18 15:46:16.458 30995 30995 I Glide   : 	at com.android.okhttp.internal.huc.HttpURLConnectionImpl.execute(HttpURLConnectionImpl.java:475)
+11-18 15:46:16.458 30995 30995 I Glide   : 	at com.android.okhttp.internal.huc.HttpURLConnectionImpl.getResponse(HttpURLConnectionImpl.java:411)
+11-18 15:46:16.458 30995 30995 I Glide   : 	at com.android.okhttp.internal.huc.HttpURLConnectionImpl.getInputStream(HttpURLConnectionImpl.java:248)
+11-18 15:46:16.458 30995 30995 I Glide   : 	at com.bumptech.glide.load.data.HttpUrlFetcher.loadDataWithRedirects(HttpUrlFetcher.java:95)
+11-18 15:46:16.458 30995 30995 I Glide   : 	... 12 more
+11-18 15:46:16.458 30995 30995 I Glide   : Caused by: java.net.SocketException: Socket closed
+11-18 15:46:16.458 30995 30995 I Glide   : 	at java.net.SocketInputStream.read(SocketInputStream.java:209)
+11-18 15:46:16.458 30995 30995 I Glide   : 	at java.net.SocketInputStream.read(SocketInputStream.java:144)
+11-18 15:46:16.458 30995 30995 I Glide   : 	at com.android.okhttp.okio.Okio$2.read(Okio.java:138)
+11-18 15:46:16.458 30995 30995 I Glide   : 	at com.android.okhttp.okio.AsyncTimeout$2.read(AsyncTimeout.java:213)
+11-18 15:46:16.458 30995 30995 I Glide   : 	... 23 more
+11-18 15:46:19.309 30995 32654 W SendBird: [15:46:19.304 SocketManager:onError():1002] >> onError : Server is unreachable., reconnecting : false, explicitDisconnect : false
+11-18 15:46:19.359 30995 32654 E PINGER  : [15:46:19.357 Connection$Pinger:stop():522] Pinger stop true
+11-18 15:46:19.362 30995 32654 E Sendbird:PINGER: [15:46:19.360 Connection$Pinger:stop():523] Pinger stop true
+11-18 15:46:19.374 30995 32659 W SendBird: [15:46:19.373 Connection$1:onFailure():250] onFailed instance : com.sendbird.android.Connection@71e9024
+11-18 15:46:19.383 30995 32659 W Sendbird: [15:46:19.378 Connection$1:onFailure():251] onFailed instance : com.sendbird.android.Connection@71e9024
+11-18 15:46:19.385 30995 32659 W SendBird: [15:46:19.383 Connection$1:onFailure():256] onFailed handler : com.sendbird.android.SocketManager@3495266
+11-18 15:46:19.386 30995 32659 W Sendbird: [15:46:19.385 Connection$1:onFailure():257] onFailed handler : com.sendbird.android.SocketManager@3495266
+11-18 15:46:19.388 30995 32659 W SendBird: [15:46:19.387 SocketManager:onError():1002] >> onError : Socket is closed, reconnecting : true, explicitDisconnect : true
+11-18 15:46:19.652 30995 32661 W SendBird: [15:46:19.650 Connection$1:onMessage():235] onMessage instance : [LOGI] com.sendbird.android.Connection@6620e76
+11-18 15:46:19.655 30995 32661 W Sendbird: [15:46:19.653 Connection$1:onMessage():236] onMessage instance : [LOGI] com.sendbird.android.Connection@6620e76
+11-18 15:46:19.663 30995 31593 W SendBird: [15:46:19.662 EventController$1:call():141] ++ result[LOGI] runnable=null
+11-18 15:46:19.726 30995 32661 W SendBird: [15:46:19.726 Connection$1:onMessage():235] onMessage instance : [PONG] com.sendbird.android.Connection@6620e76
+11-18 15:46:19.727 30995 32661 W Sendbird: [15:46:19.727 Connection$1:onMessage():236] onMessage instance : [PONG] com.sendbird.android.Connection@6620e76
+11-18 15:46:19.731 30995 31593 W SendBird: [15:46:19.731 EventController$1:call():141] ++ result[PONG] runnable=null
+11-18 15:46:34.741 30995 32661 W SendBird: [15:46:34.739 Connection$1:onMessage():235] onMessage instance : [PONG] com.sendbird.android.Connection@6620e76
+11-18 15:46:34.742 30995 32661 W Sendbird: [15:46:34.741 Connection$1:onMessage():236] onMessage instance : [PONG] com.sendbird.android.Connection@6620e76
+11-18 15:46:34.747 30995 31593 W SendBird: [15:46:34.747 EventController$1:call():141] ++ result[PONG] runnable=null
