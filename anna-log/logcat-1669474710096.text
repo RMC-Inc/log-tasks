@@ -1,0 +1,1253 @@
+--------- beginning of system
+11-26 15:53:35.742  9494  9494 I Quality : Skipped: false 6 cost 73.84256 refreshRate 11111111 processName com.rmc.natour21
+11-26 15:53:35.839  9494  9494 I Quality : Skipped: false 2 cost 25.345196 refreshRate 11111111 processName com.rmc.natour21
+11-26 15:53:35.869  9494  9494 I Quality : Skipped: true 1 cost 21.8186 refreshRate 11111111 processName com.rmc.natour21
+11-26 15:53:35.893  9494  9494 I Quality : Skipped: true 2 cost 22.914484 refreshRate 11111111 processName com.rmc.natour21
+11-26 15:53:35.926  9494  9494 I Quality : Skipped: true 2 cost 22.804195 refreshRate 11111111 processName com.rmc.natour21
+11-26 15:53:35.958  9494  9494 I Quality : Skipped: false 1 cost 21.145573 refreshRate 11111111 processName com.rmc.natour21
+11-26 15:53:42.319  9494  9494 V OplusZoomWindowDecorViewHelper: removeZoomView
+11-26 15:53:42.348  9494  9494 I Quality : Skipped: true 1 cost 21.468956 refreshRate 11111111 processName com.rmc.natour21
+11-26 15:53:44.031  9494  9494 I Quality : Skipped: false 6 cost 67.425285 refreshRate 11111111 processName com.rmc.natour21
+11-26 15:53:44.046  9494  9494 V OplusZoomWindowDecorViewHelper: setLastReportedMergedConfiguration mZoomDisplayHeight: 2400 getDecorView.52110010
+11-26 15:53:44.085  9494  9494 I Quality : Skipped: false 4 cost 53.430664 refreshRate 11111111 processName com.rmc.natour21
+11-26 15:53:44.099  9494  9494 I Quality : Skipped: false 1 cost 11.541203 refreshRate 11111111 processName com.rmc.natour21
+11-26 15:53:47.210  9494  9494 V OplusZoomWindowDecorViewHelper: removeZoomView
+11-26 15:53:47.230  9494  9494 I Quality : Skipped: true 1 cost 12.415774 refreshRate 11111111 processName com.rmc.natour21
+11-26 15:53:56.430  9494  9494 I Quality : Skipped: false 5 cost 64.19672 refreshRate 11111111 processName com.rmc.natour21
+11-26 15:53:56.444  9494  9494 V OplusZoomWindowDecorViewHelper: setLastReportedMergedConfiguration mZoomDisplayHeight: 2400 getDecorView.107710424
+11-26 15:53:56.477  9494  9494 I Quality : Skipped: false 3 cost 42.260662 refreshRate 11111111 processName com.rmc.natour21
+11-26 15:53:56.491  9494  9494 I Quality : Skipped: false 1 cost 11.534953 refreshRate 11111111 processName com.rmc.natour21
+11-26 15:54:01.822  9494  9494 V OplusZoomWindowDecorViewHelper: removeZoomView
+11-26 15:54:01.931  9494  9494 I Quality : Skipped: false 3 cost 33.936127 refreshRate 11111111 processName com.rmc.natour21
+11-26 15:54:29.932  9494  9494 I Quality : Skipped: false 4 cost 54.641216 refreshRate 11111111 processName com.rmc.natour21
+11-26 15:54:29.946  9494  9494 V OplusZoomWindowDecorViewHelper: setLastReportedMergedConfiguration mZoomDisplayHeight: 2400 getDecorView.217095351
+11-26 15:54:29.983  9494  9494 I Quality : Skipped: false 4 cost 50.42154 refreshRate 11111111 processName com.rmc.natour21
+11-26 15:54:30.024  9494  9494 I Quality : Skipped: false 1 cost 11.491216 refreshRate 11111111 processName com.rmc.natour21
+11-26 15:54:35.105  9494  9494 I Quality : ActivityThread: activityStart delay 99 com.rmc.natour21 9494
+11-26 15:54:35.120  9494  9494 I Quality : Skipped: false 9 cost 103.8212 refreshRate 11111111 processName com.rmc.natour21
+11-26 15:54:35.140  9494  9494 V OplusZoomWindowDecorViewHelper: setLastReportedMergedConfiguration mZoomDisplayHeight: 2400 getDecorView.267043693
+11-26 15:54:35.171  9494  9494 I Quality : Skipped: false 3 cost 42.34588 refreshRate 11111111 processName com.rmc.natour21
+11-26 15:54:35.186  9494  9494 I Quality : Skipped: false 1 cost 13.260905 refreshRate 11111111 processName com.rmc.natour21
+11-26 15:54:35.235  9494  9494 I Quality : Skipped: false 1 cost 17.112032 refreshRate 11111111 processName com.rmc.natour21
+11-26 15:54:38.095  9494  9494 I Quality : Skipped: false 13 cost 145.64069 refreshRate 11111111 processName com.rmc.natour21
+11-26 15:54:38.110  9494  9494 I Quality : Skipped: false 1 cost 14.295623 refreshRate 11111111 processName com.rmc.natour21
+11-26 15:54:38.169  9494  9494 I Quality : Skipped: false 1 cost 17.523392 refreshRate 11111111 processName com.rmc.natour21
+11-26 15:54:38.192  9494  9494 I Quality : Skipped: true 1 cost 17.39707 refreshRate 11111111 processName com.rmc.natour21
+11-26 15:54:38.211  9494  9494 I Quality : Skipped: false 1 cost 14.736725 refreshRate 11111111 processName com.rmc.natour21
+11-26 15:54:38.540  9494  9494 V OplusZoomWindowDecorViewHelper: removeZoomView
+11-26 15:55:08.178  9494  9494 I Quality : Skipped: false 2 cost 31.58734 refreshRate 11111111 processName com.rmc.natour21
+11-26 15:55:08.258  9494  9494 I Quality : Skipped: true 1 cost 12.909216 refreshRate 11111111 processName com.rmc.natour21
+11-26 15:55:46.008  9494  9494 I Quality : Skipped: false 17 cost 192.58159 refreshRate 11111111 processName com.rmc.natour21
+11-26 15:55:46.063  9494  9494 I Quality : Skipped: true 1 cost 12.402952 refreshRate 11111111 processName com.rmc.natour21
+11-26 15:55:46.108  9494  9494 I Quality : Skipped: true 1 cost 12.872161 refreshRate 11111111 processName com.rmc.natour21
+11-26 15:56:15.300  9494  9494 I Quality : Skipped: false 2 cost 24.495647 refreshRate 11111111 processName com.rmc.natour21
+11-26 15:56:15.346  9494  9494 I Quality : Skipped: true 1 cost 14.070404 refreshRate 11111111 processName com.rmc.natour21
+11-26 15:56:40.031  9494  9494 I Quality : Skipped: false 1 cost 11.336922 refreshRate 11111111 processName com.rmc.natour21
+11-26 15:56:40.310  9494  9494 I Quality : Skipped: false 11 cost 132.44957 refreshRate 11111111 processName com.rmc.natour21
+11-26 15:56:40.385  9494  9494 I Quality : Skipped: true 1 cost 17.264824 refreshRate 11111111 processName com.rmc.natour21
+11-26 15:56:40.404  9494  9494 I Quality : Skipped: true 1 cost 13.257638 refreshRate 11111111 processName com.rmc.natour21
+11-26 15:56:40.445  9494  9494 I Quality : Skipped: true 1 cost 20.984451 refreshRate 11111111 processName com.rmc.natour21
+11-26 15:56:51.347  9494  9494 I Quality : Skipped: false 1 cost 14.70815 refreshRate 11111111 processName com.rmc.natour21
+11-26 15:56:51.456  9494  9494 I Quality : ActivityThread: activityStart delay 88 com.rmc.natour21 9494
+11-26 15:56:51.474  9494  9494 I Quality : Skipped: false 9 cost 100.5088 refreshRate 11111111 processName com.rmc.natour21
+11-26 15:56:51.494  9494  9494 V OplusZoomWindowDecorViewHelper: setLastReportedMergedConfiguration mZoomDisplayHeight: 2400 getDecorView.234821888
+11-26 15:56:51.533  9494  9494 I Quality : Skipped: false 5 cost 58.3712 refreshRate 11111111 processName com.rmc.natour21
+11-26 15:56:51.577  9494  9494 I Quality : Skipped: true 1 cost 12.249125 refreshRate 11111111 processName com.rmc.natour21
+11-26 15:56:51.655  9494  9494 I Quality : Skipped: true 1 cost 12.34264 refreshRate 11111111 processName com.rmc.natour21
+11-26 15:56:53.522  9494 21776 I Quality : SlowSQLite: /executeForLastInsertedRowId INSERT OR REPLACE  INTO tiles(expires,provider,key,tile) VALUES (?,?,?,?)/ cost= /892
+11-26 15:56:58.119  9494  9494 I Quality : Skipped: false 2 cost 23.68326 refreshRate 11111111 processName com.rmc.natour21
+11-26 15:57:02.089  9494  9494 I Quality : Skipped: false 1 cost 16.823156 refreshRate 11111111 processName com.rmc.natour21
+11-26 15:57:03.540  9494 21777 I Quality : SlowSQLite: /executeForLastInsertedRowId INSERT OR REPLACE  INTO tiles(expires,provider,key,tile) VALUES (?,?,?,?)/ cost= /926
+11-26 15:57:10.449  9494  9494 I Quality : Skipped: false 1 cost 16.65547 refreshRate 11111111 processName com.rmc.natour21
+11-26 15:57:10.483  9494  9494 I Quality : Skipped: false 1 cost 17.494324 refreshRate 11111111 processName com.rmc.natour21
+11-26 15:57:10.502  9494  9494 I Quality : Skipped: false 1 cost 14.056915 refreshRate 11111111 processName com.rmc.natour21
+11-26 15:57:11.644  9494  9494 I Quality : Skipped: false 4 cost 46.037537 refreshRate 11111111 processName com.rmc.natour21
+11-26 15:57:14.244  9494  9494 I Quality : Skipped: false 1 cost 14.581256 refreshRate 11111111 processName com.rmc.natour21
+11-26 15:57:14.412  9494  9494 I Quality : Skipped: false 3 cost 36.471024 refreshRate 11111111 processName com.rmc.natour21
+11-26 15:57:14.438  9494  9494 I Quality : Skipped: false 1 cost 17.69908 refreshRate 11111111 processName com.rmc.natour21
+11-26 15:57:14.455  9494  9494 I Quality : Skipped: false 1 cost 12.134697 refreshRate 11111111 processName com.rmc.natour21
+11-26 15:57:15.039  9494  9494 I Quality : Skipped: false 2 cost 25.295265 refreshRate 11111111 processName com.rmc.natour21
+11-26 15:57:15.060  9494  9494 I Quality : Skipped: false 1 cost 12.62066 refreshRate 11111111 processName com.rmc.natour21
+11-26 15:57:15.095  9494  9494 I Quality : Skipped: false 1 cost 13.542745 refreshRate 11111111 processName com.rmc.natour21
+11-26 15:57:15.547  9494 21776 I Quality : SlowSQLite: /executeForLastInsertedRowId INSERT OR REPLACE  INTO tiles(expires,provider,key,tile) VALUES (?,?,?,?)/ cost= /980
+11-26 15:57:15.604  9494  9494 I Quality : Skipped: false 2 cost 28.337135 refreshRate 11111111 processName com.rmc.natour21
+11-26 15:57:15.633  9494  9494 I Quality : Skipped: false 2 cost 23.595709 refreshRate 11111111 processName com.rmc.natour21
+11-26 15:57:15.672  9494  9494 I Quality : Skipped: false 1 cost 17.535345 refreshRate 11111111 processName com.rmc.natour21
+11-26 15:57:15.778  9494  9494 I Quality : Skipped: false 1 cost 11.731849 refreshRate 11111111 processName com.rmc.natour21
+11-26 15:57:15.823  9494  9494 I Quality : Skipped: false 1 cost 11.399051 refreshRate 11111111 processName com.rmc.natour21
+11-26 15:57:15.857  9494  9494 I Quality : Skipped: false 1 cost 12.187598 refreshRate 11111111 processName com.rmc.natour21
+11-26 15:57:16.350  9494  9494 I Quality : Skipped: false 1 cost 11.397977 refreshRate 11111111 processName com.rmc.natour21
+11-26 15:57:16.406  9494  9494 I Quality : Skipped: false 1 cost 11.227806 refreshRate 11111111 processName com.rmc.natour21
+11-26 15:57:18.867  9494  9494 I Quality : Skipped: false 9 cost 110.66371 refreshRate 11111111 processName com.rmc.natour21
+11-26 15:57:20.611  9494  9494 I Quality : Skipped: false 6 cost 71.57606 refreshRate 11111111 processName com.rmc.natour21
+11-26 15:57:23.465  9494  9494 I Quality : Skipped: false 16 cost 272.1203 refreshRate 16666667 processName com.rmc.natour21
+11-26 15:57:23.665  9494  9494 I Quality : Skipped: false 11 cost 185.85443 refreshRate 16666667 processName com.rmc.natour21
+11-26 15:57:23.808  9494  9494 I Quality : Skipped: false 8 cost 138.46178 refreshRate 16666667 processName com.rmc.natour21
+11-26 15:57:25.459  9494  9494 I Quality : Skipped: false 13 cost 230.82698 refreshRate 16666667 processName com.rmc.natour21
+11-26 15:57:26.135  9494  9494 I Quality : Skipped: false 27 cost 451.53214 refreshRate 16666667 processName com.rmc.natour21
+11-26 15:57:28.799  9494  9494 I Quality : Skipped: false 13 cost 232.20107 refreshRate 16666667 processName com.rmc.natour21
+11-26 15:57:31.578  9494  9494 I Quality : Skipped: false 13 cost 220.36728 refreshRate 16666667 processName com.rmc.natour21
+11-26 15:57:37.597  9494  9494 V OplusZoomWindowDecorViewHelper: removeZoomView
+11-26 15:57:37.613  9494  9527 I Quality : Blocked msg = Package name: com.rmc.natour21 [ schedGroup: 5 schedPolicy: 0 ] process the message: { when=-1s120ms what=0 target=android.view.ViewRootImpl$ViewRootHandler callback=android.widget.AbsListView$PerformClick } took 1102 ms
+11-26 15:57:37.613  9494  9494 I Quality : Skipped: false 66 cost 1100.8715 refreshRate 16666667 processName com.rmc.natour21
+--------- beginning of main
+11-26 15:57:50.168  9494  9494 V AutofillManager: requestHideFillUi(null): anchor = null
+11-26 15:57:51.532  9494  9494 V AutofillManager: requestHideFillUi(null): anchor = null
+11-26 15:57:51.974  9494 21679 W SendBird: [15:57:51.973 Connection$1:onMessage():235] onMessage instance : [PONG] com.sendbird.android.Connection@dff9914
+11-26 15:57:51.975  9494 21679 W Sendbird: [15:57:51.974 Connection$1:onMessage():236] onMessage instance : [PONG] com.sendbird.android.Connection@dff9914
+11-26 15:57:51.979  9494  9779 W SendBird: [15:57:51.979 EventController$1:call():141] ++ result[PONG] runnable=null
+11-26 15:57:52.163  9494  9494 V AutofillManager: requestHideFillUi(null): anchor = null
+11-26 15:57:52.288  9494  9494 I Quality : Skipped: false 1 cost 19.5843 refreshRate 11111111 processName com.rmc.natour21
+11-26 15:57:52.399  9494  9494 I Quality : Skipped: false 2 cost 29.588627 refreshRate 11111111 processName com.rmc.natour21
+11-26 15:57:52.422  9494  9494 I Quality : Skipped: false 1 cost 18.557573 refreshRate 11111111 processName com.rmc.natour21
+11-26 15:57:52.444  9494  9494 I Quality : Skipped: false 1 cost 18.429504 refreshRate 11111111 processName com.rmc.natour21
+11-26 15:57:52.466  9494  9494 I Quality : Skipped: false 1 cost 17.6181 refreshRate 11111111 processName com.rmc.natour21
+11-26 15:57:52.487  9494  9494 I Quality : Skipped: false 1 cost 16.205954 refreshRate 11111111 processName com.rmc.natour21
+11-26 15:57:52.509  9494  9494 I Quality : Skipped: false 1 cost 16.30648 refreshRate 11111111 processName com.rmc.natour21
+11-26 15:57:52.528  9494  9494 I Quality : Skipped: false 1 cost 12.520341 refreshRate 11111111 processName com.rmc.natour21
+11-26 15:57:52.583  9494  9494 I Quality : Skipped: false 1 cost 11.420515 refreshRate 11111111 processName com.rmc.natour21
+11-26 15:57:52.784  9494  9494 V AutofillManager: requestHideFillUi(null): anchor = null
+11-26 15:57:53.103  9494  9494 I Quality : Skipped: false 3 cost 37.790455 refreshRate 11111111 processName com.rmc.natour21
+11-26 15:57:53.127  9494  9494 I Quality : Skipped: false 1 cost 16.681742 refreshRate 11111111 processName com.rmc.natour21
+11-26 15:57:53.200  9494  9494 I Quality : Skipped: false 1 cost 11.724816 refreshRate 11111111 processName com.rmc.natour21
+11-26 15:57:53.268  9494  9494 I Quality : Skipped: false 1 cost 12.207375 refreshRate 11111111 processName com.rmc.natour21
+11-26 15:57:53.507  9494  9494 V AutofillManager: requestHideFillUi(null): anchor = null
+11-26 15:57:53.810  9494  9494 I Quality : Skipped: false 2 cost 32.401543 refreshRate 11111111 processName com.rmc.natour21
+11-26 15:57:53.845  9494  9494 I Quality : Skipped: false 2 cost 22.878489 refreshRate 11111111 processName com.rmc.natour21
+11-26 15:57:53.872  9494  9494 I Quality : Skipped: false 1 cost 15.561013 refreshRate 11111111 processName com.rmc.natour21
+11-26 15:57:53.896  9494  9494 I Quality : Skipped: false 1 cost 17.109821 refreshRate 11111111 processName com.rmc.natour21
+11-26 15:57:53.920  9494  9494 I Quality : Skipped: false 1 cost 18.72698 refreshRate 11111111 processName com.rmc.natour21
+11-26 15:57:53.945  9494  9494 I Quality : Skipped: false 1 cost 21.358973 refreshRate 11111111 processName com.rmc.natour21
+11-26 15:57:53.960  9494  9494 I Quality : Skipped: false 1 cost 14.334151 refreshRate 11111111 processName com.rmc.natour21
+11-26 15:57:54.038  9494  9494 I Quality : Skipped: false 1 cost 13.295437 refreshRate 11111111 processName com.rmc.natour21
+11-26 15:57:54.096  9494  9494 I Quality : Skipped: false 3 cost 38.269623 refreshRate 11111111 processName com.rmc.natour21
+11-26 15:57:57.852  9494  9494 V AutofillManager: requestHideFillUi(null): anchor = null
+11-26 15:57:59.627  9494  9494 V AutofillManager: requestHideFillUi(null): anchor = null
+11-26 15:58:00.069  9494  9494 V AutofillManager: requestHideFillUi(null): anchor = null
+11-26 15:58:00.462  9494  9494 V AutofillManager: requestHideFillUi(null): anchor = null
+11-26 15:58:01.299  9494  9494 V AutofillManager: requestHideFillUi(null): anchor = null
+11-26 15:58:01.674  9494  9494 V AutofillManager: requestHideFillUi(null): anchor = null
+11-26 15:58:01.976  9494  9494 V AutofillManager: requestHideFillUi(null): anchor = null
+11-26 15:58:02.279  9494  9494 V AutofillManager: requestHideFillUi(null): anchor = null
+11-26 15:58:02.599  9494  9494 V AutofillManager: requestHideFillUi(null): anchor = null
+11-26 15:58:02.921  9494  9494 V AutofillManager: requestHideFillUi(null): anchor = null
+11-26 15:58:03.314  9494  9584 I libPerfCtl: fbcNotifySbeRescue ret=-1
+11-26 15:58:03.331  9494  9584 I libPerfCtl: fbcNotifySbeRescue ret=-1
+11-26 15:58:03.335  9494  9494 I Quality : Skipped: false 1 cost 16.005604 refreshRate 11111111 processName com.rmc.natour21
+11-26 15:58:04.416  9494  9494 V AutofillManager: requestHideFillUi(null): anchor = null
+11-26 15:58:06.975  9494 21679 W SendBird: [15:58:06.974 Connection$1:onMessage():235] onMessage instance : [PONG] com.sendbird.android.Connection@dff9914
+11-26 15:58:06.977  9494 21679 W Sendbird: [15:58:06.976 Connection$1:onMessage():236] onMessage instance : [PONG] com.sendbird.android.Connection@dff9914
+11-26 15:58:06.982  9494  9779 W SendBird: [15:58:06.982 EventController$1:call():141] ++ result[PONG] runnable=null
+11-26 15:58:14.451  9494  9494 V AutofillManager: requestHideFillUi(null): anchor = null
+11-26 15:58:14.451  9494  9494 D OplusSystemUINavigationGesture: [GESTURE_BUTTON] swipe from 0
+11-26 15:58:14.452  9494  9494 D OplusSystemUINavigationGesture: [GESTURE_BUTTON] Hit Gesture Region !
+11-26 15:58:17.239  9494  9494 V AutofillManager: requestHideFillUi(null): anchor = null
+11-26 15:58:17.240  9494  9494 D OplusSystemUINavigationGesture: [GESTURE_BUTTON] swipe from 0
+11-26 15:58:17.240  9494  9494 D OplusSystemUINavigationGesture: [GESTURE_BUTTON] Hit Gesture Region !
+11-26 15:58:17.423  9494  9494 I Quality : Skipped: false 1 cost 13.324509 refreshRate 11111111 processName com.rmc.natour21
+11-26 15:58:17.430  9494 22943 V FA      : Recording user engagement, ms: 85969
+11-26 15:58:17.449  9494 22943 V FA      : Connecting to remote service
+11-26 15:58:17.467  9494  9494 I BufferQueueConsumer: [](id:251600000024,api:0,p:-1,c:9494) connect: controlledByApp=false
+11-26 15:58:17.467  9494  9494 I BLASTBufferQueue: [ViewRootImpl[com.rmc.natour21/com.rmc.natour21.MainActivity]#36] constructor()
+11-26 15:58:17.469  9494  9572 I BufferQueueProducer: [ViewRootImpl[com.rmc.natour21/com.rmc.natour21.MainActivity]#36(BLAST Consumer)36](id:251600000024,api:1,p:9494,c:9494) connect: api=1 producerControlledByApp=true
+11-26 15:58:17.470  9494 22943 V FA      : Connection attempt already in progress
+11-26 15:58:17.470  9494 22943 V FA      : Activity paused, time: 3107868146
+11-26 15:58:17.470  9494 22943 V FA      : Activity resumed, time: 3107868163
+11-26 15:58:17.482  9494 22943 V FA      : Connection attempt already in progress
+11-26 15:58:17.482  9494 22943 V FA      : Connection attempt already in progress
+11-26 15:58:17.498  9494  9524 D SurfaceComposerClient: VRR [FRTC] client handle [bufferId:18446744073709551615 framenumber:0] [ffffffff, ffffffff]
+11-26 15:58:17.586  9494  9494 I BufferQueueConsumer: [](id:251600000025,api:0,p:-1,c:9494) connect: controlledByApp=false
+11-26 15:58:17.586  9494  9494 I BLASTBufferQueue: [ViewRootImpl[com.rmc.natour21/com.rmc.natour21.MainActivity]#37] constructor()
+11-26 15:58:17.587  9494  9572 I BufferQueueProducer: [ViewRootImpl[com.rmc.natour21/com.rmc.natour21.MainActivity]#37(BLAST Consumer)37](id:251600000025,api:1,p:9494,c:9494) connect: api=1 producerControlledByApp=true
+11-26 15:58:17.640  9494  9494 I Quality : Skipped: false 16 cost 185.55411 refreshRate 11111111 processName com.rmc.natour21
+11-26 15:58:17.644  9494  9524 D SurfaceComposerClient: VRR [FRTC] client handle [bufferId:18446744073709551615 framenumber:0] [ffffffff, ffffffff]
+11-26 15:58:17.680  9494  9494 E Parcel  : Reading a NULL string not supported here.
+11-26 15:58:17.681  9494 22943 D FA      : Connected to remote service
+11-26 15:58:17.681  9494  9494 I Quality : Skipped: true 1 cost 12.723538 refreshRate 11111111 processName com.rmc.natour21
+11-26 15:58:17.682  9494 22943 V FA      : Processing queued up service tasks: 4
+11-26 15:58:17.714  9494  9494 I Quality : Skipped: false 1 cost 12.3119 refreshRate 11111111 processName com.rmc.natour21
+11-26 15:58:18.074  9494  9572 I BufferQueueProducer: [ViewRootImpl[com.rmc.natour21/com.rmc.natour21.Fragment.home.search.GeographicAreaActivity]#34(BLAST Consumer)34](id:251600000022,api:1,p:9494,c:9494) disconnect: api 1
+11-26 15:58:18.075  9494  9572 E BLASTBufferQueue: BLASTBufferItemConsumer::onDisconnect()
+11-26 15:58:18.075  9494  9572 D OpenGLRenderer: endAllActiveAnimators on 0xb400006eb605ea00 (RippleDrawable) with handle 0xb400006ec3fd5c00
+11-26 15:58:18.089  9494  9494 I BLASTBufferQueue: [ViewRootImpl[com.rmc.natour21/com.rmc.natour21.Fragment.home.search.GeographicAreaActivity]#34] destructor()
+11-26 15:58:18.089  9494  9494 I BufferQueueConsumer: [ViewRootImpl[com.rmc.natour21/com.rmc.natour21.Fragment.home.search.GeographicAreaActivity]#34(BLAST Consumer)34](id:251600000022,api:0,p:-1,c:9494) disconnect
+11-26 15:58:18.095  9494  9494 V AutofillManager: updateSessionLocked(): id=null, bounds=null, value=null, action=5, flags=0
+11-26 15:58:18.096  9494  9494 D AutofillManager: onActivityFinishing(): calling cancelLocked()
+11-26 15:58:18.096  9494  9494 V AutofillManager: cancelSessionLocked(): FINISHED
+11-26 15:58:18.103  9494  9494 V OplusZoomWindowDecorViewHelper: removeZoomView
+11-26 15:58:18.103  9494  9494 D View    : [Warning] assignParent to null: this = DecorView@dff1900[GeographicAreaActivity]
+11-26 15:58:18.116  9494  9783 I BLASTBufferQueue: releaseBufferCallbackThunk bufferId:40776419508434 framenumber:2484 blastBufferQueue is dead
+11-26 15:58:20.902  9494  9494 V AutofillManager: requestHideFillUi(null): anchor = null
+11-26 15:58:21.057  9494  9494 V OplusZoomWindowDecorViewHelper: removeZoomView
+11-26 15:58:21.058  9494  9572 I BufferQueueProducer: [ViewRootImpl[com.rmc.natour21/com.rmc.natour21.MainActivity]#36(BLAST Consumer)36](id:251600000024,api:1,p:9494,c:9494) disconnect: api 1
+11-26 15:58:21.058  9494  9572 E BLASTBufferQueue: BLASTBufferItemConsumer::onDisconnect()
+11-26 15:58:21.058  9494  9572 D OpenGLRenderer: endAllActiveAnimators on 0xb400006ec2a1a600 (RippleDrawable) with handle 0xb400006ec3fd5c00
+11-26 15:58:21.059  9494  9494 D View    : [Warning] assignParent to null: this = DecorView@cf09cb7[MainActivity]
+11-26 15:58:21.067  9494  9783 I BLASTBufferQueue: [ViewRootImpl[com.rmc.natour21/com.rmc.natour21.MainActivity]#36] destructor()
+11-26 15:58:21.067  9494  9783 I BufferQueueConsumer: [ViewRootImpl[com.rmc.natour21/com.rmc.natour21.MainActivity]#36(BLAST Consumer)36](id:251600000024,api:0,p:-1,c:9494) disconnect
+11-26 15:58:21.078  9494  9494 I Quality : Skipped: true 2 cost 23.544992 refreshRate 11111111 processName com.rmc.natour21
+11-26 15:58:21.240  9494  9783 I BLASTBufferQueue: releaseBufferCallbackThunk bufferId:40776419508458 framenumber:14 blastBufferQueue is dead
+11-26 15:58:21.986  9494 21679 W SendBird: [15:58:21.985 Connection$1:onMessage():235] onMessage instance : [PONG] com.sendbird.android.Connection@dff9914
+11-26 15:58:21.987  9494 21679 W Sendbird: [15:58:21.986 Connection$1:onMessage():236] onMessage instance : [PONG] com.sendbird.android.Connection@dff9914
+11-26 15:58:21.995  9494  9779 W SendBird: [15:58:21.994 EventController$1:call():141] ++ result[PONG] runnable=null
+11-26 15:58:22.715  9494 22943 V FA      : Inactivity, disconnecting from the service
+11-26 15:58:23.862  9494  9494 I Quality : Skipped: true 1 cost 19.647156 refreshRate 11111111 processName com.rmc.natour21
+11-26 15:58:23.910  9494  9494 I Quality : Skipped: true 1 cost 15.238528 refreshRate 11111111 processName com.rmc.natour21
+11-26 15:58:24.543  9494 22943 V FA      : Recording user engagement, ms: 7092
+11-26 15:58:24.550  9494  9572 I BufferQueueProducer: [ViewRootImpl[com.rmc.natour21/com.rmc.natour21.MainActivity]#37(BLAST Consumer)37](id:251600000025,api:1,p:9494,c:9494) disconnect: api 1
+11-26 15:58:24.552  9494  9572 E BLASTBufferQueue: BLASTBufferItemConsumer::onDisconnect()
+11-26 15:58:24.565  9494  9494 I BLASTBufferQueue: [ViewRootImpl[com.rmc.natour21/com.rmc.natour21.MainActivity]#37] destructor()
+11-26 15:58:24.565  9494  9494 I BufferQueueConsumer: [ViewRootImpl[com.rmc.natour21/com.rmc.natour21.MainActivity]#37(BLAST Consumer)37](id:251600000025,api:0,p:-1,c:9494) disconnect
+11-26 15:58:24.598  9494 22943 V FA      : Connecting to remote service
+11-26 15:58:24.603  9494 22943 V FA      : Connection attempt already in progress
+11-26 15:58:24.603  9494 22943 V FA      : Activity paused, time: 3107875255
+11-26 15:58:24.682  9494  9494 E Parcel  : Reading a NULL string not supported here.
+11-26 15:58:24.686  9494 22943 D FA      : Connected to remote service
+11-26 15:58:24.687  9494 22943 V FA      : Processing queued up service tasks: 2
+11-26 15:58:24.689  9494  9525 I BLASTBufferQueue: releaseBufferCallbackThunk bufferId:40776419508461 framenumber:22 blastBufferQueue is dead
+11-26 15:58:25.094  9494  9641 E PINGER  : [15:58:25.093 Connection$Pinger:stop():522] Pinger stop true
+11-26 15:58:25.096  9494  9641 E Sendbird:PINGER: [15:58:25.095 Connection$Pinger:stop():523] Pinger stop true
+11-26 15:58:25.101  9494 21679 W SendBird: [15:58:25.100 Connection$1:onMessage():235] onMessage instance : [PONG] com.sendbird.android.Connection@dff9914
+11-26 15:58:25.102  9494 21679 W Sendbird: [15:58:25.101 Connection$1:onMessage():236] onMessage instance : [PONG] com.sendbird.android.Connection@dff9914
+11-26 15:58:25.110  9494 21679 W SendBird: [15:58:25.109 Connection$1:onFailure():250] onFailed instance : com.sendbird.android.Connection@dff9914
+11-26 15:58:25.111  9494 21679 W Sendbird: [15:58:25.110 Connection$1:onFailure():251] onFailed instance : com.sendbird.android.Connection@dff9914
+11-26 15:58:25.113  9494 21679 W SendBird: [15:58:25.112 Connection$1:onFailure():256] onFailed handler : com.sendbird.android.SocketManager@7db5a47
+11-26 15:58:25.115  9494 21679 W Sendbird: [15:58:25.114 Connection$1:onFailure():257] onFailed handler : com.sendbird.android.SocketManager@7db5a47
+11-26 15:58:25.116  9494 21679 W SendBird: [15:58:25.115 SocketManager:onError():1002] >> onError : Socket is closed, reconnecting : false, explicitDisconnect : true
+11-26 15:58:25.117  9494  9779 W SendBird: [15:58:25.115 EventController$1:call():141] ++ result[PONG] runnable=null
+11-26 15:58:27.727 23667 23667 I om.rmc.natour2: Late-enabling -Xcheck:jni
+11-26 15:58:27.867 23667 23667 E om.rmc.natour2: Unknown bits set in runtime_flags: 0x40000000
+11-26 15:58:27.884 23667 23667 D ProcessState: Binder ioctl to enable oneway spam detection failed: Invalid argument
+11-26 15:58:27.890 23667 23667 I OneTrace: Mark active for pid=23667? true
+11-26 15:58:27.890 23667 23667 D cutils-dev: otrace_set_tracing_enabled? true
+11-26 15:58:27.895 23667 23689 D cutils-dev: properties changed in otrace_seq_number_changed!
+11-26 15:58:27.920 23667 23667 D CompatibilityChangeReporter: Compat change id reported: 171979766; UID 10364; state: ENABLED
+11-26 15:58:27.921 23667 23667 I oplus.android.OplusFrameworkFactoryImpl: get feature:IOplusAutoResolutionFeature
+11-26 15:58:27.921 23667 23667 I oplus.android.OplusFrameworkFactoryImpl: getOplusAutoResolutionFeature
+11-26 15:58:27.921 23667 23667 D CompactWindowAppManager: initCompactApplicationInfo 
+11-26 15:58:27.950 23667 23667 I OplusFeatureCache: Milliseconds spent on init(): 16
+11-26 15:58:27.952 23667 23667 D LoadedApk: mApplicationInfo overrideDisplayId:null
+11-26 15:58:27.957 23667 23667 W ziparchive: Unable to open '/data/app/~~ZVhueONqf64FqlPc4vEbLQ==/com.rmc.natour21-HZNQfG5lbZ_D4SrpoVuKZw==/base.dm': No such file or directory
+11-26 15:58:27.958 23667 23667 W ziparchive: Unable to open '/data/app/~~ZVhueONqf64FqlPc4vEbLQ==/com.rmc.natour21-HZNQfG5lbZ_D4SrpoVuKZw==/base.dm': No such file or directory
+11-26 15:58:28.324 23667 23667 I Quality : ActivityThread: createClassLoader delay 367 /data/app/~~ZVhueONqf64FqlPc4vEbLQ==/com.rmc.natour21-HZNQfG5lbZ_D4SrpoVuKZw==/base.apk 23667
+11-26 15:58:28.326 23667 23667 I Quality : ActivityThread: createOrUpdateClassLoaderLocked delay 373 com.rmc.natour21 23667
+11-26 15:58:28.332 23667 23667 V GraphicsEnvironment: ANGLE Developer option for 'com.rmc.natour21' set to: 'default'
+11-26 15:58:28.332 23667 23667 V GraphicsEnvironment: App is not on the allowlist for updatable production driver.
+11-26 15:58:28.334 23667 23667 D NetworkSecurityConfig: Using Network Security Config from resource network_security_config debugBuild: true
+11-26 15:58:28.336 23667 23667 D NetworkSecurityConfig: Using Network Security Config from resource network_security_config debugBuild: true
+11-26 15:58:28.382 23667 23667 I FirebaseApp: Device unlocked: initializing all Firebase APIs for app [DEFAULT]
+11-26 15:58:28.421 23667 23723 I DynamiteModule: Considering local module com.google.android.gms.measurement.dynamite:70 and remote module com.google.android.gms.measurement.dynamite:87
+11-26 15:58:28.421 23667 23723 I DynamiteModule: Selected remote version of com.google.android.gms.measurement.dynamite, version >= 87
+11-26 15:58:28.421 23667 23723 V DynamiteModule: Dynamite loader version >= 2, using loadModule2NoCrashUtils
+11-26 15:58:28.424 23667 23667 D FirebaseAuth: Notifying id token listeners about user ( rWXShEJL6ONpN9uj2vaqE7TAtFn1 ).
+11-26 15:58:28.430 23667 23723 W System  : ClassLoader referenced unknown path: 
+11-26 15:58:28.448 23667 23667 I FirebaseInitProvider: FirebaseApp initialization successful
+11-26 15:58:28.454 23667 23723 W om.rmc.natour2: ClassLoaderContext type mismatch. expected=PCL, found=DLC (PCL[] | DLC[];PCL[/data/app/~~ZVhueONqf64FqlPc4vEbLQ==/com.rmc.natour21-HZNQfG5lbZ_D4SrpoVuKZw==/base.apk*2782947828:/data/app/~~ZVhueONqf64FqlPc4vEbLQ==/com.rmc.natour21-HZNQfG5lbZ_D4SrpoVuKZw==/base.apk!classes2.dex*4198456362:/data/app/~~ZVhueONqf64FqlPc4vEbLQ==/com.rmc.natour21-HZNQfG5lbZ_D4SrpoVuKZw==/base.apk!classes3.dex*1741040647:/data/app/~~ZVhueONqf64FqlPc4vEbLQ==/com.rmc.natour21-HZNQfG5lbZ_D4SrpoVuKZw==/base.apk!classes4.dex*2399949694:/data/app/~~ZVhueONqf64FqlPc4vEbLQ==/com.rmc.natour21-HZNQfG5lbZ_D4SrpoVuKZw==/base.apk!classes5.dex*1141090842:/data/app/~~ZVhueONqf64FqlPc4vEbLQ==/com.rmc.natour21-HZNQfG5lbZ_D4SrpoVuKZw==/base.apk!classes6.dex*1178057257:/data/app/~~ZVhueONqf64FqlPc4vEbLQ==/com.rmc.natour21-HZNQfG5lbZ_D4SrpoVuKZw==/base.apk!classes7.dex*1445126428:/data/app/~~ZVhueONqf64FqlPc4vEbLQ==/com.rmc.natour21-HZNQfG5lbZ_D4SrpoVuKZw==/base.apk!classes8.dex*3299194724:/data/app/~~ZVhueONqf64FqlPc4vEbLQ==/com.rmc.natour21-HZNQfG5lbZ_D4SrpoVuKZw==/base.apk!classes9.dex*1604547914:/data/app/~~ZVhueONqf64FqlPc4vEbLQ==/com.rmc.natour21-HZNQfG5lbZ_D4SrpoVuKZw==/base.apk!classes10.dex*1113461355:/data/app/~~ZVhueONqf64FqlPc4vEbLQ==/com.rmc.natour21-HZNQfG5lbZ_D4SrpoVuKZw==/base.apk!classes11.dex*2890345672:/data/app/~~ZVhueONqf64FqlPc4vEbLQ==/com.rmc.natour21-HZNQfG5lbZ_D4SrpoVuKZw==/base.apk!classes12.dex*901241798:/data/app/~~ZVhueONqf64FqlPc4vEbLQ==/com.rmc.natour21-HZNQfG5lbZ_D4SrpoVuKZw==/base.apk!classes13.dex*2854410464:/data/app/~~ZVhueONqf64FqlPc4vEbLQ==/com.rmc.natour21-HZNQfG5lbZ_D4SrpoVuKZw==/base.apk!classes14.dex*1088609718:/data/app/~~ZVhueONqf64FqlPc4vEbLQ==/com.rmc.natour21-HZNQfG5lbZ_D4SrpoVuKZw==/base.apk!classes15.dex*1507438236:/data/app/~~ZVhueONqf64FqlPc4vEbLQ==/com.rmc.natour21-HZNQfG5lbZ_D4SrpoVuKZw==/base.apk!classes16.dex*2057685737:/data/app/~~ZVhueONqf64FqlPc4vEbLQ==/com.rmc.natour21-HZNQfG5lbZ_D4SrpoVuKZw==/base.apk!classes17.dex*934424390:/data/app/~~ZVhueONqf64FqlPc4vEbLQ==/com.rmc.natour21-HZNQfG5lbZ_D4SrpoVuKZw==/base.apk!classes18.dex*3775040241]{PCL[/system/framework/org.apache.http.legacy.jar*3291421074]})
+11-26 15:58:28.505 23667 23667 W com.facebook.UserSettingsManager: Please set a value for AutoLogAppEventsEnabled. Set the flag to TRUE if you want to collect app install, app launch and in-app purchase events automatically. To request user consent before collecting data, set the flag value to FALSE, then change to TRUE once user consent is received. Learn more: https://developers.facebook.com/docs/app-events/getting-started-app-events-android#disable-auto-events.
+11-26 15:58:28.505 23667 23667 W com.facebook.UserSettingsManager: You haven't set a value for AdvertiserIDCollectionEnabled. Set the flag to TRUE if you want to collect Advertiser ID for better advertising and analytics results. To request user consent before collecting data, set the flag value to FALSE, then change to TRUE once user consent is received. Learn more: https://developers.facebook.com/docs/app-events/getting-started-app-events-android#disable-auto-events.
+11-26 15:58:28.545 23667 23667 D KeyHash:: 7mSKQwPoEIJRD0IkELDTXoai1fI=
+11-26 15:58:28.546 23667 23667 I Quality : ActivityThread: bindApplication delay 627 com.rmc.natour21 23667
+11-26 15:58:28.573 23667 23798 D libMEOW : meow new tls: 0xb400006f9aa2a580
+11-26 15:58:28.573 23667 23798 D libMEOW : meow reload base cfg path: na
+11-26 15:58:28.573 23667 23798 D libMEOW : meow reload overlay cfg path: na
+11-26 15:58:28.573 23667 23798 W QT      : qt_process_init() called
+11-26 15:58:28.573 23667 23798 E QT      : [QT]file does not exist
+11-26 15:58:28.573 23667 23798 W QT      : Support!!
+11-26 15:58:28.574 23667 23798 E QT      : [QT]file does not exist
+11-26 15:58:28.574 23667 23798 D libMEOW : applied 1 plugins for [com.rmc.natour21]:
+11-26 15:58:28.574 23667 23798 D libMEOW :   plugin 1: [libMEOW_gift.so]:
+11-26 15:58:28.574 23667 23798 D libMEOW : meow delete tls: 0xb400006f9aa2a580
+11-26 15:58:28.575 23667 23752 V FA      : App measurement collection enabled
+11-26 15:58:28.578 23667 23752 V FA      : App measurement enabled for app package, google app id: com.rmc.natour21, 1:718461192862:android:4b50a6846c6b46fcf2c98f
+11-26 15:58:28.580 23667 23752 I FA      : App measurement initialized, version: 75024
+11-26 15:58:28.580 23667 23752 I FA      : To enable debug logging run: adb shell setprop log.tag.FA VERBOSE
+11-26 15:58:28.580 23667 23752 I FA      : To enable faster debug mode event logging run:
+11-26 15:58:28.580 23667 23752 I FA      :   adb shell setprop debug.firebase.analytics.app com.rmc.natour21
+11-26 15:58:28.580 23667 23752 D FA      : Debug-level message logging enabled
+11-26 15:58:28.593 23667 23723 V FA      : onActivityCreated
+11-26 15:58:28.597 23667 23667 I oplus.android.OplusFrameworkFactoryImpl: Unknow feature:IOplusTextViewRTLUtilForUG
+11-26 15:58:28.607 23667 23752 D FA      : Resetting session stitching token to not null
+11-26 15:58:28.630 23667 23667 W om.rmc.natour2: Accessing hidden method Landroid/view/View;->computeFitSystemWindows(Landroid/graphics/Rect;Landroid/graphics/Rect;)Z (unsupported, reflection, allowed)
+11-26 15:58:28.630 23667 23667 W om.rmc.natour2: Accessing hidden method Landroid/view/ViewGroup;->makeOptionalFitsSystemWindows()V (unsupported, reflection, allowed)
+11-26 15:58:28.638 23667 23667 E OplusCustomizeRestrictionManager: sInstance is null, start a new sInstance
+11-26 15:58:28.642 23667 23752 V FA      : Connecting to remote service
+11-26 15:58:28.660 23667 23752 V FA      : Connection attempt already in progress
+11-26 15:58:28.665 23667 23752 V FA      : Connection attempt already in progress
+11-26 15:58:28.669 23667 23667 I Quality : ActivityThread: activityStart delay 122 com.rmc.natour21 23667
+11-26 15:58:28.679 23667 23752 V FA      : Activity resumed, time: 3107879395
+11-26 15:58:28.682 23667 23667 D OplusInputMethodUtil: init DEBUG to false, update DEBUG_IME to false
+11-26 15:58:28.683 23667 23667 D OplusInputMethodUtil: init DEBUG to false, update DEBUG_IME to false
+11-26 15:58:28.683 23667 23752 I FA      : Tag Manager is not found and thus will not be used
+11-26 15:58:28.688 23667 23667 I SurfaceFactory: [static] sSurfaceFactory = com.mediatek.view.impl.SurfaceFactoryImpl@92ce297
+11-26 15:58:28.690 23667 23667 I MsyncFactory: [static] sMsyncFactory = com.mediatek.view.impl.MsyncFactoryImpl@8531133
+11-26 15:58:28.692 23667 23809 D OpenMsyncAppList: loadTunerAppList + 
+11-26 15:58:28.695 23667 23667 I OplusSlideAnimOptHelper: checkListMode: is blacklist mode = true
+11-26 15:58:28.696 23667 23667 D OplusSlideAnimOptHelper: com.rmc.natour21 scrollEffectOpt enable = true
+11-26 15:58:28.697 23667 23809 D OpenMsyncAppList: loadTunerAppList - 
+11-26 15:58:28.698 23667 23752 V FA      : Connection attempt already in progress
+11-26 15:58:28.699 23667 23752 V FA      : Connection attempt already in progress
+11-26 15:58:28.701 23667 23667 D WindowManager: Add to mViews: DecorView@2628a08[Splashscreen],pkg= com.rmc.natour21
+11-26 15:58:28.704 23667 23783 D ExtensionsLoader: createInstance(64bit) : createExtendedFactory
+11-26 15:58:28.712 23667 23783 D ExtensionsLoader: Opened libhwuiextimpl.so
+11-26 15:58:28.713 23667 23667 D ExtensionsLoader: createInstance(64bit) : createExtendedFactory
+11-26 15:58:28.714 23667 23667 D ExtensionsLoader: Opened libSchedAssistExtImpl.so
+11-26 15:58:28.714 23667 23667 E om.rmc.natour2: ofbOpen failed with error=No such file or directory
+11-26 15:58:28.714 23667 23667 E om.rmc.natour2: sysOpen failed with error=No such file or directory
+11-26 15:58:28.719 23667 23667 D ViewRootImpl[Splashscreen]: hardware acceleration = true, sRendererEnabled = true, forceHwAccelerated = false
+11-26 15:58:28.729 23667 23667 D libMEOW : meow new tls: 0xb400006fa8259ec0
+11-26 15:58:28.729 23667 23667 D libMEOW : applied 1 plugins for [com.rmc.natour21]:
+11-26 15:58:28.729 23667 23667 D libMEOW :   plugin 1: [libMEOW_gift.so]:
+11-26 15:58:28.730 23667 23667 I Quality : ActivityThread: activityResume delay 53 com.rmc.natour21 23667
+11-26 15:58:28.743 23667 23667 I PowerHalWrapper: PowerHalWrapper.getInstance 
+11-26 15:58:28.769 23667 23667 I Quality : Skipped: false 3 cost 44.19126 refreshRate 11111111 processName com.rmc.natour21
+11-26 15:58:28.770 23667 23667 D ExtensionsLoader: createInstance(64bit) : createExtendedFactory
+11-26 15:58:28.770 23667 23667 D ExtensionsLoader: Opened libSchedAssistExtImpl.so
+11-26 15:58:28.787 23667 23667 I BufferQueueConsumer: [](id:5c7300000000,api:0,p:-1,c:23667) connect: controlledByApp=false
+11-26 15:58:28.788 23667 23667 I BLASTBufferQueue: [ViewRootImpl[com.rmc.natour21/com.rmc.natour21.Splashscreen]#0] constructor()
+11-26 15:58:28.792 23667 23667 D ExtensionsLoader: createInstance(64bit) : createExtendedFactory
+11-26 15:58:28.792 23667 23667 D ExtensionsLoader: Opened libSchedAssistExtImpl.so
+11-26 15:58:28.794 23667 23667 V OplusZoomWindowDecorViewHelper: setLastReportedMergedConfiguration mZoomDisplayHeight: 2400 getDecorView.40012296
+11-26 15:58:28.795 23667 23783 D libMEOW : meow new tls: 0xb400006fa82b5380
+11-26 15:58:28.795 23667 23783 D libMEOW : applied 1 plugins for [com.rmc.natour21]:
+11-26 15:58:28.795 23667 23783 D libMEOW :   plugin 1: [libMEOW_gift.so]:
+11-26 15:58:28.800 23667 23783 D hw-ProcessState: Binder ioctl to enable oneway spam detection failed: Invalid argument
+11-26 15:58:28.814 23667 23783 I BufferQueueProducer: [ViewRootImpl[com.rmc.natour21/com.rmc.natour21.Splashscreen]#0(BLAST Consumer)0](id:5c7300000000,api:1,p:23667,c:23667) connect: api=1 producerControlledByApp=true
+11-26 15:58:28.842 23667 23783 D hw-ProcessState: Binder ioctl to enable oneway spam detection failed: Invalid argument
+11-26 15:58:28.855 23667 23783 E OpenGLRenderer: fbcNotifyFrameComplete error: undefined symbol: fbcNotifyFrameComplete
+11-26 15:58:28.855 23667 23783 E OpenGLRenderer: fbcNotifyNoRender error: undefined symbol: fbcNotifyNoRender
+11-26 15:58:28.860 23667 23695 D SurfaceComposerClient: VRR [FRTC] client handle [bufferId:18446744073709551615 framenumber:0] [ffffffff, ffffffff]
+11-26 15:58:28.882 23667 23667 E Parcel  : Reading a NULL string not supported here.
+11-26 15:58:28.885 23667 23752 D FA      : Connected to remote service
+11-26 15:58:28.906 23667 23752 V FA      : Processing queued up service tasks: 5
+11-26 15:58:29.287 23667 23824 I System.out: Firebase token: eyJhbGciOiJSUzI1NiIsImtpZCI6ImE5NmFkY2U5OTk5YmJmNWNkMzBmMjlmNDljZDM3ZjRjNWU2NDI3NDAiLCJ0eXAiOiJKV1QifQ.eyJuYW1lIjoiQW5uYSBWaXNjYXJkaSIsInBpY3R1cmUiOiJodHRwczovL2xoMy5nb29nbGV1c2VyY29udGVudC5jb20vYS9BTG01d3UzVVhnbnFSVm1CVlZTVWYtTTltcDFXOXBWdnVvMnRWTVAzWUJCUz1zOTYtYyIsImlzcyI6Imh0dHBzOi8vc2VjdXJldG9rZW4uZ29vZ2xlLmNvbS9uYXRvdXIyMS1mYzZlYSIsImF1ZCI6Im5hdG91cjIxLWZjNmVhIiwiYXV0aF90aW1lIjoxNjY4ODY1MjE5LCJ1c2VyX2lkIjoicldYU2hFSkw2T05wTjl1ajJ2YXFFN1RBdEZuMSIsInN1YiI6InJXWFNoRUpMNk9OcE45dWoydmFxRTdUQXRGbjEiLCJpYXQiOjE2Njk0NzI5OTMsImV4cCI6MTY2OTQ3NjU5MywiZW1haWwiOiJ2aXNjYXJkaS5hbm5hQHltYWlsLmNvbSIsImVtYWlsX3ZlcmlmaWVkIjp0cnVlLCJmaXJlYmFzZSI6eyJpZGVudGl0aWVzIjp7Imdvb2dsZS5jb20iOlsiMTA4MTkwMTIxMDEwNjY3MzA4MTk1Il0sImVtYWlsIjpbInZpc2NhcmRpLmFubmFAeW1haWwuY29tIl19LCJzaWduX2luX3Byb3ZpZGVyIjoiZ29vZ2xlLmNvbSJ9fQ.CONYaEZpOYmGqARehOK-tExsHhRnKOuK5Aabz1LawOG-y478mnQkTucONSuPfds_9rFuJFLQjN7wP3z710CywOkkupoJP6VlXu6LZIqIyjT9iTr_qOuXF5bSNZHRhWIKzagg0mXeKSqN9Im8Ux8N2fm_Q8roNp3qbxJfthFQ_cgSVhq-rM7pv9pkw4xNdOCxvp4I5BOh2Akx8T6vgVPmeqf8b_KPV41T5IQQWn1Pt0nBSrFTwF9pAPQjQI9WCp40cppBMscgIMjrsbmUnX8WsZHL1uJ0CD7ZFCjz9TcICY9_2qbfBXe8Xeb_kUnNHj7go1FO9zcCtGVWjTni_fAVeg
+11-26 15:58:29.440 23667 23907 V NativeCrypto: Registering org/conscrypt/NativeCrypto's 286 native methods...
+11-26 15:58:29.895 23667 23824 W om.rmc.natour2: Accessing hidden method Ljava/security/spec/ECParameterSpec;->getCurveName()Ljava/lang/String; (unsupported, reflection, allowed)
+11-26 15:58:29.926 23667 23824 W om.rmc.natour2: Accessing hidden method Ldalvik/system/CloseGuard;->get()Ldalvik/system/CloseGuard; (unsupported,core-platform-api, reflection, allowed)
+11-26 15:58:29.926 23667 23824 W om.rmc.natour2: Accessing hidden method Ldalvik/system/CloseGuard;->open(Ljava/lang/String;)V (unsupported,core-platform-api, reflection, allowed)
+11-26 15:58:29.926 23667 23824 W om.rmc.natour2: Accessing hidden method Ldalvik/system/CloseGuard;->warnIfOpen()V (unsupported,core-platform-api, reflection, allowed)
+11-26 15:58:29.948 23667 23752 V FA      : Recording user engagement, ms: 1269
+11-26 15:58:29.963 23667 23986 D libMEOW : meow new tls: 0xb400006f9ab7c8c0
+11-26 15:58:29.963 23667 23986 D libMEOW : applied 1 plugins for [com.rmc.natour21]:
+11-26 15:58:29.963 23667 23986 D libMEOW :   plugin 1: [libMEOW_gift.so]:
+11-26 15:58:29.963 23667 23986 D libMEOW : meow delete tls: 0xb400006f9ab7c8c0
+11-26 15:58:29.972 23667 23723 V FA      : onActivityCreated
+11-26 15:58:29.991 23667 23752 V FA      : Activity paused, time: 3107880664
+11-26 15:58:30.115 23667 23667 I Quality : ActivityThread: activityStart delay 154 com.rmc.natour21 23667
+11-26 15:58:30.130 23667 23667 D CompatibilityChangeReporter: Compat change id reported: 171228096; UID 10364; state: ENABLED
+11-26 15:58:30.131 23667 23667 D ScrollOptimizationHelper: can't find the config file for optimizaiton
+11-26 15:58:30.131 23667 23667 D ScrollOptimizationHelper: will not debug for debug is false
+11-26 15:58:30.131 23667 23667 I oplus.android.OplusFrameworkFactoryImpl: get feature:IOplusDynamicVsyncFeature
+11-26 15:58:30.131 23667 23667 I oplus.android.OplusFrameworkFactoryImpl: get feature:IOplusDynamicVsyncFeature
+11-26 15:58:30.132 23667 23667 I oplus.android.OplusFrameworkFactoryImpl: get feature:IOplusDynamicVsyncFeature
+11-26 15:58:30.163 23667 23667 V TextView: notifyAutoFillManagerAfterTextChanged
+11-26 15:58:30.163 23667 23667 V AutofillManager: notifyValueChanged(1073741824): ignoring on state UNKNOWN
+11-26 15:58:30.164 23667 23667 V TextView: notifyAutoFillManagerAfterTextChanged
+11-26 15:58:30.164 23667 23667 V AutofillManager: notifyValueChanged(1073741824): ignoring on state UNKNOWN
+11-26 15:58:30.229 23667 24047 W om.rmc.natour2: Accessing hidden field Ljava/net/Socket;->impl:Ljava/net/SocketImpl; (unsupported, reflection, allowed)
+11-26 15:58:30.237 23667 23667 I oplus.android.OplusFrameworkFactoryImpl: get feature:IOplusDynamicVsyncFeature
+11-26 15:58:30.237 23667 23667 I oplus.android.OplusFrameworkFactoryImpl: get feature:IOplusDynamicVsyncFeature
+11-26 15:58:30.237 23667 23667 I oplus.android.OplusFrameworkFactoryImpl: get feature:IOplusDynamicVsyncFeature
+11-26 15:58:30.240 23667 23667 I Quality : ActivityThread: viewInflate delay 120 com.rmc.natour21:layout/fragment_home 23667
+11-26 15:58:30.264 23667 24047 W om.rmc.natour2: Accessing hidden field Ljava/io/FileDescriptor;->descriptor:I (unsupported, JNI, allowed)
+11-26 15:58:30.276 23667 23752 V FA      : Activity resumed, time: 3107880993
+11-26 15:58:30.282 23667 23667 D WindowManager: Add to mViews: DecorView@f0e1cb0[MainActivity],pkg= com.rmc.natour21
+11-26 15:58:30.284 23667 23667 D ViewRootImpl[MainActivity]: hardware acceleration = true, sRendererEnabled = true, forceHwAccelerated = false
+11-26 15:58:30.295 23667 23667 D SBUIKIT : [15:58:30.294 SendBirdUIKit$1:onInitSucceed():174] >> onInitSucceed()
+11-26 15:58:30.308 23667 23667 I Quality : Skipped: false 1 cost 13.318347 refreshRate 11111111 processName com.rmc.natour21
+11-26 15:58:30.318 23667 24047 W om.rmc.natour2: Accessing hidden method Ljava/security/spec/ECParameterSpec;->setCurveName(Ljava/lang/String;)V (unsupported, reflection, allowed)
+11-26 15:58:30.350 23667 23667 I BufferQueueConsumer: [](id:5c7300000001,api:0,p:-1,c:23667) connect: controlledByApp=false
+11-26 15:58:30.350 23667 23667 I BLASTBufferQueue: [ViewRootImpl[com.rmc.natour21/com.rmc.natour21.MainActivity]#1] constructor()
+11-26 15:58:30.352 23667 23667 V OplusZoomWindowDecorViewHelper: setLastReportedMergedConfiguration mZoomDisplayHeight: 2400 getDecorView.252583088
+11-26 15:58:30.352 23667 23783 I BufferQueueProducer: [ViewRootImpl[com.rmc.natour21/com.rmc.natour21.MainActivity]#1(BLAST Consumer)1](id:5c7300000001,api:1,p:23667,c:23667) connect: api=1 producerControlledByApp=true
+11-26 15:58:30.470 23667 23892 D SurfaceComposerClient: VRR [FRTC] client handle [bufferId:18446744073709551615 framenumber:0] [ffffffff, ffffffff]
+11-26 15:58:30.473 23667 23667 I Quality : Skipped: false 14 cost 155.55966 refreshRate 11111111 processName com.rmc.natour21
+11-26 15:58:30.480 23667 24047 W SendBird: [15:58:30.478 Connection$1:onMessage():235] onMessage instance : [LOGI] com.sendbird.android.Connection@2c23b85
+11-26 15:58:30.488 23667 24047 W Sendbird: [15:58:30.481 Connection$1:onMessage():236] onMessage instance : [LOGI] com.sendbird.android.Connection@2c23b85
+11-26 15:58:30.489 23667 23667 I Quality : Skipped: false 1 cost 14.327019 refreshRate 11111111 processName com.rmc.natour21
+11-26 15:58:30.496 23667 23824 W Glide   : Failed to find GeneratedAppGlideModule. You should include an annotationProcessor compile dependency on com.github.bumptech.glide:compiler in your application and a @GlideModule annotated AppGlideModule implementation or LibraryGlideModules will be silently ignored
+11-26 15:58:30.523 23667 24083 W SendBird: [15:58:30.521 EventController$1:call():141] ++ result[LOGI] runnable=null
+11-26 15:58:30.565 23667 24047 W SendBird: [15:58:30.564 Connection$1:onMessage():235] onMessage instance : [PONG] com.sendbird.android.Connection@2c23b85
+11-26 15:58:30.566 23667 24047 W Sendbird: [15:58:30.565 Connection$1:onMessage():236] onMessage instance : [PONG] com.sendbird.android.Connection@2c23b85
+11-26 15:58:30.572 23667 24083 W SendBird: [15:58:30.571 EventController$1:call():141] ++ result[PONG] runnable=null
+11-26 15:58:30.616 23667 24025 D SBUIKIT : [15:58:30.615 SendBirdUIKit$2:call():298] ++ user nickname = Anna Viscardi, profileUrl = https://natour21imgs.s3.us-east-2.amazonaws.com/75
+11-26 15:58:30.787 23667 23667 I System.out: SENDBIRD TOKEN OK ccCgIZucSQKdDxW5l5ahxk:APA91bEcfNKMk9-FLcAxlukTtk_I15LHr5ksmsIWo99YJaySPPmMkdXZGC1U_0qMaQ-JgjD5jiO7ncFomm_H2Ad4gpjvWHfQ3QwAdlxJ01t4vWAkWg4qDJtRVACA7imWjoLMhJi44fig
+11-26 15:58:30.897 23667 23783 I BufferQueueProducer: [ViewRootImpl[com.rmc.natour21/com.rmc.natour21.Splashscreen]#0(BLAST Consumer)0](id:5c7300000000,api:1,p:23667,c:23667) disconnect: api 1
+11-26 15:58:30.898 23667 23783 E BLASTBufferQueue: BLASTBufferItemConsumer::onDisconnect()
+11-26 15:58:30.911 23667 23667 I BLASTBufferQueue: [ViewRootImpl[com.rmc.natour21/com.rmc.natour21.Splashscreen]#0] destructor()
+11-26 15:58:30.911 23667 23667 I BufferQueueConsumer: [ViewRootImpl[com.rmc.natour21/com.rmc.natour21.Splashscreen]#0(BLAST Consumer)0](id:5c7300000000,api:0,p:-1,c:23667) disconnect
+11-26 15:58:30.921 23667 23667 V OplusZoomWindowDecorViewHelper: removeZoomView
+11-26 15:58:30.921 23667 23667 D View    : [Warning] assignParent to null: this = DecorView@2628a08[Splashscreen]
+11-26 15:58:30.928 23667 23667 I Quality : Skipped: true 1 cost 21.696371 refreshRate 11111111 processName com.rmc.natour21
+11-26 15:58:30.930 23667 23693 I BLASTBufferQueue: releaseBufferCallbackThunk bufferId:101648990994432 framenumber:1 blastBufferQueue is dead
+11-26 15:58:30.983 23667 23688 I om.rmc.natour2: Compiler allocated 4752KB to compile void android.view.ViewRootImpl.performTraversals()
+11-26 15:58:31.269 23667 23667 I Quality : Skipped: true 7 cost 82.29757 refreshRate 11111111 processName com.rmc.natour21
+11-26 15:58:31.589 23667 23667 I Quality : Skipped: false 11 cost 127.002144 refreshRate 11111111 processName com.rmc.natour21
+11-26 15:58:31.634 23667 23667 I Quality : Skipped: true 3 cost 37.358097 refreshRate 11111111 processName com.rmc.natour21
+11-26 15:58:31.645 23667 24153 E Parcel  : Reading a NULL string not supported here.
+11-26 15:58:31.654 23667 24091 D skia    : SkJpegCodec::onGetPixels +
+11-26 15:58:31.670 23667 24091 D skia    : SkJpegCodec::onGetPixels -
+11-26 15:58:31.890 23667 24091 D skia    : SkJpegCodec::onGetPixels +
+11-26 15:58:31.905 23667 24091 D skia    : SkJpegCodec::onGetPixels -
+11-26 15:58:31.914 23667 24091 D skia    : SkJpegCodec::onGetPixels +
+11-26 15:58:31.923 23667 24091 D skia    : SkJpegCodec::onGetPixels -
+11-26 15:58:35.344 23667 23752 V FA      : Inactivity, disconnecting from the service
+11-26 15:58:36.543 23667 23667 V AutofillManager: requestHideFillUi(null): anchor = null
+11-26 15:58:41.879 23667 23667 V AutofillManager: requestHideFillUi(null): anchor = null
+11-26 15:58:42.592 23667 23667 V AutofillManager: requestHideFillUi(null): anchor = null
+11-26 15:58:42.701 23667 23667 I StorageUtils: /data/user/0/com.rmc.natour21/files is writable
+11-26 15:58:42.705 23667 23821 I libPerfCtl: fbcNotifySbeRescue ret=-1
+11-26 15:58:42.709 23667 23667 I StorageUtils: /storage/emulated/0/Android/data/com.rmc.natour21/files is writable
+11-26 15:58:42.997 23667 23667 I StorageUtils: /storage/A435-F94C/Android/data/com.rmc.natour21/files is writable
+11-26 15:58:42.999 23667 23667 I StorageUtils: /data/user/0/com.rmc.natour21/files is writable
+11-26 15:58:42.999 23667 23667 I StorageUtils: /storage/emulated/0/Android/data/com.rmc.natour21/files is writable
+11-26 15:58:43.009 23667 23667 I StorageUtils: /storage/A435-F94C/Android/data/com.rmc.natour21/files is writable
+11-26 15:58:43.016 23667 23667 I OsmDroid: Using tile source: Mapnik
+11-26 15:58:43.019 23667 23667 I OsmDroid: Tile cache increased from 0 to 9
+11-26 15:58:43.081 23667 23667 V TextView: notifyAutoFillManagerAfterTextChanged
+11-26 15:58:43.081 23667 23667 V AutofillManager: notifyValueChanged(1073741825): ignoring on state UNKNOWN
+11-26 15:58:43.083 23667 23667 V TextView: notifyAutoFillManagerAfterTextChanged
+11-26 15:58:43.083 23667 23667 V AutofillManager: notifyValueChanged(1073741825): ignoring on state UNKNOWN
+11-26 15:58:43.090 23667 23667 V TextView: notifyAutoFillManagerAfterTextChanged
+11-26 15:58:43.090 23667 23667 V AutofillManager: notifyValueChanged(1073741826): ignoring on state UNKNOWN
+11-26 15:58:43.091 23667 23667 V TextView: notifyAutoFillManagerAfterTextChanged
+11-26 15:58:43.091 23667 23667 V AutofillManager: notifyValueChanged(1073741826): ignoring on state UNKNOWN
+11-26 15:58:43.131 23667 23667 I Quality : ActivityThread: viewInflate delay 437 com.rmc.natour21:layout/fragment_insert 23667
+11-26 15:58:43.164 23667 23667 I Choreographer: Skipped 43 frames!  The application may be doing too much work on its main thread.
+11-26 15:58:43.164 23667 23667 I Quality : Skipped: false 43 cost 477.91095 refreshRate 11111111 processName com.rmc.natour21
+11-26 15:58:43.180 23667 23667 I OsmDroid: Tile cache increased from 9 to 60
+11-26 15:58:43.194 23667 23821 I libPerfCtl: fbcNotifySbeRescue ret=-1
+11-26 15:58:43.198 23667 23667 I Quality : Skipped: false 2 cost 23.384377 refreshRate 11111111 processName com.rmc.natour21
+11-26 15:58:43.199 23667 23821 I libPerfCtl: fbcNotifySbeRescue ret=-1
+11-26 15:58:43.203 23667 23821 I libPerfCtl: fbcNotifySbeRescue ret=-1
+11-26 15:58:43.301 23667 23667 I Quality : Skipped: false 7 cost 81.43976 refreshRate 11111111 processName com.rmc.natour21
+11-26 15:58:43.328 23667 23667 I Quality : Skipped: false 1 cost 18.840963 refreshRate 11111111 processName com.rmc.natour21
+11-26 15:58:43.348 23667 23667 I Quality : Skipped: false 1 cost 16.171288 refreshRate 11111111 processName com.rmc.natour21
+11-26 15:58:45.567 23667 24047 W SendBird: [15:58:45.565 Connection$1:onMessage():235] onMessage instance : [PONG] com.sendbird.android.Connection@2c23b85
+11-26 15:58:45.569 23667 24047 W Sendbird: [15:58:45.567 Connection$1:onMessage():236] onMessage instance : [PONG] com.sendbird.android.Connection@2c23b85
+11-26 15:58:45.577 23667 24083 W SendBird: [15:58:45.575 EventController$1:call():141] ++ result[PONG] runnable=null
+11-26 15:58:50.830 23667 23667 V AutofillManager: requestHideFillUi(null): anchor = null
+11-26 15:58:55.409 23667 23667 V AutofillManager: requestHideFillUi(null): anchor = null
+11-26 15:58:55.656 23667 23667 V AutofillManager: receiver results: flags=7 enabled=true, enabledForAugmentedOnly: false
+11-26 15:58:55.656 23667 23667 V AutofillManager: startSessionLocked(): id=1073741825, bounds=null, value=[type=1, value=0_chars], flags=0, state=UNKNOWN, compatMode=false, augmentedOnly=false, enabledAugmentedOnly=false, enteredIds=null
+11-26 15:58:55.692 23667 23667 D CompatibilityChangeReporter: Compat change id reported: 163400105; UID 10364; state: DISABLED
+11-26 15:58:55.692 23667 23667 I Quality : Skipped: false 3 cost 41.71336 refreshRate 11111111 processName com.rmc.natour21
+11-26 15:58:55.703 23667 23667 I AssistStructure: Flattened final assist data: 5008 bytes, containing 1 windows, 43 views
+11-26 15:58:55.951 23667 23667 V AutofillManager: setSessionFinished(): from ACTIVE to FINISHED; autofillableIds=[1073741825, 1073741826]
+11-26 15:58:59.743 23667 23667 V AutofillManager: requestHideFillUi(null): anchor = null
+11-26 15:58:59.821 23667 23667 D InputMethodManager: showSoftInput() view=androidx.appcompat.widget.AppCompatEditText{8df909a VFED..CL. .F.P.... 96,48-984,168 #7f0a026a app:id/path_name aid=1073741825} flags=0 reason=SHOW_SOFT_INPUT
+11-26 15:58:59.835 23667 23667 V AutofillManager: ignoring notifyViewEntered(flags=0, view=1073741825) on state FINISHED because view was already entered: {1073741825, 1073741826}
+11-26 15:58:59.836 23667 23667 I Quality : Skipped: false 2 cost 23.063765 refreshRate 11111111 processName com.rmc.natour21
+11-26 15:59:00.101 23667 23667 D InsetsController: show(ime(), fromIme=true)
+11-26 15:59:00.268 23667 23667 V AutofillManager: requestHideFillUi(null): anchor = null
+11-26 15:59:00.347 23667 23667 D InputMethodManager: showSoftInput() view=androidx.appcompat.widget.AppCompatEditText{8df909a VFED..CL. .F.P.... 96,48-984,168 #7f0a026a app:id/path_name aid=1073741825} flags=0 reason=SHOW_SOFT_INPUT
+11-26 15:59:00.351 23667 23667 V AutofillManager: ignoring notifyViewEntered(flags=0, view=1073741825) on state FINISHED because view was already entered: {1073741825, 1073741826}
+11-26 15:59:00.351 23667 23667 D InsetsController: show(ime(), fromIme=true)
+11-26 15:59:00.562 23667 24047 W SendBird: [15:59:00.561 Connection$1:onMessage():235] onMessage instance : [PONG] com.sendbird.android.Connection@2c23b85
+11-26 15:59:00.563 23667 24047 W Sendbird: [15:59:00.563 Connection$1:onMessage():236] onMessage instance : [PONG] com.sendbird.android.Connection@2c23b85
+11-26 15:59:00.568 23667 24083 W SendBird: [15:59:00.567 EventController$1:call():141] ++ result[PONG] runnable=null
+11-26 15:59:01.187 23667 23892 E BLASTBufferQueue: [ViewRootImpl[com.rmc.natour21/com.rmc.natour21.MainActivity]#1](f:0,a:2) isEGL=1, mPendingRelease.size()=1, mMaxAcquiredBuffers=4, currentMaxAcquiredBufferCount=2
+11-26 15:59:01.652 23667 23667 V AutofillManager: requestHideFillUi(null): anchor = null
+11-26 15:59:01.652 23667 23667 D OplusSystemUINavigationGesture: [GESTURE_BUTTON] swipe from 1
+11-26 15:59:01.652 23667 23667 D OplusSystemUINavigationGesture: [GESTURE_BUTTON] Hit Gesture Region !
+11-26 15:59:01.690 23667 23892 E BLASTBufferQueue: [ViewRootImpl[com.rmc.natour21/com.rmc.natour21.MainActivity]#1](f:0,a:3) isEGL=1, mPendingRelease.size()=2, mMaxAcquiredBuffers=4, currentMaxAcquiredBufferCount=2
+11-26 15:59:03.874 23667 23667 V AutofillManager: requestHideFillUi(null): anchor = null
+11-26 15:59:03.919 23667 23667 I oplus.android.OplusFrameworkFactoryImpl: get feature:IOplusDynamicVsyncFeature
+11-26 15:59:03.919 23667 23667 I oplus.android.OplusFrameworkFactoryImpl: get feature:IOplusDynamicVsyncFeature
+11-26 15:59:03.920 23667 23667 I oplus.android.OplusFrameworkFactoryImpl: get feature:IOplusDynamicVsyncFeature
+11-26 15:59:03.946 23667 23667 V TextView: notifyAutoFillManagerAfterTextChanged
+11-26 15:59:03.946 23667 23667 V AutofillManager: notifyValueChanged(1073741869): ignoring on state FINISHED
+11-26 15:59:03.946 23667 23667 V TextView: notifyAutoFillManagerAfterTextChanged
+11-26 15:59:03.946 23667 23667 V AutofillManager: notifyValueChanged(1073741869): ignoring on state FINISHED
+11-26 15:59:03.975 23667 23667 I oplus.android.OplusFrameworkFactoryImpl: get feature:IOplusDynamicVsyncFeature
+11-26 15:59:03.975 23667 23667 I oplus.android.OplusFrameworkFactoryImpl: get feature:IOplusDynamicVsyncFeature
+11-26 15:59:03.975 23667 23667 I oplus.android.OplusFrameworkFactoryImpl: get feature:IOplusDynamicVsyncFeature
+11-26 15:59:03.985 23667 23667 V TextView: notifyAutoFillManagerAfterTextChanged
+11-26 15:59:03.985 23667 23667 V AutofillManager: notifyValueChanged(1073741824): ignoring on state FINISHED
+11-26 15:59:04.000 23667 23667 I Quality : Skipped: false 8 cost 91.528885 refreshRate 11111111 processName com.rmc.natour21
+11-26 15:59:04.165 23667 23667 I Quality : Skipped: false 14 cost 155.64949 refreshRate 11111111 processName com.rmc.natour21
+11-26 15:59:04.200 23667 23667 I Quality : Skipped: false 3 cost 33.691845 refreshRate 11111111 processName com.rmc.natour21
+11-26 15:59:04.245 23667 23667 I Quality : Skipped: true 1 cost 11.260504 refreshRate 11111111 processName com.rmc.natour21
+11-26 15:59:05.415 23667 23667 I Quality : Skipped: false 5 cost 59.297707 refreshRate 11111111 processName com.rmc.natour21
+11-26 15:59:08.412 23667 23667 V AutofillManager: requestHideFillUi(null): anchor = null
+11-26 15:59:08.451 23667 23667 I OsmDroid: Using tile source: Mapnik
+11-26 15:59:08.451 23667 23667 I OsmDroid: Tile cache increased from 0 to 9
+11-26 15:59:08.475 23667 23667 V TextView: notifyAutoFillManagerAfterTextChanged
+11-26 15:59:08.475 23667 23667 V AutofillManager: notifyValueChanged(1073741870): ignoring on state FINISHED
+11-26 15:59:08.476 23667 23667 V TextView: notifyAutoFillManagerAfterTextChanged
+11-26 15:59:08.476 23667 23667 V AutofillManager: notifyValueChanged(1073741870): ignoring on state FINISHED
+11-26 15:59:08.483 23667 23667 V TextView: notifyAutoFillManagerAfterTextChanged
+11-26 15:59:08.483 23667 23667 V AutofillManager: notifyValueChanged(1073741871): ignoring on state FINISHED
+11-26 15:59:08.483 23667 23667 V TextView: notifyAutoFillManagerAfterTextChanged
+11-26 15:59:08.483 23667 23667 V AutofillManager: notifyValueChanged(1073741871): ignoring on state FINISHED
+11-26 15:59:08.518 23667 23667 V TextView: notifyAutoFillManagerAfterTextChanged
+11-26 15:59:08.518 23667 23667 V AutofillManager: notifyValueChanged(1073741825): ignoring on state FINISHED
+11-26 15:59:08.733 23667 23667 W System.err: java.io.IOException: INVALID_ARGUMENT: At least one of address or componentFilters must be specified.
+11-26 15:59:08.733 23667 23667 W System.err: 	at android.location.Geocoder$GeocodeListener.getResults(Geocoder.java:246)
+11-26 15:59:08.733 23667 23667 W System.err: 	at android.location.Geocoder.getFromLocationName(Geocoder.java:215)
+11-26 15:59:08.733 23667 23667 W System.err: 	at android.location.Geocoder.getFromLocationName(Geocoder.java:164)
+11-26 15:59:08.733 23667 23667 W System.err: 	at com.rmc.natour21.Fragment.InsertPath.InsertFragment.geoCode(InsertFragment.kt:528)
+11-26 15:59:08.733 23667 23667 W System.err: 	at com.rmc.natour21.Fragment.InsertPath.InsertFragment$onViewCreated$2$1.onQueryTextChange(InsertFragment.kt:288)
+11-26 15:59:08.733 23667 23667 W System.err: 	at android.widget.SearchView.onTextChanged(SearchView.java:1293)
+11-26 15:59:08.733 23667 23667 W System.err: 	at android.widget.SearchView.access$2100(SearchView.java:101)
+11-26 15:59:08.733 23667 23667 W System.err: 	at android.widget.SearchView$10.onTextChanged(SearchView.java:1822)
+11-26 15:59:08.733 23667 23667 W System.err: 	at android.widget.TextView.sendOnTextChanged(TextView.java:10908)
+11-26 15:59:08.733 23667 23667 W System.err: 	at android.widget.TextView.setText(TextView.java:6460)
+11-26 15:59:08.733 23667 23667 W System.err: 	at android.widget.TextView.setText(TextView.java:6286)
+11-26 15:59:08.733 23667 23667 W System.err: 	at android.widget.EditText.setText(EditText.java:121)
+11-26 15:59:08.733 23667 23667 W System.err: 	at android.widget.TextView.setText(TextView.java:6238)
+11-26 15:59:08.733 23667 23667 W System.err: 	at android.widget.TextView.onRestoreInstanceState(TextView.java:6105)
+11-26 15:59:08.733 23667 23667 W System.err: 	at android.view.View.dispatchRestoreInstanceState(View.java:21228)
+11-26 15:59:08.733 23667 23667 W System.err: 	at android.view.ViewGroup.dispatchRestoreInstanceState(ViewGroup.java:4124)
+11-26 15:59:08.733 23667 23667 W System.err: 	at android.view.ViewGroup.dispatchRestoreInstanceState(ViewGroup.java:4124)
+11-26 15:59:08.733 23667 23667 W System.err: 	at android.view.ViewGroup.dispatchRestoreInstanceState(ViewGroup.java:4124)
+11-26 15:59:08.733 23667 23667 W System.err: 	at android.view.ViewGroup.dispatchRestoreInstanceState(ViewGroup.java:4124)
+11-26 15:59:08.733 23667 23667 W System.err: 	at android.view.ViewGroup.dispatchRestoreInstanceState(ViewGroup.java:4124)
+11-26 15:59:08.733 23667 23667 W System.err: 	at android.view.ViewGroup.dispatchRestoreInstanceState(ViewGroup.java:4124)
+11-26 15:59:08.733 23667 23667 W System.err: 	at android.view.View.restoreHierarchyState(View.java:21206)
+11-26 15:59:08.733 23667 23667 W System.err: 	at androidx.fragment.app.Fragment.restoreViewState(Fragment.java:689)
+11-26 15:59:08.733 23667 23667 W System.err: 	at androidx.fragment.app.Fragment.restoreViewState(Fragment.java:3151)
+11-26 15:59:08.733 23667 23667 W System.err: 	at androidx.fragment.app.Fragment.performActivityCreated(Fragment.java:3142)
+11-26 15:59:08.733 23667 23667 W System.err: 	at androidx.fragment.app.FragmentStateManager.activityCreated(FragmentStateManager.java:579)
+11-26 15:59:08.733 23667 23667 W System.err: 	at androidx.fragment.app.FragmentStateManager.moveToExpectedState(FragmentStateManager.java:264)
+11-26 15:59:08.733 23667 23667 W System.err: 	at androidx.fragment.app.FragmentManager.executeOpsTogether(FragmentManager.java:1899)
+11-26 15:59:08.733 23667 23667 W System.err: 	at androidx.fragment.app.FragmentManager.removeRedundantOperationsAndExecute(FragmentManager.java:1817)
+11-26 15:59:08.734 23667 23667 W System.err: 	at androidx.fragment.app.FragmentManager.execPendingActions(FragmentManager.java:1760)
+11-26 15:59:08.734 23667 23667 W System.err: 	at androidx.fragment.app.FragmentManager$5.run(FragmentManager.java:547)
+11-26 15:59:08.734 23667 23667 W System.err: 	at android.os.Handler.handleCallback(Handler.java:938)
+11-26 15:59:08.734 23667 23667 W System.err: 	at android.os.Handler.dispatchMessage(Handler.java:99)
+11-26 15:59:08.734 23667 23667 W System.err: 	at android.os.Looper.loopOnce(Looper.java:233)
+11-26 15:59:08.734 23667 23667 W System.err: 	at android.os.Looper.loop(Looper.java:344)
+11-26 15:59:08.734 23667 23667 W System.err: 	at android.app.ActivityThread.main(ActivityThread.java:8223)
+11-26 15:59:08.734 23667 23667 W System.err: 	at java.lang.reflect.Method.invoke(Native Method)
+11-26 15:59:08.734 23667 23667 W System.err: 	at com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:589)
+11-26 15:59:08.734 23667 23667 W System.err: 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:1071)
+11-26 15:59:08.735 23667 23667 V TextView: notifyAutoFillManagerAfterTextChanged
+11-26 15:59:08.735 23667 23667 V AutofillManager: notifyValueChanged(1073741826): ignoring on state FINISHED
+11-26 15:59:08.748 23667 23667 I Quality : Skipped: false 27 cost 302.8296 refreshRate 11111111 processName com.rmc.natour21
+11-26 15:59:08.762 23667 23667 I OsmDroid: Tile cache increased from 9 to 60
+11-26 15:59:08.775 23667 23667 I Quality : Skipped: false 2 cost 25.703844 refreshRate 11111111 processName com.rmc.natour21
+11-26 15:59:11.773 23667 23667 V AutofillManager: requestHideFillUi(null): anchor = null
+11-26 15:59:11.809 23667 23667 I oplus.android.OplusFrameworkFactoryImpl: get feature:IOplusDynamicVsyncFeature
+11-26 15:59:11.809 23667 23667 I oplus.android.OplusFrameworkFactoryImpl: get feature:IOplusDynamicVsyncFeature
+11-26 15:59:11.810 23667 23667 I oplus.android.OplusFrameworkFactoryImpl: get feature:IOplusDynamicVsyncFeature
+11-26 15:59:11.828 23667 23667 V TextView: notifyAutoFillManagerAfterTextChanged
+11-26 15:59:11.828 23667 23667 V AutofillManager: notifyValueChanged(1073741872): ignoring on state FINISHED
+11-26 15:59:11.828 23667 23667 V TextView: notifyAutoFillManagerAfterTextChanged
+11-26 15:59:11.828 23667 23667 V AutofillManager: notifyValueChanged(1073741872): ignoring on state FINISHED
+11-26 15:59:11.850 23667 23667 I oplus.android.OplusFrameworkFactoryImpl: get feature:IOplusDynamicVsyncFeature
+11-26 15:59:11.850 23667 23667 I oplus.android.OplusFrameworkFactoryImpl: get feature:IOplusDynamicVsyncFeature
+11-26 15:59:11.850 23667 23667 I oplus.android.OplusFrameworkFactoryImpl: get feature:IOplusDynamicVsyncFeature
+11-26 15:59:11.858 23667 23667 V TextView: notifyAutoFillManagerAfterTextChanged
+11-26 15:59:11.858 23667 23667 V AutofillManager: notifyValueChanged(1073741824): ignoring on state FINISHED
+11-26 15:59:11.868 23667 23667 I Quality : Skipped: false 5 cost 58.143085 refreshRate 11111111 processName com.rmc.natour21
+11-26 15:59:12.011 23667 23667 I Quality : Skipped: false 11 cost 131.40985 refreshRate 11111111 processName com.rmc.natour21
+11-26 15:59:12.033 23667 23667 I Quality : Skipped: false 1 cost 19.022264 refreshRate 11111111 processName com.rmc.natour21
+11-26 15:59:12.049 23667 23667 I Quality : Skipped: false 1 cost 12.244957 refreshRate 11111111 processName com.rmc.natour21
+11-26 15:59:12.427 23667 23667 V AutofillManager: requestHideFillUi(null): anchor = null
+11-26 15:59:12.589 23667 23667 I Quality : Skipped: false 2 cost 25.106554 refreshRate 11111111 processName com.rmc.natour21
+11-26 15:59:12.599 23667 24091 D skia    : SkJpegCodec::onGetPixels +
+11-26 15:59:12.615 23667 24091 D skia    : SkJpegCodec::onGetPixels -
+11-26 15:59:12.622 23667 24091 D skia    : SkJpegCodec::onGetPixels +
+11-26 15:59:12.629 23667 24091 D skia    : SkJpegCodec::onGetPixels -
+11-26 15:59:12.637 23667 24091 D skia    : SkJpegCodec::onGetPixels +
+11-26 15:59:12.646 23667 24091 D skia    : SkJpegCodec::onGetPixels -
+11-26 15:59:12.815 23667 23667 I Quality : Skipped: false 5 cost 60.86531 refreshRate 11111111 processName com.rmc.natour21
+11-26 15:59:15.562 23667 24047 W SendBird: [15:59:15.561 Connection$1:onMessage():235] onMessage instance : [PONG] com.sendbird.android.Connection@2c23b85
+11-26 15:59:15.564 23667 24047 W Sendbird: [15:59:15.563 Connection$1:onMessage():236] onMessage instance : [PONG] com.sendbird.android.Connection@2c23b85
+11-26 15:59:15.572 23667 24083 W SendBird: [15:59:15.570 EventController$1:call():141] ++ result[PONG] runnable=null
+11-26 15:59:15.579 23667 23667 V AutofillManager: requestHideFillUi(null): anchor = null
+11-26 15:59:15.613 23667 23667 I OsmDroid: Using tile source: Mapnik
+11-26 15:59:15.613 23667 23667 I OsmDroid: Tile cache increased from 0 to 9
+11-26 15:59:15.636 23667 23667 V TextView: notifyAutoFillManagerAfterTextChanged
+11-26 15:59:15.636 23667 23667 V AutofillManager: notifyValueChanged(1073741873): ignoring on state FINISHED
+11-26 15:59:15.639 23667 23667 V TextView: notifyAutoFillManagerAfterTextChanged
+11-26 15:59:15.639 23667 23667 V AutofillManager: notifyValueChanged(1073741873): ignoring on state FINISHED
+11-26 15:59:15.648 23667 23667 V TextView: notifyAutoFillManagerAfterTextChanged
+11-26 15:59:15.648 23667 23667 V AutofillManager: notifyValueChanged(1073741874): ignoring on state FINISHED
+11-26 15:59:15.649 23667 23667 V TextView: notifyAutoFillManagerAfterTextChanged
+11-26 15:59:15.649 23667 23667 V AutofillManager: notifyValueChanged(1073741874): ignoring on state FINISHED
+11-26 15:59:15.676 23667 23667 V TextView: notifyAutoFillManagerAfterTextChanged
+11-26 15:59:15.676 23667 23667 V AutofillManager: notifyValueChanged(1073741825): ignoring on state FINISHED
+11-26 15:59:16.245 23667 23667 W System.err: java.io.IOException: INVALID_ARGUMENT: At least one of address or componentFilters must be specified.
+11-26 15:59:16.245 23667 23667 W System.err: 	at android.location.Geocoder$GeocodeListener.getResults(Geocoder.java:246)
+11-26 15:59:16.245 23667 23667 W System.err: 	at android.location.Geocoder.getFromLocationName(Geocoder.java:215)
+11-26 15:59:16.245 23667 23667 W System.err: 	at android.location.Geocoder.getFromLocationName(Geocoder.java:164)
+11-26 15:59:16.245 23667 23667 W System.err: 	at com.rmc.natour21.Fragment.InsertPath.InsertFragment.geoCode(InsertFragment.kt:528)
+11-26 15:59:16.245 23667 23667 W System.err: 	at com.rmc.natour21.Fragment.InsertPath.InsertFragment$onViewCreated$2$1.onQueryTextChange(InsertFragment.kt:288)
+11-26 15:59:16.245 23667 23667 W System.err: 	at android.widget.SearchView.onTextChanged(SearchView.java:1293)
+11-26 15:59:16.245 23667 23667 W System.err: 	at android.widget.SearchView.access$2100(SearchView.java:101)
+11-26 15:59:16.245 23667 23667 W System.err: 	at android.widget.SearchView$10.onTextChanged(SearchView.java:1822)
+11-26 15:59:16.245 23667 23667 W System.err: 	at android.widget.TextView.sendOnTextChanged(TextView.java:10908)
+11-26 15:59:16.246 23667 23667 W System.err: 	at android.widget.TextView.setText(TextView.java:6460)
+11-26 15:59:16.246 23667 23667 W System.err: 	at android.widget.TextView.setText(TextView.java:6286)
+11-26 15:59:16.246 23667 23667 W System.err: 	at android.widget.EditText.setText(EditText.java:121)
+11-26 15:59:16.246 23667 23667 W System.err: 	at android.widget.TextView.setText(TextView.java:6238)
+11-26 15:59:16.246 23667 23667 W System.err: 	at android.widget.TextView.onRestoreInstanceState(TextView.java:6105)
+11-26 15:59:16.246 23667 23667 W System.err: 	at android.view.View.dispatchRestoreInstanceState(View.java:21228)
+11-26 15:59:16.246 23667 23667 W System.err: 	at android.view.ViewGroup.dispatchRestoreInstanceState(ViewGroup.java:4124)
+11-26 15:59:16.246 23667 23667 W System.err: 	at android.view.ViewGroup.dispatchRestoreInstanceState(ViewGroup.java:4124)
+11-26 15:59:16.246 23667 23667 W System.err: 	at android.view.ViewGroup.dispatchRestoreInstanceState(ViewGroup.java:4124)
+11-26 15:59:16.246 23667 23667 W System.err: 	at android.view.ViewGroup.dispatchRestoreInstanceState(ViewGroup.java:4124)
+11-26 15:59:16.246 23667 23667 W System.err: 	at android.view.ViewGroup.dispatchRestoreInstanceState(ViewGroup.java:4124)
+11-26 15:59:16.246 23667 23667 W System.err: 	at android.view.ViewGroup.dispatchRestoreInstanceState(ViewGroup.java:4124)
+11-26 15:59:16.246 23667 23667 W System.err: 	at android.view.View.restoreHierarchyState(View.java:21206)
+11-26 15:59:16.246 23667 23667 W System.err: 	at androidx.fragment.app.Fragment.restoreViewState(Fragment.java:689)
+11-26 15:59:16.246 23667 23667 W System.err: 	at androidx.fragment.app.Fragment.restoreViewState(Fragment.java:3151)
+11-26 15:59:16.246 23667 23667 W System.err: 	at androidx.fragment.app.Fragment.performActivityCreated(Fragment.java:3142)
+11-26 15:59:16.246 23667 23667 W System.err: 	at androidx.fragment.app.FragmentStateManager.activityCreated(FragmentStateManager.java:579)
+11-26 15:59:16.246 23667 23667 W System.err: 	at androidx.fragment.app.FragmentStateManager.moveToExpectedState(FragmentStateManager.java:264)
+11-26 15:59:16.246 23667 23667 W System.err: 	at androidx.fragment.app.FragmentManager.executeOpsTogether(FragmentManager.java:1899)
+11-26 15:59:16.246 23667 23667 W System.err: 	at androidx.fragment.app.FragmentManager.removeRedundantOperationsAndExecute(FragmentManager.java:1817)
+11-26 15:59:16.246 23667 23667 W System.err: 	at androidx.fragment.app.FragmentManager.execPendingActions(FragmentManager.java:1760)
+11-26 15:59:16.246 23667 23667 W System.err: 	at androidx.fragment.app.FragmentManager$5.run(FragmentManager.java:547)
+11-26 15:59:16.246 23667 23667 W System.err: 	at android.os.Handler.handleCallback(Handler.java:938)
+11-26 15:59:16.246 23667 23667 W System.err: 	at android.os.Handler.dispatchMessage(Handler.java:99)
+11-26 15:59:16.246 23667 23667 W System.err: 	at android.os.Looper.loopOnce(Looper.java:233)
+11-26 15:59:16.246 23667 23667 W System.err: 	at android.os.Looper.loop(Looper.java:344)
+11-26 15:59:16.246 23667 23667 W System.err: 	at android.app.ActivityThread.main(ActivityThread.java:8223)
+11-26 15:59:16.246 23667 23667 W System.err: 	at java.lang.reflect.Method.invoke(Native Method)
+11-26 15:59:16.246 23667 23667 W System.err: 	at com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:589)
+11-26 15:59:16.246 23667 23667 W System.err: 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:1071)
+11-26 15:59:16.248 23667 23667 V TextView: notifyAutoFillManagerAfterTextChanged
+11-26 15:59:16.248 23667 23667 V AutofillManager: notifyValueChanged(1073741826): ignoring on state FINISHED
+11-26 15:59:16.263 23667 23667 I Choreographer: Skipped 59 frames!  The application may be doing too much work on its main thread.
+11-26 15:59:16.264 23667 23667 I Quality : Skipped: false 59 cost 658.97174 refreshRate 11111111 processName com.rmc.natour21
+11-26 15:59:16.276 23667 23667 I OsmDroid: Tile cache increased from 9 to 60
+11-26 15:59:16.290 23667 23667 I Quality : Skipped: false 1 cost 18.435877 refreshRate 11111111 processName com.rmc.natour21
+11-26 15:59:17.788 23667 23667 V AutofillManager: requestHideFillUi(null): anchor = null
+11-26 15:59:17.824 23667 23667 V AutofillManager: ignoring notifyViewEntered(flags=0, view=1073741825) on state FINISHED because view was already entered: {1073741825, 1073741826}
+11-26 15:59:17.829 23667 23667 D InputMethodManager: showSoftInput() view=androidx.appcompat.widget.AppCompatEditText{1f267ab VFED..CL. .F.P..ID 96,48-984,168 #7f0a026a app:id/path_name aid=1073741825} flags=0 reason=SHOW_SOFT_INPUT
+11-26 15:59:17.878 23667 23667 D InsetsController: show(ime(), fromIme=true)
+11-26 15:59:18.705 23667 23667 V TextView: notifyAutoFillManagerAfterTextChanged
+11-26 15:59:18.705 23667 23667 V AutofillManager: notifyValueChanged(1073741825): ignoring on state FINISHED
+11-26 15:59:18.865 23667 23667 V TextView: notifyAutoFillManagerAfterTextChanged
+11-26 15:59:18.865 23667 23667 V AutofillManager: notifyValueChanged(1073741825): ignoring on state FINISHED
+11-26 15:59:19.015 23667 23667 V TextView: notifyAutoFillManagerAfterTextChanged
+11-26 15:59:19.015 23667 23667 V AutofillManager: notifyValueChanged(1073741825): ignoring on state FINISHED
+11-26 15:59:19.048 23667 23892 E BLASTBufferQueue: [ViewRootImpl[com.rmc.natour21/com.rmc.natour21.MainActivity]#1](f:0,a:2) isEGL=1, mPendingRelease.size()=1, mMaxAcquiredBuffers=4, currentMaxAcquiredBufferCount=2
+11-26 15:59:19.172 23667 23667 V TextView: notifyAutoFillManagerAfterTextChanged
+11-26 15:59:19.172 23667 23667 V AutofillManager: notifyValueChanged(1073741825): ignoring on state FINISHED
+11-26 15:59:19.204 23667 23892 E BLASTBufferQueue: [ViewRootImpl[com.rmc.natour21/com.rmc.natour21.MainActivity]#1](f:0,a:3) isEGL=1, mPendingRelease.size()=2, mMaxAcquiredBuffers=4, currentMaxAcquiredBufferCount=2
+11-26 15:59:19.323 23667 23667 V TextView: notifyAutoFillManagerAfterTextChanged
+11-26 15:59:19.323 23667 23667 V AutofillManager: notifyValueChanged(1073741825): ignoring on state FINISHED
+11-26 15:59:20.528 23667 23667 V AutofillManager: requestHideFillUi(null): anchor = null
+11-26 15:59:20.528 23667 23667 D OplusSystemUINavigationGesture: [GESTURE_BUTTON] swipe from 1
+11-26 15:59:20.528 23667 23667 D OplusSystemUINavigationGesture: [GESTURE_BUTTON] Hit Gesture Region !
+11-26 15:59:21.777 23667 23667 V AutofillManager: requestHideFillUi(null): anchor = null
+11-26 15:59:21.825 23667 23667 D InputMethodManager: showSoftInput() view=android.widget.SearchView$SearchAutoComplete{e850d11 VFED..CL. .F....ID 0,0-0,0 #1020465 android:id/search_src_text aid=1073741826} flags=0 reason=SHOW_SOFT_INPUT
+11-26 15:59:21.834 23667 23667 V AutofillManager: ignoring notifyViewEntered(flags=0, view=1073741826) on state FINISHED because view was already entered: {1073741825, 1073741826}
+11-26 15:59:21.851 23667 23667 D InsetsController: show(ime(), fromIme=true)
+11-26 15:59:23.358 23667 23693 E BLASTBufferQueue: [ViewRootImpl[com.rmc.natour21/com.rmc.natour21.MainActivity]#1](f:0,a:2) isEGL=1, mPendingRelease.size()=1, mMaxAcquiredBuffers=4, currentMaxAcquiredBufferCount=2
+11-26 15:59:23.874 23667 23693 E BLASTBufferQueue: [ViewRootImpl[com.rmc.natour21/com.rmc.natour21.MainActivity]#1](f:0,a:3) isEGL=1, mPendingRelease.size()=2, mMaxAcquiredBuffers=4, currentMaxAcquiredBufferCount=2
+11-26 15:59:24.945 23667 23667 V TextView: notifyAutoFillManagerAfterTextChanged
+11-26 15:59:24.945 23667 23667 V AutofillManager: notifyValueChanged(1073741826): ignoring on state FINISHED
+11-26 15:59:25.128 23667 23667 V TextView: notifyAutoFillManagerAfterTextChanged
+11-26 15:59:25.128 23667 23667 V AutofillManager: notifyValueChanged(1073741826): ignoring on state FINISHED
+11-26 15:59:25.132 23667 23667 I Quality : Skipped: false 10 cost 182.11601 refreshRate 16666667 processName com.rmc.natour21
+11-26 15:59:25.371 23667 23667 V TextView: notifyAutoFillManagerAfterTextChanged
+11-26 15:59:25.371 23667 23667 V AutofillManager: notifyValueChanged(1073741826): ignoring on state FINISHED
+11-26 15:59:25.685 23667 23667 V TextView: notifyAutoFillManagerAfterTextChanged
+11-26 15:59:25.685 23667 23667 V AutofillManager: notifyValueChanged(1073741826): ignoring on state FINISHED
+11-26 15:59:26.201 23667 23667 V TextView: notifyAutoFillManagerAfterTextChanged
+11-26 15:59:26.201 23667 23667 V AutofillManager: notifyValueChanged(1073741826): ignoring on state FINISHED
+11-26 15:59:26.425 23667 23667 V TextView: notifyAutoFillManagerAfterTextChanged
+11-26 15:59:26.425 23667 23667 V AutofillManager: notifyValueChanged(1073741826): ignoring on state FINISHED
+11-26 15:59:26.446 23667 23667 D WindowManager: Add to mViews: android.widget.PopupWindow$PopupDecorView{a4eeefe V.E...... R.....I. 0,0-0,0},pkg= com.rmc.natour21
+11-26 15:59:26.452 23667 23667 D ViewRootImpl[PopupWindow:266ed03]: hardware acceleration = true, sRendererEnabled = true, forceHwAccelerated = false
+11-26 15:59:26.461 23667 23667 I Quality : Skipped: false 1 cost 30.837332 refreshRate 16666667 processName com.rmc.natour21
+11-26 15:59:26.481 23667 23667 I BufferQueueConsumer: [](id:5c7300000002,api:0,p:-1,c:23667) connect: controlledByApp=false
+11-26 15:59:26.482 23667 23667 I BLASTBufferQueue: [ViewRootImpl[PopupWindow:266ed03]#2] constructor()
+11-26 15:59:26.485 23667 23783 I BufferQueueProducer: [ViewRootImpl[PopupWindow:266ed03]#2(BLAST Consumer)2](id:5c7300000002,api:1,p:23667,c:23667) connect: api=1 producerControlledByApp=true
+11-26 15:59:26.512 23667 23693 D SurfaceComposerClient: VRR [FRTC] client handle [bufferId:18446744073709551615 framenumber:0] [ffffffff, ffffffff]
+11-26 15:59:26.533 23667 25197 E BLASTBufferQueue: [ViewRootImpl[PopupWindow:266ed03]#2](f:0,a:2) isEGL=1, mPendingRelease.size()=1, mMaxAcquiredBuffers=4, currentMaxAcquiredBufferCount=2
+11-26 15:59:26.924 23667 23667 V TextView: notifyAutoFillManagerAfterTextChanged
+11-26 15:59:26.924 23667 23667 V AutofillManager: notifyValueChanged(1073741826): ignoring on state FINISHED
+11-26 15:59:27.122 23667 23667 V TextView: notifyAutoFillManagerAfterTextChanged
+11-26 15:59:27.123 23667 23667 V AutofillManager: notifyValueChanged(1073741826): ignoring on state FINISHED
+11-26 15:59:27.141 23667 23783 I BufferQueueProducer: [ViewRootImpl[PopupWindow:266ed03]#2(BLAST Consumer)2](id:5c7300000002,api:1,p:23667,c:23667) disconnect: api 1
+11-26 15:59:27.141 23667 23783 E BLASTBufferQueue: BLASTBufferItemConsumer::onDisconnect()
+11-26 15:59:27.142 23667 23783 I BufferQueueProducer: [ViewRootImpl[PopupWindow:266ed03]#2(BLAST Consumer)2](id:5c7300000002,api:1,p:23667,c:23667) connect: api=1 producerControlledByApp=true
+11-26 15:59:27.148 23667 23667 V OplusZoomWindowDecorViewHelper: removeZoomView
+11-26 15:59:27.156 23667 23783 I BufferQueueProducer: [ViewRootImpl[PopupWindow:266ed03]#2(BLAST Consumer)2](id:5c7300000002,api:1,p:23667,c:23667) disconnect: api 1
+11-26 15:59:27.157 23667 23783 E BLASTBufferQueue: BLASTBufferItemConsumer::onDisconnect()
+11-26 15:59:27.157 23667 23667 D View    : [Warning] assignParent to null: this = android.widget.PopupWindow$PopupDecorView{a4eeefe V.E...... R.....ID 0,0-990,0}
+11-26 15:59:27.157 23667 23667 I BLASTBufferQueue: [ViewRootImpl[PopupWindow:266ed03]#2] destructor()
+11-26 15:59:27.157 23667 23667 I BufferQueueConsumer: [ViewRootImpl[PopupWindow:266ed03]#2(BLAST Consumer)2](id:5c7300000002,api:0,p:-1,c:23667) disconnect
+11-26 15:59:27.167 23667 23667 I Quality : Skipped: false 1 cost 24.419989 refreshRate 16666667 processName com.rmc.natour21
+11-26 15:59:27.433 23667 25197 I BLASTBufferQueue: releaseBufferCallbackThunk bufferId:101648990994449 framenumber:2 blastBufferQueue is dead
+11-26 15:59:28.275 23667 23667 V TextView: notifyAutoFillManagerAfterTextChanged
+11-26 15:59:28.275 23667 23667 V AutofillManager: notifyValueChanged(1073741826): ignoring on state FINISHED
+11-26 15:59:30.379 23667 23667 V TextView: notifyAutoFillManagerAfterTextChanged
+11-26 15:59:30.379 23667 23667 V AutofillManager: notifyValueChanged(1073741826): ignoring on state FINISHED
+11-26 15:59:30.397 23667 23667 D WindowManager: Add to mViews: android.widget.PopupWindow$PopupDecorView{c26fd0a V.E...... R.....I. 0,0-0,0},pkg= com.rmc.natour21
+11-26 15:59:30.399 23667 23667 D ViewRootImpl[PopupWindow:266ed03]: hardware acceleration = true, sRendererEnabled = true, forceHwAccelerated = false
+11-26 15:59:30.427 23667 23667 I BufferQueueConsumer: [](id:5c7300000003,api:0,p:-1,c:23667) connect: controlledByApp=false
+11-26 15:59:30.428 23667 23667 I BLASTBufferQueue: [ViewRootImpl[PopupWindow:266ed03]#3] constructor()
+11-26 15:59:30.430 23667 23783 I BufferQueueProducer: [ViewRootImpl[PopupWindow:266ed03]#3(BLAST Consumer)3](id:5c7300000003,api:1,p:23667,c:23667) connect: api=1 producerControlledByApp=true
+11-26 15:59:30.455 23667 25197 D SurfaceComposerClient: VRR [FRTC] client handle [bufferId:18446744073709551615 framenumber:0] [ffffffff, ffffffff]
+11-26 15:59:30.461 23667 25197 E BLASTBufferQueue: [ViewRootImpl[PopupWindow:266ed03]#3](f:0,a:2) isEGL=1, mPendingRelease.size()=1, mMaxAcquiredBuffers=4, currentMaxAcquiredBufferCount=2
+11-26 15:59:30.568 23667 24047 W SendBird: [15:59:30.565 Connection$1:onMessage():235] onMessage instance : [PONG] com.sendbird.android.Connection@2c23b85
+11-26 15:59:30.571 23667 24047 W Sendbird: [15:59:30.569 Connection$1:onMessage():236] onMessage instance : [PONG] com.sendbird.android.Connection@2c23b85
+11-26 15:59:30.583 23667 24083 W SendBird: [15:59:30.582 EventController$1:call():141] ++ result[PONG] runnable=null
+11-26 15:59:31.484 23667 23667 V AutofillManager: requestHideFillUi(null): anchor = null
+11-26 15:59:31.551 23667 23693 E BLASTBufferQueue: [ViewRootImpl[PopupWindow:266ed03]#3](f:0,a:3) isEGL=1, mPendingRelease.size()=2, mMaxAcquiredBuffers=4, currentMaxAcquiredBufferCount=2
+11-26 15:59:32.053 23667 23667 V TextView: notifyAutoFillManagerAfterTextChanged
+11-26 15:59:32.053 23667 23667 V AutofillManager: notifyValueChanged(1073741826): ignoring on state FINISHED
+11-26 15:59:32.238 23667 23667 V OplusZoomWindowDecorViewHelper: removeZoomView
+11-26 15:59:32.239 23667 23783 I BufferQueueProducer: [ViewRootImpl[PopupWindow:266ed03]#3(BLAST Consumer)3](id:5c7300000003,api:1,p:23667,c:23667) disconnect: api 1
+11-26 15:59:32.239 23667 23783 E BLASTBufferQueue: BLASTBufferItemConsumer::onDisconnect()
+11-26 15:59:32.240 23667 23783 D OpenGLRenderer: endAllActiveAnimators on 0xb400006ee22ea600 (DropDownListView) with handle 0xb400006ede9fc580
+11-26 15:59:32.240 23667 23667 D View    : [Warning] assignParent to null: this = android.widget.PopupWindow$PopupDecorView{c26fd0a V.E...... R.....ID 0,0-990,168}
+11-26 15:59:32.242 23667 25197 I BLASTBufferQueue: [ViewRootImpl[PopupWindow:266ed03]#3] destructor()
+11-26 15:59:32.243 23667 25197 I BufferQueueConsumer: [ViewRootImpl[PopupWindow:266ed03]#3(BLAST Consumer)3](id:5c7300000003,api:0,p:-1,c:23667) disconnect
+11-26 15:59:32.247 23667 23667 I Choreographer: Skipped 42 frames!  The application may be doing too much work on its main thread.
+11-26 15:59:32.247 23667 23667 I Quality : Skipped: false 42 cost 701.40326 refreshRate 16666667 processName com.rmc.natour21
+11-26 15:59:32.275 23667 25197 I OpenGLRenderer: Davey! duration=721ms; Flags=0, FrameTimelineVsyncId=28752741, IntendedVsync=999204891425156, Vsync=999205591425170, InputEventId=0, HandleInputStart=999205592997248, AnimationStart=999205592999479, PerformTraversalsStart=999205593027402, DrawStart=999205594320017, FrameDeadline=999204911425156, FrameInterval=999205592828402, FrameStartTime=16666667, SyncQueued=999205600466171, SyncStart=999205600606171, IssueDrawCommandsStart=999205600736325, SwapBuffers=999205604454863, FrameCompleted=999205613161017, DequeueBufferDuration=21846, QueueBufferDuration=452692, GpuCompleted=999205613161017, SwapBuffersCompleted=999205608629633, DisplayPresentTime=0, 
+11-26 15:59:32.297 23667 23667 D InsetsController: show(ime(), fromIme=true)
+11-26 15:59:32.509 23667 25197 I BLASTBufferQueue: releaseBufferCallbackThunk bufferId:101648990994455 framenumber:44 blastBufferQueue is dead
+11-26 15:59:34.634 23667 25547 I Quality : SlowSQLite: /executeForLastInsertedRowId INSERT OR REPLACE  INTO tiles(expires,provider,key,tile) VALUES (?,?,?,?)/ cost= /896
+11-26 15:59:37.654 23667 23667 V AutofillManager: requestHideFillUi(null): anchor = null
+11-26 15:59:41.463 23667 23667 V AutofillManager: requestHideFillUi(null): anchor = null
+11-26 15:59:41.519 23667 23667 I Quality : Skipped: false 1 cost 11.860361 refreshRate 11111111 processName com.rmc.natour21
+11-26 15:59:44.020 23667 23667 V AutofillManager: requestHideFillUi(null): anchor = null
+11-26 15:59:45.635 23667 24047 W SendBird: [15:59:45.632 Connection$1:onMessage():235] onMessage instance : [PONG] com.sendbird.android.Connection@2c23b85
+11-26 15:59:45.638 23667 24047 W Sendbird: [15:59:45.636 Connection$1:onMessage():236] onMessage instance : [PONG] com.sendbird.android.Connection@2c23b85
+11-26 15:59:45.651 23667 24083 W SendBird: [15:59:45.650 EventController$1:call():141] ++ result[PONG] runnable=null
+11-26 15:59:46.669 23667 23667 V AutofillManager: requestHideFillUi(null): anchor = null
+11-26 15:59:46.829 23667 23667 V AutofillManager: requestHideFillUi(null): anchor = null
+11-26 15:59:46.992 23667 23667 V AutofillManager: requestHideFillUi(null): anchor = null
+11-26 15:59:47.699 23667 23667 V AutofillManager: requestHideFillUi(null): anchor = null
+11-26 15:59:47.919 23667 23667 W System.err: java.io.IOException: INVALID_ARGUMENT: At least one of address or componentFilters must be specified.
+11-26 15:59:47.919 23667 23667 W System.err: 	at android.location.Geocoder$GeocodeListener.getResults(Geocoder.java:246)
+11-26 15:59:47.919 23667 23667 W System.err: 	at android.location.Geocoder.getFromLocationName(Geocoder.java:215)
+11-26 15:59:47.919 23667 23667 W System.err: 	at android.location.Geocoder.getFromLocationName(Geocoder.java:164)
+11-26 15:59:47.919 23667 23667 W System.err: 	at com.rmc.natour21.Fragment.InsertPath.InsertFragment.geoCode(InsertFragment.kt:528)
+11-26 15:59:47.919 23667 23667 W System.err: 	at com.rmc.natour21.Fragment.InsertPath.InsertFragment$onViewCreated$2$1.onQueryTextChange(InsertFragment.kt:288)
+11-26 15:59:47.919 23667 23667 W System.err: 	at android.widget.SearchView.onTextChanged(SearchView.java:1293)
+11-26 15:59:47.919 23667 23667 W System.err: 	at android.widget.SearchView.access$2100(SearchView.java:101)
+11-26 15:59:47.919 23667 23667 W System.err: 	at android.widget.SearchView$10.onTextChanged(SearchView.java:1822)
+11-26 15:59:47.919 23667 23667 W System.err: 	at android.widget.TextView.sendOnTextChanged(TextView.java:10908)
+11-26 15:59:47.920 23667 23667 W System.err: 	at android.widget.TextView.setText(TextView.java:6460)
+11-26 15:59:47.920 23667 23667 W System.err: 	at android.widget.TextView.setText(TextView.java:6286)
+11-26 15:59:47.920 23667 23667 W System.err: 	at android.widget.EditText.setText(EditText.java:121)
+11-26 15:59:47.920 23667 23667 W System.err: 	at android.widget.TextView.setText(TextView.java:6238)
+11-26 15:59:47.920 23667 23667 W System.err: 	at android.widget.SearchView.onCloseClicked(SearchView.java:1330)
+11-26 15:59:47.920 23667 23667 W System.err: 	at android.widget.SearchView.access$800(SearchView.java:101)
+11-26 15:59:47.920 23667 23667 W System.err: 	at android.widget.SearchView$5.onClick(SearchView.java:1013)
+11-26 15:59:47.920 23667 23667 W System.err: 	at android.view.View.performClick(View.java:7498)
+11-26 15:59:47.920 23667 23667 W System.err: 	at android.view.View.performClickInternal(View.java:7471)
+11-26 15:59:47.920 23667 23667 W System.err: 	at android.view.View.access$3700(View.java:843)
+11-26 15:59:47.920 23667 23667 W System.err: 	at android.view.View$PerformClick.run(View.java:29080)
+11-26 15:59:47.920 23667 23667 W System.err: 	at android.os.Handler.handleCallback(Handler.java:938)
+11-26 15:59:47.920 23667 23667 W System.err: 	at android.os.Handler.dispatchMessage(Handler.java:99)
+11-26 15:59:47.920 23667 23667 W System.err: 	at android.os.Looper.loopOnce(Looper.java:233)
+11-26 15:59:47.920 23667 23667 W System.err: 	at android.os.Looper.loop(Looper.java:344)
+11-26 15:59:47.920 23667 23667 W System.err: 	at android.app.ActivityThread.main(ActivityThread.java:8223)
+11-26 15:59:47.920 23667 23667 W System.err: 	at java.lang.reflect.Method.invoke(Native Method)
+11-26 15:59:47.921 23667 23667 W System.err: 	at com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:589)
+11-26 15:59:47.921 23667 23667 W System.err: 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:1071)
+11-26 15:59:47.922 23667 23667 V TextView: notifyAutoFillManagerAfterTextChanged
+11-26 15:59:47.922 23667 23667 V AutofillManager: notifyValueChanged(1073741826): ignoring on state FINISHED
+11-26 15:59:47.929 23667 23667 D InputMethodManager: showSoftInput() view=android.widget.SearchView$SearchAutoComplete{e850d11 VFED..CL. .F....ID 0,-7-750,101 #1020465 android:id/search_src_text aid=1073741826} flags=0 reason=SHOW_SOFT_INPUT
+11-26 15:59:47.935 23667 23667 I Quality : Skipped: false 16 cost 182.95694 refreshRate 11111111 processName com.rmc.natour21
+11-26 15:59:47.995 23667 23667 D InsetsController: show(ime(), fromIme=true)
+11-26 15:59:49.086 23667 23667 V AutofillManager: requestHideFillUi(null): anchor = null
+11-26 15:59:49.086 23667 23667 D OplusSystemUINavigationGesture: [GESTURE_BUTTON] swipe from 1
+11-26 15:59:49.087 23667 23667 D OplusSystemUINavigationGesture: [GESTURE_BUTTON] Hit Gesture Region !
+11-26 15:59:49.915 23667 23667 V AutofillManager: requestHideFillUi(null): anchor = null
+11-26 15:59:50.023 23667 23667 I oplus.android.OplusFrameworkFactoryImpl: get feature:IOplusDynamicVsyncFeature
+11-26 15:59:50.023 23667 23667 I oplus.android.OplusFrameworkFactoryImpl: get feature:IOplusDynamicVsyncFeature
+11-26 15:59:50.023 23667 23667 I oplus.android.OplusFrameworkFactoryImpl: get feature:IOplusDynamicVsyncFeature
+11-26 15:59:50.030 23667 23667 I oplus.android.OplusFrameworkFactoryImpl: get feature:IOplusDynamicVsyncFeature
+11-26 15:59:50.030 23667 23667 I oplus.android.OplusFrameworkFactoryImpl: get feature:IOplusDynamicVsyncFeature
+11-26 15:59:50.030 23667 23667 I oplus.android.OplusFrameworkFactoryImpl: get feature:IOplusDynamicVsyncFeature
+11-26 15:59:50.054 23667 25610 D OsmDroid: TileLoader failed to load tile due to mWriter being null (map shutdown?)
+11-26 15:59:50.055 23667 25610 D OsmDroid: TileLoader failed to load tile due to mWriter being null (map shutdown?)
+11-26 15:59:50.055 23667 25610 D OsmDroid: TileLoader failed to load tile due to mWriter being null (map shutdown?)
+11-26 15:59:50.055 23667 25610 D OsmDroid: TileLoader failed to load tile due to mWriter being null (map shutdown?)
+11-26 15:59:50.055 23667 25610 D OsmDroid: TileLoader failed to load tile due to mWriter being null (map shutdown?)
+11-26 15:59:50.055 23667 25610 D OsmDroid: TileLoader failed to load tile due to mWriter being null (map shutdown?)
+11-26 15:59:50.055 23667 25610 D OsmDroid: TileLoader failed to load tile due to mWriter being null (map shutdown?)
+11-26 15:59:50.055 23667 25610 D OsmDroid: TileLoader failed to load tile due to mWriter being null (map shutdown?)
+11-26 15:59:50.055 23667 25610 D OsmDroid: TileLoader failed to load tile due to mWriter being null (map shutdown?)
+11-26 15:59:50.055 23667 25610 D OsmDroid: TileLoader failed to load tile due to mWriter being null (map shutdown?)
+11-26 15:59:50.056 23667 25610 D OsmDroid: TileLoader failed to load tile due to mWriter being null (map shutdown?)
+11-26 15:59:50.056 23667 25610 D OsmDroid: TileLoader failed to load tile due to mWriter being null (map shutdown?)
+11-26 15:59:50.056 23667 25610 D OsmDroid: TileLoader failed to load tile due to mWriter being null (map shutdown?)
+11-26 15:59:50.056 23667 25610 D OsmDroid: TileLoader failed to load tile due to mWriter being null (map shutdown?)
+11-26 15:59:50.056 23667 25610 D OsmDroid: TileLoader failed to load tile due to mWriter being null (map shutdown?)
+11-26 15:59:50.056 23667 25610 D OsmDroid: TileLoader failed to load tile due to mWriter being null (map shutdown?)
+11-26 15:59:50.056 23667 25610 D OsmDroid: TileLoader failed to load tile due to mWriter being null (map shutdown?)
+11-26 15:59:50.056 23667 25610 D OsmDroid: TileLoader failed to load tile due to mWriter being null (map shutdown?)
+11-26 15:59:50.056 23667 25610 D OsmDroid: TileLoader failed to load tile due to mWriter being null (map shutdown?)
+11-26 15:59:50.056 23667 23667 I Quality : Skipped: false 4 cost 44.79337 refreshRate 11111111 processName com.rmc.natour21
+11-26 15:59:50.056 23667 25610 D OsmDroid: TileLoader failed to load tile due to mWriter being null (map shutdown?)
+11-26 15:59:50.056 23667 25610 D OsmDroid: TileLoader failed to load tile due to mWriter being null (map shutdown?)
+11-26 15:59:50.056 23667 25610 D OsmDroid: TileLoader failed to load tile due to mWriter being null (map shutdown?)
+11-26 15:59:50.057 23667 25610 D OsmDroid: TileLoader failed to load tile due to mWriter being null (map shutdown?)
+11-26 15:59:50.057 23667 25610 D OsmDroid: TileLoader failed to load tile due to mWriter being null (map shutdown?)
+11-26 15:59:50.057 23667 25610 D OsmDroid: TileLoader failed to load tile due to mWriter being null (map shutdown?)
+11-26 15:59:50.057 23667 25610 D OsmDroid: TileLoader failed to load tile due to mWriter being null (map shutdown?)
+11-26 15:59:50.057 23667 25610 D OsmDroid: TileLoader failed to load tile due to mWriter being null (map shutdown?)
+11-26 15:59:50.057 23667 25610 D OsmDroid: TileLoader failed to load tile due to mWriter being null (map shutdown?)
+11-26 15:59:50.057 23667 25610 D OsmDroid: TileLoader failed to load tile due to mWriter being null (map shutdown?)
+11-26 15:59:50.057 23667 25610 D OsmDroid: TileLoader failed to load tile due to mWriter being null (map shutdown?)
+11-26 15:59:50.057 23667 25610 D OsmDroid: TileLoader failed to load tile due to mWriter being null (map shutdown?)
+11-26 15:59:50.057 23667 25610 D OsmDroid: TileLoader failed to load tile due to mWriter being null (map shutdown?)
+11-26 15:59:50.057 23667 25610 D OsmDroid: TileLoader failed to load tile due to mWriter being null (map shutdown?)
+11-26 15:59:50.057 23667 25610 D OsmDroid: TileLoader failed to load tile due to mWriter being null (map shutdown?)
+11-26 15:59:50.057 23667 25610 D OsmDroid: TileLoader failed to load tile due to mWriter being null (map shutdown?)
+11-26 15:59:50.057 23667 25610 D OsmDroid: TileLoader failed to load tile due to mWriter being null (map shutdown?)
+11-26 15:59:50.057 23667 25610 D OsmDroid: TileLoader failed to load tile due to mWriter being null (map shutdown?)
+11-26 15:59:50.057 23667 25610 D OsmDroid: TileLoader failed to load tile due to mWriter being null (map shutdown?)
+11-26 15:59:50.057 23667 25610 D OsmDroid: TileLoader failed to load tile due to mWriter being null (map shutdown?)
+11-26 15:59:50.058 23667 25610 D OsmDroid: TileLoader failed to load tile due to mWriter being null (map shutdown?)
+11-26 15:59:50.058 23667 25610 D OsmDroid: TileLoader failed to load tile due to mWriter being null (map shutdown?)
+11-26 15:59:50.058 23667 25610 D OsmDroid: TileLoader failed to load tile due to mWriter being null (map shutdown?)
+11-26 15:59:50.058 23667 25610 D OsmDroid: TileLoader failed to load tile due to mWriter being null (map shutdown?)
+11-26 15:59:50.064 23667 23667 I oplus.android.OplusFrameworkFactoryImpl: get feature:IOplusDynamicVsyncFeature
+11-26 15:59:50.064 23667 23667 I oplus.android.OplusFrameworkFactoryImpl: get feature:IOplusDynamicVsyncFeature
+11-26 15:59:50.064 23667 23667 I oplus.android.OplusFrameworkFactoryImpl: get feature:IOplusDynamicVsyncFeature
+11-26 15:59:50.091 23667 23667 E RecyclerView: No adapter attached; skipping layout
+11-26 15:59:50.106 23667 23667 I Quality : Skipped: false 3 cost 38.584328 refreshRate 11111111 processName com.rmc.natour21
+11-26 15:59:50.468 23667 23667 V AutofillManager: requestHideFillUi(null): anchor = null
+11-26 15:59:50.507 23667 23667 I OsmDroid: Using tile source: Mapnik
+11-26 15:59:50.507 23667 23667 I OsmDroid: Tile cache increased from 0 to 9
+11-26 15:59:50.528 23667 23667 V TextView: notifyAutoFillManagerAfterTextChanged
+11-26 15:59:50.529 23667 23667 V AutofillManager: notifyValueChanged(1073741875): ignoring on state FINISHED
+11-26 15:59:50.529 23667 23667 V TextView: notifyAutoFillManagerAfterTextChanged
+11-26 15:59:50.529 23667 23667 V AutofillManager: notifyValueChanged(1073741875): ignoring on state FINISHED
+11-26 15:59:50.535 23667 23667 V TextView: notifyAutoFillManagerAfterTextChanged
+11-26 15:59:50.535 23667 23667 V AutofillManager: notifyValueChanged(1073741876): ignoring on state FINISHED
+11-26 15:59:50.536 23667 23667 V TextView: notifyAutoFillManagerAfterTextChanged
+11-26 15:59:50.536 23667 23667 V AutofillManager: notifyValueChanged(1073741876): ignoring on state FINISHED
+11-26 15:59:50.566 23667 23667 V TextView: notifyAutoFillManagerAfterTextChanged
+11-26 15:59:50.567 23667 23667 V AutofillManager: notifyValueChanged(1073741825): ignoring on state FINISHED
+11-26 15:59:50.697 23667 23667 W System.err: java.io.IOException: INVALID_ARGUMENT: At least one of address or componentFilters must be specified.
+11-26 15:59:50.698 23667 23667 W System.err: 	at android.location.Geocoder$GeocodeListener.getResults(Geocoder.java:246)
+11-26 15:59:50.698 23667 23667 W System.err: 	at android.location.Geocoder.getFromLocationName(Geocoder.java:215)
+11-26 15:59:50.698 23667 23667 W System.err: 	at android.location.Geocoder.getFromLocationName(Geocoder.java:164)
+11-26 15:59:50.698 23667 23667 W System.err: 	at com.rmc.natour21.Fragment.InsertPath.InsertFragment.geoCode(InsertFragment.kt:528)
+11-26 15:59:50.698 23667 23667 W System.err: 	at com.rmc.natour21.Fragment.InsertPath.InsertFragment$onViewCreated$2$1.onQueryTextChange(InsertFragment.kt:288)
+11-26 15:59:50.698 23667 23667 W System.err: 	at android.widget.SearchView.onTextChanged(SearchView.java:1293)
+11-26 15:59:50.698 23667 23667 W System.err: 	at android.widget.SearchView.access$2100(SearchView.java:101)
+11-26 15:59:50.698 23667 23667 W System.err: 	at android.widget.SearchView$10.onTextChanged(SearchView.java:1822)
+11-26 15:59:50.698 23667 23667 W System.err: 	at android.widget.TextView.sendOnTextChanged(TextView.java:10908)
+11-26 15:59:50.698 23667 23667 W System.err: 	at android.widget.TextView.setText(TextView.java:6460)
+11-26 15:59:50.698 23667 23667 W System.err: 	at android.widget.TextView.setText(TextView.java:6286)
+11-26 15:59:50.698 23667 23667 W System.err: 	at android.widget.EditText.setText(EditText.java:121)
+11-26 15:59:50.698 23667 23667 W System.err: 	at android.widget.TextView.setText(TextView.java:6238)
+11-26 15:59:50.698 23667 23667 W System.err: 	at android.widget.TextView.onRestoreInstanceState(TextView.java:6105)
+11-26 15:59:50.699 23667 23667 W System.err: 	at android.view.View.dispatchRestoreInstanceState(View.java:21228)
+11-26 15:59:50.699 23667 23667 W System.err: 	at android.view.ViewGroup.dispatchRestoreInstanceState(ViewGroup.java:4124)
+11-26 15:59:50.699 23667 23667 W System.err: 	at android.view.ViewGroup.dispatchRestoreInstanceState(ViewGroup.java:4124)
+11-26 15:59:50.699 23667 23667 W System.err: 	at android.view.ViewGroup.dispatchRestoreInstanceState(ViewGroup.java:4124)
+11-26 15:59:50.699 23667 23667 W System.err: 	at android.view.ViewGroup.dispatchRestoreInstanceState(ViewGroup.java:4124)
+11-26 15:59:50.699 23667 23667 W System.err: 	at android.view.ViewGroup.dispatchRestoreInstanceState(ViewGroup.java:4124)
+11-26 15:59:50.699 23667 23667 W System.err: 	at android.view.ViewGroup.dispatchRestoreInstanceState(ViewGroup.java:4124)
+11-26 15:59:50.699 23667 23667 W System.err: 	at android.view.View.restoreHierarchyState(View.java:21206)
+11-26 15:59:50.699 23667 23667 W System.err: 	at androidx.fragment.app.Fragment.restoreViewState(Fragment.java:689)
+11-26 15:59:50.699 23667 23667 W System.err: 	at androidx.fragment.app.Fragment.restoreViewState(Fragment.java:3151)
+11-26 15:59:50.699 23667 23667 W System.err: 	at androidx.fragment.app.Fragment.performActivityCreated(Fragment.java:3142)
+11-26 15:59:50.699 23667 23667 W System.err: 	at androidx.fragment.app.FragmentStateManager.activityCreated(FragmentStateManager.java:579)
+11-26 15:59:50.699 23667 23667 W System.err: 	at androidx.fragment.app.FragmentStateManager.moveToExpectedState(FragmentStateManager.java:264)
+11-26 15:59:50.699 23667 23667 W System.err: 	at androidx.fragment.app.FragmentManager.executeOpsTogether(FragmentManager.java:1899)
+11-26 15:59:50.699 23667 23667 W System.err: 	at androidx.fragment.app.FragmentManager.removeRedundantOperationsAndExecute(FragmentManager.java:1817)
+11-26 15:59:50.699 23667 23667 W System.err: 	at androidx.fragment.app.FragmentManager.execPendingActions(FragmentManager.java:1760)
+11-26 15:59:50.699 23667 23667 W System.err: 	at androidx.fragment.app.FragmentManager$5.run(FragmentManager.java:547)
+11-26 15:59:50.699 23667 23667 W System.err: 	at android.os.Handler.handleCallback(Handler.java:938)
+11-26 15:59:50.699 23667 23667 W System.err: 	at android.os.Handler.dispatchMessage(Handler.java:99)
+11-26 15:59:50.699 23667 23667 W System.err: 	at android.os.Looper.loopOnce(Looper.java:233)
+11-26 15:59:50.699 23667 23667 W System.err: 	at android.os.Looper.loop(Looper.java:344)
+11-26 15:59:50.700 23667 23667 W System.err: 	at android.app.ActivityThread.main(ActivityThread.java:8223)
+11-26 15:59:50.700 23667 23667 W System.err: 	at java.lang.reflect.Method.invoke(Native Method)
+11-26 15:59:50.700 23667 23667 W System.err: 	at com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:589)
+11-26 15:59:50.700 23667 23667 W System.err: 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:1071)
+11-26 15:59:50.701 23667 23667 V TextView: notifyAutoFillManagerAfterTextChanged
+11-26 15:59:50.701 23667 23667 V AutofillManager: notifyValueChanged(1073741826): ignoring on state FINISHED
+11-26 15:59:50.714 23667 23667 I Quality : Skipped: false 19 cost 219.08199 refreshRate 11111111 processName com.rmc.natour21
+11-26 15:59:50.732 23667 23667 I OsmDroid: Tile cache increased from 9 to 60
+11-26 15:59:50.746 23667 23667 I Quality : Skipped: false 2 cost 26.759027 refreshRate 11111111 processName com.rmc.natour21
+11-26 15:59:52.067 23667 23667 V AutofillManager: requestHideFillUi(null): anchor = null
+11-26 15:59:52.270 23667 23667 I Quality : Skipped: false 2 cost 26.66972 refreshRate 11111111 processName com.rmc.natour21
+11-26 15:59:52.293 23667 23667 I Quality : Skipped: false 1 cost 15.763871 refreshRate 11111111 processName com.rmc.natour21
+11-26 15:59:52.646 23667 23667 I Quality : Skipped: false 7 cost 86.72417 refreshRate 11111111 processName com.rmc.natour21
+11-26 15:59:53.146 23667 23667 V AutofillManager: requestHideFillUi(null): anchor = null
+11-26 15:59:53.274 23667 23691 W System  : A resource failed to call close. 
+11-26 15:59:53.713 23667 23667 V AutofillManager: requestHideFillUi(null): anchor = null
+11-26 15:59:53.837 23667 23667 I Quality : Skipped: false 1 cost 16.456982 refreshRate 11111111 processName com.rmc.natour21
+11-26 15:59:53.978 23667 23667 I Quality : Skipped: false 3 cost 33.892113 refreshRate 11111111 processName com.rmc.natour21
+11-26 15:59:54.364 23667 23667 V AutofillManager: requestHideFillUi(null): anchor = null
+11-26 15:59:54.517 23667 23667 I Quality : Skipped: false 2 cost 22.507273 refreshRate 11111111 processName com.rmc.natour21
+11-26 15:59:55.009 23667 23667 V AutofillManager: requestHideFillUi(null): anchor = null
+11-26 15:59:57.236 23667 23667 V AutofillManager: requestHideFillUi(null): anchor = null
+11-26 15:59:57.275 23667 23667 V AutofillManager: ignoring notifyViewEntered(flags=0, view=1073741825) on state FINISHED because view was already entered: {1073741825, 1073741826}
+11-26 15:59:57.280 23667 23667 D InputMethodManager: showSoftInput() view=androidx.appcompat.widget.AppCompatEditText{4b80086 VFED..CL. .F.P..ID 96,48-984,168 #7f0a026a app:id/path_name aid=1073741825} flags=0 reason=SHOW_SOFT_INPUT
+11-26 15:59:57.294 23667 23667 I Quality : Skipped: false 1 cost 11.806862 refreshRate 11111111 processName com.rmc.natour21
+11-26 15:59:57.304 23667 23667 D WindowManager: Add to mViews: android.widget.PopupWindow$PopupDecorView{ec79736 V.E...... R.....I. 0,0-0,0},pkg= com.rmc.natour21
+11-26 15:59:57.306 23667 23667 D ViewRootImpl[PopupWindow:96fcf5b]: hardware acceleration = true, sRendererEnabled = true, forceHwAccelerated = false
+11-26 15:59:57.332 23667 23667 I BufferQueueConsumer: [](id:5c7300000004,api:0,p:-1,c:23667) connect: controlledByApp=false
+11-26 15:59:57.333 23667 23667 I BLASTBufferQueue: [ViewRootImpl[PopupWindow:96fcf5b]#4] constructor()
+11-26 15:59:57.335 23667 23783 I BufferQueueProducer: [ViewRootImpl[PopupWindow:96fcf5b]#4(BLAST Consumer)4](id:5c7300000004,api:1,p:23667,c:23667) connect: api=1 producerControlledByApp=true
+11-26 15:59:57.347 23667 25197 D SurfaceComposerClient: VRR [FRTC] client handle [bufferId:18446744073709551615 framenumber:0] [ffffffff, ffffffff]
+11-26 15:59:57.363 23667 23667 D InsetsController: show(ime(), fromIme=true)
+11-26 15:59:58.028 23667 23667 V OplusZoomWindowDecorViewHelper: removeZoomView
+11-26 15:59:58.029 23667 23783 I BufferQueueProducer: [ViewRootImpl[PopupWindow:96fcf5b]#4(BLAST Consumer)4](id:5c7300000004,api:1,p:23667,c:23667) disconnect: api 1
+11-26 15:59:58.030 23667 23783 E BLASTBufferQueue: BLASTBufferItemConsumer::onDisconnect()
+11-26 15:59:58.030 23667 23667 D View    : [Warning] assignParent to null: this = android.widget.PopupWindow$PopupDecorView{ec79736 V.E...... R......D 0,0-120,120}
+11-26 15:59:58.030 23667 23667 I BLASTBufferQueue: [ViewRootImpl[PopupWindow:96fcf5b]#4] destructor()
+11-26 15:59:58.030 23667 23667 I BufferQueueConsumer: [ViewRootImpl[PopupWindow:96fcf5b]#4(BLAST Consumer)4](id:5c7300000004,api:0,p:-1,c:23667) disconnect
+11-26 15:59:58.037 23667 23667 V TextView: notifyAutoFillManagerAfterTextChanged
+11-26 15:59:58.037 23667 23667 V AutofillManager: notifyValueChanged(1073741825): ignoring on state FINISHED
+11-26 15:59:58.184 23667 23667 V TextView: notifyAutoFillManagerAfterTextChanged
+11-26 15:59:58.184 23667 23667 V AutofillManager: notifyValueChanged(1073741825): ignoring on state FINISHED
+11-26 15:59:58.196 23667 25197 I BLASTBufferQueue: releaseBufferCallbackThunk bufferId:101648990994461 framenumber:2 blastBufferQueue is dead
+11-26 15:59:58.330 23667 23667 V TextView: notifyAutoFillManagerAfterTextChanged
+11-26 15:59:58.330 23667 23667 V AutofillManager: notifyValueChanged(1073741825): ignoring on state FINISHED
+11-26 15:59:58.488 23667 23667 V TextView: notifyAutoFillManagerAfterTextChanged
+11-26 15:59:58.488 23667 23667 V AutofillManager: notifyValueChanged(1073741825): ignoring on state FINISHED
+11-26 15:59:58.521 23667 25197 E BLASTBufferQueue: [ViewRootImpl[com.rmc.natour21/com.rmc.natour21.MainActivity]#1](f:0,a:2) isEGL=1, mPendingRelease.size()=1, mMaxAcquiredBuffers=4, currentMaxAcquiredBufferCount=2
+11-26 15:59:58.622 23667 23667 E SpannableStringBuilder: SPAN_EXCLUSIVE_EXCLUSIVE spans cannot have a zero length
+11-26 15:59:58.622 23667 23667 E SpannableStringBuilder: SPAN_EXCLUSIVE_EXCLUSIVE spans cannot have a zero length
+11-26 15:59:58.623 23667 23667 V TextView: notifyAutoFillManagerAfterTextChanged
+11-26 15:59:58.623 23667 23667 V AutofillManager: notifyValueChanged(1073741825): ignoring on state FINISHED
+11-26 15:59:58.659 23667 25197 E BLASTBufferQueue: [ViewRootImpl[com.rmc.natour21/com.rmc.natour21.MainActivity]#1](f:0,a:3) isEGL=1, mPendingRelease.size()=2, mMaxAcquiredBuffers=4, currentMaxAcquiredBufferCount=2
+11-26 15:59:58.757 23667 23667 V AutofillManager: requestHideFillUi(null): anchor = null
+11-26 15:59:58.757 23667 23667 D OplusSystemUINavigationGesture: [GESTURE_BUTTON] swipe from 1
+11-26 15:59:58.757 23667 23667 D OplusSystemUINavigationGesture: [GESTURE_BUTTON] Hit Gesture Region !
+11-26 15:59:59.615 23667 23667 V AutofillManager: requestHideFillUi(null): anchor = null
+11-26 15:59:59.734 23667 23667 I Quality : Skipped: false 3 cost 34.095573 refreshRate 11111111 processName com.rmc.natour21
+11-26 15:59:59.751 23667 23667 I Quality : Skipped: false 1 cost 12.341655 refreshRate 11111111 processName com.rmc.natour21
+11-26 16:00:00.184 23667 23667 V AutofillManager: requestHideFillUi(null): anchor = null
+11-26 16:00:00.295 23667 23667 I Quality : Skipped: false 4 cost 51.126015 refreshRate 11111111 processName com.rmc.natour21
+11-26 16:00:00.313 23667 23667 I Quality : Skipped: false 1 cost 13.552361 refreshRate 11111111 processName com.rmc.natour21
+11-26 16:00:00.476 23667 23667 I Quality : Skipped: false 2 cost 24.451408 refreshRate 11111111 processName com.rmc.natour21
+11-26 16:00:00.502 23667 23667 I Quality : Skipped: false 1 cost 16.683722 refreshRate 11111111 processName com.rmc.natour21
+11-26 16:00:00.557 23667 24047 W SendBird: [16:00:00.556 Connection$1:onMessage():235] onMessage instance : [PONG] com.sendbird.android.Connection@2c23b85
+11-26 16:00:00.557 23667 23667 I Quality : Skipped: false 4 cost 50.10151 refreshRate 11111111 processName com.rmc.natour21
+11-26 16:00:00.559 23667 24047 W Sendbird: [16:00:00.557 Connection$1:onMessage():236] onMessage instance : [PONG] com.sendbird.android.Connection@2c23b85
+11-26 16:00:00.566 23667 24083 W SendBird: [16:00:00.565 EventController$1:call():141] ++ result[PONG] runnable=null
+11-26 16:00:00.727 23667 23667 V AutofillManager: requestHideFillUi(null): anchor = null
+11-26 16:00:00.811 23667 23667 I Quality : Skipped: false 1 cost 11.999323 refreshRate 11111111 processName com.rmc.natour21
+11-26 16:00:00.963 23667 23667 I Quality : Skipped: false 2 cost 28.86208 refreshRate 11111111 processName com.rmc.natour21
+11-26 16:00:01.215 23667 23667 V AutofillManager: requestHideFillUi(null): anchor = null
+11-26 16:00:01.424 23667 23667 I Quality : Skipped: false 4 cost 52.601433 refreshRate 11111111 processName com.rmc.natour21
+11-26 16:00:01.441 23667 23667 I Quality : Skipped: false 1 cost 13.487377 refreshRate 11111111 processName com.rmc.natour21
+11-26 16:00:01.829 23667 23667 I Quality : Skipped: false 2 cost 31.872139 refreshRate 11111111 processName com.rmc.natour21
+11-26 16:00:02.159 23667 23667 I Quality : Skipped: false 1 cost 13.907822 refreshRate 11111111 processName com.rmc.natour21
+11-26 16:00:02.204 23667 23667 I Quality : Skipped: false 3 cost 36.246815 refreshRate 11111111 processName com.rmc.natour21
+11-26 16:00:02.291 23667 23667 I Quality : Skipped: false 1 cost 11.273295 refreshRate 11111111 processName com.rmc.natour21
+11-26 16:00:02.494 23667 23667 I Quality : Skipped: false 1 cost 12.528336 refreshRate 11111111 processName com.rmc.natour21
+11-26 16:00:02.564 23667 23667 I Quality : Skipped: false 3 cost 37.660847 refreshRate 11111111 processName com.rmc.natour21
+11-26 16:00:03.405 23667 23667 V AutofillManager: requestHideFillUi(null): anchor = null
+11-26 16:00:03.504 23667 23667 I Quality : Skipped: false 3 cost 35.01014 refreshRate 11111111 processName com.rmc.natour21
+11-26 16:00:03.799 23667 23667 V AutofillManager: requestHideFillUi(null): anchor = null
+11-26 16:00:04.936 23667 23667 V AutofillManager: requestHideFillUi(null): anchor = null
+11-26 16:00:06.286 23667 23667 V AutofillManager: requestHideFillUi(null): anchor = null
+11-26 16:00:07.619 23667 23667 V AutofillManager: requestHideFillUi(null): anchor = null
+11-26 16:00:08.261 23667 23667 V AutofillManager: requestHideFillUi(null): anchor = null
+11-26 16:00:08.406 23667 23667 I Quality : Skipped: false 1 cost 17.328959 refreshRate 11111111 processName com.rmc.natour21
+11-26 16:00:08.634 23667 23667 I Quality : Skipped: false 3 cost 42.956783 refreshRate 11111111 processName com.rmc.natour21
+11-26 16:00:08.654 23667 23667 I Quality : Skipped: false 1 cost 18.99784 refreshRate 11111111 processName com.rmc.natour21
+11-26 16:00:08.674 23667 23667 I Quality : Skipped: false 1 cost 16.176659 refreshRate 11111111 processName com.rmc.natour21
+11-26 16:00:08.695 23667 23667 I Quality : Skipped: false 1 cost 14.9426155 refreshRate 11111111 processName com.rmc.natour21
+11-26 16:00:08.715 23667 23667 I Quality : Skipped: false 1 cost 12.465408 refreshRate 11111111 processName com.rmc.natour21
+11-26 16:00:08.770 23667 23667 I Quality : Skipped: false 1 cost 11.331132 refreshRate 11111111 processName com.rmc.natour21
+11-26 16:00:08.827 23667 23667 I Quality : Skipped: false 1 cost 11.561395 refreshRate 11111111 processName com.rmc.natour21
+11-26 16:00:08.883 23667 23667 I Quality : Skipped: false 1 cost 12.301735 refreshRate 11111111 processName com.rmc.natour21
+11-26 16:00:10.713 23667 23667 V AutofillManager: requestHideFillUi(null): anchor = null
+11-26 16:00:10.909 23667 23667 I Quality : Skipped: false 1 cost 18.196997 refreshRate 11111111 processName com.rmc.natour21
+11-26 16:00:10.925 23667 23667 I Quality : Skipped: false 1 cost 12.442147 refreshRate 11111111 processName com.rmc.natour21
+11-26 16:00:11.015 23667 23667 I Quality : Skipped: false 1 cost 12.150629 refreshRate 11111111 processName com.rmc.natour21
+11-26 16:00:11.914 23667 23667 V AutofillManager: requestHideFillUi(null): anchor = null
+11-26 16:00:12.013 23667 23667 I Quality : Skipped: false 1 cost 17.137508 refreshRate 11111111 processName com.rmc.natour21
+11-26 16:00:12.796 23667 23667 V AutofillManager: requestHideFillUi(null): anchor = null
+11-26 16:00:13.615 23667 23667 V AutofillManager: requestHideFillUi(null): anchor = null
+11-26 16:00:15.569 23667 24047 W SendBird: [16:00:15.567 Connection$1:onMessage():235] onMessage instance : [PONG] com.sendbird.android.Connection@2c23b85
+11-26 16:00:15.571 23667 24047 W Sendbird: [16:00:15.570 Connection$1:onMessage():236] onMessage instance : [PONG] com.sendbird.android.Connection@2c23b85
+11-26 16:00:15.580 23667 24083 W SendBird: [16:00:15.579 EventController$1:call():141] ++ result[PONG] runnable=null
+11-26 16:00:18.475 23667 23667 V AutofillManager: requestHideFillUi(null): anchor = null
+11-26 16:00:19.479 23667 23667 V AutofillManager: requestHideFillUi(null): anchor = null
+11-26 16:00:19.911 23667 23667 I Quality : Skipped: false 2 cost 23.037592 refreshRate 11111111 processName com.rmc.natour21
+11-26 16:00:22.799 23667 23667 V AutofillManager: requestHideFillUi(null): anchor = null
+11-26 16:00:24.190 23667 23667 V AutofillManager: requestHideFillUi(null): anchor = null
+11-26 16:00:24.594 23667 24155 D BONUSPACK: OSRMRoadManager.getRoads:https://routing.openstreetmap.de/routed-car/route/v1/driving/14.4226629680,40.8229089949;14.4277734924,40.8194632228?alternatives=false&overview=full&steps=true
+11-26 16:00:25.812 23667 24155 D BONUSPACK: OSRMRoadManager.getRoads - finished
+11-26 16:00:25.819 23667 23696 I Quality : Blocked msg = Package name: com.rmc.natour21 [ schedGroup: 5 schedPolicy: 0 ] process the message: { when=-1s233ms what=2 target=android.view.GestureDetector$GestureHandler arg1=3 } took 1233 ms
+11-26 16:00:25.820 23667 23667 V AutofillManager: requestHideFillUi(null): anchor = null
+11-26 16:00:25.821 23667 23667 I Choreographer: Skipped 110 frames!  The application may be doing too much work on its main thread.
+11-26 16:00:25.821 23667 23667 I Quality : Skipped: false 110 cost 1228.0183 refreshRate 11111111 processName com.rmc.natour21
+11-26 16:00:25.839 23667 24078 I OpenGLRenderer: Davey! duration=1241ms; Flags=0, FrameTimelineVsyncId=28757642, IntendedVsync=999257938716814, Vsync=999259160939024, InputEventId=603157879, HandleInputStart=999259166893251, AnimationStart=999259167402174, PerformTraversalsStart=999259167404097, DrawStart=999259169195097, FrameDeadline=999257958716814, FrameInterval=999259166735097, FrameStartTime=11111111, SyncQueued=999259172279097, SyncStart=999259172394174, IssueDrawCommandsStart=999259172677251, SwapBuffers=999259178689328, FrameCompleted=999259180628021, DequeueBufferDuration=40923, QueueBufferDuration=771385, GpuCompleted=999259180628021, SwapBuffersCompleted=999259180628021, DisplayPresentTime=0, 
+11-26 16:00:26.179 23667 24155 D BONUSPACK: OSRMRoadManager.getRoads:https://routing.openstreetmap.de/routed-car/route/v1/driving/14.4226629680,40.8229089949;14.4277734924,40.8194632228;14.4279015757,40.8193372137?alternatives=false&overview=full&steps=true
+11-26 16:00:26.224 23667 24155 D BONUSPACK: OSRMRoadManager.getRoads - finished
+11-26 16:00:26.236 23667 23667 I Quality : Skipped: false 5 cost 65.28818 refreshRate 11111111 processName com.rmc.natour21
+11-26 16:00:27.976 23667 23667 V AutofillManager: requestHideFillUi(null): anchor = null
+11-26 16:00:29.643 23667 23667 V AutofillManager: requestHideFillUi(null): anchor = null
+11-26 16:00:30.299 23667 23667 V AutofillManager: requestHideFillUi(null): anchor = null
+11-26 16:00:30.570 23667 24047 W SendBird: [16:00:30.569 Connection$1:onMessage():235] onMessage instance : [PONG] com.sendbird.android.Connection@2c23b85
+11-26 16:00:30.571 23667 24047 W Sendbird: [16:00:30.570 Connection$1:onMessage():236] onMessage instance : [PONG] com.sendbird.android.Connection@2c23b85
+11-26 16:00:30.575 23667 24083 W SendBird: [16:00:30.575 EventController$1:call():141] ++ result[PONG] runnable=null
+11-26 16:00:31.767 23667 25731 I Quality : SlowSQLite: /executeForLastInsertedRowId INSERT OR REPLACE  INTO tiles(expires,provider,key,tile) VALUES (?,?,?,?)/ cost= /851
+11-26 16:00:37.373 23667 23667 V AutofillManager: requestHideFillUi(null): anchor = null
+11-26 16:00:37.451 23667 23667 D WindowManager: Add to mViews: android.widget.PopupWindow$PopupDecorView{ade1b56 V.E...... R.....I. 0,0-0,0},pkg= com.rmc.natour21
+11-26 16:00:37.454 23667 23667 D ViewRootImpl[PopupWindow:1ccf6fb]: hardware acceleration = true, sRendererEnabled = true, forceHwAccelerated = false
+11-26 16:00:37.462 23667 23667 I Quality : Skipped: false 1 cost 17.020456 refreshRate 11111111 processName com.rmc.natour21
+11-26 16:00:37.475 23667 23667 I BufferQueueConsumer: [](id:5c7300000005,api:0,p:-1,c:23667) connect: controlledByApp=false
+11-26 16:00:37.475 23667 23667 I BLASTBufferQueue: [ViewRootImpl[PopupWindow:1ccf6fb]#5] constructor()
+11-26 16:00:37.478 23667 23783 I BufferQueueProducer: [ViewRootImpl[PopupWindow:1ccf6fb]#5(BLAST Consumer)5](id:5c7300000005,api:1,p:23667,c:23667) connect: api=1 producerControlledByApp=true
+11-26 16:00:37.521 23667 24078 D SurfaceComposerClient: VRR [FRTC] client handle [bufferId:18446744073709551615 framenumber:0] [ffffffff, ffffffff]
+11-26 16:00:37.522 23667 23667 I Quality : Skipped: false 4 cost 55.296288 refreshRate 11111111 processName com.rmc.natour21
+11-26 16:00:38.965 23667 23667 V AutofillManager: requestHideFillUi(null): anchor = null
+11-26 16:00:38.994 23667 23667 D InputMethodManager: showSoftInput() view=androidx.appcompat.widget.AppCompatEditText{4b80086 VFED..CL. .F.P.... 96,48-984,168 #7f0a026a app:id/path_name aid=1073741825} flags=0 reason=SHOW_SOFT_INPUT
+11-26 16:00:39.003 23667 23667 V AutofillManager: ignoring notifyViewEntered(flags=0, view=1073741825) on state FINISHED because view was already entered: {1073741825, 1073741826}
+11-26 16:00:39.047 23667 23667 D InsetsController: show(ime(), fromIme=true)
+11-26 16:00:40.367 23667 23667 V TextView: notifyAutoFillManagerAfterTextChanged
+11-26 16:00:40.367 23667 23667 V AutofillManager: notifyValueChanged(1073741825): ignoring on state FINISHED
+11-26 16:00:40.368 23667 23667 V OplusZoomWindowDecorViewHelper: removeZoomView
+11-26 16:00:40.369 23667 23783 I BufferQueueProducer: [ViewRootImpl[PopupWindow:1ccf6fb]#5(BLAST Consumer)5](id:5c7300000005,api:1,p:23667,c:23667) disconnect: api 1
+11-26 16:00:40.370 23667 23783 E BLASTBufferQueue: BLASTBufferItemConsumer::onDisconnect()
+11-26 16:00:40.371 23667 23667 D View    : [Warning] assignParent to null: this = android.widget.PopupWindow$PopupDecorView{ade1b56 V.E...... R......D 0,0-490,173}
+11-26 16:00:40.371 23667 23667 I BLASTBufferQueue: [ViewRootImpl[PopupWindow:1ccf6fb]#5] destructor()
+11-26 16:00:40.371 23667 23667 I BufferQueueConsumer: [ViewRootImpl[PopupWindow:1ccf6fb]#5(BLAST Consumer)5](id:5c7300000005,api:0,p:-1,c:23667) disconnect
+11-26 16:00:40.402 23667 24078 E BLASTBufferQueue: [ViewRootImpl[com.rmc.natour21/com.rmc.natour21.MainActivity]#1](f:0,a:2) isEGL=1, mPendingRelease.size()=1, mMaxAcquiredBuffers=4, currentMaxAcquiredBufferCount=2
+11-26 16:00:40.509 23667 23667 V TextView: notifyAutoFillManagerAfterTextChanged
+11-26 16:00:40.509 23667 23667 V AutofillManager: notifyValueChanged(1073741825): ignoring on state FINISHED
+11-26 16:00:40.538 23667 24078 E BLASTBufferQueue: [ViewRootImpl[com.rmc.natour21/com.rmc.natour21.MainActivity]#1](f:0,a:3) isEGL=1, mPendingRelease.size()=2, mMaxAcquiredBuffers=4, currentMaxAcquiredBufferCount=2
+11-26 16:00:40.636 23667 24078 I BLASTBufferQueue: releaseBufferCallbackThunk bufferId:101648990994467 framenumber:2 blastBufferQueue is dead
+11-26 16:00:41.502 23667 23667 V AutofillManager: requestHideFillUi(null): anchor = null
+11-26 16:00:41.502 23667 23667 D OplusSystemUINavigationGesture: [GESTURE_BUTTON] swipe from 1
+11-26 16:00:41.502 23667 23667 D OplusSystemUINavigationGesture: [GESTURE_BUTTON] Hit Gesture Region !
+11-26 16:00:42.131 23667 23667 V AutofillManager: requestHideFillUi(null): anchor = null
+11-26 16:00:42.597 23667 23667 I Choreographer: Skipped 33 frames!  The application may be doing too much work on its main thread.
+11-26 16:00:42.597 23667 23667 I Quality : Skipped: false 33 cost 367.40802 refreshRate 11111111 processName com.rmc.natour21
+11-26 16:00:42.611 23667 25874 V FA      : Recording user engagement, ms: 132331
+11-26 16:00:42.622 23667 25875 D libMEOW : meow new tls: 0xb400006f3bc31a00
+11-26 16:00:42.623 23667 25875 D libMEOW : applied 1 plugins for [com.rmc.natour21]:
+11-26 16:00:42.623 23667 25875 D libMEOW :   plugin 1: [libMEOW_gift.so]:
+11-26 16:00:42.623 23667 25875 D libMEOW : meow delete tls: 0xb400006f3bc31a00
+11-26 16:00:42.630 23667 25874 V FA      : Connecting to remote service
+11-26 16:00:42.635 23667 25873 V FA      : onActivityCreated
+11-26 16:00:42.638 23667 25874 V FA      : Connection attempt already in progress
+11-26 16:00:42.638 23667 25874 V FA      : Activity paused, time: 3108013328
+11-26 16:00:42.657 23667 23667 I OsmDroid: Using tile source: Mapnik
+11-26 16:00:42.657 23667 23667 I OsmDroid: Tile cache increased from 0 to 9
+11-26 16:00:42.678 23667 23667 V TextView: notifyAutoFillManagerAfterTextChanged
+11-26 16:00:42.678 23667 23667 V AutofillManager: notifyValueChanged(1073741824): ignoring on state UNKNOWN
+11-26 16:00:42.679 23667 23667 V TextView: notifyAutoFillManagerAfterTextChanged
+11-26 16:00:42.679 23667 23667 V AutofillManager: notifyValueChanged(1073741824): ignoring on state UNKNOWN
+11-26 16:00:42.683 23667 23667 V TextView: notifyAutoFillManagerAfterTextChanged
+11-26 16:00:42.683 23667 23667 V AutofillManager: notifyValueChanged(1073741825): ignoring on state UNKNOWN
+11-26 16:00:42.700 23667 23667 V TextView: notifyAutoFillManagerAfterTextChanged
+11-26 16:00:42.700 23667 23667 V AutofillManager: notifyValueChanged(1073741825): ignoring on state UNKNOWN
+11-26 16:00:42.703 23667 23667 V TextView: notifyAutoFillManagerAfterTextChanged
+11-26 16:00:42.703 23667 23667 V AutofillManager: notifyValueChanged(1073741826): ignoring on state UNKNOWN
+11-26 16:00:42.704 23667 23667 V TextView: notifyAutoFillManagerAfterTextChanged
+11-26 16:00:42.704 23667 23667 V AutofillManager: notifyValueChanged(1073741826): ignoring on state UNKNOWN
+11-26 16:00:42.704 23667 23667 V TextView: notifyAutoFillManagerAfterTextChanged
+11-26 16:00:42.704 23667 23667 V AutofillManager: notifyValueChanged(1073741826): ignoring on state UNKNOWN
+11-26 16:00:42.706 23667 23667 I oplus.android.OplusFrameworkFactoryImpl: get feature:IOplusDynamicVsyncFeature
+11-26 16:00:42.706 23667 23667 I oplus.android.OplusFrameworkFactoryImpl: get feature:IOplusDynamicVsyncFeature
+11-26 16:00:42.706 23667 23667 I oplus.android.OplusFrameworkFactoryImpl: get feature:IOplusDynamicVsyncFeature
+11-26 16:00:42.723 23667 23667 I Quality : ActivityThread: activityStart delay 103 com.rmc.natour21 23667
+11-26 16:00:42.725 23667 25874 V FA      : Activity resumed, time: 3108013442
+11-26 16:00:42.730 23667 23667 D WindowManager: Add to mViews: DecorView@f568d9b[PathAttributesActivity],pkg= com.rmc.natour21
+11-26 16:00:42.732 23667 23667 D ViewRootImpl[PathAttributesActivity]: hardware acceleration = true, sRendererEnabled = true, forceHwAccelerated = false
+11-26 16:00:42.737 23667 23667 I Quality : Skipped: false 10 cost 114.32932 refreshRate 11111111 processName com.rmc.natour21
+11-26 16:00:42.742 23667 25874 V FA      : Connection attempt already in progress
+11-26 16:00:42.742 23667 25874 V FA      : Connection attempt already in progress
+11-26 16:00:42.759 23667 23667 I BufferQueueConsumer: [](id:5c7300000006,api:0,p:-1,c:23667) connect: controlledByApp=false
+11-26 16:00:42.760 23667 23667 I BLASTBufferQueue: [ViewRootImpl[com.rmc.natour21/com.rmc.natour21.Fragment.InsertPath.PathAttributesActivity]#6] constructor()
+11-26 16:00:42.761 23667 23667 V OplusZoomWindowDecorViewHelper: setLastReportedMergedConfiguration mZoomDisplayHeight: 2400 getDecorView.257330587
+11-26 16:00:42.763 23667 23783 I BufferQueueProducer: [ViewRootImpl[com.rmc.natour21/com.rmc.natour21.Fragment.InsertPath.PathAttributesActivity]#6(BLAST Consumer)6](id:5c7300000006,api:1,p:23667,c:23667) connect: api=1 producerControlledByApp=true
+11-26 16:00:42.770 23667 23667 I OsmDroid: Tile cache increased from 9 to 12
+11-26 16:00:42.811 23667 23667 I Quality : Skipped: false 5 cost 64.49901 refreshRate 11111111 processName com.rmc.natour21
+11-26 16:00:42.812 23667 24078 D SurfaceComposerClient: VRR [FRTC] client handle [bufferId:18446744073709551615 framenumber:0] [ffffffff, ffffffff]
+11-26 16:00:42.825 23667 23667 I Quality : Skipped: false 1 cost 11.166382 refreshRate 11111111 processName com.rmc.natour21
+11-26 16:00:42.831 23667 23667 E Parcel  : Reading a NULL string not supported here.
+11-26 16:00:42.832 23667 25874 D FA      : Connected to remote service
+11-26 16:00:42.833 23667 25874 V FA      : Processing queued up service tasks: 4
+11-26 16:00:43.244 23667 23783 I BufferQueueProducer: [ViewRootImpl[com.rmc.natour21/com.rmc.natour21.MainActivity]#1(BLAST Consumer)1](id:5c7300000001,api:1,p:23667,c:23667) disconnect: api 1
+11-26 16:00:43.245 23667 23783 E BLASTBufferQueue: BLASTBufferItemConsumer::onDisconnect()
+11-26 16:00:43.249 23667 23667 I BLASTBufferQueue: [ViewRootImpl[com.rmc.natour21/com.rmc.natour21.MainActivity]#1] destructor()
+11-26 16:00:43.249 23667 23667 I BufferQueueConsumer: [ViewRootImpl[com.rmc.natour21/com.rmc.natour21.MainActivity]#1(BLAST Consumer)1](id:5c7300000001,api:0,p:-1,c:23667) disconnect
+11-26 16:00:43.255 23667 23667 V AutofillManager: updateSessionLocked(): id=null, bounds=null, value=null, action=5, flags=0
+11-26 16:00:43.283 23667 24078 I BLASTBufferQueue: releaseBufferCallbackThunk bufferId:101648990994438 framenumber:3732 blastBufferQueue is dead
+11-26 16:00:45.788 23667 24047 W SendBird: [16:00:45.787 Connection$1:onMessage():235] onMessage instance : [PONG] com.sendbird.android.Connection@2c23b85
+11-26 16:00:45.789 23667 24047 W Sendbird: [16:00:45.789 Connection$1:onMessage():236] onMessage instance : [PONG] com.sendbird.android.Connection@2c23b85
+11-26 16:00:45.800 23667 24083 W SendBird: [16:00:45.798 EventController$1:call():141] ++ result[PONG] runnable=null
+11-26 16:00:46.439 23667 23667 V AutofillManager: requestHideFillUi(null): anchor = null
+11-26 16:00:46.440 23667 23667 D OplusSystemUINavigationGesture: [GESTURE_BUTTON] swipe from 0
+11-26 16:00:46.440 23667 23667 D OplusSystemUINavigationGesture: [GESTURE_BUTTON] Hit Gesture Region !
+11-26 16:00:46.465 23667 23667 V AutofillManager: receiver results: flags=7 enabled=true, enabledForAugmentedOnly: false
+11-26 16:00:46.466 23667 23667 V AutofillManager: startSessionLocked(): id=1073741826, bounds=null, value=[type=1, value=0_chars], flags=0, state=UNKNOWN, compatMode=false, augmentedOnly=false, enabledAugmentedOnly=false, enteredIds=null
+11-26 16:00:46.484 23667 23667 D InputMethodManager: showSoftInput() view=androidx.appcompat.widget.AppCompatEditText{c394485 VFED..CL. .F.P..ID 24,321-297,465 #7f0a026a app:id/path_name aid=1073741826} flags=0 reason=SHOW_SOFT_INPUT
+11-26 16:00:46.488 23667 23667 I Quality : Skipped: false 1 cost 20.128653 refreshRate 11111111 processName com.rmc.natour21
+11-26 16:00:46.497 23667 23667 I AssistStructure: Flattened final assist data: 2744 bytes, containing 1 windows, 16 views
+11-26 16:00:46.514 23667 23667 D InsetsController: show(ime(), fromIme=true)
+11-26 16:00:46.719 23667 23667 V AutofillManager: setSessionFinished(): from ACTIVE to FINISHED; autofillableIds=[1073741824, 1073741825, 1073741826]
+11-26 16:00:47.857 23667 25874 V FA      : Inactivity, disconnecting from the service
+11-26 16:00:47.879 23667 23667 V AutofillManager: requestHideFillUi(null): anchor = null
+11-26 16:00:47.914 23667 23693 E BLASTBufferQueue: [ViewRootImpl[com.rmc.natour21/com.rmc.natour21.Fragment.InsertPath.PathAttributesActivity]#6](f:0,a:2) isEGL=1, mPendingRelease.size()=1, mMaxAcquiredBuffers=4, currentMaxAcquiredBufferCount=2
+11-26 16:00:47.980 23667 23693 E BLASTBufferQueue: [ViewRootImpl[com.rmc.natour21/com.rmc.natour21.Fragment.InsertPath.PathAttributesActivity]#6](f:0,a:3) isEGL=1, mPendingRelease.size()=2, mMaxAcquiredBuffers=4, currentMaxAcquiredBufferCount=2
+11-26 16:00:52.013 23667 23667 V AutofillManager: requestHideFillUi(null): anchor = null
+11-26 16:00:52.014 23667 23667 D OplusSystemUINavigationGesture: [GESTURE_BUTTON] swipe from 1
+11-26 16:00:52.015 23667 23667 D OplusSystemUINavigationGesture: [GESTURE_BUTTON] Hit Gesture Region !
+11-26 16:01:00.574 23667 24047 W SendBird: [16:01:00.573 Connection$1:onMessage():235] onMessage instance : [PONG] com.sendbird.android.Connection@2c23b85
+11-26 16:01:00.575 23667 24047 W Sendbird: [16:01:00.575 Connection$1:onMessage():236] onMessage instance : [PONG] com.sendbird.android.Connection@2c23b85
+11-26 16:01:00.585 23667 24083 W SendBird: [16:01:00.583 EventController$1:call():141] ++ result[PONG] runnable=null
+11-26 16:01:03.201 23667 23667 V AutofillManager: requestHideFillUi(null): anchor = null
+11-26 16:01:03.283 23667 23667 I Quality : Skipped: false 2 cost 29.41489 refreshRate 11111111 processName com.rmc.natour21
+11-26 16:01:03.287 23667 25874 V FA      : Recording user engagement, ms: 20561
+11-26 16:01:03.300 23667 25874 V FA      : Connecting to remote service
+11-26 16:01:03.307 23667 25874 V FA      : Connection attempt already in progress
+11-26 16:01:03.307 23667 25874 V FA      : Activity paused, time: 3108034003
+11-26 16:01:03.310 23667 23667 E Parcel  : Reading a NULL string not supported here.
+11-26 16:01:03.311 23667 25874 D FA      : Connected to remote service
+11-26 16:01:03.311 23667 25874 V FA      : Processing queued up service tasks: 2
+11-26 16:01:03.833 23667 24047 W SendBird: [16:01:03.832 Connection$1:onMessage():235] onMessage instance : [PONG] com.sendbird.android.Connection@2c23b85
+11-26 16:01:03.833 23667 23985 E PINGER  : [16:01:03.832 Connection$Pinger:stop():522] Pinger stop true
+11-26 16:01:03.835 23667 24047 W Sendbird: [16:01:03.833 Connection$1:onMessage():236] onMessage instance : [PONG] com.sendbird.android.Connection@2c23b85
+11-26 16:01:03.838 23667 23985 E Sendbird:PINGER: [16:01:03.836 Connection$Pinger:stop():523] Pinger stop true
+11-26 16:01:03.842 23667 24083 W SendBird: [16:01:03.840 EventController$1:call():141] ++ result[PONG] runnable=null
+11-26 16:01:03.846 23667 24088 W SendBird: [16:01:03.845 Connection$1:onFailure():250] onFailed instance : com.sendbird.android.Connection@2c23b85
+11-26 16:01:03.849 23667 24088 W Sendbird: [16:01:03.847 Connection$1:onFailure():251] onFailed instance : com.sendbird.android.Connection@2c23b85
+11-26 16:01:03.850 23667 24088 W SendBird: [16:01:03.849 Connection$1:onFailure():256] onFailed handler : com.sendbird.android.SocketManager@97d41ea
+11-26 16:01:03.852 23667 24088 W Sendbird: [16:01:03.851 Connection$1:onFailure():257] onFailed handler : com.sendbird.android.SocketManager@97d41ea
+11-26 16:01:03.854 23667 24088 W SendBird: [16:01:03.853 SocketManager:onError():1002] >> onError : Socket is closed, reconnecting : false, explicitDisconnect : true
+11-26 16:01:05.310 23667 25874 D FA      : Application going to the background
+11-26 16:01:06.788 23667 23783 I BufferQueueProducer: [ViewRootImpl[com.rmc.natour21/com.rmc.natour21.Fragment.InsertPath.PathAttributesActivity]#6(BLAST Consumer)6](id:5c7300000006,api:1,p:23667,c:23667) disconnect: api 1
+11-26 16:01:06.790 23667 23783 E BLASTBufferQueue: BLASTBufferItemConsumer::onDisconnect()
+11-26 16:01:06.805 23667 23667 I BLASTBufferQueue: [ViewRootImpl[com.rmc.natour21/com.rmc.natour21.Fragment.InsertPath.PathAttributesActivity]#6] destructor()
+11-26 16:01:06.805 23667 23667 I BufferQueueConsumer: [ViewRootImpl[com.rmc.natour21/com.rmc.natour21.Fragment.InsertPath.PathAttributesActivity]#6(BLAST Consumer)6](id:5c7300000006,api:0,p:-1,c:23667) disconnect
+11-26 16:01:07.186 23667 23667 V AutofillManager: updateSessionLocked(): id=null, bounds=null, value=null, action=5, flags=0
+11-26 16:01:07.241 23667 23693 I BLASTBufferQueue: releaseBufferCallbackThunk bufferId:101648990994468 framenumber:186 blastBufferQueue is dead
+11-26 16:01:09.257 23667 25874 V FA      : Activity resumed, time: 3108039974
+11-26 16:01:09.259 23667 23667 V AutofillManager: ignoring notifyViewEntered(flags=0, view=1073741826) on state FINISHED because view was already entered: {1073741824, 1073741825, 1073741826}
+11-26 16:01:09.271 23667 23667 I BufferQueueConsumer: [](id:5c7300000007,api:0,p:-1,c:23667) connect: controlledByApp=false
+11-26 16:01:09.272 23667 23667 I BLASTBufferQueue: [ViewRootImpl[com.rmc.natour21/com.rmc.natour21.Fragment.InsertPath.PathAttributesActivity]#7] constructor()
+11-26 16:01:09.288 23667 23783 I BufferQueueProducer: [ViewRootImpl[com.rmc.natour21/com.rmc.natour21.Fragment.InsertPath.PathAttributesActivity]#7(BLAST Consumer)7](id:5c7300000007,api:1,p:23667,c:23667) connect: api=1 producerControlledByApp=true
+11-26 16:01:09.334 23667 24078 D SurfaceComposerClient: VRR [FRTC] client handle [bufferId:18446744073709551615 framenumber:0] [ffffffff, ffffffff]
+11-26 16:01:09.545 23667 26561 W SendBird: [16:01:09.544 Connection$1:onMessage():235] onMessage instance : [LOGI] com.sendbird.android.Connection@b706650
+11-26 16:01:09.548 23667 26561 W Sendbird: [16:01:09.546 Connection$1:onMessage():236] onMessage instance : [LOGI] com.sendbird.android.Connection@b706650
+11-26 16:01:09.556 23667 24083 W SendBird: [16:01:09.555 EventController$1:call():141] ++ result[LOGI] runnable=null
+11-26 16:01:10.079 23667 23667 V AutofillManager: requestHideFillUi(null): anchor = null
+11-26 16:01:10.182 23667 23667 I Quality : Skipped: false 2 cost 27.708796 refreshRate 11111111 processName com.rmc.natour21
+11-26 16:01:10.185 23667 25874 V FA      : Screen exposed for less than 1000 ms. Event not sent. time: 928
+11-26 16:01:10.187 23667 25874 V FA      : Activity paused, time: 3108040902
+11-26 16:01:10.730 23667 23985 E PINGER  : [16:01:10.729 Connection$Pinger:stop():522] Pinger stop false
+11-26 16:01:10.733 23667 23985 E Sendbird:PINGER: [16:01:10.730 Connection$Pinger:stop():523] Pinger stop false
+11-26 16:01:10.739 23667 26739 W SendBird: [16:01:10.738 Connection$1:onFailure():250] onFailed instance : com.sendbird.android.Connection@b706650
+11-26 16:01:10.741 23667 26739 W Sendbird: [16:01:10.740 Connection$1:onFailure():251] onFailed instance : com.sendbird.android.Connection@b706650
+11-26 16:01:10.742 23667 26739 W SendBird: [16:01:10.741 Connection$1:onFailure():256] onFailed handler : com.sendbird.android.SocketManager@97d41ea
+11-26 16:01:10.743 23667 26739 W Sendbird: [16:01:10.742 Connection$1:onFailure():257] onFailed handler : com.sendbird.android.SocketManager@97d41ea
+11-26 16:01:10.743 23667 26739 W SendBird: [16:01:10.743 SocketManager:onError():1002] >> onError : Socket is closed, reconnecting : false, explicitDisconnect : true
+11-26 16:01:12.188 23667 25874 D FA      : Application going to the background
+11-26 16:01:12.721 23667 23783 I BufferQueueProducer: [ViewRootImpl[com.rmc.natour21/com.rmc.natour21.Fragment.InsertPath.PathAttributesActivity]#7(BLAST Consumer)7](id:5c7300000007,api:1,p:23667,c:23667) disconnect: api 1
+11-26 16:01:12.723 23667 23783 E BLASTBufferQueue: BLASTBufferItemConsumer::onDisconnect()
+11-26 16:01:12.738 23667 23667 I BLASTBufferQueue: [ViewRootImpl[com.rmc.natour21/com.rmc.natour21.Fragment.InsertPath.PathAttributesActivity]#7] destructor()
+11-26 16:01:12.738 23667 23667 I BufferQueueConsumer: [ViewRootImpl[com.rmc.natour21/com.rmc.natour21.Fragment.InsertPath.PathAttributesActivity]#7(BLAST Consumer)7](id:5c7300000007,api:0,p:-1,c:23667) disconnect
+11-26 16:01:12.892 23667 23667 V AutofillManager: updateSessionLocked(): id=null, bounds=null, value=null, action=5, flags=0
+11-26 16:01:12.930 23667 23693 I BLASTBufferQueue: releaseBufferCallbackThunk bufferId:101648990994477 framenumber:88 blastBufferQueue is dead
+11-26 16:01:14.358 23667 23667 V AutofillManager: ignoring notifyViewEntered(flags=0, view=1073741826) on state FINISHED because view was already entered: {1073741824, 1073741825, 1073741826}
+11-26 16:01:14.358 23667 25874 V FA      : Activity resumed, time: 3108045075
+11-26 16:01:14.370 23667 23667 I BufferQueueConsumer: [](id:5c7300000008,api:0,p:-1,c:23667) connect: controlledByApp=false
+11-26 16:01:14.371 23667 23667 I BLASTBufferQueue: [ViewRootImpl[com.rmc.natour21/com.rmc.natour21.Fragment.InsertPath.PathAttributesActivity]#8] constructor()
+11-26 16:01:14.372 23667 23783 I BufferQueueProducer: [ViewRootImpl[com.rmc.natour21/com.rmc.natour21.Fragment.InsertPath.PathAttributesActivity]#8(BLAST Consumer)8](id:5c7300000008,api:1,p:23667,c:23667) connect: api=1 producerControlledByApp=true
+11-26 16:01:14.388 23667 24078 D SurfaceComposerClient: VRR [FRTC] client handle [bufferId:18446744073709551615 framenumber:0] [ffffffff, ffffffff]
+11-26 16:01:14.597 23667 27085 W SendBird: [16:01:14.596 Connection$1:onMessage():235] onMessage instance : [LOGI] com.sendbird.android.Connection@fd72970
+11-26 16:01:14.599 23667 27085 W Sendbird: [16:01:14.598 Connection$1:onMessage():236] onMessage instance : [LOGI] com.sendbird.android.Connection@fd72970
+11-26 16:01:14.612 23667 24083 W SendBird: [16:01:14.611 EventController$1:call():141] ++ result[LOGI] runnable=null
+11-26 16:01:14.650 23667 27085 W SendBird: [16:01:14.649 Connection$1:onMessage():235] onMessage instance : [PONG] com.sendbird.android.Connection@fd72970
+11-26 16:01:14.652 23667 27085 W Sendbird: [16:01:14.651 Connection$1:onMessage():236] onMessage instance : [PONG] com.sendbird.android.Connection@fd72970
+11-26 16:01:14.662 23667 24083 W SendBird: [16:01:14.659 EventController$1:call():141] ++ result[PONG] runnable=null
+11-26 16:01:15.188 23667 23667 V AutofillManager: requestHideFillUi(null): anchor = null
+11-26 16:01:15.189 23667 23667 D OplusSystemUINavigationGesture: [GESTURE_BUTTON] swipe from 1
+11-26 16:01:15.189 23667 23667 D OplusSystemUINavigationGesture: [GESTURE_BUTTON] Hit Gesture Region !
+11-26 16:01:16.981 23667 23667 D Activity: dispatchKeyEvent to com.rmc.natour21.Fragment.InsertPath.PathAttributesActivity@b0cff66 will call onBackPressed
+11-26 16:01:16.981 23667 23667 D Activity: com.rmc.natour21.Fragment.InsertPath.PathAttributesActivity@b0cff66onBackPressed!
+11-26 16:01:16.992 23667 25874 V FA      : Recording user engagement, ms: 2633
+11-26 16:01:17.009 23667 23667 V AutofillManager: ignoring notifyViewEntered(flags=0, view=1073741825) on state FINISHED because view was already entered: {1073741825, 1073741826}
+11-26 16:01:17.020 23667 25874 V FA      : Activity paused, time: 3108047709
+11-26 16:01:17.021 23667 25874 V FA      : Activity resumed, time: 3108047726
+11-26 16:01:17.029 23667 23667 I BufferQueueConsumer: [](id:5c7300000009,api:0,p:-1,c:23667) connect: controlledByApp=false
+11-26 16:01:17.029 23667 23667 I BLASTBufferQueue: [ViewRootImpl[com.rmc.natour21/com.rmc.natour21.MainActivity]#9] constructor()
+11-26 16:01:17.031 23667 23783 I BufferQueueProducer: [ViewRootImpl[com.rmc.natour21/com.rmc.natour21.MainActivity]#9(BLAST Consumer)9](id:5c7300000009,api:1,p:23667,c:23667) connect: api=1 producerControlledByApp=true
+11-26 16:01:17.125 23667 24078 D SurfaceComposerClient: VRR [FRTC] client handle [bufferId:18446744073709551615 framenumber:0] [ffffffff, ffffffff]
+11-26 16:01:17.545 23667 23783 I BufferQueueProducer: [ViewRootImpl[com.rmc.natour21/com.rmc.natour21.Fragment.InsertPath.PathAttributesActivity]#8(BLAST Consumer)8](id:5c7300000008,api:1,p:23667,c:23667) disconnect: api 1
+11-26 16:01:17.546 23667 23783 E BLASTBufferQueue: BLASTBufferItemConsumer::onDisconnect()
+11-26 16:01:17.557 23667 23667 I BLASTBufferQueue: [ViewRootImpl[com.rmc.natour21/com.rmc.natour21.Fragment.InsertPath.PathAttributesActivity]#8] destructor()
+11-26 16:01:17.557 23667 23667 I BufferQueueConsumer: [ViewRootImpl[com.rmc.natour21/com.rmc.natour21.Fragment.InsertPath.PathAttributesActivity]#8(BLAST Consumer)8](id:5c7300000008,api:0,p:-1,c:23667) disconnect
+11-26 16:01:17.562 23667 23667 V AutofillManager: updateSessionLocked(): id=null, bounds=null, value=null, action=5, flags=0
+11-26 16:01:17.564 23667 23667 D AutofillManager: onActivityFinishing(): calling cancelLocked()
+11-26 16:01:17.564 23667 23667 V AutofillManager: cancelSessionLocked(): FINISHED
+11-26 16:01:17.576 23667 23667 V OplusZoomWindowDecorViewHelper: removeZoomView
+11-26 16:01:17.576 23667 23667 D View    : [Warning] assignParent to null: this = DecorView@f568d9b[PathAttributesActivity]
+11-26 16:01:17.584 23667 23667 I Quality : Skipped: false 1 cost 19.265673 refreshRate 11111111 processName com.rmc.natour21
+11-26 16:01:17.587 23667 24078 I BLASTBufferQueue: releaseBufferCallbackThunk bufferId:101648990994485 framenumber:26 blastBufferQueue is dead
+11-26 16:01:18.417 23667 23667 V AutofillManager: requestHideFillUi(null): anchor = null
+11-26 16:01:18.459 23667 23667 I oplus.android.OplusFrameworkFactoryImpl: get feature:IOplusDynamicVsyncFeature
+11-26 16:01:18.459 23667 23667 I oplus.android.OplusFrameworkFactoryImpl: get feature:IOplusDynamicVsyncFeature
+11-26 16:01:18.459 23667 23667 I oplus.android.OplusFrameworkFactoryImpl: get feature:IOplusDynamicVsyncFeature
+11-26 16:01:18.480 23667 23667 V TextView: notifyAutoFillManagerAfterTextChanged
+11-26 16:01:18.480 23667 23667 V AutofillManager: notifyValueChanged(1073741877): ignoring on state FINISHED
+11-26 16:01:18.480 23667 23667 V TextView: notifyAutoFillManagerAfterTextChanged
+11-26 16:01:18.480 23667 23667 V AutofillManager: notifyValueChanged(1073741877): ignoring on state FINISHED
+11-26 16:01:18.507 23667 23667 I oplus.android.OplusFrameworkFactoryImpl: get feature:IOplusDynamicVsyncFeature
+11-26 16:01:18.507 23667 23667 I oplus.android.OplusFrameworkFactoryImpl: get feature:IOplusDynamicVsyncFeature
+11-26 16:01:18.507 23667 23667 I oplus.android.OplusFrameworkFactoryImpl: get feature:IOplusDynamicVsyncFeature
+11-26 16:01:18.516 23667 23667 V TextView: notifyAutoFillManagerAfterTextChanged
+11-26 16:01:18.516 23667 23667 V AutofillManager: notifyValueChanged(1073741824): ignoring on state FINISHED
+11-26 16:01:18.530 23667 23667 I Quality : Skipped: false 6 cost 73.84496 refreshRate 11111111 processName com.rmc.natour21
+11-26 16:01:18.665 23667 23667 I Quality : Skipped: false 11 cost 129.39326 refreshRate 11111111 processName com.rmc.natour21
+11-26 16:01:18.706 23667 23667 I Quality : Skipped: false 3 cost 36.35156 refreshRate 11111111 processName com.rmc.natour21
+11-26 16:01:18.750 23667 23667 I Quality : Skipped: true 1 cost 13.169204 refreshRate 11111111 processName com.rmc.natour21
+11-26 16:01:19.592 23667 24091 D skia    : SkJpegCodec::onGetPixels +
+11-26 16:01:19.608 23667 24091 D skia    : SkJpegCodec::onGetPixels -
+11-26 16:01:19.613 23667 24091 D skia    : SkJpegCodec::onGetPixels +
+11-26 16:01:19.626 23667 24091 D skia    : SkJpegCodec::onGetPixels -
+11-26 16:01:19.634 23667 24091 D skia    : SkJpegCodec::onGetPixels +
+11-26 16:01:19.643 23667 24091 D skia    : SkJpegCodec::onGetPixels -
+11-26 16:01:19.800 23667 23667 I Quality : Skipped: false 5 cost 59.8397 refreshRate 11111111 processName com.rmc.natour21
+11-26 16:01:21.427 23667 23667 I Quality : Skipped: true 3 cost 36.610977 refreshRate 11111111 processName com.rmc.natour21
+11-26 16:01:21.465 23667 23667 I Quality : Skipped: true 2 cost 29.895636 refreshRate 11111111 processName com.rmc.natour21
+11-26 16:01:22.038 23667 25874 V FA      : Inactivity, disconnecting from the service
+11-26 16:01:23.852 23667 23667 V AutofillManager: requestHideFillUi(null): anchor = null
+11-26 16:01:23.951 23667 23667 I oplus.android.OplusFrameworkFactoryImpl: get feature:IOplusDynamicVsyncFeature
+11-26 16:01:23.951 23667 23667 I oplus.android.OplusFrameworkFactoryImpl: get feature:IOplusDynamicVsyncFeature
+11-26 16:01:23.951 23667 23667 I oplus.android.OplusFrameworkFactoryImpl: get feature:IOplusDynamicVsyncFeature
+11-26 16:01:23.966 23667 23667 I oplus.android.OplusFrameworkFactoryImpl: get feature:IOplusDynamicVsyncFeature
+11-26 16:01:23.966 23667 23667 I oplus.android.OplusFrameworkFactoryImpl: get feature:IOplusDynamicVsyncFeature
+11-26 16:01:23.966 23667 23667 I oplus.android.OplusFrameworkFactoryImpl: get feature:IOplusDynamicVsyncFeature
+11-26 16:01:23.967 23667 23667 I oplus.android.OplusFrameworkFactoryImpl: get feature:IOplusDynamicVsyncFeature
+11-26 16:01:23.967 23667 23667 I oplus.android.OplusFrameworkFactoryImpl: get feature:IOplusDynamicVsyncFeature
+11-26 16:01:23.967 23667 23667 I oplus.android.OplusFrameworkFactoryImpl: get feature:IOplusDynamicVsyncFeature
+11-26 16:01:24.008 23667 23667 I Quality : Skipped: false 5 cost 60.25108 refreshRate 11111111 processName com.rmc.natour21
+11-26 16:01:24.393 23667 23667 I oplus.android.OplusFrameworkFactoryImpl: get feature:IOplusDynamicVsyncFeature
+11-26 16:01:24.393 23667 23667 I oplus.android.OplusFrameworkFactoryImpl: get feature:IOplusDynamicVsyncFeature
+11-26 16:01:24.393 23667 23667 I oplus.android.OplusFrameworkFactoryImpl: get feature:IOplusDynamicVsyncFeature
+11-26 16:01:24.431 23667 23667 I Quality : Skipped: false 2 cost 22.59694 refreshRate 11111111 processName com.rmc.natour21
+11-26 16:01:24.449 23667 27317 D ListServiceUtils: mListServiceUtils::init CallingPid 23667
+11-26 16:01:24.450 23667 27317 D ListServiceUtils: mListServiceUtils::init this 0xb400006f9aaa8080
+11-26 16:01:24.450 23667 27317 V ListServiceUtils: checkInListByUid start module:custom-icc uid:10364  time 999317795443us
+11-26 16:01:24.450 23667 27317 V ListServiceUtils: checkInListByUid end module:custom-icc uid:10364  time 999317795925us
+11-26 16:01:24.450 23667 27317 D ListServiceUtils: checkInListByUid module:custom-icc uid:10364 cost 482us return 0
+11-26 16:01:24.452 23667 27317 V ListServiceUtils: checkInListByUid module:image-processing uid:10364 cost 309us return (null)
+11-26 16:01:24.452 23667 27317 V JpegEncoderExtImpl: Resolution: 300 x 300,support: 0;
+11-26 16:01:24.476 23667 23667 I Quality : Skipped: false 3 cost 34.024193 refreshRate 11111111 processName com.rmc.natour21
+11-26 16:01:29.665 23667 27085 W SendBird: [16:01:29.664 Connection$1:onMessage():235] onMessage instance : [PONG] com.sendbird.android.Connection@fd72970
+11-26 16:01:29.666 23667 27085 W Sendbird: [16:01:29.665 Connection$1:onMessage():236] onMessage instance : [PONG] com.sendbird.android.Connection@fd72970
+11-26 16:01:29.676 23667 24083 W SendBird: [16:01:29.674 EventController$1:call():141] ++ result[PONG] runnable=null
+11-26 16:01:30.325 23667 23667 I Quality : Skipped: true 2 cost 26.925089 refreshRate 11111111 processName com.rmc.natour21
+11-26 16:01:30.959 23667 23667 V AutofillManager: updateSessionLocked(): id=null, bounds=null, value=null, action=5, flags=0
+11-26 16:01:30.969 23667 25874 V FA      : Recording user engagement, ms: 13946
+11-26 16:01:30.978 23667 23783 I BufferQueueProducer: [ViewRootImpl[com.rmc.natour21/com.rmc.natour21.MainActivity]#9(BLAST Consumer)9](id:5c7300000009,api:1,p:23667,c:23667) disconnect: api 1
+11-26 16:01:30.979 23667 23783 E BLASTBufferQueue: BLASTBufferItemConsumer::onDisconnect()
+11-26 16:01:30.979 23667 23783 I BLASTBufferQueue: [ViewRootImpl[com.rmc.natour21/com.rmc.natour21.MainActivity]#9] destructor()
+11-26 16:01:30.979 23667 23783 I BufferQueueConsumer: [ViewRootImpl[com.rmc.natour21/com.rmc.natour21.MainActivity]#9(BLAST Consumer)9](id:5c7300000009,api:0,p:-1,c:23667) disconnect
+11-26 16:01:31.015 23667 23695 I BLASTBufferQueue: releaseBufferCallbackThunk bufferId:101648990994489 framenumber:189 blastBufferQueue is dead
+11-26 16:01:31.055 23667 25874 V FA      : Connecting to remote service
+11-26 16:01:31.074 23667 25874 V FA      : Connection attempt already in progress
+11-26 16:01:31.074 23667 25874 V FA      : Activity paused, time: 3108061673
+11-26 16:01:31.094 23667 23667 E Parcel  : Reading a NULL string not supported here.
+11-26 16:01:31.095 23667 25874 D FA      : Connected to remote service
+11-26 16:01:31.097 23667 25874 V FA      : Processing queued up service tasks: 2
