@@ -1,0 +1,1321 @@
+--------- beginning of main
+12-16 12:11:37.627 18843 18843 I om.rmc.natour2: Late-enabling -Xcheck:jni
+12-16 12:11:37.679 18843 18843 E om.rmc.natour2: Unknown bits set in runtime_flags: 0x8000
+12-16 12:11:37.699 18843 18843 D ActivityThread: setConscryptValidator
+12-16 12:11:37.699 18843 18843 D ActivityThread: setConscryptValidator - put
+12-16 12:11:37.748 18843 18843 I om.rmc.natour2: The ClassLoaderContext is a special shared library.
+12-16 12:11:38.937 18843 18843 I FirebaseApp: Device unlocked: initializing all Firebase APIs for app [DEFAULT]
+12-16 12:11:39.047 18843 18843 I FirebaseInitProvider: FirebaseApp initialization successful
+12-16 12:11:39.112 18843 18870 I DynamiteModule: Considering local module com.google.android.gms.measurement.dynamite:70 and remote module com.google.android.gms.measurement.dynamite:87
+12-16 12:11:39.112 18843 18870 I DynamiteModule: Selected remote version of com.google.android.gms.measurement.dynamite, version >= 87
+12-16 12:11:39.112 18843 18870 V DynamiteModule: Dynamite loader version >= 2, using loadModule2NoCrashUtils
+12-16 12:11:39.132 18843 18870 W System  : ClassLoader referenced unknown path: 
+12-16 12:11:39.199 18843 18843 W com.facebook.UserSettingsManager: Please set a value for AutoLogAppEventsEnabled. Set the flag to TRUE if you want to collect app install, app launch and in-app purchase events automatically. To request user consent before collecting data, set the flag value to FALSE, then change to TRUE once user consent is received. Learn more: https://developers.facebook.com/docs/app-events/getting-started-app-events-android#disable-auto-events.
+12-16 12:11:39.199 18843 18843 W com.facebook.UserSettingsManager: You haven't set a value for AdvertiserIDCollectionEnabled. Set the flag to TRUE if you want to collect Advertiser ID for better advertising and analytics results. To request user consent before collecting data, set the flag value to FALSE, then change to TRUE once user consent is received. Learn more: https://developers.facebook.com/docs/app-events/getting-started-app-events-android#disable-auto-events.
+12-16 12:11:39.229 18843 18870 W om.rmc.natour2: Accessing hidden field Lsun/misc/Unsafe;->theUnsafe:Lsun/misc/Unsafe; (greylist, reflection, allowed)
+12-16 12:11:39.230 18843 18870 W om.rmc.natour2: Accessing hidden method Lsun/misc/Unsafe;->objectFieldOffset(Ljava/lang/reflect/Field;)J (greylist,core-platform-api, linking, allowed)
+12-16 12:11:39.230 18843 18870 W om.rmc.natour2: Accessing hidden method Lsun/misc/Unsafe;->arrayBaseOffset(Ljava/lang/Class;)I (greylist,core-platform-api, linking, allowed)
+12-16 12:11:39.230 18843 18870 W om.rmc.natour2: Accessing hidden method Lsun/misc/Unsafe;->arrayIndexScale(Ljava/lang/Class;)I (greylist, linking, allowed)
+12-16 12:11:39.232 18843 18891 W com.facebook.internal.NativeProtocol: Apps that target Android API 30+ (Android 11+) cannot call Facebook native apps unless the package visibility needs are declared. Please follow https://developers.facebook.com/docs/android/troubleshooting/#faq_267321845055988 to make the declaration.
+12-16 12:11:39.274 18843 18887 D NetworkSecurityConfig: Using Network Security Config from resource network_security_config debugBuild: true
+12-16 12:11:39.283 18843 18889 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:11:39.283 18843 18889 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:11:39.285 18843 18890 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:11:39.285 18843 18890 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:11:39.287 18843 18887 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:11:39.287 18843 18887 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:11:39.338 18843 18843 D KeyHash:: 3Fm4gBnqk2PYU3lntxOY4S7uHvQ=
+12-16 12:11:39.351 18843 18894 I FA      : App measurement initialized, version: 75052
+12-16 12:11:39.351 18843 18894 I FA      : To enable debug logging run: adb shell setprop log.tag.FA VERBOSE
+12-16 12:11:39.351 18843 18894 I FA      : To enable faster debug mode event logging run:
+12-16 12:11:39.351 18843 18894 I FA      :   adb shell setprop debug.firebase.analytics.app com.rmc.natour21
+12-16 12:11:39.367 18843 18887 D TcpOptimizer: TcpOptimizer-ON
+12-16 12:11:39.413 18843 18887 D libmdf  : libmdf v2.9.0.0 On 64bit PLATFORM
+12-16 12:11:40.007 18843 18890 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:11:40.007 18843 18890 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:11:56.722 19002 19002 I om.rmc.natour2: Late-enabling -Xcheck:jni
+12-16 12:11:56.765 19002 19002 E om.rmc.natour2: Unknown bits set in runtime_flags: 0x8000
+12-16 12:11:56.787 19002 19002 D ActivityThread: setConscryptValidator
+12-16 12:11:56.788 19002 19002 D ActivityThread: setConscryptValidator - put
+12-16 12:11:56.840 19002 19002 I om.rmc.natour2: The ClassLoaderContext is a special shared library.
+12-16 12:11:57.927 19002 19002 I FirebaseApp: Device unlocked: initializing all Firebase APIs for app [DEFAULT]
+12-16 12:11:58.013 19002 19033 I DynamiteModule: Considering local module com.google.android.gms.measurement.dynamite:70 and remote module com.google.android.gms.measurement.dynamite:87
+12-16 12:11:58.013 19002 19033 I DynamiteModule: Selected remote version of com.google.android.gms.measurement.dynamite, version >= 87
+12-16 12:11:58.013 19002 19033 V DynamiteModule: Dynamite loader version >= 2, using loadModule2NoCrashUtils
+12-16 12:11:58.021 19002 19033 W System  : ClassLoader referenced unknown path: 
+12-16 12:11:58.025 19002 19002 I FirebaseInitProvider: FirebaseApp initialization successful
+12-16 12:11:58.056 19002 19033 W om.rmc.natour2: Accessing hidden field Lsun/misc/Unsafe;->theUnsafe:Lsun/misc/Unsafe; (greylist, reflection, allowed)
+12-16 12:11:58.056 19002 19033 W om.rmc.natour2: Accessing hidden method Lsun/misc/Unsafe;->objectFieldOffset(Ljava/lang/reflect/Field;)J (greylist,core-platform-api, linking, allowed)
+12-16 12:11:58.056 19002 19033 W om.rmc.natour2: Accessing hidden method Lsun/misc/Unsafe;->arrayBaseOffset(Ljava/lang/Class;)I (greylist,core-platform-api, linking, allowed)
+12-16 12:11:58.056 19002 19033 W om.rmc.natour2: Accessing hidden method Lsun/misc/Unsafe;->arrayIndexScale(Ljava/lang/Class;)I (greylist, linking, allowed)
+12-16 12:11:58.106 19002 19040 I FA      : App measurement initialized, version: 75052
+12-16 12:11:58.106 19002 19040 I FA      : To enable debug logging run: adb shell setprop log.tag.FA VERBOSE
+12-16 12:11:58.106 19002 19040 I FA      : To enable faster debug mode event logging run:
+12-16 12:11:58.106 19002 19040 I FA      :   adb shell setprop debug.firebase.analytics.app com.rmc.natour21
+12-16 12:11:58.132 19002 19002 W com.facebook.UserSettingsManager: Please set a value for AutoLogAppEventsEnabled. Set the flag to TRUE if you want to collect app install, app launch and in-app purchase events automatically. To request user consent before collecting data, set the flag value to FALSE, then change to TRUE once user consent is received. Learn more: https://developers.facebook.com/docs/app-events/getting-started-app-events-android#disable-auto-events.
+12-16 12:11:58.132 19002 19002 W com.facebook.UserSettingsManager: You haven't set a value for AdvertiserIDCollectionEnabled. Set the flag to TRUE if you want to collect Advertiser ID for better advertising and analytics results. To request user consent before collecting data, set the flag value to FALSE, then change to TRUE once user consent is received. Learn more: https://developers.facebook.com/docs/app-events/getting-started-app-events-android#disable-auto-events.
+12-16 12:11:58.154 19002 19052 W com.facebook.internal.NativeProtocol: Apps that target Android API 30+ (Android 11+) cannot call Facebook native apps unless the package visibility needs are declared. Please follow https://developers.facebook.com/docs/android/troubleshooting/#faq_267321845055988 to make the declaration.
+12-16 12:11:58.163 19002 19047 D NetworkSecurityConfig: Using Network Security Config from resource network_security_config debugBuild: true
+12-16 12:11:58.170 19002 19049 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:11:58.170 19002 19050 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:11:58.170 19002 19050 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:11:58.170 19002 19047 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:11:58.170 19002 19047 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:11:58.170 19002 19049 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:11:58.175 19002 19050 D TcpOptimizer: TcpOptimizer-ON
+12-16 12:11:58.186 19002 19002 D KeyHash:: 3Fm4gBnqk2PYU3lntxOY4S7uHvQ=
+12-16 12:11:58.210 19002 19066 D libEGL  : loaded /vendor/lib64/egl/libGLES_mali.so
+12-16 12:11:58.256 19002 19050 D libmdf  : libmdf v2.9.0.0 On 64bit PLATFORM
+12-16 12:11:58.271 19002 19002 D PhoneWindow: forceLight changed to true [] from com.android.internal.policy.PhoneWindow.updateForceLightNavigationBar:4274 com.android.internal.policy.DecorView.updateColorViews:1547 com.android.internal.policy.PhoneWindow.dispatchWindowAttributesChanged:3252 android.view.Window.setFlags:1153 com.android.internal.policy.PhoneWindow.generateLayout:2474 
+12-16 12:11:58.271 19002 19002 I MultiWindowDecorSupport: [INFO] isPopOver = false
+12-16 12:11:58.271 19002 19002 I MultiWindowDecorSupport: updateCaptionType >> DecorView@597789f[], isFloating: false, isApplication: true, hasWindowDecorCaption: false, hasWindowControllerCallback: true
+12-16 12:11:58.271 19002 19002 D MultiWindowDecorSupport: setCaptionType = 0, DecorView = DecorView@597789f[]
+12-16 12:11:58.298 19002 19002 W om.rmc.natour2: Accessing hidden method Landroid/view/View;->computeFitSystemWindows(Landroid/graphics/Rect;Landroid/graphics/Rect;)Z (greylist, reflection, allowed)
+12-16 12:11:58.298 19002 19002 W om.rmc.natour2: Accessing hidden method Landroid/view/ViewGroup;->makeOptionalFitsSystemWindows()V (greylist, reflection, allowed)
+12-16 12:11:58.357 19002 19002 D ConnectivityManager: requestNetwork; CallingUid : 10308, CallingPid : 19002
+12-16 12:11:58.363 19002 19033 W om.rmc.natour2: Accessing hidden method Lsun/misc/Unsafe;->compareAndSwapInt(Ljava/lang/Object;JII)Z (greylist, linking, allowed)
+12-16 12:11:58.363 19002 19033 W om.rmc.natour2: Accessing hidden method Lsun/misc/Unsafe;->getObjectVolatile(Ljava/lang/Object;J)Ljava/lang/Object; (greylist, linking, allowed)
+12-16 12:11:58.363 19002 19033 W om.rmc.natour2: Accessing hidden method Lsun/misc/Unsafe;->compareAndSwapObject(Ljava/lang/Object;JLjava/lang/Object;Ljava/lang/Object;)Z (greylist, linking, allowed)
+12-16 12:11:58.363 19002 19033 W om.rmc.natour2: Accessing hidden method Lsun/misc/Unsafe;->compareAndSwapLong(Ljava/lang/Object;JJJ)Z (greylist, linking, allowed)
+12-16 12:11:58.371 19002 19040 I FA      : Tag Manager is not found and thus will not be used
+12-16 12:11:58.391 19002 19002 I ViewRootImpl@303f1ae[Splashscreen]: setView = com.android.internal.policy.DecorView@597789f TM=true MM=false
+12-16 12:11:58.444 19002 19002 I ViewRootImpl@303f1ae[Splashscreen]: Relayout returned: old=(0,0,1080,2220) new=(0,0,1080,2220) req=(1080,2220)0 dur=6 res=0x7 s={true 525358039040} ch=true
+12-16 12:11:58.447 19002 19002 I ViewRootImpl@303f1ae[Splashscreen]: [DrawPending] drawPending(1) 1 android.view.ViewRootImpl.reportNextDraw:9952 android.view.ViewRootImpl.performTraversals:3329 android.view.ViewRootImpl.doTraversal:2222 
+12-16 12:11:58.447 19002 19002 I ViewRootImpl@303f1ae[Splashscreen]: [DrawPending] performDraw() Waiting asnyc report
+12-16 12:11:58.460 19002 19064 D mali_winsys: EGLint new_window_surface(egl_winsys_display *, void *, EGLSurface, EGLConfig, egl_winsys_surface **, EGLBoolean) returns 0x3000
+12-16 12:11:58.465 19002 19064 W Gralloc3: mapper 3.x is not supported
+12-16 12:11:58.482 19002 19064 E cutils-trace: Error opening trace file: No such file or directory (2)
+12-16 12:11:58.483 19002 19002 I ViewRootImpl@303f1ae[Splashscreen]: [DrawPending] pendingDrawFinished(0) 1 android.view.ViewRootImpl.lambda$performDraw$1$ViewRootImpl:4058 android.view.-$$Lambda$ViewRootImpl$7A_3tkr_Kw4TZAeIUGVlOoTcZhg.run:4 android.os.Handler.handleCallback:883 
+12-16 12:11:58.483 19002 19002 I ViewRootImpl@303f1ae[Splashscreen]: [DrawPending] reportDrawFinished()
+12-16 12:11:58.491 19002 19002 I ViewRootImpl@303f1ae[Splashscreen]: MSG_WINDOW_FOCUS_CHANGED 1 1
+12-16 12:11:58.491 19002 19002 D InputMethodManager: prepareNavigationBarInfo() DecorView@597789f[Splashscreen]
+12-16 12:11:58.491 19002 19002 D InputMethodManager: getNavigationBarColor() -855310
+12-16 12:11:58.493 19002 19002 D InputMethodManager: prepareNavigationBarInfo() DecorView@597789f[Splashscreen]
+12-16 12:11:58.493 19002 19002 D InputMethodManager: getNavigationBarColor() -855310
+12-16 12:11:58.493 19002 19002 V InputMethodManager: Starting input: tba=com.rmc.natour21 ic=null mNaviBarColor -855310 mIsGetNaviBarColorSuccess true , NavVisible : true , NavTrans : false
+12-16 12:11:58.493 19002 19002 D InputMethodManager: startInputInner - Id : 0
+12-16 12:11:58.493 19002 19002 I InputMethodManager: startInputInner - mService.startInputOrWindowGainedFocus
+12-16 12:11:58.496 19002 19002 I ViewRootImpl@303f1ae[Splashscreen]: MSG_RESIZED: frame=(0,0,1080,2220) ci=(0,0,0,0) vi=(0,0,0,0) or=1
+12-16 12:11:58.501 19002 19002 D InputMethodManager: prepareNavigationBarInfo() DecorView@597789f[Splashscreen]
+12-16 12:11:58.501 19002 19002 D InputMethodManager: getNavigationBarColor() -855310
+12-16 12:11:58.501 19002 19002 V InputMethodManager: Starting input: tba=com.rmc.natour21 ic=null mNaviBarColor -855310 mIsGetNaviBarColorSuccess true , NavVisible : true , NavTrans : false
+12-16 12:11:58.501 19002 19002 D InputMethodManager: startInputInner - Id : 0
+12-16 12:11:58.508 19002 19056 W AnalyticsUserIDStore: initStore should have been called before calling setUserID
+12-16 12:11:58.535 19002 19056 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:11:58.535 19002 19056 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:11:58.715 19002 19050 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:11:58.715 19002 19050 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:11:58.946 19002 19071 I System.out: Firebase token: eyJhbGciOiJSUzI1NiIsImtpZCI6Ijk3OGI1NmM2NmVhYmIwZDlhNmJhOGNhMzMwMTU2NGEyMzhlYWZjODciLCJ0eXAiOiJKV1QifQ.eyJuYW1lIjoiY2xhdWRpbyB2ZWxvdHRpIiwicGljdHVyZSI6Imh0dHBzOi8vbGgzLmdvb2dsZXVzZXJjb250ZW50LmNvbS9hL0FMbTV3dTI5V2MtR0dNWkljYk9qc2hic0pORFJ6OW9ZQjNYR3hXUmRWekdIPXM5Ni1jIiwiaXNzIjoiaHR0cHM6Ly9zZWN1cmV0b2tlbi5nb29nbGUuY29tL25hdG91cjIxLWZjNmVhIiwiYXVkIjoibmF0b3VyMjEtZmM2ZWEiLCJhdXRoX3RpbWUiOjE2NzExODg3NTEsInVzZXJfaWQiOiJkT3lqREZWbVhCYnRhVjVWMkdXOEc5NmZVdjQzIiwic3ViIjoiZE95akRGVm1YQmJ0YVY1VjJHVzhHOTZmVXY0MyIsImlhdCI6MTY3MTE4ODc1MSwiZXhwIjoxNjcxMTkyMzUxLCJlbWFpbCI6ImNsYWRvdHRpMzFAZ21haWwuY29tIiwiZW1haWxfdmVyaWZpZWQiOnRydWUsImZpcmViYXNlIjp7ImlkZW50aXRpZXMiOnsiZ29vZ2xlLmNvbSI6WyIxMTI0OTI4NzA2NDA3MTc2NTQ1NzAiXSwiZW1haWwiOlsiY2xhZG90dGkzMUBnbWFpbC5jb20iXX0sInNpZ25faW5fcHJvdmlkZXIiOiJnb29nbGUuY29tIn19.RxZplc6vZUPul4PopRgqN9-kUpK7g3_qk4s0eKM6LLgPKmAENhUhR7twdTH7WQWG292u_Xt47dqc16PEaSr2tntcXDhZ9HjDxwW66Sc8WebyQpJtMbTnV0cTGGQv0Kxb94mvni_99nppPGiy_p2Cf7BttcWujPkhJK-1mTB7lpX_Ca-658LcLoyHqkhYULg_hLvPFi4XgI9bZlmMi_Sk7Nw3nNzGPyCypL__P5YZiuqcx3H68zuotadKTPy7hU14uyjAU2hQKFRZzJSPH2dBWKs5nGn4OJe68m-Jr_XJ4qmXnAcHMH6cOq9yAZ7xA7Cz7jCSU1gobJHwNihRTfYW0g
+12-16 12:11:59.177 19002 19094 V NativeCrypto: Registering org/conscrypt/NativeCrypto's 286 native methods...
+12-16 12:12:00.226 19002 19071 W om.rmc.natour2: Accessing hidden method Ldalvik/system/BlockGuard;->getThreadPolicy()Ldalvik/system/BlockGuard$Policy; (greylist,core-platform-api, linking, allowed)
+12-16 12:12:00.226 19002 19071 W om.rmc.natour2: Accessing hidden method Ldalvik/system/BlockGuard$Policy;->onNetwork()V (greylist, linking, allowed)
+12-16 12:12:00.227 19002 19071 W om.rmc.natour2: Accessing hidden method Ldalvik/system/CloseGuard;->close()V (greylist,core-platform-api, linking, allowed)
+12-16 12:12:00.227 19002 19071 W om.rmc.natour2: Accessing hidden method Ldalvik/system/CloseGuard;->get()Ldalvik/system/CloseGuard; (greylist,core-platform-api, linking, allowed)
+12-16 12:12:00.227 19002 19071 W om.rmc.natour2: Accessing hidden method Ldalvik/system/CloseGuard;->open(Ljava/lang/String;)V (greylist,core-platform-api, linking, allowed)
+12-16 12:12:00.227 19002 19071 W om.rmc.natour2: Accessing hidden method Ldalvik/system/CloseGuard;->warnIfOpen()V (greylist,core-platform-api, linking, allowed)
+12-16 12:12:00.231 19002 19071 W om.rmc.natour2: Accessing hidden method Ljava/security/spec/ECParameterSpec;->getCurveName()Ljava/lang/String; (greylist, reflection, allowed)
+12-16 12:12:00.364 19002 19002 D SBUIKIT : [12:12:00.363 SendBirdUIKit$1:onInitSucceed():174] >> onInitSucceed()
+12-16 12:12:00.376 19002 19002 W ActivityThread: handleWindowVisibility: no activity for token android.os.BinderProxy@1e40a26
+12-16 12:12:00.395 19002 19002 D PhoneWindow: forceLight changed to true [] from com.android.internal.policy.PhoneWindow.updateForceLightNavigationBar:4274 com.android.internal.policy.DecorView.updateColorViews:1547 com.android.internal.policy.PhoneWindow.dispatchWindowAttributesChanged:3252 android.view.Window.setFlags:1153 com.android.internal.policy.PhoneWindow.generateLayout:2474 
+12-16 12:12:00.396 19002 19002 I MultiWindowDecorSupport: [INFO] isPopOver = false
+12-16 12:12:00.396 19002 19002 I MultiWindowDecorSupport: updateCaptionType >> DecorView@5948d6[], isFloating: false, isApplication: true, hasWindowDecorCaption: false, hasWindowControllerCallback: true
+12-16 12:12:00.396 19002 19002 D MultiWindowDecorSupport: setCaptionType = 0, DecorView = DecorView@5948d6[]
+12-16 12:12:00.758 19002 19119 W om.rmc.natour2: Accessing hidden field Ljava/net/Socket;->impl:Ljava/net/SocketImpl; (greylist, reflection, allowed)
+12-16 12:12:00.767 19002 19002 D ConnectivityManager: requestNetwork; CallingUid : 10308, CallingPid : 19002
+12-16 12:12:00.767 19002 19120 W om.rmc.natour2: Accessing hidden field Ljava/io/FileDescriptor;->descriptor:I (greylist, JNI, allowed)
+12-16 12:12:00.780 19002 19002 I ViewRootImpl@650238a[MainActivity]: setView = com.android.internal.policy.DecorView@5948d6 TM=true MM=false
+12-16 12:12:00.781 19002 19002 I ViewRootImpl@303f1ae[Splashscreen]: MSG_WINDOW_FOCUS_CHANGED 0 1
+12-16 12:12:00.781 19002 19002 D InputMethodManager: prepareNavigationBarInfo() DecorView@597789f[Splashscreen]
+12-16 12:12:00.781 19002 19002 D InputMethodManager: getNavigationBarColor() -855310
+12-16 12:12:00.850 19002 19002 I ViewRootImpl@650238a[MainActivity]: Relayout returned: old=(0,0,1080,2220) new=(0,0,1080,2220) req=(1080,2220)0 dur=6 res=0x7 s={true 521157943296} ch=true
+12-16 12:12:00.851 19002 19064 D mali_winsys: EGLint new_window_surface(egl_winsys_display *, void *, EGLSurface, EGLConfig, egl_winsys_surface **, EGLBoolean) returns 0x3000
+12-16 12:12:00.876 19002 19002 I ViewRootImpl@650238a[MainActivity]: [DrawPending] drawPending(1) 1 android.view.ViewRootImpl.reportNextDraw:9952 android.view.ViewRootImpl.performTraversals:3329 android.view.ViewRootImpl.doTraversal:2222 
+12-16 12:12:00.878 19002 19002 I ViewRootImpl@650238a[MainActivity]: [DrawPending] performDraw() Waiting asnyc report
+12-16 12:12:00.882 19002 19120 W om.rmc.natour2: Accessing hidden method Ljava/security/spec/ECParameterSpec;->setCurveName(Ljava/lang/String;)V (greylist, reflection, allowed)
+12-16 12:12:00.882 19002 19119 W om.rmc.natour2: Accessing hidden method Ljava/security/spec/ECParameterSpec;->setCurveName(Ljava/lang/String;)V (greylist, reflection, allowed)
+12-16 12:12:00.927 19002 19002 I ViewRootImpl@650238a[MainActivity]: [DrawPending] pendingDrawFinished(0) 1 android.view.ViewRootImpl.lambda$performDraw$1$ViewRootImpl:4058 android.view.-$$Lambda$ViewRootImpl$7A_3tkr_Kw4TZAeIUGVlOoTcZhg.run:4 android.os.Handler.handleCallback:883 
+12-16 12:12:00.927 19002 19002 I ViewRootImpl@650238a[MainActivity]: [DrawPending] reportDrawFinished()
+12-16 12:12:00.929 19002 19002 I ViewRootImpl@650238a[MainActivity]: MSG_WINDOW_FOCUS_CHANGED 1 1
+12-16 12:12:00.930 19002 19002 D InputMethodManager: prepareNavigationBarInfo() DecorView@5948d6[MainActivity]
+12-16 12:12:00.930 19002 19002 D InputMethodManager: getNavigationBarColor() -855310
+12-16 12:12:00.938 19002 19002 D EmergencyMode: [EmergencyManager] android createPackageContext successful: com.rmc.natour21
+12-16 12:12:00.943 19002 19002 D InputMethodManager: prepareNavigationBarInfo() DecorView@5948d6[MainActivity]
+12-16 12:12:00.943 19002 19002 D InputMethodManager: getNavigationBarColor() -855310
+12-16 12:12:00.943 19002 19002 V InputMethodManager: Starting input: tba=com.rmc.natour21 ic=null mNaviBarColor -855310 mIsGetNaviBarColorSuccess true , NavVisible : true , NavTrans : false
+12-16 12:12:00.943 19002 19002 D InputMethodManager: startInputInner - Id : 0
+12-16 12:12:00.943 19002 19002 I InputMethodManager: startInputInner - mService.startInputOrWindowGainedFocus
+12-16 12:12:00.944 19002 19002 D InputTransport: Input channel destroyed: 'ClientS', fd=96
+12-16 12:12:00.951 19002 19002 I ViewRootImpl@650238a[MainActivity]: MSG_RESIZED: frame=(0,0,1080,2220) ci=(0,63,0,0) vi=(0,63,0,0) or=1
+12-16 12:12:01.068 19002 19071 W Glide   : Failed to find GeneratedAppGlideModule. You should include an annotationProcessor compile dependency on com.github.bumptech.glide:compiler in your application and a @GlideModule annotated AppGlideModule implementation or LibraryGlideModules will be silently ignored
+12-16 12:12:01.085 19002 19120 W SendBird: [12:12:01.084 Connection$1:onMessage():235] onMessage instance : [LOGI] com.sendbird.android.Connection@8ead62d
+12-16 12:12:01.087 19002 19120 W Sendbird: [12:12:01.086 Connection$1:onMessage():236] onMessage instance : [LOGI] com.sendbird.android.Connection@8ead62d
+12-16 12:12:01.098 19002 19071 D ConnectivityManager: requestNetwork; CallingUid : 10308, CallingPid : 19002
+12-16 12:12:01.109 19002 19136 W SendBird: [12:12:01.109 EventController$1:call():141] ++ result[LOGI] runnable=null
+12-16 12:12:01.143 19002 19113 D SBUIKIT : [12:12:01.142 SendBirdUIKit$2:call():298] ++ user nickname = claudio velotti, profileUrl = http://18.195.186.181:8080/img/92/raw
+12-16 12:12:01.194 19002 19120 W SendBird: [12:12:01.194 Connection$1:onMessage():235] onMessage instance : [PONG] com.sendbird.android.Connection@8ead62d
+12-16 12:12:01.195 19002 19120 W Sendbird: [12:12:01.195 Connection$1:onMessage():236] onMessage instance : [PONG] com.sendbird.android.Connection@8ead62d
+12-16 12:12:01.197 19002 19136 W SendBird: [12:12:01.197 EventController$1:call():141] ++ result[PONG] runnable=null
+12-16 12:12:01.272 19002 19002 I System.out: SENDBIRD TOKEN OK ckOTAZioSROKNMJFPmblOe:APA91bGVcG9r_iXcHFgG4Iporvbe7LY4wQBAVWfyWIWJnWzg5h8jwyooQ25LxvLEqeLKSFX8jlOxjHRr5t9uy5rrsHMA7I4iE0NfcLRlw_nQeNQWpru1u2nLitOl0dT_dISCBj72bvr1
+12-16 12:12:01.350 19002 19064 W libEGL  : EGLNativeWindowType 0x79b46bb810 disconnect failed
+12-16 12:12:01.357 19002 19002 I ViewRootImpl@303f1ae[Splashscreen]: Relayout returned: old=(0,0,1080,2220) new=(0,0,1080,2220) req=(1080,2220)8 dur=7 res=0x5 s={false 0} ch=true
+12-16 12:12:01.359 19002 19002 D ConnectivityManager: unregisterNetworkCallback; CallingUid : 10308, CallingPid : 19002
+12-16 12:12:01.360 19002 19002 I ViewRootImpl@303f1ae[Splashscreen]: stopped(true) old=false
+12-16 12:12:01.366 19002 19033 W om.rmc.natour2: Accessing hidden method Lsun/misc/Unsafe;->putObjectVolatile(Ljava/lang/Object;JLjava/lang/Object;)V (greylist, linking, allowed)
+12-16 12:12:01.366 19002 19002 I ViewRootImpl@303f1ae[Splashscreen]: dispatchDetachedFromWindow
+12-16 12:12:01.370 19002 19002 D InputTransport: Input channel destroyed: 'eb8dc4e', fd=89
+12-16 12:12:06.878 19002 19002 I ViewRootImpl@650238a[MainActivity]: ViewPostIme pointer 0
+12-16 12:12:06.923 19002 19002 I ViewRootImpl@650238a[MainActivity]: ViewPostIme pointer 1
+12-16 12:12:06.950 19002 19002 D ConnectivityManager: unregisterNetworkCallback; CallingUid : 10308, CallingPid : 19002
+12-16 12:12:06.969 19002 19002 I StorageUtils: /data/user/0/com.rmc.natour21/files is writable
+12-16 12:12:06.975 19002 19002 I StorageUtils: /storage/emulated/0/Android/data/com.rmc.natour21/files is writable
+12-16 12:12:06.977 19002 19002 I StorageUtils: /storage/0123-4567/Android/data/com.rmc.natour21/files is writable
+12-16 12:12:06.977 19002 19002 I StorageUtils: /data/user/0/com.rmc.natour21/files is writable
+12-16 12:12:06.978 19002 19002 I StorageUtils: /storage/emulated/0/Android/data/com.rmc.natour21/files is writable
+12-16 12:12:06.978 19002 19002 I StorageUtils: /storage/0123-4567/Android/data/com.rmc.natour21/files is writable
+12-16 12:12:06.983 19002 19002 I OsmDroid: Using tile source: Mapnik
+12-16 12:12:06.987 19002 19002 I OsmDroid: Tile cache increased from 0 to 9
+12-16 12:12:07.121 19002 19002 D ConnectivityManager: requestNetwork; CallingUid : 10308, CallingPid : 19002
+12-16 12:12:07.140 19002 19002 D InputMethodManager: prepareNavigationBarInfo() DecorView@5948d6[MainActivity]
+12-16 12:12:07.140 19002 19002 D InputMethodManager: getNavigationBarColor() -855310
+12-16 12:12:07.140 19002 19002 V InputMethodManager: Starting input: tba=com.rmc.natour21 ic=null mNaviBarColor -855310 mIsGetNaviBarColorSuccess true , NavVisible : true , NavTrans : false
+12-16 12:12:07.140 19002 19002 D InputMethodManager: startInputInner - Id : 0
+12-16 12:12:07.140 19002 19002 I InputMethodManager: startInputInner - mService.startInputOrWindowGainedFocus
+12-16 12:12:07.141 19002 19002 D InputTransport: Input channel destroyed: 'ClientS', fd=123
+12-16 12:12:07.184 19002 19002 I ViewRootImpl@650238a[MainActivity]: Relayout returned: old=(0,0,1080,2220) new=(0,0,1080,2220) req=(1080,2220)0 dur=11 res=0x1 s={true 521157943296} ch=false
+12-16 12:12:07.202 19002 19002 I OsmDroid: Tile cache increased from 9 to 54
+12-16 12:12:07.334 19002 19014 I om.rmc.natour2: NativeAlloc concurrent copying GC freed 61746(3602KB) AllocSpace objects, 32(768KB) LOS objects, 49% free, 11MB/22MB, paused 161us total 146.684ms
+12-16 12:12:07.795 19002 19002 I ViewRootImpl@650238a[MainActivity]: ViewPostIme pointer 0
+12-16 12:12:07.855 19002 19002 I ViewRootImpl@650238a[MainActivity]: ViewPostIme pointer 1
+12-16 12:12:08.060 19002 19002 D InputMethodManager: prepareNavigationBarInfo() DecorView@5948d6[MainActivity]
+12-16 12:12:08.060 19002 19002 D InputMethodManager: getNavigationBarColor() -855310
+12-16 12:12:08.060 19002 19002 V InputMethodManager: Starting input: tba=com.rmc.natour21 ic=null mNaviBarColor -855310 mIsGetNaviBarColorSuccess true , NavVisible : true , NavTrans : false
+12-16 12:12:08.060 19002 19002 D InputMethodManager: startInputInner - Id : 0
+12-16 12:12:08.060 19002 19002 I InputMethodManager: startInputInner - mService.startInputOrWindowGainedFocus
+12-16 12:12:08.063 19002 19002 D InputTransport: Input channel destroyed: 'ClientS', fd=129
+12-16 12:12:08.079 19002 19002 I AssistStructure: Flattened final assist data: 5644 bytes, containing 1 windows, 44 views
+12-16 12:12:08.435 19002 19002 I ViewRootImpl@650238a[MainActivity]: ViewPostIme pointer 0
+12-16 12:12:08.486 19002 19002 I ViewRootImpl@650238a[MainActivity]: ViewPostIme pointer 1
+12-16 12:12:08.703 19002 19002 D InputMethodManager: prepareNavigationBarInfo() DecorView@5948d6[MainActivity]
+12-16 12:12:08.703 19002 19002 D InputMethodManager: getNavigationBarColor() -855310
+12-16 12:12:08.704 19002 19002 V InputMethodManager: Starting input: tba=com.rmc.natour21 ic=null mNaviBarColor -855310 mIsGetNaviBarColorSuccess true , NavVisible : true , NavTrans : false
+12-16 12:12:08.704 19002 19002 D InputMethodManager: startInputInner - Id : 0
+12-16 12:12:08.704 19002 19002 I InputMethodManager: startInputInner - mService.startInputOrWindowGainedFocus
+12-16 12:12:08.706 19002 19002 D InputTransport: Input channel destroyed: 'ClientS', fd=131
+12-16 12:12:08.825 19002 19002 I ViewRootImpl@650238a[MainActivity]: ViewPostIme pointer 0
+12-16 12:12:08.825 19002 19018 I om.rmc.natour2: Compiler allocated 4218KB to compile void android.view.ViewRootImpl.performTraversals()
+12-16 12:12:08.891 19002 19002 I ViewRootImpl@650238a[MainActivity]: ViewPostIme pointer 1
+12-16 12:12:09.091 19002 19002 D InputMethodManager: prepareNavigationBarInfo() DecorView@5948d6[MainActivity]
+12-16 12:12:09.091 19002 19002 D InputMethodManager: getNavigationBarColor() -855310
+12-16 12:12:09.091 19002 19002 V InputMethodManager: Starting input: tba=com.rmc.natour21 ic=null mNaviBarColor -855310 mIsGetNaviBarColorSuccess true , NavVisible : true , NavTrans : false
+12-16 12:12:09.091 19002 19002 D InputMethodManager: startInputInner - Id : 0
+12-16 12:12:09.091 19002 19002 I InputMethodManager: startInputInner - mService.startInputOrWindowGainedFocus
+12-16 12:12:09.094 19002 19002 D InputTransport: Input channel destroyed: 'ClientS', fd=125
+12-16 12:12:09.237 19002 19002 I ViewRootImpl@650238a[MainActivity]: ViewPostIme pointer 0
+12-16 12:12:09.290 19002 19002 I ViewRootImpl@650238a[MainActivity]: ViewPostIme pointer 1
+12-16 12:12:09.502 19002 19002 D InputMethodManager: prepareNavigationBarInfo() DecorView@5948d6[MainActivity]
+12-16 12:12:09.502 19002 19002 D InputMethodManager: getNavigationBarColor() -855310
+12-16 12:12:09.502 19002 19002 V InputMethodManager: Starting input: tba=com.rmc.natour21 ic=null mNaviBarColor -855310 mIsGetNaviBarColorSuccess true , NavVisible : true , NavTrans : false
+12-16 12:12:09.502 19002 19002 D InputMethodManager: startInputInner - Id : 0
+12-16 12:12:09.502 19002 19002 I InputMethodManager: startInputInner - mService.startInputOrWindowGainedFocus
+12-16 12:12:09.505 19002 19002 D InputTransport: Input channel destroyed: 'ClientS', fd=128
+12-16 12:12:09.698 19002 19002 I ViewRootImpl@650238a[MainActivity]: ViewPostIme pointer 0
+12-16 12:12:09.749 19002 19002 I ViewRootImpl@650238a[MainActivity]: ViewPostIme pointer 1
+12-16 12:12:09.956 19002 19002 D InputMethodManager: prepareNavigationBarInfo() DecorView@5948d6[MainActivity]
+12-16 12:12:09.956 19002 19002 D InputMethodManager: getNavigationBarColor() -855310
+12-16 12:12:09.956 19002 19002 V InputMethodManager: Starting input: tba=com.rmc.natour21 ic=null mNaviBarColor -855310 mIsGetNaviBarColorSuccess true , NavVisible : true , NavTrans : false
+12-16 12:12:09.957 19002 19002 D InputMethodManager: startInputInner - Id : 0
+12-16 12:12:09.957 19002 19002 I InputMethodManager: startInputInner - mService.startInputOrWindowGainedFocus
+12-16 12:12:09.959 19002 19002 D InputTransport: Input channel destroyed: 'ClientS', fd=125
+12-16 12:12:10.138 19002 19002 I ViewRootImpl@650238a[MainActivity]: ViewPostIme pointer 0
+12-16 12:12:10.206 19002 19002 I ViewRootImpl@650238a[MainActivity]: ViewPostIme pointer 1
+12-16 12:12:10.401 19002 19002 D InputMethodManager: prepareNavigationBarInfo() DecorView@5948d6[MainActivity]
+12-16 12:12:10.401 19002 19002 D InputMethodManager: getNavigationBarColor() -855310
+12-16 12:12:10.401 19002 19002 V InputMethodManager: Starting input: tba=com.rmc.natour21 ic=androidx.emoji2.viewsintegration.EmojiInputConnection@597566b mNaviBarColor -855310 mIsGetNaviBarColorSuccess true , NavVisible : true , NavTrans : false
+12-16 12:12:10.401 19002 19002 D InputMethodManager: startInputInner - Id : 0
+12-16 12:12:10.412 19002 19002 I InputMethodManager: startInputInner - mService.startInputOrWindowGainedFocus
+12-16 12:12:10.414 19002 19002 D InputTransport: Input channel destroyed: 'ClientS', fd=131
+12-16 12:12:11.000 19002 19002 I ViewRootImpl@650238a[MainActivity]: ViewPostIme pointer 0
+12-16 12:12:11.555 19002 19064 I         : Increase max job count 60
+12-16 12:12:11.608 19002 19002 I ViewRootImpl@650238a[MainActivity]: ViewPostIme pointer 1
+12-16 12:12:11.809 19002 19002 I ViewRootImpl@650238a[MainActivity]: ViewPostIme pointer 0
+12-16 12:12:12.322 19002 19071 D BONUSPACK: OSRMRoadManager.getRoads:https://routing.openstreetmap.de/routed-car/route/v1/driving/14.4470214844,41.4674283125;15.0787353516,40.8054938439?alternatives=false&overview=full&steps=true
+12-16 12:12:12.932 19002 19071 D BONUSPACK: OSRMRoadManager.getRoads - finished
+12-16 12:12:12.972 19002 19002 I ViewRootImpl@650238a[MainActivity]: ViewPostIme pointer 1
+12-16 12:12:12.973 19002 19002 I Choreographer: Skipped 39 frames!  The application may be doing too much work on its main thread.
+12-16 12:12:13.807 19002 19002 I ViewRootImpl@650238a[MainActivity]: ViewPostIme pointer 0
+12-16 12:12:13.846 19002 19002 I ViewRootImpl@650238a[MainActivity]: ViewPostIme pointer 1
+12-16 12:12:13.848 19002 19002 D InputMethodManager: SSI - flag : 0 Pid : 19002 view : com.rmc.natour21
+12-16 12:12:13.848 19002 19002 D InputMethodManager: prepareNavigationBarInfo() DecorView@5948d6[MainActivity]
+12-16 12:12:13.848 19002 19002 D InputMethodManager: getNavigationBarColor() -855310
+12-16 12:12:13.857 19002 19002 D Editor  : waiting for the right moment
+12-16 12:12:13.987 19002 19002 I ViewRootImpl@650238a[MainActivity]: MSG_RESIZED: frame=(0,0,1080,2220) ci=(0,63,0,0) vi=(0,63,0,986) or=1
+12-16 12:12:16.237 19002 19120 W SendBird: [12:12:16.237 Connection$1:onMessage():235] onMessage instance : [PONG] com.sendbird.android.Connection@8ead62d
+12-16 12:12:16.239 19002 19120 W Sendbird: [12:12:16.238 Connection$1:onMessage():236] onMessage instance : [PONG] com.sendbird.android.Connection@8ead62d
+12-16 12:12:16.246 19002 19136 W SendBird: [12:12:16.245 EventController$1:call():141] ++ result[PONG] runnable=null
+12-16 12:12:17.815 19002 19002 I ViewRootImpl@650238a[MainActivity]: ViewPostIme key 0
+12-16 12:12:17.832 19002 19002 I ViewRootImpl@650238a[MainActivity]: ViewPostIme key 1
+12-16 12:12:20.765 19002 19002 I ViewRootImpl@650238a[MainActivity]: ViewPostIme key 0
+12-16 12:12:20.773 19002 19002 I ViewRootImpl@650238a[MainActivity]: ViewPostIme key 1
+12-16 12:12:20.924 19002 19002 I ViewRootImpl@650238a[MainActivity]: ViewPostIme key 0
+12-16 12:12:20.930 19002 19002 I ViewRootImpl@650238a[MainActivity]: ViewPostIme key 1
+12-16 12:12:21.048 19002 19002 I ViewRootImpl@650238a[MainActivity]: ViewPostIme key 0
+12-16 12:12:21.052 19002 19002 I ViewRootImpl@650238a[MainActivity]: ViewPostIme key 1
+12-16 12:12:21.185 19002 19002 I ViewRootImpl@650238a[MainActivity]: ViewPostIme key 0
+12-16 12:12:21.189 19002 19002 I ViewRootImpl@650238a[MainActivity]: ViewPostIme key 1
+12-16 12:12:21.335 19002 19002 I ViewRootImpl@650238a[MainActivity]: ViewPostIme key 0
+12-16 12:12:21.341 19002 19002 I ViewRootImpl@650238a[MainActivity]: ViewPostIme key 1
+12-16 12:12:21.477 19002 19002 I ViewRootImpl@650238a[MainActivity]: ViewPostIme key 0
+12-16 12:12:21.486 19002 19002 I ViewRootImpl@650238a[MainActivity]: ViewPostIme key 1
+12-16 12:12:21.691 19002 19002 I ViewRootImpl@650238a[MainActivity]: ViewPostIme key 0
+12-16 12:12:21.698 19002 19002 I ViewRootImpl@650238a[MainActivity]: ViewPostIme key 1
+12-16 12:12:23.815 19002 19002 I ViewRootImpl@650238a[MainActivity]: The input has been finished in ImeInputStage.
+12-16 12:12:23.852 19002 19002 I ViewRootImpl@650238a[MainActivity]: The input has been finished in ImeInputStage.
+12-16 12:12:23.939 19002 19002 I ViewRootImpl@650238a[MainActivity]: MSG_RESIZED: frame=(0,0,1080,2220) ci=(0,63,0,0) vi=(0,63,0,0) or=1
+12-16 12:12:24.676 19002 19002 I ViewRootImpl@650238a[MainActivity]: ViewPostIme pointer 0
+12-16 12:12:24.713 19002 19002 I ViewRootImpl@650238a[MainActivity]: ViewPostIme pointer 1
+12-16 12:12:25.116 19002 19002 W ActivityThread: handleWindowVisibility: no activity for token android.os.BinderProxy@7230a3d
+12-16 12:12:25.147 19002 19002 D PhoneWindow: forceLight changed to true [] from com.android.internal.policy.PhoneWindow.updateForceLightNavigationBar:4274 com.android.internal.policy.DecorView.updateColorViews:1547 com.android.internal.policy.PhoneWindow.dispatchWindowAttributesChanged:3252 android.view.Window.setFlags:1153 com.android.internal.policy.PhoneWindow.generateLayout:2474 
+12-16 12:12:25.147 19002 19002 I MultiWindowDecorSupport: [INFO] isPopOver = false
+12-16 12:12:25.147 19002 19002 I MultiWindowDecorSupport: updateCaptionType >> DecorView@cf6abcf[], isFloating: false, isApplication: true, hasWindowDecorCaption: false, hasWindowControllerCallback: true
+12-16 12:12:25.147 19002 19002 D MultiWindowDecorSupport: setCaptionType = 0, DecorView = DecorView@cf6abcf[]
+12-16 12:12:25.176 19002 19002 I OsmDroid: Using tile source: Mapnik
+12-16 12:12:25.176 19002 19002 I OsmDroid: Tile cache increased from 0 to 9
+12-16 12:12:25.276 19002 19002 I ViewRootImpl@76dff9f[PathAttributesActivity]: setView = com.android.internal.policy.DecorView@cf6abcf TM=true MM=false
+12-16 12:12:25.301 19002 19002 I ViewRootImpl@76dff9f[PathAttributesActivity]: Relayout returned: old=(0,0,1080,2220) new=(0,0,1080,2220) req=(1080,2220)0 dur=6 res=0x7 s={true 522724306944} ch=true
+12-16 12:12:25.303 19002 19064 D mali_winsys: EGLint new_window_surface(egl_winsys_display *, void *, EGLSurface, EGLConfig, egl_winsys_surface **, EGLBoolean) returns 0x3000
+12-16 12:12:25.312 19002 19002 I ViewRootImpl@76dff9f[PathAttributesActivity]: [DrawPending] drawPending(1) 1 android.view.ViewRootImpl.reportNextDraw:9952 android.view.ViewRootImpl.performTraversals:3329 android.view.ViewRootImpl.doTraversal:2222 
+12-16 12:12:25.313 19002 19002 I ViewRootImpl@76dff9f[PathAttributesActivity]: [DrawPending] performDraw() Waiting asnyc report
+12-16 12:12:25.364 19002 19315 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:12:25.364 19002 19315 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:12:25.369 19002 19002 I ViewRootImpl@76dff9f[PathAttributesActivity]: [DrawPending] pendingDrawFinished(0) 1 android.view.ViewRootImpl.lambda$performDraw$1$ViewRootImpl:4058 android.view.-$$Lambda$ViewRootImpl$7A_3tkr_Kw4TZAeIUGVlOoTcZhg.run:4 android.os.Handler.handleCallback:883 
+12-16 12:12:25.369 19002 19002 I ViewRootImpl@76dff9f[PathAttributesActivity]: [DrawPending] reportDrawFinished()
+12-16 12:12:25.371 19002 19002 I ViewRootImpl@650238a[MainActivity]: MSG_WINDOW_FOCUS_CHANGED 0 1
+12-16 12:12:25.372 19002 19002 D InputMethodManager: prepareNavigationBarInfo() DecorView@5948d6[MainActivity]
+12-16 12:12:25.372 19002 19002 D InputMethodManager: getNavigationBarColor() -855310
+12-16 12:12:25.375 19002 19316 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:12:25.375 19002 19316 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:12:25.388 19002 19002 I ViewRootImpl@76dff9f[PathAttributesActivity]: MSG_WINDOW_FOCUS_CHANGED 1 1
+12-16 12:12:25.388 19002 19002 D InputMethodManager: prepareNavigationBarInfo() DecorView@cf6abcf[PathAttributesActivity]
+12-16 12:12:25.388 19002 19002 D InputMethodManager: getNavigationBarColor() -855310
+12-16 12:12:25.392 19002 19002 D InputMethodManager: prepareNavigationBarInfo() DecorView@cf6abcf[PathAttributesActivity]
+12-16 12:12:25.392 19002 19002 D InputMethodManager: getNavigationBarColor() -855310
+12-16 12:12:25.392 19002 19002 V InputMethodManager: Starting input: tba=com.rmc.natour21 ic=null mNaviBarColor -855310 mIsGetNaviBarColorSuccess true , NavVisible : true , NavTrans : false
+12-16 12:12:25.392 19002 19002 D InputMethodManager: startInputInner - Id : 0
+12-16 12:12:25.392 19002 19002 I InputMethodManager: startInputInner - mService.startInputOrWindowGainedFocus
+12-16 12:12:25.393 19002 19002 D InputTransport: Input channel destroyed: 'ClientS', fd=125
+12-16 12:12:25.394 19002 19002 I ViewRootImpl@76dff9f[PathAttributesActivity]: MSG_RESIZED: frame=(0,0,1080,2220) ci=(0,63,0,0) vi=(0,63,0,0) or=1
+12-16 12:12:25.680 19002 19315 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:12:25.680 19002 19315 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:12:25.705 19002 19316 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:12:25.705 19002 19316 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:12:25.777 19002 19315 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:12:25.777 19002 19315 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:12:25.804 19002 19064 W libEGL  : EGLNativeWindowType 0x795758ccd0 disconnect failed
+12-16 12:12:25.810 19002 19002 I ViewRootImpl@650238a[MainActivity]: Relayout returned: old=(0,0,1080,2220) new=(0,0,1080,2220) req=(1080,2220)8 dur=6 res=0x5 s={false 0} ch=true
+12-16 12:12:25.812 19002 19002 I ViewRootImpl@650238a[MainActivity]: stopped(true) old=false
+12-16 12:12:25.813 19002 19002 D ConnectivityManager: unregisterNetworkCallback; CallingUid : 10308, CallingPid : 19002
+12-16 12:12:25.857 19002 19315 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:12:25.857 19002 19315 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:12:25.897 19002 19002 I ViewRootImpl@76dff9f[PathAttributesActivity]: ViewPostIme pointer 0
+12-16 12:12:25.938 19002 19002 I ViewRootImpl@76dff9f[PathAttributesActivity]: ViewPostIme pointer 1
+12-16 12:12:25.944 19002 19002 D InputMethodManager: prepareNavigationBarInfo() DecorView@cf6abcf[PathAttributesActivity]
+12-16 12:12:25.944 19002 19002 D InputMethodManager: getNavigationBarColor() -855310
+12-16 12:12:25.944 19002 19002 V InputMethodManager: Starting input: tba=com.rmc.natour21 ic=androidx.emoji2.viewsintegration.EmojiInputConnection@bfe9832 mNaviBarColor -855310 mIsGetNaviBarColorSuccess true , NavVisible : true , NavTrans : false
+12-16 12:12:25.944 19002 19002 D InputMethodManager: startInputInner - Id : 0
+12-16 12:12:25.947 19002 19002 I InputMethodManager: startInputInner - mService.startInputOrWindowGainedFocus
+12-16 12:12:25.948 19002 19002 D InputTransport: Input channel destroyed: 'ClientS', fd=136
+12-16 12:12:25.949 19002 19002 D InputMethodManager: SSI - flag : 0 Pid : 19002 view : com.rmc.natour21
+12-16 12:12:25.949 19002 19002 D InputMethodManager: prepareNavigationBarInfo() DecorView@cf6abcf[PathAttributesActivity]
+12-16 12:12:25.949 19002 19002 D InputMethodManager: getNavigationBarColor() -855310
+12-16 12:12:25.952 19002 19002 D Editor  : waiting for the right moment
+12-16 12:12:25.960 19002 19002 I AssistStructure: Flattened final assist data: 2936 bytes, containing 1 windows, 16 views
+12-16 12:12:26.031 19002 19002 I ViewRootImpl@76dff9f[PathAttributesActivity]: MSG_RESIZED: frame=(0,0,1080,2220) ci=(0,63,0,986) vi=(0,63,0,986) or=1
+12-16 12:12:26.052 19002 19002 I ViewRootImpl@76dff9f[PathAttributesActivity]: Relayout returned: old=(0,0,1080,2220) new=(0,0,1080,2220) req=(1080,2220)0 dur=11 res=0x1 s={true 522724306944} ch=false
+12-16 12:12:26.097 19002 19316 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:12:26.097 19002 19316 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:12:30.227 19002 19002 I ViewRootImpl@76dff9f[PathAttributesActivity]: ViewPostIme pointer 0
+12-16 12:12:30.274 19002 19002 I ViewRootImpl@76dff9f[PathAttributesActivity]: ViewPostIme pointer 1
+12-16 12:12:30.276 19002 19002 D InputMethodManager: SSI - flag : 0 Pid : 19002 view : com.rmc.natour21
+12-16 12:12:30.276 19002 19002 D InputMethodManager: prepareNavigationBarInfo() DecorView@cf6abcf[PathAttributesActivity]
+12-16 12:12:30.276 19002 19002 D InputMethodManager: getNavigationBarColor() -855310
+12-16 12:12:30.316 19002 19002 I ViewRootImpl@baf6ddb[PopupWindow:156a78c]: setView = android.widget.PopupWindow$PopupDecorView@f8cb078 TM=true MM=false
+12-16 12:12:30.328 19002 19002 I ViewRootImpl@d185c24[PopupWindow:17be351]: setView = android.widget.PopupWindow$PopupDecorView@74a638d TM=true MM=false
+12-16 12:12:30.356 19002 19002 I ViewRootImpl@baf6ddb[PopupWindow:156a78c]: Relayout returned: old=(0,63,1080,2220) new=(50,910,130,1005) req=(80,95)0 dur=14 res=0x7 s={true 525359411200} ch=true
+12-16 12:12:30.359 19002 19064 D mali_winsys: EGLint new_window_surface(egl_winsys_display *, void *, EGLSurface, EGLConfig, egl_winsys_surface **, EGLBoolean) returns 0x3000
+12-16 12:12:30.360 19002 19002 I ViewRootImpl@baf6ddb[PopupWindow:156a78c]: [DrawPending] drawPending(1) 0 android.view.ViewRootImpl.reportNextDraw:9952 android.view.ViewRootImpl.performTraversals:3329 android.view.ViewRootImpl.doTraversal:2222 
+12-16 12:12:30.360 19002 19002 I ViewRootImpl@baf6ddb[PopupWindow:156a78c]: [DrawPending] performDraw() Waiting asnyc report
+12-16 12:12:30.363 19002 19373 I OpenGLRenderer: doUpdatePositionAsync is called and callVoidMethod
+12-16 12:12:30.383 19002 19002 I ViewRootImpl@d185c24[PopupWindow:17be351]: Relayout returned: old=(0,63,1080,2220) new=(50,806,130,910) req=(80,104)0 dur=11 res=0x7 s={true 522962935808} ch=true
+12-16 12:12:30.387 19002 19064 D mali_winsys: EGLint new_window_surface(egl_winsys_display *, void *, EGLSurface, EGLConfig, egl_winsys_surface **, EGLBoolean) returns 0x3000
+12-16 12:12:30.388 19002 19002 I ViewRootImpl@d185c24[PopupWindow:17be351]: [DrawPending] drawPending(1) 0 android.view.ViewRootImpl.reportNextDraw:9952 android.view.ViewRootImpl.performTraversals:3329 android.view.ViewRootImpl.doTraversal:2222 
+12-16 12:12:30.389 19002 19002 I ViewRootImpl@d185c24[PopupWindow:17be351]: [DrawPending] performDraw() Waiting asnyc report
+12-16 12:12:30.396 19002 19002 I ViewRootImpl@d185c24[PopupWindow:17be351]: [DrawPending] pendingDrawFinished(0) 0 android.view.ViewRootImpl.lambda$performDraw$1$ViewRootImpl:4058 android.view.-$$Lambda$ViewRootImpl$7A_3tkr_Kw4TZAeIUGVlOoTcZhg.run:4 android.os.Handler.handleCallback:883 
+12-16 12:12:30.396 19002 19002 I ViewRootImpl@d185c24[PopupWindow:17be351]: [DrawPending] reportDrawFinished()
+12-16 12:12:30.397 19002 19002 I ViewRootImpl@baf6ddb[PopupWindow:156a78c]: [DrawPending] pendingDrawFinished(0) 0 android.view.ViewRootImpl.lambda$performDraw$1$ViewRootImpl:4058 android.view.-$$Lambda$ViewRootImpl$7A_3tkr_Kw4TZAeIUGVlOoTcZhg.run:4 android.os.Handler.handleCallback:883 
+12-16 12:12:30.397 19002 19002 I ViewRootImpl@baf6ddb[PopupWindow:156a78c]: [DrawPending] reportDrawFinished()
+12-16 12:12:30.411 19002 19002 I ViewRootImpl@baf6ddb[PopupWindow:156a78c]: MSG_RESIZED_REPORT: frame=(50,910,130,1005) ci=(0,0,0,0) vi=(0,0,0,0) or=1
+12-16 12:12:30.412 19002 19002 I ViewRootImpl@baf6ddb[PopupWindow:156a78c]: [DrawPending] drawPending(1) 0 android.view.ViewRootImpl.reportNextDraw:9952 android.view.ViewRootImpl.access$900:205 android.view.ViewRootImpl$ViewRootHandler.handleMessage:5350 
+12-16 12:12:30.413 19002 19002 I ViewRootImpl@d185c24[PopupWindow:17be351]: MSG_RESIZED: frame=(50,806,130,910) ci=(0,0,0,0) vi=(0,0,0,0) or=1
+12-16 12:12:30.418 19002 19002 I ViewRootImpl@baf6ddb[PopupWindow:156a78c]: [DrawPending] performDraw() Waiting asnyc report
+12-16 12:12:30.432 19002 19002 I ViewRootImpl@baf6ddb[PopupWindow:156a78c]: [DrawPending] pendingDrawFinished(0) 0 android.view.ViewRootImpl.lambda$performDraw$1$ViewRootImpl:4058 android.view.-$$Lambda$ViewRootImpl$7A_3tkr_Kw4TZAeIUGVlOoTcZhg.run:4 android.os.Handler.handleCallback:883 
+12-16 12:12:30.432 19002 19002 I ViewRootImpl@baf6ddb[PopupWindow:156a78c]: [DrawPending] reportDrawFinished()
+12-16 12:12:31.128 19002 19002 I ViewRootImpl@76dff9f[PathAttributesActivity]: ViewPostIme key 0
+12-16 12:12:31.136 19002 19002 I ViewRootImpl@76dff9f[PathAttributesActivity]: ViewPostIme key 1
+12-16 12:12:31.237 19002 19120 W SendBird: [12:12:31.234 Connection$1:onMessage():235] onMessage instance : [PONG] com.sendbird.android.Connection@8ead62d
+12-16 12:12:31.238 19002 19064 W libEGL  : EGLNativeWindowType 0x79579f4c90 disconnect failed
+12-16 12:12:31.239 19002 19120 W Sendbird: [12:12:31.238 Connection$1:onMessage():236] onMessage instance : [PONG] com.sendbird.android.Connection@8ead62d
+12-16 12:12:31.239 19002 19002 I ViewRootImpl@baf6ddb[PopupWindow:156a78c]: dispatchDetachedFromWindow
+12-16 12:12:31.245 19002 19136 W SendBird: [12:12:31.244 EventController$1:call():141] ++ result[PONG] runnable=null
+12-16 12:12:31.246 19002 19002 D InputTransport: Input channel destroyed: '77d891d', fd=72
+12-16 12:12:31.248 19002 19064 W libEGL  : EGLNativeWindowType 0x79240def90 disconnect failed
+12-16 12:12:31.248 19002 19002 I ViewRootImpl@d185c24[PopupWindow:17be351]: dispatchDetachedFromWindow
+12-16 12:12:31.256 19002 19002 D InputTransport: Input channel destroyed: '92ec563', fd=75
+12-16 12:12:32.231 19002 19002 I ViewRootImpl@76dff9f[PathAttributesActivity]: ViewPostIme pointer 0
+12-16 12:12:32.386 19002 19002 I ViewRootImpl@76dff9f[PathAttributesActivity]: The input has been finished in ImeInputStage.
+12-16 12:12:32.398 19002 19002 I ViewRootImpl@76dff9f[PathAttributesActivity]: The input has been finished in ImeInputStage.
+12-16 12:12:32.476 19002 19002 I ViewRootImpl@76dff9f[PathAttributesActivity]: MSG_RESIZED: frame=(0,0,1080,2220) ci=(0,63,0,0) vi=(0,63,0,0) or=1
+12-16 12:12:32.510 19002 19002 I ViewRootImpl@76dff9f[PathAttributesActivity]: Relayout returned: old=(0,0,1080,2220) new=(0,0,1080,2220) req=(1080,2220)0 dur=11 res=0x1 s={true 522724306944} ch=false
+12-16 12:12:32.881 19002 19002 I ViewRootImpl@76dff9f[PathAttributesActivity]: ViewPostIme pointer 0
+12-16 12:12:32.921 19002 19002 I ViewRootImpl@76dff9f[PathAttributesActivity]: ViewPostIme pointer 1
+12-16 12:12:32.928 19002 19002 D InputMethodManager: prepareNavigationBarInfo() DecorView@cf6abcf[PathAttributesActivity]
+12-16 12:12:32.928 19002 19002 D InputMethodManager: getNavigationBarColor() -855310
+12-16 12:12:32.928 19002 19002 V InputMethodManager: Starting input: tba=com.rmc.natour21 ic=androidx.emoji2.viewsintegration.EmojiInputConnection@46849fd mNaviBarColor -855310 mIsGetNaviBarColorSuccess true , NavVisible : true , NavTrans : false
+12-16 12:12:32.929 19002 19002 D InputMethodManager: startInputInner - Id : 0
+12-16 12:12:32.933 19002 19002 I InputMethodManager: startInputInner - mService.startInputOrWindowGainedFocus
+12-16 12:12:32.936 19002 19002 D InputTransport: Input channel destroyed: 'ClientS', fd=124
+12-16 12:12:32.936 19002 19002 D InputMethodManager: SSI - flag : 0 Pid : 19002 view : com.rmc.natour21
+12-16 12:12:32.937 19002 19002 D InputMethodManager: prepareNavigationBarInfo() DecorView@cf6abcf[PathAttributesActivity]
+12-16 12:12:32.937 19002 19002 D InputMethodManager: getNavigationBarColor() -855310
+12-16 12:12:32.943 19002 19002 D Editor  : waiting for the right moment
+12-16 12:12:33.022 19002 19002 I ViewRootImpl@76dff9f[PathAttributesActivity]: MSG_RESIZED: frame=(0,0,1080,2220) ci=(0,63,0,876) vi=(0,63,0,876) or=1
+12-16 12:12:33.062 19002 19002 I ViewRootImpl@76dff9f[PathAttributesActivity]: Relayout returned: old=(0,0,1080,2220) new=(0,0,1080,2220) req=(1080,2220)0 dur=22 res=0x1 s={true 522724306944} ch=false
+12-16 12:12:34.156 19002 19002 I ViewRootImpl@76dff9f[PathAttributesActivity]: ViewPostIme key 0
+12-16 12:12:34.162 19002 19002 I ViewRootImpl@76dff9f[PathAttributesActivity]: ViewPostIme key 1
+12-16 12:12:35.049 19002 19002 I ViewRootImpl@76dff9f[PathAttributesActivity]: ViewPostIme key 0
+12-16 12:12:35.071 19002 19002 I ViewRootImpl@76dff9f[PathAttributesActivity]: ViewPostIme key 1
+12-16 12:12:35.534 19002 19002 I ViewRootImpl@76dff9f[PathAttributesActivity]: ViewPostIme key 0
+12-16 12:12:35.540 19002 19002 I ViewRootImpl@76dff9f[PathAttributesActivity]: ViewPostIme key 1
+12-16 12:12:35.660 19002 19002 I ViewRootImpl@76dff9f[PathAttributesActivity]: ViewPostIme key 0
+12-16 12:12:35.666 19002 19002 I ViewRootImpl@76dff9f[PathAttributesActivity]: ViewPostIme key 1
+12-16 12:12:35.819 19002 19002 I ViewRootImpl@76dff9f[PathAttributesActivity]: ViewPostIme key 0
+12-16 12:12:35.825 19002 19002 I ViewRootImpl@76dff9f[PathAttributesActivity]: ViewPostIme key 1
+12-16 12:12:36.360 19002 19002 I ViewRootImpl@76dff9f[PathAttributesActivity]: ViewPostIme pointer 0
+12-16 12:12:36.475 19002 19002 I ViewRootImpl@76dff9f[PathAttributesActivity]: The input has been finished in ImeInputStage.
+12-16 12:12:36.485 19002 19002 I ViewRootImpl@76dff9f[PathAttributesActivity]: The input has been finished in ImeInputStage.
+12-16 12:12:36.544 19002 19002 I ViewRootImpl@76dff9f[PathAttributesActivity]: MSG_RESIZED: frame=(0,0,1080,2220) ci=(0,63,0,0) vi=(0,63,0,0) or=1
+12-16 12:12:36.578 19002 19002 I ViewRootImpl@76dff9f[PathAttributesActivity]: Relayout returned: old=(0,0,1080,2220) new=(0,0,1080,2220) req=(1080,2220)0 dur=13 res=0x1 s={true 522724306944} ch=false
+12-16 12:12:37.461 19002 19002 I ViewRootImpl@76dff9f[PathAttributesActivity]: ViewPostIme pointer 0
+12-16 12:12:37.516 19002 19002 I ViewRootImpl@76dff9f[PathAttributesActivity]: ViewPostIme pointer 1
+12-16 12:12:37.517 19002 19002 D InputMethodManager: SSI - flag : 0 Pid : 19002 view : com.rmc.natour21
+12-16 12:12:37.517 19002 19002 D InputMethodManager: prepareNavigationBarInfo() DecorView@cf6abcf[PathAttributesActivity]
+12-16 12:12:37.517 19002 19002 D InputMethodManager: getNavigationBarColor() -855310
+12-16 12:12:37.568 19002 19002 I ViewRootImpl@76dff9f[PathAttributesActivity]: MSG_RESIZED: frame=(0,0,1080,2220) ci=(0,63,0,876) vi=(0,63,0,876) or=1
+12-16 12:12:37.598 19002 19002 I ViewRootImpl@76dff9f[PathAttributesActivity]: Relayout returned: old=(0,0,1080,2220) new=(0,0,1080,2220) req=(1080,2220)0 dur=5 res=0x1 s={true 522724306944} ch=false
+12-16 12:12:37.610 19002 19002 I ViewRootImpl@78ca269[PopupWindow:394d0a2]: setView = android.widget.PopupWindow$PopupDecorView@69354ee TM=true MM=false
+12-16 12:12:37.614 19002 19002 I ViewRootImpl@ee3d1fa[PopupWindow:eafdd8f]: setView = android.widget.PopupWindow$PopupDecorView@256c3ab TM=true MM=false
+12-16 12:12:37.631 19002 19002 I ViewRootImpl@78ca269[PopupWindow:394d0a2]: Relayout returned: old=(0,63,1080,2220) new=(145,442,225,537) req=(80,95)0 dur=6 res=0x7 s={true 522962935808} ch=true
+12-16 12:12:37.632 19002 19064 D mali_winsys: EGLint new_window_surface(egl_winsys_display *, void *, EGLSurface, EGLConfig, egl_winsys_surface **, EGLBoolean) returns 0x3000
+12-16 12:12:37.633 19002 19002 I ViewRootImpl@78ca269[PopupWindow:394d0a2]: [DrawPending] drawPending(1) 0 android.view.ViewRootImpl.reportNextDraw:9952 android.view.ViewRootImpl.performTraversals:3329 android.view.ViewRootImpl.doTraversal:2222 
+12-16 12:12:37.633 19002 19002 I ViewRootImpl@78ca269[PopupWindow:394d0a2]: [DrawPending] performDraw() Waiting asnyc report
+12-16 12:12:37.634 19002 19374 I OpenGLRenderer: doUpdatePositionAsync is called and callVoidMethod
+12-16 12:12:37.644 19002 19002 I ViewRootImpl@ee3d1fa[PopupWindow:eafdd8f]: Relayout returned: old=(0,63,1080,2220) new=(145,338,225,442) req=(80,104)0 dur=5 res=0x7 s={true 522725892096} ch=true
+12-16 12:12:37.645 19002 19064 D mali_winsys: EGLint new_window_surface(egl_winsys_display *, void *, EGLSurface, EGLConfig, egl_winsys_surface **, EGLBoolean) returns 0x3000
+12-16 12:12:37.645 19002 19002 I ViewRootImpl@ee3d1fa[PopupWindow:eafdd8f]: [DrawPending] drawPending(1) 0 android.view.ViewRootImpl.reportNextDraw:9952 android.view.ViewRootImpl.performTraversals:3329 android.view.ViewRootImpl.doTraversal:2222 
+12-16 12:12:37.645 19002 19002 I ViewRootImpl@ee3d1fa[PopupWindow:eafdd8f]: [DrawPending] performDraw() Waiting asnyc report
+12-16 12:12:37.647 19002 19002 I ViewRootImpl@ee3d1fa[PopupWindow:eafdd8f]: [DrawPending] pendingDrawFinished(0) 0 android.view.ViewRootImpl.lambda$performDraw$1$ViewRootImpl:4058 android.view.-$$Lambda$ViewRootImpl$7A_3tkr_Kw4TZAeIUGVlOoTcZhg.run:4 android.os.Handler.handleCallback:883 
+12-16 12:12:37.647 19002 19002 I ViewRootImpl@ee3d1fa[PopupWindow:eafdd8f]: [DrawPending] reportDrawFinished()
+12-16 12:12:37.648 19002 19002 I ViewRootImpl@78ca269[PopupWindow:394d0a2]: [DrawPending] pendingDrawFinished(0) 0 android.view.ViewRootImpl.lambda$performDraw$1$ViewRootImpl:4058 android.view.-$$Lambda$ViewRootImpl$7A_3tkr_Kw4TZAeIUGVlOoTcZhg.run:4 android.os.Handler.handleCallback:883 
+12-16 12:12:37.648 19002 19002 I ViewRootImpl@78ca269[PopupWindow:394d0a2]: [DrawPending] reportDrawFinished()
+12-16 12:12:37.652 19002 19002 I ViewRootImpl@78ca269[PopupWindow:394d0a2]: MSG_RESIZED_REPORT: frame=(145,442,225,537) ci=(0,0,0,0) vi=(0,0,0,0) or=1
+12-16 12:12:37.652 19002 19002 I ViewRootImpl@78ca269[PopupWindow:394d0a2]: [DrawPending] drawPending(1) 0 android.view.ViewRootImpl.reportNextDraw:9952 android.view.ViewRootImpl.access$900:205 android.view.ViewRootImpl$ViewRootHandler.handleMessage:5350 
+12-16 12:12:37.653 19002 19002 I ViewRootImpl@ee3d1fa[PopupWindow:eafdd8f]: MSG_RESIZED: frame=(145,338,225,442) ci=(0,0,0,0) vi=(0,0,0,0) or=1
+12-16 12:12:37.668 19002 19002 I ViewRootImpl@78ca269[PopupWindow:394d0a2]: [DrawPending] performDraw() Waiting asnyc report
+12-16 12:12:37.671 19002 19002 I ViewRootImpl@78ca269[PopupWindow:394d0a2]: [DrawPending] pendingDrawFinished(0) 0 android.view.ViewRootImpl.lambda$performDraw$1$ViewRootImpl:4058 android.view.-$$Lambda$ViewRootImpl$7A_3tkr_Kw4TZAeIUGVlOoTcZhg.run:4 android.os.Handler.handleCallback:883 
+12-16 12:12:37.671 19002 19002 I ViewRootImpl@78ca269[PopupWindow:394d0a2]: [DrawPending] reportDrawFinished()
+12-16 12:12:38.143 19002 19002 I ViewRootImpl@76dff9f[PathAttributesActivity]: ViewPostIme key 0
+12-16 12:12:38.148 19002 19002 I ViewRootImpl@76dff9f[PathAttributesActivity]: ViewPostIme key 1
+12-16 12:12:38.256 19002 19064 W libEGL  : EGLNativeWindowType 0x795758d450 disconnect failed
+12-16 12:12:38.256 19002 19002 I ViewRootImpl@78ca269[PopupWindow:394d0a2]: dispatchDetachedFromWindow
+12-16 12:12:38.263 19002 19002 D InputTransport: Input channel destroyed: 'e7acd67', fd=75
+12-16 12:12:38.267 19002 19064 W libEGL  : EGLNativeWindowType 0x79579f4c90 disconnect failed
+12-16 12:12:38.267 19002 19002 I ViewRootImpl@ee3d1fa[PopupWindow:eafdd8f]: dispatchDetachedFromWindow
+12-16 12:12:38.277 19002 19002 D InputTransport: Input channel destroyed: 'cf84bbd', fd=77
+12-16 12:12:38.278 19002 19002 I ViewRootImpl@76dff9f[PathAttributesActivity]: ViewPostIme key 0
+12-16 12:12:38.286 19002 19002 I ViewRootImpl@76dff9f[PathAttributesActivity]: ViewPostIme key 1
+12-16 12:12:38.420 19002 19002 I ViewRootImpl@76dff9f[PathAttributesActivity]: ViewPostIme key 0
+12-16 12:12:38.431 19002 19002 I ViewRootImpl@76dff9f[PathAttributesActivity]: ViewPostIme key 1
+12-16 12:12:38.872 19002 19002 I ViewRootImpl@76dff9f[PathAttributesActivity]: ViewPostIme key 0
+12-16 12:12:38.878 19002 19002 I ViewRootImpl@76dff9f[PathAttributesActivity]: ViewPostIme key 1
+12-16 12:12:38.948 19002 19002 I ViewRootImpl@76dff9f[PathAttributesActivity]: ViewPostIme key 0
+12-16 12:12:38.957 19002 19002 I ViewRootImpl@76dff9f[PathAttributesActivity]: ViewPostIme key 1
+12-16 12:12:39.090 19002 19002 I ViewRootImpl@76dff9f[PathAttributesActivity]: ViewPostIme key 0
+12-16 12:12:39.096 19002 19002 I ViewRootImpl@76dff9f[PathAttributesActivity]: ViewPostIme key 1
+12-16 12:12:39.415 19002 19002 I ViewRootImpl@76dff9f[PathAttributesActivity]: ViewPostIme pointer 0
+12-16 12:12:39.546 19002 19002 I ViewRootImpl@76dff9f[PathAttributesActivity]: The input has been finished in ImeInputStage.
+12-16 12:12:39.554 19002 19002 I ViewRootImpl@76dff9f[PathAttributesActivity]: The input has been finished in ImeInputStage.
+12-16 12:12:39.607 19002 19002 I ViewRootImpl@76dff9f[PathAttributesActivity]: MSG_RESIZED: frame=(0,0,1080,2220) ci=(0,63,0,0) vi=(0,63,0,0) or=1
+12-16 12:12:39.639 19002 19002 I ViewRootImpl@76dff9f[PathAttributesActivity]: Relayout returned: old=(0,0,1080,2220) new=(0,0,1080,2220) req=(1080,2220)0 dur=10 res=0x1 s={true 522724306944} ch=false
+12-16 12:12:42.088 19002 19002 I ViewRootImpl@76dff9f[PathAttributesActivity]: ViewPostIme pointer 0
+12-16 12:12:42.207 19002 19002 I ViewRootImpl@76dff9f[PathAttributesActivity]: ViewPostIme pointer 1
+12-16 12:12:42.819 19002 19002 I ViewRootImpl@76dff9f[PathAttributesActivity]: ViewPostIme pointer 0
+12-16 12:12:43.085 19002 19002 I ViewRootImpl@76dff9f[PathAttributesActivity]: ViewPostIme pointer 1
+12-16 12:12:43.803 19002 19002 I ViewRootImpl@76dff9f[PathAttributesActivity]: ViewPostIme pointer 0
+12-16 12:12:43.854 19002 19002 I ViewRootImpl@76dff9f[PathAttributesActivity]: ViewPostIme pointer 1
+12-16 12:12:43.887 19002 19002 D Dialog  : mIsSamsungBasicInteraction = false
+12-16 12:12:43.887 19002 19002 D Dialog  : mIsSamsungBasicInteraction = false, isMetaDataInActivity = false
+12-16 12:12:43.903 19002 19002 I MultiWindowDecorSupport: [INFO] isPopOver = false
+12-16 12:12:43.903 19002 19002 I MultiWindowDecorSupport: updateCaptionType >> DecorView@634ce57[], isFloating: true, isApplication: true, hasWindowDecorCaption: false, hasWindowControllerCallback: false
+12-16 12:12:43.904 19002 19002 D MultiWindowDecorSupport: setCaptionType = 0, DecorView = DecorView@634ce57[]
+12-16 12:12:43.961 19002 19002 D ScrollView: initGoToTop
+12-16 12:12:43.999 19002 19002 I ViewRootImpl@159990c[PathAttributesActivity]: setView = com.android.internal.policy.DecorView@634ce57 TM=true MM=false
+12-16 12:12:44.030 19002 19002 I ViewRootImpl@159990c[PathAttributesActivity]: Relayout returned: old=(0,63,1080,2220) new=(28,874,1052,1408) req=(1024,534)0 dur=12 res=0x7 s={true 522725892096} ch=true
+12-16 12:12:44.032 19002 19064 D mali_winsys: EGLint new_window_surface(egl_winsys_display *, void *, EGLSurface, EGLConfig, egl_winsys_surface **, EGLBoolean) returns 0x3000
+12-16 12:12:44.038 19002 19002 I ViewRootImpl@159990c[PathAttributesActivity]: [DrawPending] drawPending(1) 1 android.view.ViewRootImpl.reportNextDraw:9952 android.view.ViewRootImpl.performTraversals:3329 android.view.ViewRootImpl.doTraversal:2222 
+12-16 12:12:44.039 19002 19002 I ViewRootImpl@159990c[PathAttributesActivity]: [DrawPending] performDraw() Waiting asnyc report
+12-16 12:12:44.041 19002 19002 E DecorView: mWindow.mActivityCurrentConfig is null
+12-16 12:12:44.051 19002 19002 I ViewRootImpl@159990c[PathAttributesActivity]: [DrawPending] pendingDrawFinished(0) 1 android.view.ViewRootImpl.lambda$performDraw$1$ViewRootImpl:4058 android.view.-$$Lambda$ViewRootImpl$7A_3tkr_Kw4TZAeIUGVlOoTcZhg.run:4 android.os.Handler.handleCallback:883 
+12-16 12:12:44.051 19002 19002 I ViewRootImpl@159990c[PathAttributesActivity]: [DrawPending] reportDrawFinished()
+12-16 12:12:44.052 19002 19002 I ViewRootImpl@159990c[PathAttributesActivity]: MSG_WINDOW_FOCUS_CHANGED 1 1
+12-16 12:12:44.062 19002 19002 I ViewRootImpl@159990c[PathAttributesActivity]: MSG_RESIZED: frame=(28,874,1052,1408) ci=(0,0,0,0) vi=(0,0,0,0) or=1
+12-16 12:12:44.069 19002 19002 I ViewRootImpl@76dff9f[PathAttributesActivity]: MSG_WINDOW_FOCUS_CHANGED 0 1
+12-16 12:12:44.069 19002 19002 D InputMethodManager: prepareNavigationBarInfo() DecorView@cf6abcf[PathAttributesActivity]
+12-16 12:12:44.069 19002 19002 D InputMethodManager: getNavigationBarColor() -855310
+12-16 12:12:45.075 19002 19002 D Toast   : show: focusDisplayId = 0, isFocusInDesktop = false mCustomDisplayId=-1
+12-16 12:12:45.111 19002 19086 V Toast   : SHOW: android.widget.Toast$TN@46d1458
+12-16 12:12:45.116 19002 19064 W libEGL  : EGLNativeWindowType 0x79579f4c90 disconnect failed
+12-16 12:12:45.116 19002 19002 I ViewRootImpl@159990c[PathAttributesActivity]: dispatchDetachedFromWindow
+12-16 12:12:45.124 19002 19002 D InputTransport: Input channel destroyed: '4317fe6', fd=75
+12-16 12:12:45.125 19002 19002 I ViewRootImpl@650238a[MainActivity]: stopped(false) old=true
+12-16 12:12:45.129 19002 19002 D ConnectivityManager: requestNetwork; CallingUid : 10308, CallingPid : 19002
+12-16 12:12:45.136 19002 19002 I ViewRootImpl@650238a[MainActivity]: stopped(false) old=false
+12-16 12:12:45.149 19002 19002 E ViewRootImpl: sendUserActionEvent() mView returned.
+12-16 12:12:45.149 19002 19002 V Toast   : HANDLE SHOW: android.widget.Toast$TN@46d1458 mView=null mNextView=android.widget.LinearLayout{7a232b V.E...... ......I. 0,0-0,0}
+12-16 12:12:45.149 19002 19002 V Toast   : HANDLE HIDE: android.widget.Toast$TN@46d1458 mView=null
+12-16 12:12:45.163 19002 19002 I ViewRootImpl@b5e03d2[Toast]: setView = android.widget.LinearLayout@7a232b TM=true MM=false
+12-16 12:12:45.163 19002 19002 V Toast   : Text: Qerc in android.widget.Toast$TN@46d1458
+12-16 12:12:45.173 19002 19002 I ViewRootImpl@650238a[MainActivity]: Relayout returned: old=(0,0,1080,2220) new=(0,0,1080,2220) req=(1080,2220)0 dur=8 res=0x7 s={true 522725892096} ch=true
+12-16 12:12:45.174 19002 19002 I ViewRootImpl@650238a[MainActivity]: [DrawPending] drawPending(1) 1 android.view.ViewRootImpl.reportNextDraw:9952 android.view.ViewRootImpl.performTraversals:3329 android.view.ViewRootImpl.doTraversal:2222 
+12-16 12:12:45.174 19002 19064 D mali_winsys: EGLint new_window_surface(egl_winsys_display *, void *, EGLSurface, EGLConfig, egl_winsys_surface **, EGLBoolean) returns 0x3000
+12-16 12:12:45.174 19002 19002 I ViewRootImpl@650238a[MainActivity]: [DrawPending] performDraw() Waiting asnyc report
+12-16 12:12:45.206 19002 19002 I ViewRootImpl@b5e03d2[Toast]: Relayout returned: old=(0,63,1080,2220) new=(183,1936,896,2052) req=(713,116)0 dur=10 res=0x7 s={true 522733993984} ch=true
+12-16 12:12:45.208 19002 19064 D mali_winsys: EGLint new_window_surface(egl_winsys_display *, void *, EGLSurface, EGLConfig, egl_winsys_surface **, EGLBoolean) returns 0x3000
+12-16 12:12:45.208 19002 19002 I ViewRootImpl@b5e03d2[Toast]: [DrawPending] drawPending(1) 0 android.view.ViewRootImpl.reportNextDraw:9952 android.view.ViewRootImpl.performTraversals:3329 android.view.ViewRootImpl.doTraversal:2222 
+12-16 12:12:45.208 19002 19002 I ViewRootImpl@b5e03d2[Toast]: [DrawPending] performDraw() Waiting asnyc report
+12-16 12:12:45.213 19002 19002 I ViewRootImpl@b5e03d2[Toast]: [DrawPending] pendingDrawFinished(0) 0 android.view.ViewRootImpl.lambda$performDraw$1$ViewRootImpl:4058 android.view.-$$Lambda$ViewRootImpl$7A_3tkr_Kw4TZAeIUGVlOoTcZhg.run:4 android.os.Handler.handleCallback:883 
+12-16 12:12:45.213 19002 19002 I ViewRootImpl@b5e03d2[Toast]: [DrawPending] reportDrawFinished()
+12-16 12:12:45.214 19002 19002 I ViewRootImpl@650238a[MainActivity]: [DrawPending] pendingDrawFinished(0) 1 android.view.ViewRootImpl.lambda$performDraw$1$ViewRootImpl:4058 android.view.-$$Lambda$ViewRootImpl$7A_3tkr_Kw4TZAeIUGVlOoTcZhg.run:4 android.os.Handler.handleCallback:883 
+12-16 12:12:45.214 19002 19002 I ViewRootImpl@650238a[MainActivity]: [DrawPending] reportDrawFinished()
+12-16 12:12:45.228 19002 19002 I ViewRootImpl@650238a[MainActivity]: MSG_WINDOW_FOCUS_CHANGED 1 1
+12-16 12:12:45.228 19002 19002 D InputMethodManager: prepareNavigationBarInfo() DecorView@5948d6[MainActivity]
+12-16 12:12:45.228 19002 19002 D InputMethodManager: getNavigationBarColor() -855310
+12-16 12:12:45.250 19002 19002 D InputMethodManager: prepareNavigationBarInfo() DecorView@5948d6[MainActivity]
+12-16 12:12:45.251 19002 19002 D InputMethodManager: getNavigationBarColor() -855310
+12-16 12:12:45.251 19002 19002 V InputMethodManager: Starting input: tba=com.rmc.natour21 ic=androidx.emoji2.viewsintegration.EmojiInputConnection@e6e2d1b mNaviBarColor -855310 mIsGetNaviBarColorSuccess true , NavVisible : true , NavTrans : false
+12-16 12:12:45.251 19002 19002 D InputMethodManager: startInputInner - Id : 0
+12-16 12:12:45.255 19002 19002 I InputMethodManager: startInputInner - mService.startInputOrWindowGainedFocus
+12-16 12:12:45.258 19002 19002 D InputTransport: Input channel destroyed: 'ClientS', fd=72
+12-16 12:12:45.258 19002 19002 I ViewRootImpl@b5e03d2[Toast]: MSG_RESIZED: frame=(183,1936,896,2052) ci=(0,0,0,0) vi=(357,116,713,116) or=1
+12-16 12:12:45.649 19002 19064 W libEGL  : EGLNativeWindowType 0x796cdc36d0 disconnect failed
+12-16 12:12:45.671 19002 19002 I ViewRootImpl@76dff9f[PathAttributesActivity]: Relayout returned: old=(0,0,1080,2220) new=(0,0,1080,2220) req=(1080,2220)8 dur=18 res=0x5 s={false 0} ch=true
+12-16 12:12:45.675 19002 19002 I ViewRootImpl@76dff9f[PathAttributesActivity]: stopped(true) old=false
+12-16 12:12:45.732 19002 19002 I ViewRootImpl@76dff9f[PathAttributesActivity]: dispatchDetachedFromWindow
+12-16 12:12:45.742 19002 19002 D InputTransport: Input channel destroyed: '48c496a', fd=132
+12-16 12:12:46.238 19002 19120 W SendBird: [12:12:46.235 Connection$1:onMessage():235] onMessage instance : [PONG] com.sendbird.android.Connection@8ead62d
+12-16 12:12:46.241 19002 19120 W Sendbird: [12:12:46.239 Connection$1:onMessage():236] onMessage instance : [PONG] com.sendbird.android.Connection@8ead62d
+12-16 12:12:46.255 19002 19136 W SendBird: [12:12:46.253 EventController$1:call():141] ++ result[PONG] runnable=null
+12-16 12:12:46.710 19002 19002 I ViewRootImpl@650238a[MainActivity]: ViewPostIme pointer 0
+12-16 12:12:46.738 19002 19002 I ViewRootImpl@650238a[MainActivity]: ViewPostIme pointer 1
+12-16 12:12:46.759 19002 19002 D ConnectivityManager: unregisterNetworkCallback; CallingUid : 10308, CallingPid : 19002
+12-16 12:12:46.832 19002 19002 D ConnectivityManager: requestNetwork; CallingUid : 10308, CallingPid : 19002
+12-16 12:12:47.030 19002 19002 I ViewRootImpl@650238a[MainActivity]: Relayout returned: old=(0,0,1080,2220) new=(0,0,1080,2220) req=(1080,2220)0 dur=4 res=0x1 s={true 522725892096} ch=false
+12-16 12:12:47.621 19002 19002 I ViewRootImpl@650238a[MainActivity]: ViewPostIme pointer 0
+12-16 12:12:48.612 19002 19023 V Toast   : HIDE: android.widget.Toast$TN@46d1458
+12-16 12:16:01.350 20401 20401 I om.rmc.natour2: Late-enabling -Xcheck:jni
+12-16 12:16:01.376 20401 20401 E om.rmc.natour2: Unknown bits set in runtime_flags: 0x8000
+12-16 12:16:01.390 20401 20401 D ActivityThread: setConscryptValidator
+12-16 12:16:01.390 20401 20401 D ActivityThread: setConscryptValidator - put
+12-16 12:16:01.462 20401 20401 I om.rmc.natour2: The ClassLoaderContext is a special shared library.
+12-16 12:16:05.906 20401 20401 I FirebaseApp: Device unlocked: initializing all Firebase APIs for app [DEFAULT]
+12-16 12:16:06.303 20401 20556 I DynamiteModule: Considering local module com.google.android.gms.measurement.dynamite:70 and remote module com.google.android.gms.measurement.dynamite:87
+12-16 12:16:06.303 20401 20556 I DynamiteModule: Selected remote version of com.google.android.gms.measurement.dynamite, version >= 87
+12-16 12:16:06.303 20401 20556 V DynamiteModule: Dynamite loader version >= 2, using loadModule2NoCrashUtils
+12-16 12:16:06.339 20401 20556 W System  : ClassLoader referenced unknown path: 
+12-16 12:16:06.374 20401 20401 I FirebaseInitProvider: FirebaseApp initialization successful
+12-16 12:16:06.443 20401 20556 I om.rmc.natour2: Waiting for a blocking GC ClassLinker
+12-16 12:16:06.467 20401 20556 I om.rmc.natour2: WaitForGcToComplete blocked ClassLinker on ClassLinker for 24.114ms
+12-16 12:16:06.531 20401 20556 W om.rmc.natour2: Accessing hidden field Lsun/misc/Unsafe;->theUnsafe:Lsun/misc/Unsafe; (greylist, reflection, allowed)
+12-16 12:16:06.532 20401 20556 W om.rmc.natour2: Accessing hidden method Lsun/misc/Unsafe;->objectFieldOffset(Ljava/lang/reflect/Field;)J (greylist,core-platform-api, linking, allowed)
+12-16 12:16:06.532 20401 20556 W om.rmc.natour2: Accessing hidden method Lsun/misc/Unsafe;->arrayBaseOffset(Ljava/lang/Class;)I (greylist,core-platform-api, linking, allowed)
+12-16 12:16:06.532 20401 20556 W om.rmc.natour2: Accessing hidden method Lsun/misc/Unsafe;->arrayIndexScale(Ljava/lang/Class;)I (greylist, linking, allowed)
+12-16 12:16:06.771 20401 20563 I FA      : App measurement initialized, version: 75052
+12-16 12:16:06.771 20401 20563 I FA      : To enable debug logging run: adb shell setprop log.tag.FA VERBOSE
+12-16 12:16:06.771 20401 20563 I FA      : To enable faster debug mode event logging run:
+12-16 12:16:06.771 20401 20563 I FA      :   adb shell setprop debug.firebase.analytics.app com.rmc.natour21
+12-16 12:16:06.784 20401 20401 W com.facebook.UserSettingsManager: Please set a value for AutoLogAppEventsEnabled. Set the flag to TRUE if you want to collect app install, app launch and in-app purchase events automatically. To request user consent before collecting data, set the flag value to FALSE, then change to TRUE once user consent is received. Learn more: https://developers.facebook.com/docs/app-events/getting-started-app-events-android#disable-auto-events.
+12-16 12:16:06.784 20401 20401 W com.facebook.UserSettingsManager: You haven't set a value for AdvertiserIDCollectionEnabled. Set the flag to TRUE if you want to collect Advertiser ID for better advertising and analytics results. To request user consent before collecting data, set the flag value to FALSE, then change to TRUE once user consent is received. Learn more: https://developers.facebook.com/docs/app-events/getting-started-app-events-android#disable-auto-events.
+12-16 12:16:06.862 20401 20574 W com.facebook.internal.NativeProtocol: Apps that target Android API 30+ (Android 11+) cannot call Facebook native apps unless the package visibility needs are declared. Please follow https://developers.facebook.com/docs/android/troubleshooting/#faq_267321845055988 to make the declaration.
+12-16 12:16:06.902 20401 20568 D NetworkSecurityConfig: Using Network Security Config from resource network_security_config debugBuild: true
+12-16 12:16:06.923 20401 20571 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:16:06.923 20401 20571 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:16:06.927 20401 20570 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:16:06.927 20401 20570 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:16:06.944 20401 20568 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:16:06.944 20401 20568 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:16:06.997 20401 20401 D KeyHash:: 3Fm4gBnqk2PYU3lntxOY4S7uHvQ=
+12-16 12:16:06.997 20401 20568 D TcpOptimizer: TcpOptimizer-ON
+12-16 12:16:07.090 20401 20568 D libmdf  : libmdf v2.9.0.0 On 64bit PLATFORM
+12-16 12:16:07.637 20401 20571 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:16:07.638 20401 20571 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:20:08.464 20401 20401 W ActivityThread: handleWindowVisibility: no activity for token android.os.BinderProxy@3fcfe5
+12-16 12:20:08.526 20401 22874 D libEGL  : loaded /vendor/lib64/egl/libGLES_mali.so
+12-16 12:20:08.604 20401 20401 D PhoneWindow: forceLight changed to true [] from com.android.internal.policy.PhoneWindow.updateForceLightNavigationBar:4274 com.android.internal.policy.DecorView.updateColorViews:1547 com.android.internal.policy.PhoneWindow.dispatchWindowAttributesChanged:3252 android.view.Window.setFlags:1153 com.android.internal.policy.PhoneWindow.generateLayout:2474 
+12-16 12:20:08.605 20401 20401 I MultiWindowDecorSupport: [INFO] isPopOver = false
+12-16 12:20:08.606 20401 20401 I MultiWindowDecorSupport: updateCaptionType >> DecorView@59e1f36[], isFloating: false, isApplication: true, hasWindowDecorCaption: false, hasWindowControllerCallback: true
+12-16 12:20:08.606 20401 20401 D MultiWindowDecorSupport: setCaptionType = 0, DecorView = DecorView@59e1f36[]
+12-16 12:20:08.637 20401 20401 W om.rmc.natour2: Accessing hidden method Landroid/view/View;->computeFitSystemWindows(Landroid/graphics/Rect;Landroid/graphics/Rect;)Z (greylist, reflection, allowed)
+12-16 12:20:08.638 20401 20401 W om.rmc.natour2: Accessing hidden method Landroid/view/ViewGroup;->makeOptionalFitsSystemWindows()V (greylist, reflection, allowed)
+12-16 12:20:08.733 20401 20401 D ConnectivityManager: requestNetwork; CallingUid : 10308, CallingPid : 20401
+12-16 12:20:08.742 20401 22877 W om.rmc.natour2: Accessing hidden method Lsun/misc/Unsafe;->compareAndSwapInt(Ljava/lang/Object;JII)Z (greylist, linking, allowed)
+12-16 12:20:08.742 20401 22877 W om.rmc.natour2: Accessing hidden method Lsun/misc/Unsafe;->getObjectVolatile(Ljava/lang/Object;J)Ljava/lang/Object; (greylist, linking, allowed)
+12-16 12:20:08.742 20401 22877 W om.rmc.natour2: Accessing hidden method Lsun/misc/Unsafe;->compareAndSwapObject(Ljava/lang/Object;JLjava/lang/Object;Ljava/lang/Object;)Z (greylist, linking, allowed)
+12-16 12:20:08.742 20401 22877 W om.rmc.natour2: Accessing hidden method Lsun/misc/Unsafe;->compareAndSwapLong(Ljava/lang/Object;JJJ)Z (greylist, linking, allowed)
+12-16 12:20:08.745 20401 22880 I FA      : Tag Manager is not found and thus will not be used
+12-16 12:20:08.761 20401 20401 I ViewRootImpl@2f37e9[Splashscreen]: setView = com.android.internal.policy.DecorView@59e1f36 TM=true MM=false
+12-16 12:20:08.782 20401 20578 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:20:08.782 20401 20578 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:20:08.824 20401 20401 I ViewRootImpl@2f37e9[Splashscreen]: Relayout returned: old=(0,0,1080,2220) new=(0,0,1080,2220) req=(1080,2220)0 dur=7 res=0x7 s={true 522817339392} ch=true
+12-16 12:20:08.828 20401 20401 I ViewRootImpl@2f37e9[Splashscreen]: [DrawPending] drawPending(1) 1 android.view.ViewRootImpl.reportNextDraw:9952 android.view.ViewRootImpl.performTraversals:3329 android.view.ViewRootImpl.doTraversal:2222 
+12-16 12:20:08.828 20401 20401 I ViewRootImpl@2f37e9[Splashscreen]: [DrawPending] performDraw() Waiting asnyc report
+12-16 12:20:08.846 20401 22872 D mali_winsys: EGLint new_window_surface(egl_winsys_display *, void *, EGLSurface, EGLConfig, egl_winsys_surface **, EGLBoolean) returns 0x3000
+12-16 12:20:08.853 20401 22872 W Gralloc3: mapper 3.x is not supported
+12-16 12:20:08.920 20401 22872 E cutils-trace: Error opening trace file: No such file or directory (2)
+12-16 12:20:08.921 20401 20401 I ViewRootImpl@2f37e9[Splashscreen]: [DrawPending] pendingDrawFinished(0) 1 android.view.ViewRootImpl.lambda$performDraw$1$ViewRootImpl:4058 android.view.-$$Lambda$ViewRootImpl$7A_3tkr_Kw4TZAeIUGVlOoTcZhg.run:4 android.os.Handler.handleCallback:883 
+12-16 12:20:08.921 20401 20401 I ViewRootImpl@2f37e9[Splashscreen]: [DrawPending] reportDrawFinished()
+12-16 12:20:08.924 20401 20401 I ViewRootImpl@2f37e9[Splashscreen]: MSG_WINDOW_FOCUS_CHANGED 1 1
+12-16 12:20:08.924 20401 20401 D InputMethodManager: prepareNavigationBarInfo() DecorView@59e1f36[Splashscreen]
+12-16 12:20:08.925 20401 20401 D InputMethodManager: getNavigationBarColor() -855310
+12-16 12:20:08.926 20401 20401 D InputMethodManager: prepareNavigationBarInfo() DecorView@59e1f36[Splashscreen]
+12-16 12:20:08.926 20401 20401 D InputMethodManager: getNavigationBarColor() -855310
+12-16 12:20:08.926 20401 20401 V InputMethodManager: Starting input: tba=com.rmc.natour21 ic=null mNaviBarColor -855310 mIsGetNaviBarColorSuccess true , NavVisible : true , NavTrans : false
+12-16 12:20:08.926 20401 20401 D InputMethodManager: startInputInner - Id : 0
+12-16 12:20:08.926 20401 20401 I InputMethodManager: startInputInner - mService.startInputOrWindowGainedFocus
+12-16 12:20:08.934 20401 20401 I ViewRootImpl@2f37e9[Splashscreen]: MSG_RESIZED_REPORT: frame=(0,0,1080,2220) ci=(0,0,0,0) vi=(0,0,0,0) or=1
+12-16 12:20:08.934 20401 20401 I ViewRootImpl@2f37e9[Splashscreen]: [DrawPending] drawPending(1) 1 android.view.ViewRootImpl.reportNextDraw:9952 android.view.ViewRootImpl.access$900:205 android.view.ViewRootImpl$ViewRootHandler.handleMessage:5350 
+12-16 12:20:08.937 20401 20401 D InputMethodManager: prepareNavigationBarInfo() DecorView@59e1f36[Splashscreen]
+12-16 12:20:08.937 20401 20401 D InputMethodManager: getNavigationBarColor() -855310
+12-16 12:20:08.937 20401 20401 V InputMethodManager: Starting input: tba=com.rmc.natour21 ic=null mNaviBarColor -855310 mIsGetNaviBarColorSuccess true , NavVisible : true , NavTrans : false
+12-16 12:20:08.938 20401 20401 D InputMethodManager: startInputInner - Id : 0
+12-16 12:20:08.938 20401 20401 I ViewRootImpl@2f37e9[Splashscreen]: [DrawPending] performDraw() Waiting asnyc report
+12-16 12:20:08.942 20401 20401 I ViewRootImpl@2f37e9[Splashscreen]: [DrawPending] pendingDrawFinished(0) 1 android.view.ViewRootImpl.lambda$performDraw$1$ViewRootImpl:4058 android.view.-$$Lambda$ViewRootImpl$7A_3tkr_Kw4TZAeIUGVlOoTcZhg.run:4 android.os.Handler.handleCallback:883 
+12-16 12:20:08.942 20401 20401 I ViewRootImpl@2f37e9[Splashscreen]: [DrawPending] reportDrawFinished()
+12-16 12:20:09.319 20401 22885 I System.out: Firebase token: eyJhbGciOiJSUzI1NiIsImtpZCI6Ijk3OGI1NmM2NmVhYmIwZDlhNmJhOGNhMzMwMTU2NGEyMzhlYWZjODciLCJ0eXAiOiJKV1QifQ.eyJuYW1lIjoiY2xhdWRpbyB2ZWxvdHRpIiwicGljdHVyZSI6Imh0dHBzOi8vbGgzLmdvb2dsZXVzZXJjb250ZW50LmNvbS9hL0FMbTV3dTI5V2MtR0dNWkljYk9qc2hic0pORFJ6OW9ZQjNYR3hXUmRWekdIPXM5Ni1jIiwiaXNzIjoiaHR0cHM6Ly9zZWN1cmV0b2tlbi5nb29nbGUuY29tL25hdG91cjIxLWZjNmVhIiwiYXVkIjoibmF0b3VyMjEtZmM2ZWEiLCJhdXRoX3RpbWUiOjE2NzExODg3NTEsInVzZXJfaWQiOiJkT3lqREZWbVhCYnRhVjVWMkdXOEc5NmZVdjQzIiwic3ViIjoiZE95akRGVm1YQmJ0YVY1VjJHVzhHOTZmVXY0MyIsImlhdCI6MTY3MTE4ODc1MSwiZXhwIjoxNjcxMTkyMzUxLCJlbWFpbCI6ImNsYWRvdHRpMzFAZ21haWwuY29tIiwiZW1haWxfdmVyaWZpZWQiOnRydWUsImZpcmViYXNlIjp7ImlkZW50aXRpZXMiOnsiZ29vZ2xlLmNvbSI6WyIxMTI0OTI4NzA2NDA3MTc2NTQ1NzAiXSwiZW1haWwiOlsiY2xhZG90dGkzMUBnbWFpbC5jb20iXX0sInNpZ25faW5fcHJvdmlkZXIiOiJnb29nbGUuY29tIn19.RxZplc6vZUPul4PopRgqN9-kUpK7g3_qk4s0eKM6LLgPKmAENhUhR7twdTH7WQWG292u_Xt47dqc16PEaSr2tntcXDhZ9HjDxwW66Sc8WebyQpJtMbTnV0cTGGQv0Kxb94mvni_99nppPGiy_p2Cf7BttcWujPkhJK-1mTB7lpX_Ca-658LcLoyHqkhYULg_hLvPFi4XgI9bZlmMi_Sk7Nw3nNzGPyCypL__P5YZiuqcx3H68zuotadKTPy7hU14uyjAU2hQKFRZzJSPH2dBWKs5nGn4OJe68m-Jr_XJ4qmXnAcHMH6cOq9yAZ7xA7Cz7jCSU1gobJHwNihRTfYW0g
+12-16 12:20:09.481 20401 22905 V NativeCrypto: Registering org/conscrypt/NativeCrypto's 286 native methods...
+12-16 12:20:10.305 20401 22885 W om.rmc.natour2: Accessing hidden method Ldalvik/system/BlockGuard;->getThreadPolicy()Ldalvik/system/BlockGuard$Policy; (greylist,core-platform-api, linking, allowed)
+12-16 12:20:10.305 20401 22885 W om.rmc.natour2: Accessing hidden method Ldalvik/system/BlockGuard$Policy;->onNetwork()V (greylist, linking, allowed)
+12-16 12:20:10.305 20401 22885 W om.rmc.natour2: Accessing hidden method Ldalvik/system/CloseGuard;->close()V (greylist,core-platform-api, linking, allowed)
+12-16 12:20:10.305 20401 22885 W om.rmc.natour2: Accessing hidden method Ldalvik/system/CloseGuard;->get()Ldalvik/system/CloseGuard; (greylist,core-platform-api, linking, allowed)
+12-16 12:20:10.305 20401 22885 W om.rmc.natour2: Accessing hidden method Ldalvik/system/CloseGuard;->open(Ljava/lang/String;)V (greylist,core-platform-api, linking, allowed)
+12-16 12:20:10.305 20401 22885 W om.rmc.natour2: Accessing hidden method Ldalvik/system/CloseGuard;->warnIfOpen()V (greylist,core-platform-api, linking, allowed)
+12-16 12:20:10.309 20401 22885 W om.rmc.natour2: Accessing hidden method Ljava/security/spec/ECParameterSpec;->getCurveName()Ljava/lang/String; (greylist, reflection, allowed)
+12-16 12:20:10.407 20401 20401 D SBUIKIT : [12:20:10.406 SendBirdUIKit$1:onInitSucceed():174] >> onInitSucceed()
+12-16 12:20:10.430 20401 20401 W ActivityThread: handleWindowVisibility: no activity for token android.os.BinderProxy@7a36b5f
+12-16 12:20:10.451 20401 20401 D PhoneWindow: forceLight changed to true [] from com.android.internal.policy.PhoneWindow.updateForceLightNavigationBar:4274 com.android.internal.policy.DecorView.updateColorViews:1547 com.android.internal.policy.PhoneWindow.dispatchWindowAttributesChanged:3252 android.view.Window.setFlags:1153 com.android.internal.policy.PhoneWindow.generateLayout:2474 
+12-16 12:20:10.451 20401 20401 I MultiWindowDecorSupport: [INFO] isPopOver = false
+12-16 12:20:10.451 20401 20401 I MultiWindowDecorSupport: updateCaptionType >> DecorView@c92dc61[], isFloating: false, isApplication: true, hasWindowDecorCaption: false, hasWindowControllerCallback: true
+12-16 12:20:10.451 20401 20401 D MultiWindowDecorSupport: setCaptionType = 0, DecorView = DecorView@c92dc61[]
+12-16 12:20:10.805 20401 22929 W om.rmc.natour2: Accessing hidden field Ljava/net/Socket;->impl:Ljava/net/SocketImpl; (greylist, reflection, allowed)
+12-16 12:20:10.805 20401 22928 W om.rmc.natour2: Accessing hidden field Ljava/net/Socket;->impl:Ljava/net/SocketImpl; (greylist, reflection, allowed)
+12-16 12:20:10.815 20401 22929 W om.rmc.natour2: Accessing hidden field Ljava/io/FileDescriptor;->descriptor:I (greylist, JNI, allowed)
+12-16 12:20:10.829 20401 20401 D ConnectivityManager: requestNetwork; CallingUid : 10308, CallingPid : 20401
+12-16 12:20:10.841 20401 20401 I ViewRootImpl@f79975c[MainActivity]: setView = com.android.internal.policy.DecorView@c92dc61 TM=true MM=false
+12-16 12:20:10.842 20401 20401 I ViewRootImpl@2f37e9[Splashscreen]: MSG_WINDOW_FOCUS_CHANGED 0 1
+12-16 12:20:10.842 20401 20401 D InputMethodManager: prepareNavigationBarInfo() DecorView@59e1f36[Splashscreen]
+12-16 12:20:10.842 20401 20401 D InputMethodManager: getNavigationBarColor() -855310
+12-16 12:20:10.927 20401 22928 W om.rmc.natour2: Accessing hidden method Ljava/security/spec/ECParameterSpec;->setCurveName(Ljava/lang/String;)V (greylist, reflection, allowed)
+12-16 12:20:10.927 20401 22929 W om.rmc.natour2: Accessing hidden method Ljava/security/spec/ECParameterSpec;->setCurveName(Ljava/lang/String;)V (greylist, reflection, allowed)
+12-16 12:20:10.935 20401 20401 I ViewRootImpl@f79975c[MainActivity]: Relayout returned: old=(0,0,1080,2220) new=(0,0,1080,2220) req=(1080,2220)0 dur=8 res=0x7 s={true 522739687424} ch=true
+12-16 12:20:10.936 20401 22872 D mali_winsys: EGLint new_window_surface(egl_winsys_display *, void *, EGLSurface, EGLConfig, egl_winsys_surface **, EGLBoolean) returns 0x3000
+12-16 12:20:10.960 20401 20401 I ViewRootImpl@f79975c[MainActivity]: [DrawPending] drawPending(1) 1 android.view.ViewRootImpl.reportNextDraw:9952 android.view.ViewRootImpl.performTraversals:3329 android.view.ViewRootImpl.doTraversal:2222 
+12-16 12:20:10.962 20401 20401 I ViewRootImpl@f79975c[MainActivity]: [DrawPending] performDraw() Waiting asnyc report
+12-16 12:20:11.008 20401 20401 I ViewRootImpl@f79975c[MainActivity]: [DrawPending] pendingDrawFinished(0) 1 android.view.ViewRootImpl.lambda$performDraw$1$ViewRootImpl:4058 android.view.-$$Lambda$ViewRootImpl$7A_3tkr_Kw4TZAeIUGVlOoTcZhg.run:4 android.os.Handler.handleCallback:883 
+12-16 12:20:11.008 20401 20401 I ViewRootImpl@f79975c[MainActivity]: [DrawPending] reportDrawFinished()
+12-16 12:20:11.010 20401 20401 I ViewRootImpl@f79975c[MainActivity]: MSG_WINDOW_FOCUS_CHANGED 1 1
+12-16 12:20:11.010 20401 20401 D InputMethodManager: prepareNavigationBarInfo() DecorView@c92dc61[MainActivity]
+12-16 12:20:11.010 20401 20401 D InputMethodManager: getNavigationBarColor() -855310
+12-16 12:20:11.017 20401 20401 D EmergencyMode: [EmergencyManager] android createPackageContext successful: com.rmc.natour21
+12-16 12:20:11.024 20401 20401 D InputMethodManager: prepareNavigationBarInfo() DecorView@c92dc61[MainActivity]
+12-16 12:20:11.024 20401 20401 D InputMethodManager: getNavigationBarColor() -855310
+12-16 12:20:11.024 20401 20401 V InputMethodManager: Starting input: tba=com.rmc.natour21 ic=null mNaviBarColor -855310 mIsGetNaviBarColorSuccess true , NavVisible : true , NavTrans : false
+12-16 12:20:11.024 20401 20401 D InputMethodManager: startInputInner - Id : 0
+12-16 12:20:11.024 20401 20401 I InputMethodManager: startInputInner - mService.startInputOrWindowGainedFocus
+12-16 12:20:11.025 20401 20401 D InputTransport: Input channel destroyed: 'ClientS', fd=92
+12-16 12:20:11.026 20401 20401 I ViewRootImpl@f79975c[MainActivity]: MSG_RESIZED: frame=(0,0,1080,2220) ci=(0,63,0,0) vi=(0,63,0,0) or=1
+12-16 12:20:11.081 20401 22885 W Glide   : Failed to find GeneratedAppGlideModule. You should include an annotationProcessor compile dependency on com.github.bumptech.glide:compiler in your application and a @GlideModule annotated AppGlideModule implementation or LibraryGlideModules will be silently ignored
+12-16 12:20:11.110 20401 22885 D ConnectivityManager: requestNetwork; CallingUid : 10308, CallingPid : 20401
+12-16 12:20:11.141 20401 22929 W SendBird: [12:20:11.141 Connection$1:onMessage():235] onMessage instance : [LOGI] com.sendbird.android.Connection@27fffd4
+12-16 12:20:11.143 20401 22929 W Sendbird: [12:20:11.142 Connection$1:onMessage():236] onMessage instance : [LOGI] com.sendbird.android.Connection@27fffd4
+12-16 12:20:11.158 20401 22946 W SendBird: [12:20:11.158 EventController$1:call():141] ++ result[LOGI] runnable=null
+12-16 12:20:11.214 20401 22922 D SBUIKIT : [12:20:11.214 SendBirdUIKit$2:call():298] ++ user nickname = claudio velotti, profileUrl = http://18.195.186.181:8080/img/92/raw
+12-16 12:20:11.217 20401 22929 W SendBird: [12:20:11.216 Connection$1:onMessage():235] onMessage instance : [PONG] com.sendbird.android.Connection@27fffd4
+12-16 12:20:11.217 20401 22929 W Sendbird: [12:20:11.217 Connection$1:onMessage():236] onMessage instance : [PONG] com.sendbird.android.Connection@27fffd4
+12-16 12:20:11.219 20401 22946 W SendBird: [12:20:11.219 EventController$1:call():141] ++ result[PONG] runnable=null
+12-16 12:20:11.324 20401 20401 I System.out: SENDBIRD TOKEN OK ckOTAZioSROKNMJFPmblOe:APA91bGVcG9r_iXcHFgG4Iporvbe7LY4wQBAVWfyWIWJnWzg5h8jwyooQ25LxvLEqeLKSFX8jlOxjHRr5t9uy5rrsHMA7I4iE0NfcLRlw_nQeNQWpru1u2nLitOl0dT_dISCBj72bvr1
+12-16 12:20:11.442 20401 22872 W libEGL  : EGLNativeWindowType 0x79be819a10 disconnect failed
+12-16 12:20:11.449 20401 20401 I ViewRootImpl@2f37e9[Splashscreen]: Relayout returned: old=(0,0,1080,2220) new=(0,0,1080,2220) req=(1080,2220)8 dur=7 res=0x5 s={false 0} ch=true
+12-16 12:20:11.451 20401 20401 D ConnectivityManager: unregisterNetworkCallback; CallingUid : 10308, CallingPid : 20401
+12-16 12:20:11.452 20401 20401 I ViewRootImpl@2f37e9[Splashscreen]: stopped(true) old=false
+12-16 12:20:11.458 20401 22877 W om.rmc.natour2: Accessing hidden method Lsun/misc/Unsafe;->putObjectVolatile(Ljava/lang/Object;JLjava/lang/Object;)V (greylist, linking, allowed)
+12-16 12:20:11.459 20401 20401 I ViewRootImpl@2f37e9[Splashscreen]: dispatchDetachedFromWindow
+12-16 12:20:11.467 20401 20401 D InputTransport: Input channel destroyed: 'd49c373', fd=90
+12-16 12:20:15.064 20401 20401 I ViewRootImpl@f79975c[MainActivity]: ViewPostIme pointer 0
+12-16 12:20:15.134 20401 20401 I ViewRootImpl@f79975c[MainActivity]: ViewPostIme pointer 1
+12-16 12:20:15.170 20401 20401 W ActivityThread: handleWindowVisibility: no activity for token android.os.BinderProxy@c79cf56
+12-16 12:20:15.186 20401 20401 D PhoneWindow: forceLight changed to true [] from com.android.internal.policy.PhoneWindow.updateForceLightNavigationBar:4274 com.android.internal.policy.DecorView.updateColorViews:1547 com.android.internal.policy.PhoneWindow.dispatchWindowAttributesChanged:3252 android.view.Window.setFlags:1153 com.android.internal.policy.PhoneWindow.generateLayout:2474 
+12-16 12:20:15.187 20401 20401 I MultiWindowDecorSupport: [INFO] isPopOver = false
+12-16 12:20:15.187 20401 20401 I MultiWindowDecorSupport: updateCaptionType >> DecorView@7661660[], isFloating: false, isApplication: true, hasWindowDecorCaption: false, hasWindowControllerCallback: true
+12-16 12:20:15.187 20401 20401 D MultiWindowDecorSupport: setCaptionType = 0, DecorView = DecorView@7661660[]
+12-16 12:20:15.330 20401 20401 I ViewRootImpl@712f99d[PathPageActivity]: setView = com.android.internal.policy.DecorView@7661660 TM=true MM=false
+12-16 12:20:15.331 20401 20401 I ViewRootImpl@f79975c[MainActivity]: MSG_WINDOW_FOCUS_CHANGED 0 1
+12-16 12:20:15.332 20401 20401 D InputMethodManager: prepareNavigationBarInfo() DecorView@c92dc61[MainActivity]
+12-16 12:20:15.332 20401 20401 D InputMethodManager: getNavigationBarColor() -855310
+12-16 12:20:15.378 20401 20401 I ViewRootImpl@712f99d[PathPageActivity]: Relayout returned: old=(0,0,1080,2220) new=(0,0,1080,2220) req=(1080,2220)0 dur=8 res=0x7 s={true 522734202880} ch=true
+12-16 12:20:15.379 20401 22872 D mali_winsys: EGLint new_window_surface(egl_winsys_display *, void *, EGLSurface, EGLConfig, egl_winsys_surface **, EGLBoolean) returns 0x3000
+12-16 12:20:15.395 20401 20401 I ViewRootImpl@712f99d[PathPageActivity]: [DrawPending] drawPending(1) 1 android.view.ViewRootImpl.reportNextDraw:9952 android.view.ViewRootImpl.performTraversals:3329 android.view.ViewRootImpl.doTraversal:2222 
+12-16 12:20:15.395 20401 20401 I ViewRootImpl@712f99d[PathPageActivity]: [DrawPending] performDraw() Waiting asnyc report
+12-16 12:20:15.424 20401 22872 I         : Increase max job count 60
+12-16 12:20:15.477 20401 20401 I ViewRootImpl@712f99d[PathPageActivity]: [DrawPending] pendingDrawFinished(0) 1 android.view.ViewRootImpl.lambda$performDraw$1$ViewRootImpl:4058 android.view.-$$Lambda$ViewRootImpl$7A_3tkr_Kw4TZAeIUGVlOoTcZhg.run:4 android.os.Handler.handleCallback:883 
+12-16 12:20:15.478 20401 20401 I ViewRootImpl@712f99d[PathPageActivity]: [DrawPending] reportDrawFinished()
+12-16 12:20:15.485 20401 20401 I ViewRootImpl@712f99d[PathPageActivity]: MSG_WINDOW_FOCUS_CHANGED 1 1
+12-16 12:20:15.486 20401 20401 D InputMethodManager: prepareNavigationBarInfo() DecorView@7661660[PathPageActivity]
+12-16 12:20:15.486 20401 20401 D InputMethodManager: getNavigationBarColor() -855310
+12-16 12:20:15.489 20401 20401 D InputMethodManager: prepareNavigationBarInfo() DecorView@7661660[PathPageActivity]
+12-16 12:20:15.489 20401 20401 D InputMethodManager: getNavigationBarColor() -855310
+12-16 12:20:15.489 20401 20401 V InputMethodManager: Starting input: tba=com.rmc.natour21 ic=null mNaviBarColor -855310 mIsGetNaviBarColorSuccess true , NavVisible : true , NavTrans : false
+12-16 12:20:15.489 20401 20401 D InputMethodManager: startInputInner - Id : 0
+12-16 12:20:15.489 20401 20401 I InputMethodManager: startInputInner - mService.startInputOrWindowGainedFocus
+12-16 12:20:15.491 20401 20401 D InputTransport: Input channel destroyed: 'ClientS', fd=114
+12-16 12:20:15.512 20401 20401 I ViewRootImpl@712f99d[PathPageActivity]: MSG_RESIZED: frame=(0,0,1080,2220) ci=(0,63,0,0) vi=(0,63,0,0) or=1
+12-16 12:20:15.917 20401 22872 W libEGL  : EGLNativeWindowType 0x79b46bc350 disconnect failed
+12-16 12:20:15.923 20401 20401 I ViewRootImpl@f79975c[MainActivity]: Relayout returned: old=(0,0,1080,2220) new=(0,0,1080,2220) req=(1080,2220)8 dur=6 res=0x5 s={false 0} ch=true
+12-16 12:20:15.926 20401 20401 I ViewRootImpl@f79975c[MainActivity]: stopped(true) old=false
+12-16 12:20:15.929 20401 20401 D ConnectivityManager: unregisterNetworkCallback; CallingUid : 10308, CallingPid : 20401
+12-16 12:20:15.949 20401 20401 I ViewRootImpl@f79975c[MainActivity]: Relayout returned: old=(0,0,1080,2220) new=(0,0,1080,2220) req=(1080,2220)8 dur=5 res=0x5 s={false 0} ch=false
+12-16 12:20:16.473 20401 20401 I ViewRootImpl@712f99d[PathPageActivity]: ViewPostIme pointer 0
+12-16 12:20:16.530 20401 20401 I ViewRootImpl@712f99d[PathPageActivity]: ViewPostIme pointer 1
+12-16 12:20:16.671 20401 20401 D Dialog  : mIsSamsungBasicInteraction = false
+12-16 12:20:16.671 20401 20401 D Dialog  : mIsSamsungBasicInteraction = false, isMetaDataInActivity = false
+12-16 12:20:16.686 20401 20401 I MultiWindowDecorSupport: [INFO] isPopOver = false
+12-16 12:20:16.686 20401 20401 I MultiWindowDecorSupport: updateCaptionType >> DecorView@b77c7ab[], isFloating: true, isApplication: true, hasWindowDecorCaption: false, hasWindowControllerCallback: false
+12-16 12:20:16.686 20401 20401 D MultiWindowDecorSupport: setCaptionType = 0, DecorView = DecorView@b77c7ab[]
+12-16 12:20:16.749 20401 20401 D ScrollView: initGoToTop
+12-16 12:20:16.796 20401 20401 I ViewRootImpl@3ef5c02[PathPageActivity]: setView = com.android.internal.policy.DecorView@b77c7ab TM=true MM=false
+12-16 12:20:16.882 20401 20401 I ViewRootImpl@3ef5c02[PathPageActivity]: Relayout returned: old=(0,63,1080,2220) new=(28,720,1052,1563) req=(1024,843)0 dur=12 res=0x7 s={true 522739687424} ch=true
+12-16 12:20:16.890 20401 22872 D mali_winsys: EGLint new_window_surface(egl_winsys_display *, void *, EGLSurface, EGLConfig, egl_winsys_surface **, EGLBoolean) returns 0x3000
+12-16 12:20:16.911 20401 20401 I ViewRootImpl@3ef5c02[PathPageActivity]: [DrawPending] drawPending(1) 1 android.view.ViewRootImpl.reportNextDraw:9952 android.view.ViewRootImpl.performTraversals:3329 android.view.ViewRootImpl.doTraversal:2222 
+12-16 12:20:16.912 20401 20401 I ViewRootImpl@3ef5c02[PathPageActivity]: [DrawPending] performDraw() Waiting asnyc report
+12-16 12:20:16.913 20401 20401 E DecorView: mWindow.mActivityCurrentConfig is null
+12-16 12:20:17.047 20401 20401 I ViewRootImpl@3ef5c02[PathPageActivity]: [DrawPending] pendingDrawFinished(0) 1 android.view.ViewRootImpl.lambda$performDraw$1$ViewRootImpl:4058 android.view.-$$Lambda$ViewRootImpl$7A_3tkr_Kw4TZAeIUGVlOoTcZhg.run:4 android.os.Handler.handleCallback:883 
+12-16 12:20:17.047 20401 20401 I ViewRootImpl@3ef5c02[PathPageActivity]: [DrawPending] reportDrawFinished()
+12-16 12:20:17.052 20401 20401 I ViewRootImpl@3ef5c02[PathPageActivity]: MSG_WINDOW_FOCUS_CHANGED 1 1
+12-16 12:20:17.052 20401 20401 D InputMethodManager: prepareNavigationBarInfo() DecorView@b77c7ab[PathPageActivity]
+12-16 12:20:17.052 20401 20401 D InputMethodManager: getNavigationBarColor() -855310
+12-16 12:20:17.061 20401 20401 D InputMethodManager: prepareNavigationBarInfo() DecorView@b77c7ab[PathPageActivity]
+12-16 12:20:17.061 20401 20401 D InputMethodManager: getNavigationBarColor() -855310
+12-16 12:20:17.061 20401 20401 V InputMethodManager: Starting input: tba=com.rmc.natour21 ic=null mNaviBarColor -855310 mIsGetNaviBarColorSuccess true , NavVisible : true , NavTrans : false
+12-16 12:20:17.061 20401 20401 D InputMethodManager: startInputInner - Id : 0
+12-16 12:20:17.061 20401 20401 I InputMethodManager: startInputInner - mService.startInputOrWindowGainedFocus
+12-16 12:20:17.090 20401 20401 D InputTransport: Input channel destroyed: 'ClientS', fd=122
+12-16 12:20:17.139 20401 20401 I ViewRootImpl@3ef5c02[PathPageActivity]: Relayout returned: old=(28,720,1052,1563) new=(28,762,1052,1521) req=(1024,759)0 dur=36 res=0x21 s={true 522739687424} ch=false
+12-16 12:20:17.143 20401 22872 W libEGL  : EGLNativeWindowType 0x7954d65e10 disconnect failed
+12-16 12:20:17.144 20401 22872 D mali_winsys: EGLint new_window_surface(egl_winsys_display *, void *, EGLSurface, EGLConfig, egl_winsys_surface **, EGLBoolean) returns 0x3000
+12-16 12:20:17.144 20401 20401 E DecorView: mWindow.mActivityCurrentConfig is null
+12-16 12:20:17.161 20401 20401 I ViewRootImpl@3ef5c02[PathPageActivity]: MSG_RESIZED: frame=(28,720,1052,1563) ci=(0,0,0,0) vi=(0,0,0,0) or=1
+12-16 12:20:17.162 20401 20401 I ViewRootImpl@712f99d[PathPageActivity]: MSG_WINDOW_FOCUS_CHANGED 0 1
+12-16 12:20:17.162 20401 20401 D InputMethodManager: prepareNavigationBarInfo() DecorView@7661660[PathPageActivity]
+12-16 12:20:17.162 20401 20401 D InputMethodManager: getNavigationBarColor() -855310
+12-16 12:20:17.217 20401 20401 I ViewRootImpl@3ef5c02[PathPageActivity]: Relayout returned: old=(28,720,1052,1563) new=(28,762,1052,1521) req=(1024,759)0 dur=13 res=0x1 s={true 522739687424} ch=false
+12-16 12:20:17.219 20401 20401 E DecorView: mWindow.mActivityCurrentConfig is null
+12-16 12:20:17.231 20401 20401 I ViewRootImpl@3ef5c02[PathPageActivity]: MSG_RESIZED: frame=(28,762,1052,1521) ci=(0,0,0,0) vi=(0,0,0,0) or=1
+12-16 12:20:17.874 20401 20420 I om.rmc.natour2: Compiler allocated 4218KB to compile void android.view.ViewRootImpl.performTraversals()
+12-16 12:20:17.911 20401 20401 I ViewRootImpl@3ef5c02[PathPageActivity]: ViewPostIme pointer 0
+12-16 12:20:17.959 20401 20401 I ViewRootImpl@3ef5c02[PathPageActivity]: ViewPostIme pointer 1
+12-16 12:20:17.977 20401 20401 D InputMethodManager: prepareNavigationBarInfo() DecorView@b77c7ab[PathPageActivity]
+12-16 12:20:17.977 20401 20401 D InputMethodManager: getNavigationBarColor() -855310
+12-16 12:20:17.977 20401 20401 V InputMethodManager: Starting input: tba=com.rmc.natour21 ic=androidx.emoji2.viewsintegration.EmojiInputConnection@c7e4db1 mNaviBarColor -855310 mIsGetNaviBarColorSuccess true , NavVisible : true , NavTrans : false
+12-16 12:20:17.977 20401 20401 D InputMethodManager: startInputInner - Id : 0
+12-16 12:20:17.985 20401 20401 I InputMethodManager: startInputInner - mService.startInputOrWindowGainedFocus
+12-16 12:20:17.988 20401 20401 D InputTransport: Input channel destroyed: 'ClientS', fd=112
+12-16 12:20:17.989 20401 20401 D InputMethodManager: SSI - flag : 0 Pid : 20401 view : com.rmc.natour21
+12-16 12:20:17.989 20401 20401 D InputMethodManager: prepareNavigationBarInfo() DecorView@b77c7ab[PathPageActivity]
+12-16 12:20:17.989 20401 20401 D InputMethodManager: getNavigationBarColor() -855310
+12-16 12:20:18.000 20401 20401 D Editor  : waiting for the right moment
+12-16 12:20:18.026 20401 20401 I AssistStructure: Flattened final assist data: 5664 bytes, containing 2 windows, 38 views
+12-16 12:20:18.219 20401 20401 I ViewRootImpl@712f99d[PathPageActivity]: MSG_RESIZED: frame=(0,0,1080,2220) ci=(0,63,0,986) vi=(0,63,0,986) or=1
+12-16 12:20:18.256 20401 20401 I ViewRootImpl@712f99d[PathPageActivity]: Relayout returned: old=(0,0,1080,2220) new=(0,0,1080,2220) req=(1080,2220)0 dur=13 res=0x1 s={true 522734202880} ch=false
+12-16 12:20:23.461 20401 20401 I ViewRootImpl@3ef5c02[PathPageActivity]: ViewPostIme pointer 0
+12-16 12:20:23.662 20401 20401 I ViewRootImpl@3ef5c02[PathPageActivity]: ViewPostIme pointer 1
+12-16 12:20:24.256 20401 20401 I ViewRootImpl@3ef5c02[PathPageActivity]: ViewPostIme pointer 0
+12-16 12:20:24.308 20401 20401 I ViewRootImpl@3ef5c02[PathPageActivity]: ViewPostIme pointer 1
+12-16 12:20:24.316 20401 20401 D InputMethodManager: prepareNavigationBarInfo() DecorView@b77c7ab[PathPageActivity]
+12-16 12:20:24.317 20401 20401 D InputMethodManager: getNavigationBarColor() -855310
+12-16 12:20:24.317 20401 20401 V InputMethodManager: Starting input: tba=com.rmc.natour21 ic=androidx.emoji2.viewsintegration.EmojiInputConnection@6e8f788 mNaviBarColor -855310 mIsGetNaviBarColorSuccess true , NavVisible : true , NavTrans : false
+12-16 12:20:24.317 20401 20401 D InputMethodManager: startInputInner - Id : 0
+12-16 12:20:24.326 20401 20401 I InputMethodManager: startInputInner - mService.startInputOrWindowGainedFocus
+12-16 12:20:24.330 20401 20401 D InputTransport: Input channel destroyed: 'ClientS', fd=114
+12-16 12:20:24.331 20401 20401 D InputMethodManager: SSI - flag : 0 Pid : 20401 view : com.rmc.natour21
+12-16 12:20:24.331 20401 20401 D InputMethodManager: prepareNavigationBarInfo() DecorView@b77c7ab[PathPageActivity]
+12-16 12:20:24.331 20401 20401 D InputMethodManager: getNavigationBarColor() -855310
+12-16 12:20:24.333 20401 20401 D Editor  : waiting for the right moment
+12-16 12:20:24.352 20401 20401 W IInputConnectionWrapper: requestCursorAnchorInfo on inactive InputConnection
+12-16 12:20:24.540 20401 20401 I ViewRootImpl@712f99d[PathPageActivity]: MSG_RESIZED: frame=(0,0,1080,2220) ci=(0,63,0,876) vi=(0,63,0,876) or=1
+12-16 12:20:24.559 20401 20401 I ViewRootImpl@712f99d[PathPageActivity]: Relayout returned: old=(0,0,1080,2220) new=(0,0,1080,2220) req=(1080,2220)0 dur=5 res=0x1 s={true 522734202880} ch=false
+12-16 12:20:25.430 20401 20401 I ViewRootImpl@3ef5c02[PathPageActivity]: ViewPostIme key 0
+12-16 12:20:25.443 20401 20401 I ViewRootImpl@3ef5c02[PathPageActivity]: ViewPostIme key 1
+12-16 12:20:25.469 20401 20401 E DecorView: mWindow.mActivityCurrentConfig is null
+12-16 12:20:26.210 20401 20401 I ViewRootImpl@3ef5c02[PathPageActivity]: ViewPostIme key 0
+12-16 12:20:26.217 20401 20401 I ViewRootImpl@3ef5c02[PathPageActivity]: ViewPostIme key 1
+12-16 12:20:26.233 20401 22929 W SendBird: [12:20:26.232 Connection$1:onMessage():235] onMessage instance : [PONG] com.sendbird.android.Connection@27fffd4
+12-16 12:20:26.234 20401 22929 W Sendbird: [12:20:26.233 Connection$1:onMessage():236] onMessage instance : [PONG] com.sendbird.android.Connection@27fffd4
+12-16 12:20:26.243 20401 22946 W SendBird: [12:20:26.242 EventController$1:call():141] ++ result[PONG] runnable=null
+12-16 12:20:26.249 20401 20401 E DecorView: mWindow.mActivityCurrentConfig is null
+12-16 12:20:26.360 20401 20401 I ViewRootImpl@3ef5c02[PathPageActivity]: ViewPostIme key 0
+12-16 12:20:26.367 20401 20401 I ViewRootImpl@3ef5c02[PathPageActivity]: ViewPostIme key 1
+12-16 12:20:26.391 20401 20401 E DecorView: mWindow.mActivityCurrentConfig is null
+12-16 12:20:26.494 20401 20401 I ViewRootImpl@3ef5c02[PathPageActivity]: ViewPostIme key 0
+12-16 12:20:26.501 20401 20401 I ViewRootImpl@3ef5c02[PathPageActivity]: ViewPostIme key 1
+12-16 12:20:26.530 20401 20401 E DecorView: mWindow.mActivityCurrentConfig is null
+12-16 12:20:27.520 20401 20401 I ViewRootImpl@3ef5c02[PathPageActivity]: ViewPostIme pointer 0
+12-16 12:20:27.586 20401 20401 I ViewRootImpl@3ef5c02[PathPageActivity]: ViewPostIme pointer 1
+12-16 12:20:27.621 20401 22872 W libEGL  : EGLNativeWindowType 0x79b46bc350 disconnect failed
+12-16 12:20:27.621 20401 22872 D OpenGLRenderer: endAllActiveAnimators on 0x78f2a1ad00 (RippleDrawable) with handle 0x79b45fec20
+12-16 12:20:27.622 20401 20401 I ViewRootImpl@3ef5c02[PathPageActivity]: dispatchDetachedFromWindow
+12-16 12:20:27.632 20401 20401 D InputTransport: Input channel destroyed: 'bb40210', fd=115
+12-16 12:20:27.666 20401 20401 I ViewRootImpl@712f99d[PathPageActivity]: MSG_WINDOW_FOCUS_CHANGED 1 1
+12-16 12:20:27.666 20401 20401 D InputMethodManager: prepareNavigationBarInfo() DecorView@7661660[PathPageActivity]
+12-16 12:20:27.666 20401 20401 D InputMethodManager: getNavigationBarColor() -855310
+12-16 12:20:27.670 20401 20401 D InputMethodManager: prepareNavigationBarInfo() DecorView@7661660[PathPageActivity]
+12-16 12:20:27.670 20401 20401 D InputMethodManager: getNavigationBarColor() -855310
+12-16 12:20:27.670 20401 20401 V InputMethodManager: Starting input: tba=com.rmc.natour21 ic=null mNaviBarColor -855310 mIsGetNaviBarColorSuccess true , NavVisible : true , NavTrans : false
+12-16 12:20:27.670 20401 20401 D InputMethodManager: startInputInner - Id : 0
+12-16 12:20:27.670 20401 20401 I InputMethodManager: startInputInner - mService.startInputOrWindowGainedFocus
+12-16 12:20:27.679 20401 20401 D InputTransport: Input channel destroyed: 'ClientS', fd=127
+12-16 12:20:27.679 20401 20401 E ViewRootImpl: sendUserActionEvent() mView returned.
+12-16 12:20:27.696 20401 20401 D Dialog  : mIsSamsungBasicInteraction = false
+12-16 12:20:27.697 20401 20401 D Dialog  : mIsSamsungBasicInteraction = false, isMetaDataInActivity = false
+12-16 12:20:27.704 20401 20401 I MultiWindowDecorSupport: [INFO] isPopOver = false
+12-16 12:20:27.705 20401 20401 I MultiWindowDecorSupport: updateCaptionType >> DecorView@5b1e692[], isFloating: true, isApplication: true, hasWindowDecorCaption: false, hasWindowControllerCallback: false
+12-16 12:20:27.705 20401 20401 D MultiWindowDecorSupport: setCaptionType = 0, DecorView = DecorView@5b1e692[]
+12-16 12:20:27.735 20401 20401 D ScrollView: initGoToTop
+12-16 12:20:27.770 20401 20401 I ViewRootImpl@5b3a053[PathPageActivity]: setView = com.android.internal.policy.DecorView@5b1e692 TM=true MM=false
+12-16 12:20:27.811 20401 20401 I ViewRootImpl@5b3a053[PathPageActivity]: Relayout returned: old=(0,63,1080,2220) new=(28,878,1052,1404) req=(1024,526)0 dur=16 res=0x7 s={true 522739687424} ch=true
+12-16 12:20:27.814 20401 22872 D mali_winsys: EGLint new_window_surface(egl_winsys_display *, void *, EGLSurface, EGLConfig, egl_winsys_surface **, EGLBoolean) returns 0x3000
+12-16 12:20:27.819 20401 20401 I ViewRootImpl@5b3a053[PathPageActivity]: [DrawPending] drawPending(1) 1 android.view.ViewRootImpl.reportNextDraw:9952 android.view.ViewRootImpl.performTraversals:3329 android.view.ViewRootImpl.doTraversal:2222 
+12-16 12:20:27.819 20401 20401 I ViewRootImpl@5b3a053[PathPageActivity]: [DrawPending] performDraw() Waiting asnyc report
+12-16 12:20:27.819 20401 20401 E DecorView: mWindow.mActivityCurrentConfig is null
+12-16 12:20:27.833 20401 20401 I ViewRootImpl@5b3a053[PathPageActivity]: [DrawPending] pendingDrawFinished(0) 1 android.view.ViewRootImpl.lambda$performDraw$1$ViewRootImpl:4058 android.view.-$$Lambda$ViewRootImpl$7A_3tkr_Kw4TZAeIUGVlOoTcZhg.run:4 android.os.Handler.handleCallback:883 
+12-16 12:20:27.833 20401 20401 I ViewRootImpl@5b3a053[PathPageActivity]: [DrawPending] reportDrawFinished()
+12-16 12:20:27.835 20401 20401 W IInputConnectionWrapper: requestCursorAnchorInfo on inactive InputConnection
+12-16 12:20:27.835 20401 20401 I ViewRootImpl@712f99d[PathPageActivity]: MSG_RESIZED: frame=(0,0,1080,2220) ci=(0,63,0,0) vi=(0,63,0,0) or=1
+12-16 12:20:27.837 20401 20401 I ViewRootImpl@5b3a053[PathPageActivity]: MSG_WINDOW_FOCUS_CHANGED 1 1
+12-16 12:20:27.866 20401 20401 I ViewRootImpl@712f99d[PathPageActivity]: Relayout returned: old=(0,0,1080,2220) new=(0,0,1080,2220) req=(1080,2220)0 dur=19 res=0x1 s={true 522734202880} ch=false
+12-16 12:20:27.880 20401 20401 I ViewRootImpl@5b3a053[PathPageActivity]: MSG_RESIZED: frame=(28,878,1052,1404) ci=(0,0,0,0) vi=(0,0,0,0) or=1
+12-16 12:20:27.884 20401 20401 I ViewRootImpl@712f99d[PathPageActivity]: MSG_WINDOW_FOCUS_CHANGED 0 1
+12-16 12:20:27.885 20401 20401 D InputMethodManager: prepareNavigationBarInfo() DecorView@7661660[PathPageActivity]
+12-16 12:20:27.885 20401 20401 D InputMethodManager: getNavigationBarColor() -855310
+12-16 12:20:28.042 20401 20401 D Toast   : show: focusDisplayId = 0, isFocusInDesktop = false mCustomDisplayId=-1
+12-16 12:20:28.062 20401 20598 V Toast   : SHOW: android.widget.Toast$TN@e409931
+12-16 12:20:28.068 20401 22872 W libEGL  : EGLNativeWindowType 0x79b5d2ec50 disconnect failed
+12-16 12:20:28.068 20401 20401 I ViewRootImpl@5b3a053[PathPageActivity]: dispatchDetachedFromWindow
+12-16 12:20:28.082 20401 20401 D InputTransport: Input channel destroyed: '88f34b6', fd=113
+12-16 12:20:28.099 20401 20401 V Toast   : HANDLE SHOW: android.widget.Toast$TN@e409931 mView=null mNextView=android.widget.LinearLayout{d145816 V.E...... ......I. 0,0-0,0}
+12-16 12:20:28.099 20401 20401 V Toast   : HANDLE HIDE: android.widget.Toast$TN@e409931 mView=null
+12-16 12:20:28.119 20401 20401 I ViewRootImpl@9d4976d[Toast]: setView = android.widget.LinearLayout@d145816 TM=true MM=false
+12-16 12:20:28.119 20401 20401 V Toast   : Text: Sece in android.widget.Toast$TN@e409931
+12-16 12:20:28.122 20401 20401 I ViewRootImpl@712f99d[PathPageActivity]: MSG_WINDOW_FOCUS_CHANGED 1 1
+12-16 12:20:28.122 20401 20401 D InputMethodManager: prepareNavigationBarInfo() DecorView@7661660[PathPageActivity]
+12-16 12:20:28.122 20401 20401 D InputMethodManager: getNavigationBarColor() -855310
+12-16 12:20:28.126 20401 20401 E ViewRootImpl: sendUserActionEvent() mView returned.
+12-16 12:20:28.146 20401 20401 I ViewRootImpl@9d4976d[Toast]: Relayout returned: old=(0,63,1080,2220) new=(161,1936,918,2052) req=(757,116)0 dur=18 res=0x7 s={true 522739687424} ch=true
+12-16 12:20:28.149 20401 22872 D mali_winsys: EGLint new_window_surface(egl_winsys_display *, void *, EGLSurface, EGLConfig, egl_winsys_surface **, EGLBoolean) returns 0x3000
+12-16 12:20:28.182 20401 20401 I ViewRootImpl@9d4976d[Toast]: [DrawPending] drawPending(1) 0 android.view.ViewRootImpl.reportNextDraw:9952 android.view.ViewRootImpl.performTraversals:3329 android.view.ViewRootImpl.doTraversal:2222 
+12-16 12:20:28.182 20401 20401 I ViewRootImpl@9d4976d[Toast]: [DrawPending] performDraw() Waiting asnyc report
+12-16 12:20:28.211 20401 20401 I ViewRootImpl@9d4976d[Toast]: [DrawPending] pendingDrawFinished(0) 0 android.view.ViewRootImpl.lambda$performDraw$1$ViewRootImpl:4058 android.view.-$$Lambda$ViewRootImpl$7A_3tkr_Kw4TZAeIUGVlOoTcZhg.run:4 android.os.Handler.handleCallback:883 
+12-16 12:20:28.211 20401 20401 I ViewRootImpl@9d4976d[Toast]: [DrawPending] reportDrawFinished()
+12-16 12:20:28.258 20401 20401 I ViewRootImpl@9d4976d[Toast]: MSG_RESIZED: frame=(161,1936,918,2052) ci=(0,0,0,0) vi=(0,0,757,116) or=1
+12-16 12:20:28.434 20401 20401 I System.out: Review(description=che bella recensione, difficulty=30, time=1000, creationDate=2022-12-16T11:20:27.391302, owner=9, pathName=Napoli- Roma, id=72)
+12-16 12:20:28.905 20401 20401 I ViewRootImpl@712f99d[PathPageActivity]: ViewPostIme pointer 0
+12-16 12:20:29.171 20401 20401 I ViewRootImpl@712f99d[PathPageActivity]: ViewPostIme pointer 1
+12-16 12:20:29.894 20401 20401 I ViewRootImpl@712f99d[PathPageActivity]: ViewPostIme pointer 0
+12-16 12:20:30.003 20401 20401 I ViewRootImpl@712f99d[PathPageActivity]: ViewPostIme key 0
+12-16 12:20:30.005 20401 20401 I ViewRootImpl@712f99d[PathPageActivity]: ViewPostIme key 1
+12-16 12:20:30.034 20401 20401 I ViewRootImpl@f79975c[MainActivity]: stopped(false) old=true
+12-16 12:20:30.046 20401 20401 D ConnectivityManager: requestNetwork; CallingUid : 10308, CallingPid : 20401
+12-16 12:20:30.053 20401 20401 I ViewRootImpl@f79975c[MainActivity]: stopped(false) old=false
+12-16 12:20:30.275 20401 20401 I ViewRootImpl@f79975c[MainActivity]: Relayout returned: old=(0,0,1080,2220) new=(0,0,1080,2220) req=(1080,2220)0 dur=6 res=0x7 s={true 519265685504} ch=true
+12-16 12:20:30.276 20401 22872 D mali_winsys: EGLint new_window_surface(egl_winsys_display *, void *, EGLSurface, EGLConfig, egl_winsys_surface **, EGLBoolean) returns 0x3000
+12-16 12:20:30.279 20401 20401 I ViewRootImpl@f79975c[MainActivity]: [DrawPending] drawPending(1) 1 android.view.ViewRootImpl.reportNextDraw:9952 android.view.ViewRootImpl.performTraversals:3329 android.view.ViewRootImpl.doTraversal:2222 
+12-16 12:20:30.279 20401 20401 I ViewRootImpl@f79975c[MainActivity]: [DrawPending] performDraw() Waiting asnyc report
+12-16 12:20:30.309 20401 20401 I ViewRootImpl@f79975c[MainActivity]: [DrawPending] pendingDrawFinished(0) 1 android.view.ViewRootImpl.lambda$performDraw$1$ViewRootImpl:4058 android.view.-$$Lambda$ViewRootImpl$7A_3tkr_Kw4TZAeIUGVlOoTcZhg.run:4 android.os.Handler.handleCallback:883 
+12-16 12:20:30.309 20401 20401 I ViewRootImpl@f79975c[MainActivity]: [DrawPending] reportDrawFinished()
+12-16 12:20:30.310 20401 20401 I ViewRootImpl@712f99d[PathPageActivity]: MSG_WINDOW_FOCUS_CHANGED 0 1
+12-16 12:20:30.310 20401 20401 D InputMethodManager: prepareNavigationBarInfo() DecorView@7661660[PathPageActivity]
+12-16 12:20:30.310 20401 20401 D InputMethodManager: getNavigationBarColor() -855310
+12-16 12:20:30.318 20401 20401 I ViewRootImpl@f79975c[MainActivity]: MSG_WINDOW_FOCUS_CHANGED 1 1
+12-16 12:20:30.318 20401 20401 D InputMethodManager: prepareNavigationBarInfo() DecorView@c92dc61[MainActivity]
+12-16 12:20:30.318 20401 20401 D InputMethodManager: getNavigationBarColor() -855310
+12-16 12:20:30.323 20401 20401 D InputMethodManager: prepareNavigationBarInfo() DecorView@c92dc61[MainActivity]
+12-16 12:20:30.323 20401 20401 D InputMethodManager: getNavigationBarColor() -855310
+12-16 12:20:30.323 20401 20401 V InputMethodManager: Starting input: tba=com.rmc.natour21 ic=null mNaviBarColor -855310 mIsGetNaviBarColorSuccess true , NavVisible : true , NavTrans : false
+12-16 12:20:30.323 20401 20401 D InputMethodManager: startInputInner - Id : 0
+12-16 12:20:30.323 20401 20401 I InputMethodManager: startInputInner - mService.startInputOrWindowGainedFocus
+12-16 12:20:30.326 20401 20401 D InputTransport: Input channel destroyed: 'ClientS', fd=112
+12-16 12:20:30.735 20401 22872 W libEGL  : EGLNativeWindowType 0x79530471d0 disconnect failed
+12-16 12:20:30.761 20401 20401 I ViewRootImpl@712f99d[PathPageActivity]: Relayout returned: old=(0,0,1080,2220) new=(0,0,1080,2220) req=(1080,2220)8 dur=25 res=0x5 s={false 0} ch=true
+12-16 12:20:30.764 20401 20401 I ViewRootImpl@712f99d[PathPageActivity]: stopped(true) old=false
+12-16 12:20:30.803 20401 20401 I ViewRootImpl@712f99d[PathPageActivity]: dispatchDetachedFromWindow
+12-16 12:20:30.812 20401 20401 D InputTransport: Input channel destroyed: '3171f44', fd=119
+12-16 12:20:31.221 20401 20401 I ViewRootImpl@f79975c[MainActivity]: ViewPostIme pointer 0
+12-16 12:20:31.359 20401 20401 I ViewRootImpl@f79975c[MainActivity]: ViewPostIme pointer 1
+12-16 12:20:31.563 20401 20598 V Toast   : HIDE: android.widget.Toast$TN@e409931
+12-16 12:20:31.564 20401 20401 V Toast   : HANDLE HIDE: android.widget.Toast$TN@e409931 mView=android.widget.LinearLayout{d145816 V.E...... ........ 0,0-757,116}
+12-16 12:20:31.564 20401 20401 V Toast   : REMOVE! android.widget.LinearLayout{d145816 V.E...... ........ 0,0-757,116} in android.widget.Toast$TN@e409931
+12-16 12:20:31.567 20401 22872 W libEGL  : EGLNativeWindowType 0x79b5d2ec50 disconnect failed
+12-16 12:20:31.567 20401 20401 I ViewRootImpl@9d4976d[Toast]: dispatchDetachedFromWindow
+12-16 12:20:31.573 20401 20401 D InputTransport: Input channel destroyed: '1e89f9 ', fd=113
+12-16 12:20:31.655 20401 20401 I ViewRootImpl@f79975c[MainActivity]: ViewPostIme pointer 0
+12-16 12:20:32.100 20401 20401 I ViewRootImpl@f79975c[MainActivity]: ViewPostIme pointer 1
+12-16 12:20:32.890 20401 20401 I ViewRootImpl@f79975c[MainActivity]: ViewPostIme pointer 0
+12-16 12:20:33.471 20401 20401 I ViewRootImpl@89f9fb9[PopupWindow:d407ab2]: setView = android.widget.PopupWindow$PopupDecorView@b78ffe TM=true MM=false
+12-16 12:20:33.483 20401 20401 V InputMethodManager: Not IME target window, ignoring
+12-16 12:20:33.498 20401 20401 I ViewRootImpl@89f9fb9[PopupWindow:d407ab2]: Relayout returned: old=(0,63,1080,2220) new=(26,2047,541,2173) req=(515,126)0 dur=12 res=0x7 s={true 522739687424} ch=true
+12-16 12:20:33.501 20401 22872 D mali_winsys: EGLint new_window_surface(egl_winsys_display *, void *, EGLSurface, EGLConfig, egl_winsys_surface **, EGLBoolean) returns 0x3000
+12-16 12:20:33.505 20401 20401 D AbsListView:  in onLayout changed 
+12-16 12:20:33.507 20401 20401 I ViewRootImpl@89f9fb9[PopupWindow:d407ab2]: [DrawPending] drawPending(1) 0 android.view.ViewRootImpl.reportNextDraw:9952 android.view.ViewRootImpl.performTraversals:3329 android.view.ViewRootImpl.doTraversal:2222 
+12-16 12:20:33.518 20401 20401 I ViewRootImpl@89f9fb9[PopupWindow:d407ab2]: [DrawPending] performDraw() Waiting asnyc report
+12-16 12:20:33.525 20401 20401 I ViewRootImpl@89f9fb9[PopupWindow:d407ab2]: [DrawPending] pendingDrawFinished(0) 0 android.view.ViewRootImpl.lambda$performDraw$1$ViewRootImpl:4058 android.view.-$$Lambda$ViewRootImpl$7A_3tkr_Kw4TZAeIUGVlOoTcZhg.run:4 android.os.Handler.handleCallback:883 
+12-16 12:20:33.525 20401 20401 I ViewRootImpl@89f9fb9[PopupWindow:d407ab2]: [DrawPending] reportDrawFinished()
+12-16 12:20:33.526 20401 20401 I ViewRootImpl@89f9fb9[PopupWindow:d407ab2]: MSG_WINDOW_FOCUS_CHANGED 1 1
+12-16 12:20:33.527 20401 20401 V InputMethodManager: Not IME target window, ignoring
+12-16 12:20:33.548 20401 20401 I ViewRootImpl@89f9fb9[PopupWindow:d407ab2]: MSG_RESIZED: frame=(26,2047,541,2173) ci=(0,0,0,0) vi=(0,0,0,0) or=1
+12-16 12:20:33.549 20401 20401 I ViewRootImpl@f79975c[MainActivity]: MSG_WINDOW_FOCUS_CHANGED 0 1
+12-16 12:20:33.549 20401 20401 D InputMethodManager: prepareNavigationBarInfo() DecorView@c92dc61[MainActivity]
+12-16 12:20:33.549 20401 20401 D InputMethodManager: getNavigationBarColor() -855310
+12-16 12:20:33.937 20401 20401 I ViewRootImpl@f79975c[MainActivity]: ViewPostIme pointer 1
+12-16 12:20:34.338 20401 20401 I ViewRootImpl@89f9fb9[PopupWindow:d407ab2]: ViewPostIme pointer 0
+12-16 12:20:34.353 20401 20401 I ViewRootImpl@89f9fb9[PopupWindow:d407ab2]: Relayout returned: old=(26,2047,541,2173) new=(26,2047,541,2173) req=(515,126)0 dur=9 res=0x1 s={true 522739687424} ch=false
+12-16 12:20:34.357 20401 20401 I ViewRootImpl@89f9fb9[PopupWindow:d407ab2]: MSG_WINDOW_FOCUS_CHANGED 0 1
+12-16 12:20:34.358 20401 20401 I ViewRootImpl@f79975c[MainActivity]: MSG_WINDOW_FOCUS_CHANGED 1 1
+12-16 12:20:34.359 20401 20401 D InputMethodManager: prepareNavigationBarInfo() DecorView@c92dc61[MainActivity]
+12-16 12:20:34.359 20401 20401 D InputMethodManager: getNavigationBarColor() -855310
+12-16 12:20:34.396 20401 20401 I ViewRootImpl@89f9fb9[PopupWindow:d407ab2]: ViewPostIme pointer 1
+12-16 12:20:34.665 20401 22872 W libEGL  : EGLNativeWindowType 0x78f05da250 disconnect failed
+12-16 12:20:34.665 20401 20401 I ViewRootImpl@89f9fb9[PopupWindow:d407ab2]: dispatchDetachedFromWindow
+12-16 12:20:34.671 20401 20401 D InputTransport: Input channel destroyed: '4224d9d', fd=112
+12-16 12:20:34.819 20401 20401 I ViewRootImpl@f79975c[MainActivity]: ViewPostIme pointer 0
+12-16 12:20:34.929 20401 20401 I ViewRootImpl@f79975c[MainActivity]: ViewPostIme pointer 1
+12-16 12:20:35.716 20401 20401 I ViewRootImpl@f79975c[MainActivity]: ViewPostIme pointer 0
+12-16 12:20:36.191 20401 20401 I ViewRootImpl@f79975c[MainActivity]: ViewPostIme pointer 1
+12-16 12:20:41.294 20401 22929 W SendBird: [12:20:41.290 Connection$1:onMessage():235] onMessage instance : [PONG] com.sendbird.android.Connection@27fffd4
+12-16 12:20:41.298 20401 22929 W Sendbird: [12:20:41.296 Connection$1:onMessage():236] onMessage instance : [PONG] com.sendbird.android.Connection@27fffd4
+12-16 12:20:41.313 20401 22946 W SendBird: [12:20:41.311 EventController$1:call():141] ++ result[PONG] runnable=null
+12-16 12:20:49.382 20401 20401 I ViewRootImpl@f79975c[MainActivity]: ViewPostIme pointer 0
+12-16 12:20:50.301 20401 22872 W libEGL  : EGLNativeWindowType 0x78f05d6510 disconnect failed
+12-16 12:20:50.327 20401 20401 I ViewRootImpl@f79975c[MainActivity]: Relayout returned: old=(0,0,1080,2220) new=(0,0,1080,2220) req=(1080,2220)8 dur=23 res=0x5 s={false 0} ch=true
+12-16 12:20:50.341 20401 20401 I ViewRootImpl@f79975c[MainActivity]: MSG_WINDOW_FOCUS_CHANGED 0 1
+12-16 12:20:50.342 20401 20401 D InputMethodManager: prepareNavigationBarInfo() DecorView@c92dc61[MainActivity]
+12-16 12:20:50.342 20401 20401 D InputMethodManager: getNavigationBarColor() -855310
+12-16 12:20:50.364 20401 20401 I ViewRootImpl@f79975c[MainActivity]: stopped(true) old=false
+12-16 12:20:50.372 20401 20401 D ConnectivityManager: unregisterNetworkCallback; CallingUid : 10308, CallingPid : 20401
+12-16 12:20:50.404 20401 20401 D InputTransport: Input channel destroyed: 'ClientS', fd=122
+12-16 12:20:50.418 20401 20401 I ViewRootImpl@f79975c[MainActivity]: Relayout returned: old=(0,0,1080,2220) new=(0,0,1080,2220) req=(1080,2220)8 dur=9 res=0x5 s={false 0} ch=false
+12-16 12:20:53.096 23055 23055 I om.rmc.natour2: Late-enabling -Xcheck:jni
+12-16 12:20:53.129 23055 23055 E om.rmc.natour2: Unknown bits set in runtime_flags: 0x8000
+12-16 12:20:53.139 23055 23055 D ActivityThread: setConscryptValidator
+12-16 12:20:53.139 23055 23055 D ActivityThread: setConscryptValidator - put
+12-16 12:20:53.178 23055 23055 I om.rmc.natour2: The ClassLoaderContext is a special shared library.
+12-16 12:20:54.313 23055 23055 I FirebaseApp: Device unlocked: initializing all Firebase APIs for app [DEFAULT]
+12-16 12:20:54.400 23055 23084 I DynamiteModule: Considering local module com.google.android.gms.measurement.dynamite:70 and remote module com.google.android.gms.measurement.dynamite:87
+12-16 12:20:54.400 23055 23084 I DynamiteModule: Selected remote version of com.google.android.gms.measurement.dynamite, version >= 87
+12-16 12:20:54.400 23055 23084 V DynamiteModule: Dynamite loader version >= 2, using loadModule2NoCrashUtils
+12-16 12:20:54.408 23055 23084 W System  : ClassLoader referenced unknown path: 
+12-16 12:20:54.411 23055 23055 I FirebaseInitProvider: FirebaseApp initialization successful
+12-16 12:20:54.460 23055 23084 W om.rmc.natour2: Accessing hidden field Lsun/misc/Unsafe;->theUnsafe:Lsun/misc/Unsafe; (greylist, reflection, allowed)
+12-16 12:20:54.460 23055 23084 W om.rmc.natour2: Accessing hidden method Lsun/misc/Unsafe;->objectFieldOffset(Ljava/lang/reflect/Field;)J (greylist,core-platform-api, linking, allowed)
+12-16 12:20:54.460 23055 23084 W om.rmc.natour2: Accessing hidden method Lsun/misc/Unsafe;->arrayBaseOffset(Ljava/lang/Class;)I (greylist,core-platform-api, linking, allowed)
+12-16 12:20:54.460 23055 23084 W om.rmc.natour2: Accessing hidden method Lsun/misc/Unsafe;->arrayIndexScale(Ljava/lang/Class;)I (greylist, linking, allowed)
+12-16 12:20:54.509 23055 23092 I FA      : App measurement initialized, version: 75052
+12-16 12:20:54.510 23055 23092 I FA      : To enable debug logging run: adb shell setprop log.tag.FA VERBOSE
+12-16 12:20:54.510 23055 23092 I FA      : To enable faster debug mode event logging run:
+12-16 12:20:54.510 23055 23092 I FA      :   adb shell setprop debug.firebase.analytics.app com.rmc.natour21
+12-16 12:20:54.534 23055 23055 W com.facebook.UserSettingsManager: Please set a value for AutoLogAppEventsEnabled. Set the flag to TRUE if you want to collect app install, app launch and in-app purchase events automatically. To request user consent before collecting data, set the flag value to FALSE, then change to TRUE once user consent is received. Learn more: https://developers.facebook.com/docs/app-events/getting-started-app-events-android#disable-auto-events.
+12-16 12:20:54.534 23055 23055 W com.facebook.UserSettingsManager: You haven't set a value for AdvertiserIDCollectionEnabled. Set the flag to TRUE if you want to collect Advertiser ID for better advertising and analytics results. To request user consent before collecting data, set the flag value to FALSE, then change to TRUE once user consent is received. Learn more: https://developers.facebook.com/docs/app-events/getting-started-app-events-android#disable-auto-events.
+12-16 12:20:54.559 23055 23104 W com.facebook.internal.NativeProtocol: Apps that target Android API 30+ (Android 11+) cannot call Facebook native apps unless the package visibility needs are declared. Please follow https://developers.facebook.com/docs/android/troubleshooting/#faq_267321845055988 to make the declaration.
+12-16 12:20:54.562 23055 23099 D NetworkSecurityConfig: Using Network Security Config from resource network_security_config debugBuild: true
+12-16 12:20:54.567 23055 23101 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:20:54.568 23055 23101 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:20:54.568 23055 23102 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:20:54.568 23055 23099 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:20:54.568 23055 23102 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:20:54.568 23055 23099 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:20:54.586 23055 23055 D KeyHash:: 3Fm4gBnqk2PYU3lntxOY4S7uHvQ=
+12-16 12:20:54.610 23055 23117 D libEGL  : loaded /vendor/lib64/egl/libGLES_mali.so
+12-16 12:20:54.636 23055 23101 D TcpOptimizer: TcpOptimizer-ON
+12-16 12:20:54.670 23055 23055 D PhoneWindow: forceLight changed to true [] from com.android.internal.policy.PhoneWindow.updateForceLightNavigationBar:4274 com.android.internal.policy.DecorView.updateColorViews:1547 com.android.internal.policy.PhoneWindow.dispatchWindowAttributesChanged:3252 android.view.Window.setFlags:1153 com.android.internal.policy.PhoneWindow.generateLayout:2474 
+12-16 12:20:54.670 23055 23055 I MultiWindowDecorSupport: [INFO] isPopOver = false
+12-16 12:20:54.670 23055 23055 I MultiWindowDecorSupport: updateCaptionType >> DecorView@597789f[], isFloating: false, isApplication: true, hasWindowDecorCaption: false, hasWindowControllerCallback: true
+12-16 12:20:54.671 23055 23055 D MultiWindowDecorSupport: setCaptionType = 0, DecorView = DecorView@597789f[]
+12-16 12:20:54.690 23055 23102 D libmdf  : libmdf v2.9.0.0 On 64bit PLATFORM
+12-16 12:20:54.698 23055 23055 W om.rmc.natour2: Accessing hidden method Landroid/view/View;->computeFitSystemWindows(Landroid/graphics/Rect;Landroid/graphics/Rect;)Z (greylist, reflection, allowed)
+12-16 12:20:54.699 23055 23055 W om.rmc.natour2: Accessing hidden method Landroid/view/ViewGroup;->makeOptionalFitsSystemWindows()V (greylist, reflection, allowed)
+12-16 12:20:54.756 23055 23055 D ConnectivityManager: requestNetwork; CallingUid : 10308, CallingPid : 23055
+12-16 12:20:54.760 23055 23084 W om.rmc.natour2: Accessing hidden method Lsun/misc/Unsafe;->compareAndSwapInt(Ljava/lang/Object;JII)Z (greylist, linking, allowed)
+12-16 12:20:54.761 23055 23084 W om.rmc.natour2: Accessing hidden method Lsun/misc/Unsafe;->getObjectVolatile(Ljava/lang/Object;J)Ljava/lang/Object; (greylist, linking, allowed)
+12-16 12:20:54.761 23055 23084 W om.rmc.natour2: Accessing hidden method Lsun/misc/Unsafe;->compareAndSwapObject(Ljava/lang/Object;JLjava/lang/Object;Ljava/lang/Object;)Z (greylist, linking, allowed)
+12-16 12:20:54.761 23055 23084 W om.rmc.natour2: Accessing hidden method Lsun/misc/Unsafe;->compareAndSwapLong(Ljava/lang/Object;JJJ)Z (greylist, linking, allowed)
+12-16 12:20:54.763 23055 23092 I FA      : Tag Manager is not found and thus will not be used
+12-16 12:20:54.781 23055 23055 I ViewRootImpl@82e396f[Splashscreen]: setView = com.android.internal.policy.DecorView@597789f TM=true MM=false
+12-16 12:20:54.834 23055 23055 I ViewRootImpl@82e396f[Splashscreen]: Relayout returned: old=(0,0,1080,2220) new=(0,0,1080,2220) req=(1080,2220)0 dur=11 res=0x7 s={true 525358039040} ch=true
+12-16 12:20:54.839 23055 23055 I ViewRootImpl@82e396f[Splashscreen]: [DrawPending] drawPending(1) 1 android.view.ViewRootImpl.reportNextDraw:9952 android.view.ViewRootImpl.performTraversals:3329 android.view.ViewRootImpl.doTraversal:2222 
+12-16 12:20:54.839 23055 23055 I ViewRootImpl@82e396f[Splashscreen]: [DrawPending] performDraw() Waiting asnyc report
+12-16 12:20:54.850 23055 23115 D mali_winsys: EGLint new_window_surface(egl_winsys_display *, void *, EGLSurface, EGLConfig, egl_winsys_surface **, EGLBoolean) returns 0x3000
+12-16 12:20:54.854 23055 23115 W Gralloc3: mapper 3.x is not supported
+12-16 12:20:54.867 23055 23115 E cutils-trace: Error opening trace file: No such file or directory (2)
+12-16 12:20:54.869 23055 23055 I ViewRootImpl@82e396f[Splashscreen]: [DrawPending] pendingDrawFinished(0) 1 android.view.ViewRootImpl.lambda$performDraw$1$ViewRootImpl:4058 android.view.-$$Lambda$ViewRootImpl$7A_3tkr_Kw4TZAeIUGVlOoTcZhg.run:4 android.os.Handler.handleCallback:883 
+12-16 12:20:54.869 23055 23055 I ViewRootImpl@82e396f[Splashscreen]: [DrawPending] reportDrawFinished()
+12-16 12:20:54.874 23055 23055 I ViewRootImpl@82e396f[Splashscreen]: MSG_WINDOW_FOCUS_CHANGED 1 1
+12-16 12:20:54.874 23055 23055 D InputMethodManager: prepareNavigationBarInfo() DecorView@597789f[Splashscreen]
+12-16 12:20:54.874 23055 23055 D InputMethodManager: getNavigationBarColor() -855310
+12-16 12:20:54.875 23055 23055 D InputMethodManager: prepareNavigationBarInfo() DecorView@597789f[Splashscreen]
+12-16 12:20:54.875 23055 23055 D InputMethodManager: getNavigationBarColor() -855310
+12-16 12:20:54.875 23055 23055 V InputMethodManager: Starting input: tba=com.rmc.natour21 ic=null mNaviBarColor -855310 mIsGetNaviBarColorSuccess true , NavVisible : true , NavTrans : false
+12-16 12:20:54.875 23055 23055 D InputMethodManager: startInputInner - Id : 0
+12-16 12:20:54.875 23055 23055 I InputMethodManager: startInputInner - mService.startInputOrWindowGainedFocus
+12-16 12:20:54.882 23055 23055 I ViewRootImpl@82e396f[Splashscreen]: MSG_RESIZED: frame=(0,0,1080,2220) ci=(0,0,0,0) vi=(0,0,0,0) or=1
+12-16 12:20:54.883 23055 23055 D InputMethodManager: prepareNavigationBarInfo() DecorView@597789f[Splashscreen]
+12-16 12:20:54.883 23055 23055 D InputMethodManager: getNavigationBarColor() -855310
+12-16 12:20:54.883 23055 23055 V InputMethodManager: Starting input: tba=com.rmc.natour21 ic=null mNaviBarColor -855310 mIsGetNaviBarColorSuccess true , NavVisible : true , NavTrans : false
+12-16 12:20:54.883 23055 23055 D InputMethodManager: startInputInner - Id : 0
+12-16 12:20:55.078 23055 23102 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:20:55.078 23055 23102 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:20:55.330 23055 23124 I System.out: Firebase token: eyJhbGciOiJSUzI1NiIsImtpZCI6Ijk3OGI1NmM2NmVhYmIwZDlhNmJhOGNhMzMwMTU2NGEyMzhlYWZjODciLCJ0eXAiOiJKV1QifQ.eyJuYW1lIjoiY2xhdWRpbyB2ZWxvdHRpIiwicGljdHVyZSI6Imh0dHBzOi8vbGgzLmdvb2dsZXVzZXJjb250ZW50LmNvbS9hL0FMbTV3dTI5V2MtR0dNWkljYk9qc2hic0pORFJ6OW9ZQjNYR3hXUmRWekdIPXM5Ni1jIiwiaXNzIjoiaHR0cHM6Ly9zZWN1cmV0b2tlbi5nb29nbGUuY29tL25hdG91cjIxLWZjNmVhIiwiYXVkIjoibmF0b3VyMjEtZmM2ZWEiLCJhdXRoX3RpbWUiOjE2NzExODg3NTEsInVzZXJfaWQiOiJkT3lqREZWbVhCYnRhVjVWMkdXOEc5NmZVdjQzIiwic3ViIjoiZE95akRGVm1YQmJ0YVY1VjJHVzhHOTZmVXY0MyIsImlhdCI6MTY3MTE4ODc1MSwiZXhwIjoxNjcxMTkyMzUxLCJlbWFpbCI6ImNsYWRvdHRpMzFAZ21haWwuY29tIiwiZW1haWxfdmVyaWZpZWQiOnRydWUsImZpcmViYXNlIjp7ImlkZW50aXRpZXMiOnsiZ29vZ2xlLmNvbSI6WyIxMTI0OTI4NzA2NDA3MTc2NTQ1NzAiXSwiZW1haWwiOlsiY2xhZG90dGkzMUBnbWFpbC5jb20iXX0sInNpZ25faW5fcHJvdmlkZXIiOiJnb29nbGUuY29tIn19.RxZplc6vZUPul4PopRgqN9-kUpK7g3_qk4s0eKM6LLgPKmAENhUhR7twdTH7WQWG292u_Xt47dqc16PEaSr2tntcXDhZ9HjDxwW66Sc8WebyQpJtMbTnV0cTGGQv0Kxb94mvni_99nppPGiy_p2Cf7BttcWujPkhJK-1mTB7lpX_Ca-658LcLoyHqkhYULg_hLvPFi4XgI9bZlmMi_Sk7Nw3nNzGPyCypL__P5YZiuqcx3H68zuotadKTPy7hU14uyjAU2hQKFRZzJSPH2dBWKs5nGn4OJe68m-Jr_XJ4qmXnAcHMH6cOq9yAZ7xA7Cz7jCSU1gobJHwNihRTfYW0g
+12-16 12:20:55.533 23055 23147 V NativeCrypto: Registering org/conscrypt/NativeCrypto's 286 native methods...
+12-16 12:20:56.120 23055 23124 W om.rmc.natour2: Accessing hidden method Ldalvik/system/BlockGuard;->getThreadPolicy()Ldalvik/system/BlockGuard$Policy; (greylist,core-platform-api, linking, allowed)
+12-16 12:20:56.120 23055 23124 W om.rmc.natour2: Accessing hidden method Ldalvik/system/BlockGuard$Policy;->onNetwork()V (greylist, linking, allowed)
+12-16 12:20:56.120 23055 23124 W om.rmc.natour2: Accessing hidden method Ldalvik/system/CloseGuard;->close()V (greylist,core-platform-api, linking, allowed)
+12-16 12:20:56.120 23055 23124 W om.rmc.natour2: Accessing hidden method Ldalvik/system/CloseGuard;->get()Ldalvik/system/CloseGuard; (greylist,core-platform-api, linking, allowed)
+12-16 12:20:56.120 23055 23124 W om.rmc.natour2: Accessing hidden method Ldalvik/system/CloseGuard;->open(Ljava/lang/String;)V (greylist,core-platform-api, linking, allowed)
+12-16 12:20:56.120 23055 23124 W om.rmc.natour2: Accessing hidden method Ldalvik/system/CloseGuard;->warnIfOpen()V (greylist,core-platform-api, linking, allowed)
+12-16 12:20:56.124 23055 23124 W om.rmc.natour2: Accessing hidden method Ljava/security/spec/ECParameterSpec;->getCurveName()Ljava/lang/String; (greylist, reflection, allowed)
+12-16 12:20:56.214 23055 23055 D SBUIKIT : [12:20:56.213 SendBirdUIKit$1:onInitSucceed():174] >> onInitSucceed()
+12-16 12:20:56.238 23055 23055 W ActivityThread: handleWindowVisibility: no activity for token android.os.BinderProxy@58d264d
+12-16 12:20:56.259 23055 23055 D PhoneWindow: forceLight changed to true [] from com.android.internal.policy.PhoneWindow.updateForceLightNavigationBar:4274 com.android.internal.policy.DecorView.updateColorViews:1547 com.android.internal.policy.PhoneWindow.dispatchWindowAttributesChanged:3252 android.view.Window.setFlags:1153 com.android.internal.policy.PhoneWindow.generateLayout:2474 
+12-16 12:20:56.260 23055 23055 I MultiWindowDecorSupport: [INFO] isPopOver = false
+12-16 12:20:56.260 23055 23055 I MultiWindowDecorSupport: updateCaptionType >> DecorView@7a36b5f[], isFloating: false, isApplication: true, hasWindowDecorCaption: false, hasWindowControllerCallback: true
+12-16 12:20:56.260 23055 23055 D MultiWindowDecorSupport: setCaptionType = 0, DecorView = DecorView@7a36b5f[]
+12-16 12:20:56.518 23055 23172 W om.rmc.natour2: Accessing hidden field Ljava/net/Socket;->impl:Ljava/net/SocketImpl; (greylist, reflection, allowed)
+12-16 12:20:56.518 23055 23173 W om.rmc.natour2: Accessing hidden field Ljava/net/Socket;->impl:Ljava/net/SocketImpl; (greylist, reflection, allowed)
+12-16 12:20:56.528 23055 23173 W om.rmc.natour2: Accessing hidden field Ljava/io/FileDescriptor;->descriptor:I (greylist, JNI, allowed)
+12-16 12:20:56.622 23055 23173 W om.rmc.natour2: Accessing hidden method Ljava/security/spec/ECParameterSpec;->setCurveName(Ljava/lang/String;)V (greylist, reflection, allowed)
+12-16 12:20:56.622 23055 23172 W om.rmc.natour2: Accessing hidden method Ljava/security/spec/ECParameterSpec;->setCurveName(Ljava/lang/String;)V (greylist, reflection, allowed)
+12-16 12:20:56.633 23055 23055 D ConnectivityManager: requestNetwork; CallingUid : 10308, CallingPid : 23055
+12-16 12:20:56.648 23055 23055 I ViewRootImpl@228a071[MainActivity]: setView = com.android.internal.policy.DecorView@7a36b5f TM=true MM=false
+12-16 12:20:56.649 23055 23055 I ViewRootImpl@82e396f[Splashscreen]: MSG_WINDOW_FOCUS_CHANGED 0 1
+12-16 12:20:56.649 23055 23055 D InputMethodManager: prepareNavigationBarInfo() DecorView@597789f[Splashscreen]
+12-16 12:20:56.649 23055 23055 D InputMethodManager: getNavigationBarColor() -855310
+12-16 12:20:56.730 23055 23055 I ViewRootImpl@228a071[MainActivity]: Relayout returned: old=(0,0,1080,2220) new=(0,0,1080,2220) req=(1080,2220)0 dur=6 res=0x7 s={true 522728706048} ch=true
+12-16 12:20:56.731 23055 23115 D mali_winsys: EGLint new_window_surface(egl_winsys_display *, void *, EGLSurface, EGLConfig, egl_winsys_surface **, EGLBoolean) returns 0x3000
+12-16 12:20:56.755 23055 23055 I ViewRootImpl@228a071[MainActivity]: [DrawPending] drawPending(1) 1 android.view.ViewRootImpl.reportNextDraw:9952 android.view.ViewRootImpl.performTraversals:3329 android.view.ViewRootImpl.doTraversal:2222 
+12-16 12:20:56.757 23055 23055 I ViewRootImpl@228a071[MainActivity]: [DrawPending] performDraw() Waiting asnyc report
+12-16 12:20:56.791 23055 23173 W SendBird: [12:20:56.791 Connection$1:onMessage():235] onMessage instance : [LOGI] com.sendbird.android.Connection@224fd5a
+12-16 12:20:56.793 23055 23173 W Sendbird: [12:20:56.792 Connection$1:onMessage():236] onMessage instance : [LOGI] com.sendbird.android.Connection@224fd5a
+12-16 12:20:56.794 23055 23055 I ViewRootImpl@228a071[MainActivity]: [DrawPending] pendingDrawFinished(0) 1 android.view.ViewRootImpl.lambda$performDraw$1$ViewRootImpl:4058 android.view.-$$Lambda$ViewRootImpl$7A_3tkr_Kw4TZAeIUGVlOoTcZhg.run:4 android.os.Handler.handleCallback:883 
+12-16 12:20:56.794 23055 23055 I ViewRootImpl@228a071[MainActivity]: [DrawPending] reportDrawFinished()
+12-16 12:20:56.797 23055 23055 I ViewRootImpl@228a071[MainActivity]: MSG_WINDOW_FOCUS_CHANGED 1 1
+12-16 12:20:56.797 23055 23055 D InputMethodManager: prepareNavigationBarInfo() DecorView@7a36b5f[MainActivity]
+12-16 12:20:56.797 23055 23055 D InputMethodManager: getNavigationBarColor() -855310
+12-16 12:20:56.803 23055 23055 D EmergencyMode: [EmergencyManager] android createPackageContext successful: com.rmc.natour21
+12-16 12:20:56.810 23055 23055 D InputMethodManager: prepareNavigationBarInfo() DecorView@7a36b5f[MainActivity]
+12-16 12:20:56.810 23055 23055 D InputMethodManager: getNavigationBarColor() -855310
+12-16 12:20:56.810 23055 23055 V InputMethodManager: Starting input: tba=com.rmc.natour21 ic=null mNaviBarColor -855310 mIsGetNaviBarColorSuccess true , NavVisible : true , NavTrans : false
+12-16 12:20:56.810 23055 23055 D InputMethodManager: startInputInner - Id : 0
+12-16 12:20:56.810 23055 23055 I InputMethodManager: startInputInner - mService.startInputOrWindowGainedFocus
+12-16 12:20:56.813 23055 23055 D InputTransport: Input channel destroyed: 'ClientS', fd=97
+12-16 12:20:56.813 23055 23187 W SendBird: [12:20:56.812 EventController$1:call():141] ++ result[LOGI] runnable=null
+12-16 12:20:56.820 23055 23055 I ViewRootImpl@228a071[MainActivity]: MSG_RESIZED: frame=(0,0,1080,2220) ci=(0,63,0,0) vi=(0,63,0,0) or=1
+12-16 12:20:56.847 23055 23164 D SBUIKIT : [12:20:56.847 SendBirdUIKit$2:call():298] ++ user nickname = claudio velotti, profileUrl = http://18.195.186.181:8080/img/92/raw
+12-16 12:20:56.862 23055 23173 W SendBird: [12:20:56.862 Connection$1:onMessage():235] onMessage instance : [PONG] com.sendbird.android.Connection@224fd5a
+12-16 12:20:56.863 23055 23173 W Sendbird: [12:20:56.863 Connection$1:onMessage():236] onMessage instance : [PONG] com.sendbird.android.Connection@224fd5a
+12-16 12:20:56.866 23055 23187 W SendBird: [12:20:56.866 EventController$1:call():141] ++ result[PONG] runnable=null
+12-16 12:20:56.874 23055 23055 I om.rmc.natour2: Waiting for a blocking GC ClassLinker
+12-16 12:20:56.890 23055 23124 W Glide   : Failed to find GeneratedAppGlideModule. You should include an annotationProcessor compile dependency on com.github.bumptech.glide:compiler in your application and a @GlideModule annotated AppGlideModule implementation or LibraryGlideModules will be silently ignored
+12-16 12:20:56.917 23055 23124 D ConnectivityManager: requestNetwork; CallingUid : 10308, CallingPid : 23055
+12-16 12:20:56.987 23055 23055 I System.out: SENDBIRD TOKEN OK ckOTAZioSROKNMJFPmblOe:APA91bGVcG9r_iXcHFgG4Iporvbe7LY4wQBAVWfyWIWJnWzg5h8jwyooQ25LxvLEqeLKSFX8jlOxjHRr5t9uy5rrsHMA7I4iE0NfcLRlw_nQeNQWpru1u2nLitOl0dT_dISCBj72bvr1
+12-16 12:20:57.229 23055 23115 W libEGL  : EGLNativeWindowType 0x79c31001d0 disconnect failed
+12-16 12:20:57.236 23055 23055 I ViewRootImpl@82e396f[Splashscreen]: Relayout returned: old=(0,0,1080,2220) new=(0,0,1080,2220) req=(1080,2220)8 dur=6 res=0x5 s={false 0} ch=true
+12-16 12:20:57.238 23055 23055 D ConnectivityManager: unregisterNetworkCallback; CallingUid : 10308, CallingPid : 23055
+12-16 12:20:57.239 23055 23055 I ViewRootImpl@82e396f[Splashscreen]: stopped(true) old=false
+12-16 12:20:57.243 23055 23084 W om.rmc.natour2: Accessing hidden method Lsun/misc/Unsafe;->putObjectVolatile(Ljava/lang/Object;JLjava/lang/Object;)V (greylist, linking, allowed)
+12-16 12:20:57.244 23055 23055 I ViewRootImpl@82e396f[Splashscreen]: dispatchDetachedFromWindow
+12-16 12:20:57.249 23055 23055 D InputTransport: Input channel destroyed: '6aaa8a2', fd=86
+12-16 12:21:01.379 23055 23055 I ViewRootImpl@228a071[MainActivity]: ViewPostIme pointer 0
+12-16 12:21:02.173 23055 23115 W libEGL  : EGLNativeWindowType 0x79b5b4b0d0 disconnect failed
+12-16 12:21:02.201 23055 23055 I ViewRootImpl@228a071[MainActivity]: Relayout returned: old=(0,0,1080,2220) new=(0,0,1080,2220) req=(1080,2220)8 dur=26 res=0x5 s={false 0} ch=true
+12-16 12:21:02.206 23055 23055 I ViewRootImpl@228a071[MainActivity]: MSG_WINDOW_FOCUS_CHANGED 0 1
+12-16 12:21:02.207 23055 23055 D InputMethodManager: prepareNavigationBarInfo() DecorView@7a36b5f[MainActivity]
+12-16 12:21:02.207 23055 23055 D InputMethodManager: getNavigationBarColor() -855310
+12-16 12:21:02.228 23055 23055 I ViewRootImpl@228a071[MainActivity]: stopped(true) old=false
+12-16 12:21:02.230 23055 23055 D ConnectivityManager: unregisterNetworkCallback; CallingUid : 10308, CallingPid : 23055
+12-16 12:21:02.267 23055 23055 D InputTransport: Input channel destroyed: 'ClientS', fd=120
+12-16 12:21:02.277 23055 23055 I ViewRootImpl@228a071[MainActivity]: Relayout returned: old=(0,0,1080,2220) new=(0,0,1080,2220) req=(1080,2220)8 dur=8 res=0x5 s={false 0} ch=false
+12-16 12:21:02.708 23055 23161 E PINGER  : [12:21:02.707 Connection$Pinger:stop():522] Pinger stop true
+12-16 12:21:02.711 23055 23161 E Sendbird:PINGER: [12:21:02.709 Connection$Pinger:stop():523] Pinger stop true
+12-16 12:21:02.723 23055 23190 W SendBird: [12:21:02.722 Connection$1:onFailure():250] onFailed instance : com.sendbird.android.Connection@224fd5a
+12-16 12:21:02.726 23055 23190 W Sendbird: [12:21:02.724 Connection$1:onFailure():251] onFailed instance : com.sendbird.android.Connection@224fd5a
+12-16 12:21:02.728 23055 23190 W SendBird: [12:21:02.727 Connection$1:onFailure():256] onFailed handler : com.sendbird.android.SocketManager@1e48ce1
+12-16 12:21:02.731 23055 23190 W Sendbird: [12:21:02.729 Connection$1:onFailure():257] onFailed handler : com.sendbird.android.SocketManager@1e48ce1
+12-16 12:21:02.733 23055 23190 W SendBird: [12:21:02.732 SocketManager:onError():1002] >> onError : Socket is closed, reconnecting : false, explicitDisconnect : true
+12-16 12:22:29.795 23752 23752 I om.rmc.natour2: Late-enabling -Xcheck:jni
+12-16 12:22:29.835 23752 23752 E om.rmc.natour2: Unknown bits set in runtime_flags: 0x8000
+12-16 12:22:29.846 23752 23752 D ActivityThread: setConscryptValidator
+12-16 12:22:29.846 23752 23752 D ActivityThread: setConscryptValidator - put
+12-16 12:22:29.893 23752 23752 I om.rmc.natour2: The ClassLoaderContext is a special shared library.
+12-16 12:22:31.042 23752 23752 I FirebaseApp: Device unlocked: initializing all Firebase APIs for app [DEFAULT]
+12-16 12:22:31.127 23752 23789 I DynamiteModule: Considering local module com.google.android.gms.measurement.dynamite:70 and remote module com.google.android.gms.measurement.dynamite:87
+12-16 12:22:31.127 23752 23789 I DynamiteModule: Selected remote version of com.google.android.gms.measurement.dynamite, version >= 87
+12-16 12:22:31.127 23752 23789 V DynamiteModule: Dynamite loader version >= 2, using loadModule2NoCrashUtils
+12-16 12:22:31.135 23752 23789 W System  : ClassLoader referenced unknown path: 
+12-16 12:22:31.139 23752 23752 I FirebaseInitProvider: FirebaseApp initialization successful
+12-16 12:22:31.170 23752 23789 W om.rmc.natour2: Accessing hidden field Lsun/misc/Unsafe;->theUnsafe:Lsun/misc/Unsafe; (greylist, reflection, allowed)
+12-16 12:22:31.170 23752 23789 W om.rmc.natour2: Accessing hidden method Lsun/misc/Unsafe;->objectFieldOffset(Ljava/lang/reflect/Field;)J (greylist,core-platform-api, linking, allowed)
+12-16 12:22:31.170 23752 23789 W om.rmc.natour2: Accessing hidden method Lsun/misc/Unsafe;->arrayBaseOffset(Ljava/lang/Class;)I (greylist,core-platform-api, linking, allowed)
+12-16 12:22:31.170 23752 23789 W om.rmc.natour2: Accessing hidden method Lsun/misc/Unsafe;->arrayIndexScale(Ljava/lang/Class;)I (greylist, linking, allowed)
+12-16 12:22:31.224 23752 23796 I FA      : App measurement initialized, version: 75052
+12-16 12:22:31.224 23752 23796 I FA      : To enable debug logging run: adb shell setprop log.tag.FA VERBOSE
+12-16 12:22:31.224 23752 23796 I FA      : To enable faster debug mode event logging run:
+12-16 12:22:31.224 23752 23796 I FA      :   adb shell setprop debug.firebase.analytics.app com.rmc.natour21
+12-16 12:22:31.247 23752 23752 W com.facebook.UserSettingsManager: Please set a value for AutoLogAppEventsEnabled. Set the flag to TRUE if you want to collect app install, app launch and in-app purchase events automatically. To request user consent before collecting data, set the flag value to FALSE, then change to TRUE once user consent is received. Learn more: https://developers.facebook.com/docs/app-events/getting-started-app-events-android#disable-auto-events.
+12-16 12:22:31.247 23752 23752 W com.facebook.UserSettingsManager: You haven't set a value for AdvertiserIDCollectionEnabled. Set the flag to TRUE if you want to collect Advertiser ID for better advertising and analytics results. To request user consent before collecting data, set the flag value to FALSE, then change to TRUE once user consent is received. Learn more: https://developers.facebook.com/docs/app-events/getting-started-app-events-android#disable-auto-events.
+12-16 12:22:31.268 23752 23809 W com.facebook.internal.NativeProtocol: Apps that target Android API 30+ (Android 11+) cannot call Facebook native apps unless the package visibility needs are declared. Please follow https://developers.facebook.com/docs/android/troubleshooting/#faq_267321845055988 to make the declaration.
+12-16 12:22:31.278 23752 23806 D NetworkSecurityConfig: Using Network Security Config from resource network_security_config debugBuild: true
+12-16 12:22:31.285 23752 23807 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:22:31.285 23752 23807 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:22:31.285 23752 23806 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:22:31.285 23752 23806 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:22:31.286 23752 23803 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:22:31.286 23752 23803 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:22:31.298 23752 23752 D KeyHash:: 3Fm4gBnqk2PYU3lntxOY4S7uHvQ=
+12-16 12:22:31.323 23752 23823 D libEGL  : loaded /vendor/lib64/egl/libGLES_mali.so
+12-16 12:22:31.356 23752 23803 D TcpOptimizer: TcpOptimizer-ON
+12-16 12:22:31.383 23752 23752 D PhoneWindow: forceLight changed to true [] from com.android.internal.policy.PhoneWindow.updateForceLightNavigationBar:4274 com.android.internal.policy.DecorView.updateColorViews:1547 com.android.internal.policy.PhoneWindow.dispatchWindowAttributesChanged:3252 android.view.Window.setFlags:1153 com.android.internal.policy.PhoneWindow.generateLayout:2474 
+12-16 12:22:31.384 23752 23752 I MultiWindowDecorSupport: [INFO] isPopOver = false
+12-16 12:22:31.384 23752 23752 I MultiWindowDecorSupport: updateCaptionType >> DecorView@597789f[], isFloating: false, isApplication: true, hasWindowDecorCaption: false, hasWindowControllerCallback: true
+12-16 12:22:31.384 23752 23752 D MultiWindowDecorSupport: setCaptionType = 0, DecorView = DecorView@597789f[]
+12-16 12:22:31.407 23752 23807 D libmdf  : libmdf v2.9.0.0 On 64bit PLATFORM
+12-16 12:22:31.415 23752 23752 W om.rmc.natour2: Accessing hidden method Landroid/view/View;->computeFitSystemWindows(Landroid/graphics/Rect;Landroid/graphics/Rect;)Z (greylist, reflection, allowed)
+12-16 12:22:31.415 23752 23752 W om.rmc.natour2: Accessing hidden method Landroid/view/ViewGroup;->makeOptionalFitsSystemWindows()V (greylist, reflection, allowed)
+12-16 12:22:31.470 23752 23752 D ConnectivityManager: requestNetwork; CallingUid : 10308, CallingPid : 23752
+12-16 12:22:31.475 23752 23789 W om.rmc.natour2: Accessing hidden method Lsun/misc/Unsafe;->compareAndSwapInt(Ljava/lang/Object;JII)Z (greylist, linking, allowed)
+12-16 12:22:31.475 23752 23789 W om.rmc.natour2: Accessing hidden method Lsun/misc/Unsafe;->getObjectVolatile(Ljava/lang/Object;J)Ljava/lang/Object; (greylist, linking, allowed)
+12-16 12:22:31.475 23752 23789 W om.rmc.natour2: Accessing hidden method Lsun/misc/Unsafe;->compareAndSwapObject(Ljava/lang/Object;JLjava/lang/Object;Ljava/lang/Object;)Z (greylist, linking, allowed)
+12-16 12:22:31.475 23752 23789 W om.rmc.natour2: Accessing hidden method Lsun/misc/Unsafe;->compareAndSwapLong(Ljava/lang/Object;JJJ)Z (greylist, linking, allowed)
+12-16 12:22:31.478 23752 23796 I FA      : Tag Manager is not found and thus will not be used
+12-16 12:22:31.497 23752 23752 I ViewRootImpl@39c6b05[Splashscreen]: setView = com.android.internal.policy.DecorView@597789f TM=true MM=false
+12-16 12:22:31.521 23752 23813 W AnalyticsUserIDStore: initStore should have been called before calling setUserID
+12-16 12:22:31.564 23752 23813 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:22:31.564 23752 23813 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:22:31.572 23752 23752 I ViewRootImpl@39c6b05[Splashscreen]: Relayout returned: old=(0,0,1080,2220) new=(0,0,1080,2220) req=(1080,2220)0 dur=7 res=0x7 s={true 525358039040} ch=true
+12-16 12:22:31.577 23752 23752 I ViewRootImpl@39c6b05[Splashscreen]: [DrawPending] drawPending(1) 1 android.view.ViewRootImpl.reportNextDraw:9952 android.view.ViewRootImpl.performTraversals:3329 android.view.ViewRootImpl.doTraversal:2222 
+12-16 12:22:31.577 23752 23752 I ViewRootImpl@39c6b05[Splashscreen]: [DrawPending] performDraw() Waiting asnyc report
+12-16 12:22:31.589 23752 23821 D mali_winsys: EGLint new_window_surface(egl_winsys_display *, void *, EGLSurface, EGLConfig, egl_winsys_surface **, EGLBoolean) returns 0x3000
+12-16 12:22:31.594 23752 23821 W Gralloc3: mapper 3.x is not supported
+12-16 12:22:31.610 23752 23821 E cutils-trace: Error opening trace file: No such file or directory (2)
+12-16 12:22:31.612 23752 23752 I ViewRootImpl@39c6b05[Splashscreen]: [DrawPending] pendingDrawFinished(0) 1 android.view.ViewRootImpl.lambda$performDraw$1$ViewRootImpl:4058 android.view.-$$Lambda$ViewRootImpl$7A_3tkr_Kw4TZAeIUGVlOoTcZhg.run:4 android.os.Handler.handleCallback:883 
+12-16 12:22:31.612 23752 23752 I ViewRootImpl@39c6b05[Splashscreen]: [DrawPending] reportDrawFinished()
+12-16 12:22:31.616 23752 23752 I ViewRootImpl@39c6b05[Splashscreen]: MSG_WINDOW_FOCUS_CHANGED 1 1
+12-16 12:22:31.616 23752 23752 D InputMethodManager: prepareNavigationBarInfo() DecorView@597789f[Splashscreen]
+12-16 12:22:31.616 23752 23752 D InputMethodManager: getNavigationBarColor() -855310
+12-16 12:22:31.618 23752 23752 D InputMethodManager: prepareNavigationBarInfo() DecorView@597789f[Splashscreen]
+12-16 12:22:31.618 23752 23752 D InputMethodManager: getNavigationBarColor() -855310
+12-16 12:22:31.618 23752 23752 V InputMethodManager: Starting input: tba=com.rmc.natour21 ic=null mNaviBarColor -855310 mIsGetNaviBarColorSuccess true , NavVisible : true , NavTrans : false
+12-16 12:22:31.618 23752 23752 D InputMethodManager: startInputInner - Id : 0
+12-16 12:22:31.618 23752 23752 I InputMethodManager: startInputInner - mService.startInputOrWindowGainedFocus
+12-16 12:22:31.620 23752 23752 I ViewRootImpl@39c6b05[Splashscreen]: MSG_RESIZED: frame=(0,0,1080,2220) ci=(0,0,0,0) vi=(0,0,0,0) or=1
+12-16 12:22:31.622 23752 23752 D InputMethodManager: prepareNavigationBarInfo() DecorView@597789f[Splashscreen]
+12-16 12:22:31.622 23752 23752 D InputMethodManager: getNavigationBarColor() -855310
+12-16 12:22:31.622 23752 23752 V InputMethodManager: Starting input: tba=com.rmc.natour21 ic=null mNaviBarColor -855310 mIsGetNaviBarColorSuccess true , NavVisible : true , NavTrans : false
+12-16 12:22:31.622 23752 23752 D InputMethodManager: startInputInner - Id : 0
+12-16 12:22:31.754 23752 23752 I ViewRootImpl@39c6b05[Splashscreen]: MSG_WINDOW_FOCUS_CHANGED 0 1
+12-16 12:22:31.754 23752 23752 D InputMethodManager: prepareNavigationBarInfo() DecorView@597789f[Splashscreen]
+12-16 12:22:31.754 23752 23752 D InputMethodManager: getNavigationBarColor() -855310
+12-16 12:22:31.795 23752 23807 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:22:31.795 23752 23807 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:22:32.013 23752 23752 I ViewRootImpl@39c6b05[Splashscreen]: MSG_WINDOW_FOCUS_CHANGED 1 1
+12-16 12:22:32.013 23752 23752 D InputMethodManager: prepareNavigationBarInfo() DecorView@597789f[Splashscreen]
+12-16 12:22:32.013 23752 23752 D InputMethodManager: getNavigationBarColor() -855310
+12-16 12:22:32.069 23752 23833 I System.out: Firebase token: eyJhbGciOiJSUzI1NiIsImtpZCI6Ijk3OGI1NmM2NmVhYmIwZDlhNmJhOGNhMzMwMTU2NGEyMzhlYWZjODciLCJ0eXAiOiJKV1QifQ.eyJuYW1lIjoiY2xhdWRpbyB2ZWxvdHRpIiwicGljdHVyZSI6Imh0dHBzOi8vbGgzLmdvb2dsZXVzZXJjb250ZW50LmNvbS9hL0FMbTV3dTI5V2MtR0dNWkljYk9qc2hic0pORFJ6OW9ZQjNYR3hXUmRWekdIPXM5Ni1jIiwiaXNzIjoiaHR0cHM6Ly9zZWN1cmV0b2tlbi5nb29nbGUuY29tL25hdG91cjIxLWZjNmVhIiwiYXVkIjoibmF0b3VyMjEtZmM2ZWEiLCJhdXRoX3RpbWUiOjE2NzExODg3NTEsInVzZXJfaWQiOiJkT3lqREZWbVhCYnRhVjVWMkdXOEc5NmZVdjQzIiwic3ViIjoiZE95akRGVm1YQmJ0YVY1VjJHVzhHOTZmVXY0MyIsImlhdCI6MTY3MTE4ODc1MSwiZXhwIjoxNjcxMTkyMzUxLCJlbWFpbCI6ImNsYWRvdHRpMzFAZ21haWwuY29tIiwiZW1haWxfdmVyaWZpZWQiOnRydWUsImZpcmViYXNlIjp7ImlkZW50aXRpZXMiOnsiZ29vZ2xlLmNvbSI6WyIxMTI0OTI4NzA2NDA3MTc2NTQ1NzAiXSwiZW1haWwiOlsiY2xhZG90dGkzMUBnbWFpbC5jb20iXX0sInNpZ25faW5fcHJvdmlkZXIiOiJnb29nbGUuY29tIn19.RxZplc6vZUPul4PopRgqN9-kUpK7g3_qk4s0eKM6LLgPKmAENhUhR7twdTH7WQWG292u_Xt47dqc16PEaSr2tntcXDhZ9HjDxwW66Sc8WebyQpJtMbTnV0cTGGQv0Kxb94mvni_99nppPGiy_p2Cf7BttcWujPkhJK-1mTB7lpX_Ca-658LcLoyHqkhYULg_hLvPFi4XgI9bZlmMi_Sk7Nw3nNzGPyCypL__P5YZiuqcx3H68zuotadKTPy7hU14uyjAU2hQKFRZzJSPH2dBWKs5nGn4OJe68m-Jr_XJ4qmXnAcHMH6cOq9yAZ7xA7Cz7jCSU1gobJHwNihRTfYW0g
+12-16 12:22:32.217 23752 23859 V NativeCrypto: Registering org/conscrypt/NativeCrypto's 286 native methods...
+12-16 12:22:32.799 23752 23752 I ViewRootImpl@39c6b05[Splashscreen]: MSG_WINDOW_FOCUS_CHANGED 0 1
+12-16 12:22:32.800 23752 23752 D InputMethodManager: prepareNavigationBarInfo() DecorView@597789f[Splashscreen]
+12-16 12:22:32.800 23752 23752 D InputMethodManager: getNavigationBarColor() -855310
+12-16 12:22:32.805 23752 23833 W om.rmc.natour2: Accessing hidden method Ldalvik/system/BlockGuard;->getThreadPolicy()Ldalvik/system/BlockGuard$Policy; (greylist,core-platform-api, linking, allowed)
+12-16 12:22:32.805 23752 23833 W om.rmc.natour2: Accessing hidden method Ldalvik/system/BlockGuard$Policy;->onNetwork()V (greylist, linking, allowed)
+12-16 12:22:32.805 23752 23833 W om.rmc.natour2: Accessing hidden method Ldalvik/system/CloseGuard;->close()V (greylist,core-platform-api, linking, allowed)
+12-16 12:22:32.805 23752 23833 W om.rmc.natour2: Accessing hidden method Ldalvik/system/CloseGuard;->get()Ldalvik/system/CloseGuard; (greylist,core-platform-api, linking, allowed)
+12-16 12:22:32.805 23752 23833 W om.rmc.natour2: Accessing hidden method Ldalvik/system/CloseGuard;->open(Ljava/lang/String;)V (greylist,core-platform-api, linking, allowed)
+12-16 12:22:32.805 23752 23833 W om.rmc.natour2: Accessing hidden method Ldalvik/system/CloseGuard;->warnIfOpen()V (greylist,core-platform-api, linking, allowed)
+12-16 12:22:32.813 23752 23833 W om.rmc.natour2: Accessing hidden method Ljava/security/spec/ECParameterSpec;->getCurveName()Ljava/lang/String; (greylist, reflection, allowed)
+12-16 12:22:32.920 23752 23752 D SBUIKIT : [12:22:32.919 SendBirdUIKit$1:onInitSucceed():174] >> onInitSucceed()
+12-16 12:22:32.932 23752 23752 W ActivityThread: handleWindowVisibility: no activity for token android.os.BinderProxy@9413cbd
+12-16 12:22:32.953 23752 23752 D PhoneWindow: forceLight changed to true [] from com.android.internal.policy.PhoneWindow.updateForceLightNavigationBar:4274 com.android.internal.policy.DecorView.updateColorViews:1547 com.android.internal.policy.PhoneWindow.dispatchWindowAttributesChanged:3252 android.view.Window.setFlags:1153 com.android.internal.policy.PhoneWindow.generateLayout:2474 
+12-16 12:22:32.954 23752 23752 I MultiWindowDecorSupport: [INFO] isPopOver = false
+12-16 12:22:32.954 23752 23752 I MultiWindowDecorSupport: updateCaptionType >> DecorView@9d09cae[], isFloating: false, isApplication: true, hasWindowDecorCaption: false, hasWindowControllerCallback: true
+12-16 12:22:32.954 23752 23752 D MultiWindowDecorSupport: setCaptionType = 0, DecorView = DecorView@9d09cae[]
+12-16 12:22:33.286 23752 23883 W om.rmc.natour2: Accessing hidden field Ljava/net/Socket;->impl:Ljava/net/SocketImpl; (greylist, reflection, allowed)
+12-16 12:22:33.296 23752 23882 W om.rmc.natour2: Accessing hidden field Ljava/io/FileDescriptor;->descriptor:I (greylist, JNI, allowed)
+12-16 12:22:33.368 23752 23752 D ConnectivityManager: requestNetwork; CallingUid : 10308, CallingPid : 23752
+12-16 12:22:33.386 23752 23752 I ViewRootImpl@8a9eca9[MainActivity]: setView = com.android.internal.policy.DecorView@9d09cae TM=true MM=false
+12-16 12:22:33.429 23752 23883 W om.rmc.natour2: Accessing hidden method Ljava/security/spec/ECParameterSpec;->setCurveName(Ljava/lang/String;)V (greylist, reflection, allowed)
+12-16 12:22:33.429 23752 23882 W om.rmc.natour2: Accessing hidden method Ljava/security/spec/ECParameterSpec;->setCurveName(Ljava/lang/String;)V (greylist, reflection, allowed)
+12-16 12:22:33.473 23752 23752 I ViewRootImpl@8a9eca9[MainActivity]: Relayout returned: old=(0,0,1080,2220) new=(0,0,1080,2220) req=(1080,2220)0 dur=10 res=0x7 s={true 522818617344} ch=true
+12-16 12:22:33.474 23752 23821 D mali_winsys: EGLint new_window_surface(egl_winsys_display *, void *, EGLSurface, EGLConfig, egl_winsys_surface **, EGLBoolean) returns 0x3000
+12-16 12:22:33.508 23752 23752 I ViewRootImpl@8a9eca9[MainActivity]: [DrawPending] drawPending(1) 1 android.view.ViewRootImpl.reportNextDraw:9952 android.view.ViewRootImpl.performTraversals:3329 android.view.ViewRootImpl.doTraversal:2222 
+12-16 12:22:33.509 23752 23752 I ViewRootImpl@8a9eca9[MainActivity]: [DrawPending] performDraw() Waiting asnyc report
+12-16 12:22:33.557 23752 23752 I ViewRootImpl@8a9eca9[MainActivity]: [DrawPending] pendingDrawFinished(0) 1 android.view.ViewRootImpl.lambda$performDraw$1$ViewRootImpl:4058 android.view.-$$Lambda$ViewRootImpl$7A_3tkr_Kw4TZAeIUGVlOoTcZhg.run:4 android.os.Handler.handleCallback:883 
+12-16 12:22:33.557 23752 23752 I ViewRootImpl@8a9eca9[MainActivity]: [DrawPending] reportDrawFinished()
+12-16 12:22:33.581 23752 23752 I ViewRootImpl@8a9eca9[MainActivity]: MSG_RESIZED: frame=(0,0,1080,2220) ci=(0,63,0,0) vi=(0,63,0,0) or=1
+12-16 12:22:33.640 23752 23833 W Glide   : Failed to find GeneratedAppGlideModule. You should include an annotationProcessor compile dependency on com.github.bumptech.glide:compiler in your application and a @GlideModule annotated AppGlideModule implementation or LibraryGlideModules will be silently ignored
+12-16 12:22:33.642 23752 23752 I ViewRootImpl@8a9eca9[MainActivity]: MSG_WINDOW_FOCUS_CHANGED 1 1
+12-16 12:22:33.642 23752 23752 D InputMethodManager: prepareNavigationBarInfo() DecorView@9d09cae[MainActivity]
+12-16 12:22:33.642 23752 23752 D InputMethodManager: getNavigationBarColor() -855310
+12-16 12:22:33.646 23752 23883 W SendBird: [12:22:33.645 Connection$1:onMessage():235] onMessage instance : [LOGI] com.sendbird.android.Connection@37f00f3
+12-16 12:22:33.648 23752 23883 W Sendbird: [12:22:33.647 Connection$1:onMessage():236] onMessage instance : [LOGI] com.sendbird.android.Connection@37f00f3
+12-16 12:22:33.648 23752 23752 D EmergencyMode: [EmergencyManager] android createPackageContext successful: com.rmc.natour21
+12-16 12:22:33.659 23752 23752 D InputMethodManager: prepareNavigationBarInfo() DecorView@9d09cae[MainActivity]
+12-16 12:22:33.659 23752 23752 D InputMethodManager: getNavigationBarColor() -855310
+12-16 12:22:33.659 23752 23752 V InputMethodManager: Starting input: tba=com.rmc.natour21 ic=null mNaviBarColor -855310 mIsGetNaviBarColorSuccess true , NavVisible : true , NavTrans : false
+12-16 12:22:33.660 23752 23752 D InputMethodManager: startInputInner - Id : 0
+12-16 12:22:33.660 23752 23752 I InputMethodManager: startInputInner - mService.startInputOrWindowGainedFocus
+12-16 12:22:33.661 23752 23752 D InputTransport: Input channel destroyed: 'ClientS', fd=101
+12-16 12:22:33.675 23752 23903 W SendBird: [12:22:33.674 EventController$1:call():141] ++ result[LOGI] runnable=null
+12-16 12:22:33.709 23752 23833 D ConnectivityManager: requestNetwork; CallingUid : 10308, CallingPid : 23752
+12-16 12:22:33.743 23752 23875 D SBUIKIT : [12:22:33.743 SendBirdUIKit$2:call():298] ++ user nickname = claudio velotti, profileUrl = http://18.195.186.181:8080/img/92/raw
+12-16 12:22:33.779 23752 23883 W SendBird: [12:22:33.778 Connection$1:onMessage():235] onMessage instance : [PONG] com.sendbird.android.Connection@37f00f3
+12-16 12:22:33.780 23752 23883 W Sendbird: [12:22:33.779 Connection$1:onMessage():236] onMessage instance : [PONG] com.sendbird.android.Connection@37f00f3
+12-16 12:22:33.783 23752 23903 W SendBird: [12:22:33.782 EventController$1:call():141] ++ result[PONG] runnable=null
+12-16 12:22:33.872 23752 23752 I System.out: SENDBIRD TOKEN OK ckOTAZioSROKNMJFPmblOe:APA91bGVcG9r_iXcHFgG4Iporvbe7LY4wQBAVWfyWIWJnWzg5h8jwyooQ25LxvLEqeLKSFX8jlOxjHRr5t9uy5rrsHMA7I4iE0NfcLRlw_nQeNQWpru1u2nLitOl0dT_dISCBj72bvr1
+12-16 12:22:33.978 23752 23821 W libEGL  : EGLNativeWindowType 0x79b4e43450 disconnect failed
+12-16 12:22:33.986 23752 23752 I ViewRootImpl@39c6b05[Splashscreen]: Relayout returned: old=(0,0,1080,2220) new=(0,0,1080,2220) req=(1080,2220)8 dur=7 res=0x5 s={false 0} ch=true
+12-16 12:22:33.988 23752 23752 D ConnectivityManager: unregisterNetworkCallback; CallingUid : 10308, CallingPid : 23752
+12-16 12:22:33.990 23752 23752 I ViewRootImpl@39c6b05[Splashscreen]: stopped(true) old=false
+12-16 12:22:33.994 23752 23789 W om.rmc.natour2: Accessing hidden method Lsun/misc/Unsafe;->putObjectVolatile(Ljava/lang/Object;JLjava/lang/Object;)V (greylist, linking, allowed)
+12-16 12:22:33.995 23752 23752 I ViewRootImpl@39c6b05[Splashscreen]: dispatchDetachedFromWindow
+12-16 12:22:33.998 23752 23752 D InputTransport: Input channel destroyed: 'f23313f', fd=85
+12-16 12:22:48.803 23752 23883 W SendBird: [12:22:48.801 Connection$1:onMessage():235] onMessage instance : [PONG] com.sendbird.android.Connection@37f00f3
+12-16 12:22:48.807 23752 23883 W Sendbird: [12:22:48.805 Connection$1:onMessage():236] onMessage instance : [PONG] com.sendbird.android.Connection@37f00f3
+12-16 12:22:48.823 23752 23903 W SendBird: [12:22:48.821 EventController$1:call():141] ++ result[PONG] runnable=null
+12-16 12:22:49.029 23752 23752 I ViewRootImpl@8a9eca9[MainActivity]: ViewPostIme pointer 0
+12-16 12:22:49.073 23752 23752 I ViewRootImpl@8a9eca9[MainActivity]: ViewPostIme pointer 1
+12-16 12:22:49.116 23752 23752 W ActivityThread: handleWindowVisibility: no activity for token android.os.BinderProxy@9f80130
+12-16 12:22:49.133 23752 23752 D PhoneWindow: forceLight changed to true [] from com.android.internal.policy.PhoneWindow.updateForceLightNavigationBar:4274 com.android.internal.policy.DecorView.updateColorViews:1547 com.android.internal.policy.PhoneWindow.dispatchWindowAttributesChanged:3252 android.view.Window.setFlags:1153 com.android.internal.policy.PhoneWindow.generateLayout:2474 
+12-16 12:22:49.134 23752 23752 I MultiWindowDecorSupport: [INFO] isPopOver = false
+12-16 12:22:49.134 23752 23752 I MultiWindowDecorSupport: updateCaptionType >> DecorView@857fea[], isFloating: false, isApplication: true, hasWindowDecorCaption: false, hasWindowControllerCallback: true
+12-16 12:22:49.134 23752 23752 D MultiWindowDecorSupport: setCaptionType = 0, DecorView = DecorView@857fea[]
+12-16 12:22:49.267 23752 23752 I ViewRootImpl@cb9047[PathPageActivity]: setView = com.android.internal.policy.DecorView@857fea TM=true MM=false
+12-16 12:22:49.268 23752 23752 I ViewRootImpl@8a9eca9[MainActivity]: MSG_WINDOW_FOCUS_CHANGED 0 1
+12-16 12:22:49.268 23752 23752 D InputMethodManager: prepareNavigationBarInfo() DecorView@9d09cae[MainActivity]
+12-16 12:22:49.268 23752 23752 D InputMethodManager: getNavigationBarColor() -855310
+12-16 12:22:49.311 23752 23752 I ViewRootImpl@cb9047[PathPageActivity]: Relayout returned: old=(0,0,1080,2220) new=(0,0,1080,2220) req=(1080,2220)0 dur=6 res=0x7 s={true 522732814336} ch=true
+12-16 12:22:49.312 23752 23821 D mali_winsys: EGLint new_window_surface(egl_winsys_display *, void *, EGLSurface, EGLConfig, egl_winsys_surface **, EGLBoolean) returns 0x3000
+12-16 12:22:49.325 23752 23752 I ViewRootImpl@cb9047[PathPageActivity]: [DrawPending] drawPending(1) 1 android.view.ViewRootImpl.reportNextDraw:9952 android.view.ViewRootImpl.performTraversals:3329 android.view.ViewRootImpl.doTraversal:2222 
+12-16 12:22:49.325 23752 23752 I ViewRootImpl@cb9047[PathPageActivity]: [DrawPending] performDraw() Waiting asnyc report
+12-16 12:22:49.352 23752 23821 I         : Increase max job count 60
+12-16 12:22:49.371 23752 23752 I ViewRootImpl@cb9047[PathPageActivity]: [DrawPending] pendingDrawFinished(0) 1 android.view.ViewRootImpl.lambda$performDraw$1$ViewRootImpl:4058 android.view.-$$Lambda$ViewRootImpl$7A_3tkr_Kw4TZAeIUGVlOoTcZhg.run:4 android.os.Handler.handleCallback:883 
+12-16 12:22:49.371 23752 23752 I ViewRootImpl@cb9047[PathPageActivity]: [DrawPending] reportDrawFinished()
+12-16 12:22:49.381 23752 23752 I ViewRootImpl@cb9047[PathPageActivity]: MSG_WINDOW_FOCUS_CHANGED 1 1
+12-16 12:22:49.382 23752 23752 D InputMethodManager: prepareNavigationBarInfo() DecorView@857fea[PathPageActivity]
+12-16 12:22:49.382 23752 23752 D InputMethodManager: getNavigationBarColor() -855310
+12-16 12:22:49.385 23752 23752 D InputMethodManager: prepareNavigationBarInfo() DecorView@857fea[PathPageActivity]
+12-16 12:22:49.385 23752 23752 D InputMethodManager: getNavigationBarColor() -855310
+12-16 12:22:49.385 23752 23752 V InputMethodManager: Starting input: tba=com.rmc.natour21 ic=null mNaviBarColor -855310 mIsGetNaviBarColorSuccess true , NavVisible : true , NavTrans : false
+12-16 12:22:49.385 23752 23752 D InputMethodManager: startInputInner - Id : 0
+12-16 12:22:49.385 23752 23752 I InputMethodManager: startInputInner - mService.startInputOrWindowGainedFocus
+12-16 12:22:49.386 23752 23752 D InputTransport: Input channel destroyed: 'ClientS', fd=124
+12-16 12:22:49.391 23752 23752 I ViewRootImpl@cb9047[PathPageActivity]: MSG_RESIZED: frame=(0,0,1080,2220) ci=(0,63,0,0) vi=(0,63,0,0) or=1
+12-16 12:22:49.450 23752 24058 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:22:49.450 23752 24058 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:22:49.452 23752 24059 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:22:49.452 23752 24059 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:22:49.794 23752 23821 W libEGL  : EGLNativeWindowType 0x79b5bbd950 disconnect failed
+12-16 12:22:49.801 23752 23752 I ViewRootImpl@8a9eca9[MainActivity]: Relayout returned: old=(0,0,1080,2220) new=(0,0,1080,2220) req=(1080,2220)8 dur=7 res=0x5 s={false 0} ch=true
+12-16 12:22:49.802 23752 23752 I ViewRootImpl@8a9eca9[MainActivity]: stopped(true) old=false
+12-16 12:22:49.804 23752 23752 D ConnectivityManager: unregisterNetworkCallback; CallingUid : 10308, CallingPid : 23752
+12-16 12:22:49.827 23752 23752 I ViewRootImpl@8a9eca9[MainActivity]: Relayout returned: old=(0,0,1080,2220) new=(0,0,1080,2220) req=(1080,2220)8 dur=5 res=0x5 s={false 0} ch=false
+12-16 12:22:51.287 23752 23752 I ViewRootImpl@cb9047[PathPageActivity]: ViewPostIme pointer 0
+12-16 12:22:51.343 23752 23752 I ViewRootImpl@cb9047[PathPageActivity]: ViewPostIme pointer 1
+12-16 12:22:51.740 23752 23752 D Toast   : show: focusDisplayId = 0, isFocusInDesktop = false mCustomDisplayId=-1
+12-16 12:22:51.749 23752 23774 V Toast   : SHOW: android.widget.Toast$TN@5808c1c
+12-16 12:22:51.752 23752 23752 V Toast   : HANDLE SHOW: android.widget.Toast$TN@5808c1c mView=null mNextView=android.widget.LinearLayout{c146025 V.E...... ......I. 0,0-0,0}
+12-16 12:22:51.752 23752 23752 V Toast   : HANDLE HIDE: android.widget.Toast$TN@5808c1c mView=null
+12-16 12:22:51.769 23752 23752 I ViewRootImpl@a184e08[Toast]: setView = android.widget.LinearLayout@c146025 TM=true MM=false
+12-16 12:22:51.770 23752 23752 V Toast   : Text: Qerc in android.widget.Toast$TN@5808c1c
+12-16 12:22:51.786 23752 23752 I ViewRootImpl@a184e08[Toast]: Relayout returned: old=(0,63,1080,2220) new=(150,1936,930,2052) req=(780,116)0 dur=10 res=0x7 s={true 522730160128} ch=true
+12-16 12:22:51.788 23752 23821 D mali_winsys: EGLint new_window_surface(egl_winsys_display *, void *, EGLSurface, EGLConfig, egl_winsys_surface **, EGLBoolean) returns 0x3000
+12-16 12:22:51.789 23752 23752 I ViewRootImpl@a184e08[Toast]: [DrawPending] drawPending(1) 0 android.view.ViewRootImpl.reportNextDraw:9952 android.view.ViewRootImpl.performTraversals:3329 android.view.ViewRootImpl.doTraversal:2222 
+12-16 12:22:51.789 23752 23752 I ViewRootImpl@a184e08[Toast]: [DrawPending] performDraw() Waiting asnyc report
+12-16 12:22:51.800 23752 23752 I ViewRootImpl@a184e08[Toast]: [DrawPending] pendingDrawFinished(0) 0 android.view.ViewRootImpl.lambda$performDraw$1$ViewRootImpl:4058 android.view.-$$Lambda$ViewRootImpl$7A_3tkr_Kw4TZAeIUGVlOoTcZhg.run:4 android.os.Handler.handleCallback:883 
+12-16 12:22:51.800 23752 23752 I ViewRootImpl@a184e08[Toast]: [DrawPending] reportDrawFinished()
+12-16 12:22:51.807 23752 23752 I ViewRootImpl@a184e08[Toast]: MSG_RESIZED: frame=(150,1936,930,2052) ci=(0,0,0,0) vi=(0,0,780,116) or=1
+12-16 12:22:53.213 23752 23752 I ViewRootImpl@cb9047[PathPageActivity]: ViewPostIme pointer 0
+12-16 12:22:53.266 23752 23752 I ViewRootImpl@cb9047[PathPageActivity]: ViewPostIme pointer 1
+12-16 12:22:53.305 23752 23752 I ViewRootImpl@8a9eca9[MainActivity]: stopped(false) old=true
+12-16 12:22:53.308 23752 23752 D ConnectivityManager: requestNetwork; CallingUid : 10308, CallingPid : 23752
+12-16 12:22:53.313 23752 23752 I ViewRootImpl@8a9eca9[MainActivity]: stopped(false) old=false
+12-16 12:22:53.554 23752 23752 I ViewRootImpl@8a9eca9[MainActivity]: Relayout returned: old=(0,0,1080,2220) new=(0,0,1080,2220) req=(1080,2220)0 dur=7 res=0x7 s={true 522734088192} ch=true
+12-16 12:22:53.555 23752 23821 D mali_winsys: EGLint new_window_surface(egl_winsys_display *, void *, EGLSurface, EGLConfig, egl_winsys_surface **, EGLBoolean) returns 0x3000
+12-16 12:22:53.556 23752 23752 I ViewRootImpl@8a9eca9[MainActivity]: [DrawPending] drawPending(1) 1 android.view.ViewRootImpl.reportNextDraw:9952 android.view.ViewRootImpl.performTraversals:3329 android.view.ViewRootImpl.doTraversal:2222 
+12-16 12:22:53.557 23752 23752 I ViewRootImpl@8a9eca9[MainActivity]: [DrawPending] performDraw() Waiting asnyc report
+12-16 12:22:53.596 23752 23752 I ViewRootImpl@8a9eca9[MainActivity]: [DrawPending] pendingDrawFinished(0) 1 android.view.ViewRootImpl.lambda$performDraw$1$ViewRootImpl:4058 android.view.-$$Lambda$ViewRootImpl$7A_3tkr_Kw4TZAeIUGVlOoTcZhg.run:4 android.os.Handler.handleCallback:883 
+12-16 12:22:53.596 23752 23752 I ViewRootImpl@8a9eca9[MainActivity]: [DrawPending] reportDrawFinished()
+12-16 12:22:53.597 23752 23752 I ViewRootImpl@cb9047[PathPageActivity]: MSG_WINDOW_FOCUS_CHANGED 0 1
+12-16 12:22:53.597 23752 23752 D InputMethodManager: prepareNavigationBarInfo() DecorView@857fea[PathPageActivity]
+12-16 12:22:53.597 23752 23752 D InputMethodManager: getNavigationBarColor() -855310
+12-16 12:22:53.606 23752 23752 I ViewRootImpl@8a9eca9[MainActivity]: MSG_WINDOW_FOCUS_CHANGED 1 1
+12-16 12:22:53.607 23752 23752 D InputMethodManager: prepareNavigationBarInfo() DecorView@9d09cae[MainActivity]
+12-16 12:22:53.607 23752 23752 D InputMethodManager: getNavigationBarColor() -855310
+12-16 12:22:53.612 23752 23752 D InputMethodManager: prepareNavigationBarInfo() DecorView@9d09cae[MainActivity]
+12-16 12:22:53.612 23752 23752 D InputMethodManager: getNavigationBarColor() -855310
+12-16 12:22:53.612 23752 23752 V InputMethodManager: Starting input: tba=com.rmc.natour21 ic=null mNaviBarColor -855310 mIsGetNaviBarColorSuccess true , NavVisible : true , NavTrans : false
+12-16 12:22:53.612 23752 23752 D InputMethodManager: startInputInner - Id : 0
+12-16 12:22:53.612 23752 23752 I InputMethodManager: startInputInner - mService.startInputOrWindowGainedFocus
+12-16 12:22:53.614 23752 23752 D InputTransport: Input channel destroyed: 'ClientS', fd=128
+12-16 12:22:53.748 23752 23774 V Toast   : HIDE: android.widget.Toast$TN@5808c1c
+12-16 12:22:53.749 23752 23752 V Toast   : HANDLE HIDE: android.widget.Toast$TN@5808c1c mView=android.widget.LinearLayout{c146025 V.E...... ........ 0,0-780,116}
+12-16 12:22:53.749 23752 23752 V Toast   : REMOVE! android.widget.LinearLayout{c146025 V.E...... ........ 0,0-780,116} in android.widget.Toast$TN@5808c1c
+12-16 12:22:53.750 23752 23821 W libEGL  : EGLNativeWindowType 0x790cd7a210 disconnect failed
+12-16 12:22:53.751 23752 23752 I ViewRootImpl@a184e08[Toast]: dispatchDetachedFromWindow
+12-16 12:22:53.754 23752 23752 D InputTransport: Input channel destroyed: 'fe786c7', fd=78
+12-16 12:22:54.038 23752 23821 W libEGL  : EGLNativeWindowType 0x79b54c1d10 disconnect failed
+12-16 12:22:54.060 23752 23752 I ViewRootImpl@cb9047[PathPageActivity]: Relayout returned: old=(0,0,1080,2220) new=(0,0,1080,2220) req=(1080,2220)8 dur=20 res=0x5 s={false 0} ch=true
+12-16 12:22:54.063 23752 23752 I ViewRootImpl@cb9047[PathPageActivity]: stopped(true) old=false
+12-16 12:22:54.111 23752 23752 I ViewRootImpl@cb9047[PathPageActivity]: dispatchDetachedFromWindow
+12-16 12:22:54.123 23752 23752 D InputTransport: Input channel destroyed: '6b059be', fd=129
+12-16 12:23:00.126 23752 23752 I ViewRootImpl@8a9eca9[MainActivity]: ViewPostIme pointer 0
+12-16 12:23:01.010 23752 23821 W libEGL  : EGLNativeWindowType 0x790cd7a710 disconnect failed
+12-16 12:23:01.028 23752 23752 I ViewRootImpl@8a9eca9[MainActivity]: Relayout returned: old=(0,0,1080,2220) new=(0,0,1080,2220) req=(1080,2220)8 dur=17 res=0x5 s={false 0} ch=true
+12-16 12:23:01.035 23752 23752 I ViewRootImpl@8a9eca9[MainActivity]: MSG_WINDOW_FOCUS_CHANGED 0 1
+12-16 12:23:01.036 23752 23752 D InputMethodManager: prepareNavigationBarInfo() DecorView@9d09cae[MainActivity]
+12-16 12:23:01.036 23752 23752 D InputMethodManager: getNavigationBarColor() -855310
+12-16 12:23:01.052 23752 23752 I ViewRootImpl@8a9eca9[MainActivity]: stopped(true) old=false
+12-16 12:23:01.054 23752 23752 D ConnectivityManager: unregisterNetworkCallback; CallingUid : 10308, CallingPid : 23752
+12-16 12:23:01.084 23752 23752 D InputTransport: Input channel destroyed: 'ClientS', fd=122
+12-16 12:23:01.097 23752 23752 I ViewRootImpl@8a9eca9[MainActivity]: Relayout returned: old=(0,0,1080,2220) new=(0,0,1080,2220) req=(1080,2220)8 dur=7 res=0x5 s={false 0} ch=false
+12-16 12:23:01.564 23752 23871 E PINGER  : [12:23:01.559 Connection$Pinger:stop():522] Pinger stop true
+12-16 12:23:01.572 23752 23871 E Sendbird:PINGER: [12:23:01.568 Connection$Pinger:stop():523] Pinger stop true
+12-16 12:23:01.589 23752 23908 W SendBird: [12:23:01.588 Connection$1:onFailure():250] onFailed instance : com.sendbird.android.Connection@37f00f3
+12-16 12:23:01.592 23752 23908 W Sendbird: [12:23:01.590 Connection$1:onFailure():251] onFailed instance : com.sendbird.android.Connection@37f00f3
+12-16 12:23:01.593 23752 23883 W SendBird: [12:23:01.583 Connection$1:onMessage():235] onMessage instance : [PONG] com.sendbird.android.Connection@37f00f3
+12-16 12:23:01.595 23752 23883 W Sendbird: [12:23:01.594 Connection$1:onMessage():236] onMessage instance : [PONG] com.sendbird.android.Connection@37f00f3
+12-16 12:23:01.605 23752 23908 W SendBird: [12:23:01.604 Connection$1:onFailure():256] onFailed handler : com.sendbird.android.SocketManager@11a9187
+12-16 12:23:01.607 23752 23908 W Sendbird: [12:23:01.606 Connection$1:onFailure():257] onFailed handler : com.sendbird.android.SocketManager@11a9187
+12-16 12:23:01.610 23752 23908 W SendBird: [12:23:01.609 SocketManager:onError():1002] >> onError : Socket is closed, reconnecting : false, explicitDisconnect : true
+12-16 12:23:01.611 23752 23903 W SendBird: [12:23:01.610 EventController$1:call():141] ++ result[PONG] runnable=null

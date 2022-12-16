@@ -1,0 +1,1241 @@
+--------- beginning of main
+12-16 12:05:43.474 14322 14322 I om.rmc.natour2: Late-enabling -Xcheck:jni
+12-16 12:05:43.501 14322 14322 E om.rmc.natour2: Unknown bits set in runtime_flags: 0x8000
+12-16 12:05:43.515 14322 14322 D ActivityThread: setConscryptValidator
+12-16 12:05:43.515 14322 14322 D ActivityThread: setConscryptValidator - put
+12-16 12:05:43.557 14322 14322 I om.rmc.natour2: The ClassLoaderContext is a special shared library.
+12-16 12:05:44.658 14322 14322 I FirebaseApp: Device unlocked: initializing all Firebase APIs for app [DEFAULT]
+12-16 12:05:44.745 14322 14455 I DynamiteModule: Considering local module com.google.android.gms.measurement.dynamite:70 and remote module com.google.android.gms.measurement.dynamite:87
+12-16 12:05:44.745 14322 14455 I DynamiteModule: Selected remote version of com.google.android.gms.measurement.dynamite, version >= 87
+12-16 12:05:44.745 14322 14455 V DynamiteModule: Dynamite loader version >= 2, using loadModule2NoCrashUtils
+12-16 12:05:44.753 14322 14322 I FirebaseInitProvider: FirebaseApp initialization successful
+12-16 12:05:44.759 14322 14455 W System  : ClassLoader referenced unknown path: 
+12-16 12:05:44.809 14322 14455 W om.rmc.natour2: Accessing hidden field Lsun/misc/Unsafe;->theUnsafe:Lsun/misc/Unsafe; (greylist, reflection, allowed)
+12-16 12:05:44.810 14322 14455 W om.rmc.natour2: Accessing hidden method Lsun/misc/Unsafe;->objectFieldOffset(Ljava/lang/reflect/Field;)J (greylist,core-platform-api, linking, allowed)
+12-16 12:05:44.810 14322 14455 W om.rmc.natour2: Accessing hidden method Lsun/misc/Unsafe;->arrayBaseOffset(Ljava/lang/Class;)I (greylist,core-platform-api, linking, allowed)
+12-16 12:05:44.810 14322 14455 W om.rmc.natour2: Accessing hidden method Lsun/misc/Unsafe;->arrayIndexScale(Ljava/lang/Class;)I (greylist, linking, allowed)
+12-16 12:05:44.837 14322 14469 D NetworkSecurityConfig: Using Network Security Config from resource network_security_config debugBuild: true
+12-16 12:05:44.865 14322 14469 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:05:44.865 14322 14469 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:05:44.879 14322 14322 W com.facebook.UserSettingsManager: Please set a value for AutoLogAppEventsEnabled. Set the flag to TRUE if you want to collect app install, app launch and in-app purchase events automatically. To request user consent before collecting data, set the flag value to FALSE, then change to TRUE once user consent is received. Learn more: https://developers.facebook.com/docs/app-events/getting-started-app-events-android#disable-auto-events.
+12-16 12:05:44.879 14322 14322 W com.facebook.UserSettingsManager: You haven't set a value for AdvertiserIDCollectionEnabled. Set the flag to TRUE if you want to collect Advertiser ID for better advertising and analytics results. To request user consent before collecting data, set the flag value to FALSE, then change to TRUE once user consent is received. Learn more: https://developers.facebook.com/docs/app-events/getting-started-app-events-android#disable-auto-events.
+12-16 12:05:44.923 14322 14469 D TcpOptimizer: TcpOptimizer-ON
+12-16 12:05:44.926 14322 14481 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:05:44.926 14322 14481 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:05:44.927 14322 14501 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:05:44.927 14322 14501 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:05:44.929 14322 14512 W com.facebook.internal.NativeProtocol: Apps that target Android API 30+ (Android 11+) cannot call Facebook native apps unless the package visibility needs are declared. Please follow https://developers.facebook.com/docs/android/troubleshooting/#faq_267321845055988 to make the declaration.
+12-16 12:05:44.931 14322 14468 I FA      : App measurement initialized, version: 75052
+12-16 12:05:44.931 14322 14468 I FA      : To enable debug logging run: adb shell setprop log.tag.FA VERBOSE
+12-16 12:05:44.932 14322 14468 I FA      : To enable faster debug mode event logging run:
+12-16 12:05:44.932 14322 14468 I FA      :   adb shell setprop debug.firebase.analytics.app com.rmc.natour21
+12-16 12:05:44.935 14322 14509 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:05:44.935 14322 14509 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:05:44.952 14322 14322 D KeyHash:: 3Fm4gBnqk2PYU3lntxOY4S7uHvQ=
+12-16 12:05:44.978 14322 14469 D libmdf  : libmdf v2.9.0.0 On 64bit PLATFORM
+12-16 12:05:45.020 14322 14546 D libEGL  : loaded /vendor/lib64/egl/libGLES_mali.so
+12-16 12:05:45.070 14322 14322 D PhoneWindow: forceLight changed to true [] from com.android.internal.policy.PhoneWindow.updateForceLightNavigationBar:4274 com.android.internal.policy.DecorView.updateColorViews:1547 com.android.internal.policy.PhoneWindow.dispatchWindowAttributesChanged:3252 android.view.Window.setFlags:1153 com.android.internal.policy.PhoneWindow.generateLayout:2474 
+12-16 12:05:45.071 14322 14322 I MultiWindowDecorSupport: [INFO] isPopOver = false
+12-16 12:05:45.071 14322 14322 I MultiWindowDecorSupport: updateCaptionType >> DecorView@9f9dc97[], isFloating: false, isApplication: true, hasWindowDecorCaption: false, hasWindowControllerCallback: true
+12-16 12:05:45.071 14322 14322 D MultiWindowDecorSupport: setCaptionType = 0, DecorView = DecorView@9f9dc97[]
+12-16 12:05:45.078 14322 14468 I FA      : Tag Manager is not found and thus will not be used
+12-16 12:05:45.103 14322 14322 W om.rmc.natour2: Accessing hidden method Landroid/view/View;->computeFitSystemWindows(Landroid/graphics/Rect;Landroid/graphics/Rect;)Z (greylist, reflection, allowed)
+12-16 12:05:45.103 14322 14322 W om.rmc.natour2: Accessing hidden method Landroid/view/ViewGroup;->makeOptionalFitsSystemWindows()V (greylist, reflection, allowed)
+12-16 12:05:45.197 14322 14322 D ConnectivityManager: requestNetwork; CallingUid : 10308, CallingPid : 14322
+12-16 12:05:45.213 14322 14455 W om.rmc.natour2: Accessing hidden method Lsun/misc/Unsafe;->compareAndSwapInt(Ljava/lang/Object;JII)Z (greylist, linking, allowed)
+12-16 12:05:45.213 14322 14455 W om.rmc.natour2: Accessing hidden method Lsun/misc/Unsafe;->getObjectVolatile(Ljava/lang/Object;J)Ljava/lang/Object; (greylist, linking, allowed)
+12-16 12:05:45.213 14322 14455 W om.rmc.natour2: Accessing hidden method Lsun/misc/Unsafe;->compareAndSwapObject(Ljava/lang/Object;JLjava/lang/Object;Ljava/lang/Object;)Z (greylist, linking, allowed)
+12-16 12:05:45.213 14322 14455 W om.rmc.natour2: Accessing hidden method Lsun/misc/Unsafe;->compareAndSwapLong(Ljava/lang/Object;JJJ)Z (greylist, linking, allowed)
+12-16 12:05:45.245 14322 14322 I ViewRootImpl@220e9ed[Splashscreen]: setView = com.android.internal.policy.DecorView@9f9dc97 TM=true MM=false
+12-16 12:05:45.278 14322 14505 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:05:45.278 14322 14505 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:05:45.315 14322 14322 I ViewRootImpl@220e9ed[Splashscreen]: Relayout returned: old=(0,0,1080,2220) new=(0,0,1080,2220) req=(1080,2220)0 dur=13 res=0x7 s={true 522963259392} ch=true
+12-16 12:05:45.321 14322 14322 I ViewRootImpl@220e9ed[Splashscreen]: [DrawPending] drawPending(1) 1 android.view.ViewRootImpl.reportNextDraw:9952 android.view.ViewRootImpl.performTraversals:3329 android.view.ViewRootImpl.doTraversal:2222 
+12-16 12:05:45.321 14322 14322 I ViewRootImpl@220e9ed[Splashscreen]: [DrawPending] performDraw() Waiting asnyc report
+12-16 12:05:45.334 14322 14540 D mali_winsys: EGLint new_window_surface(egl_winsys_display *, void *, EGLSurface, EGLConfig, egl_winsys_surface **, EGLBoolean) returns 0x3000
+12-16 12:05:45.350 14322 14540 W Gralloc3: mapper 3.x is not supported
+12-16 12:05:45.450 14322 14540 E cutils-trace: Error opening trace file: No such file or directory (2)
+12-16 12:05:45.452 14322 14322 I ViewRootImpl@220e9ed[Splashscreen]: [DrawPending] pendingDrawFinished(0) 1 android.view.ViewRootImpl.lambda$performDraw$1$ViewRootImpl:4058 android.view.-$$Lambda$ViewRootImpl$7A_3tkr_Kw4TZAeIUGVlOoTcZhg.run:4 android.os.Handler.handleCallback:883 
+12-16 12:05:45.453 14322 14322 I ViewRootImpl@220e9ed[Splashscreen]: [DrawPending] reportDrawFinished()
+12-16 12:05:45.474 14322 14322 I ViewRootImpl@220e9ed[Splashscreen]: MSG_WINDOW_FOCUS_CHANGED 1 1
+12-16 12:05:45.474 14322 14322 D InputMethodManager: prepareNavigationBarInfo() DecorView@9f9dc97[Splashscreen]
+12-16 12:05:45.474 14322 14322 D InputMethodManager: getNavigationBarColor() -855310
+12-16 12:05:45.476 14322 14322 D InputMethodManager: prepareNavigationBarInfo() DecorView@9f9dc97[Splashscreen]
+12-16 12:05:45.476 14322 14322 D InputMethodManager: getNavigationBarColor() -855310
+12-16 12:05:45.476 14322 14322 V InputMethodManager: Starting input: tba=com.rmc.natour21 ic=null mNaviBarColor -855310 mIsGetNaviBarColorSuccess true , NavVisible : true , NavTrans : false
+12-16 12:05:45.477 14322 14322 D InputMethodManager: startInputInner - Id : 0
+12-16 12:05:45.477 14322 14322 I InputMethodManager: startInputInner - mService.startInputOrWindowGainedFocus
+12-16 12:05:45.495 14322 14322 I ViewRootImpl@220e9ed[Splashscreen]: MSG_RESIZED: frame=(0,0,1080,2220) ci=(0,0,0,0) vi=(0,0,0,0) or=1
+12-16 12:05:45.505 14322 14322 D InputMethodManager: prepareNavigationBarInfo() DecorView@9f9dc97[Splashscreen]
+12-16 12:05:45.505 14322 14322 D InputMethodManager: getNavigationBarColor() -855310
+12-16 12:05:45.505 14322 14322 V InputMethodManager: Starting input: tba=com.rmc.natour21 ic=null mNaviBarColor -855310 mIsGetNaviBarColorSuccess true , NavVisible : true , NavTrans : false
+12-16 12:05:45.505 14322 14322 D InputMethodManager: startInputInner - Id : 0
+12-16 12:05:45.527 14322 14509 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:05:45.527 14322 14509 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:05:45.537 14322 14501 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:05:45.538 14322 14501 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:05:45.702 14322 14505 W AnalyticsUserIDStore: initStore should have been called before calling setUserID
+12-16 12:05:45.782 14322 14481 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:05:45.782 14322 14481 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:05:45.782 14322 14505 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:05:45.783 14322 14505 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:05:45.849 14322 14322 W ActivityThread: handleWindowVisibility: no activity for token android.os.BinderProxy@5ed8492
+12-16 12:05:45.878 14322 14322 D PhoneWindow: forceLight changed to true [] from com.android.internal.policy.PhoneWindow.updateForceLightNavigationBar:4274 com.android.internal.policy.DecorView.updateColorViews:1547 com.android.internal.policy.PhoneWindow.dispatchWindowAttributesChanged:3252 android.view.Window.setFlags:1153 com.android.internal.policy.PhoneWindow.generateLayout:2474 
+12-16 12:05:45.879 14322 14322 I MultiWindowDecorSupport: [INFO] isPopOver = false
+12-16 12:05:45.879 14322 14322 I MultiWindowDecorSupport: updateCaptionType >> DecorView@7c8fc89[], isFloating: false, isApplication: true, hasWindowDecorCaption: false, hasWindowControllerCallback: true
+12-16 12:05:45.879 14322 14322 D MultiWindowDecorSupport: setCaptionType = 0, DecorView = DecorView@7c8fc89[]
+12-16 12:05:46.153 14322 14322 I ViewRootImpl@5c250a5[Login]: setView = com.android.internal.policy.DecorView@7c8fc89 TM=true MM=false
+12-16 12:05:46.157 14322 14322 I ViewRootImpl@220e9ed[Splashscreen]: MSG_WINDOW_FOCUS_CHANGED 0 1
+12-16 12:05:46.157 14322 14322 D InputMethodManager: prepareNavigationBarInfo() DecorView@9f9dc97[Splashscreen]
+12-16 12:05:46.157 14322 14322 D InputMethodManager: getNavigationBarColor() -855310
+12-16 12:05:46.214 14322 14322 I ViewRootImpl@5c250a5[Login]: Relayout returned: old=(0,0,1080,2220) new=(0,0,1080,2220) req=(1080,2220)0 dur=10 res=0x7 s={true 522962956288} ch=true
+12-16 12:05:46.217 14322 14540 D mali_winsys: EGLint new_window_surface(egl_winsys_display *, void *, EGLSurface, EGLConfig, egl_winsys_surface **, EGLBoolean) returns 0x3000
+12-16 12:05:46.238 14322 14322 I ViewRootImpl@5c250a5[Login]: [DrawPending] drawPending(1) 1 android.view.ViewRootImpl.reportNextDraw:9952 android.view.ViewRootImpl.performTraversals:3329 android.view.ViewRootImpl.doTraversal:2222 
+12-16 12:05:46.239 14322 14322 I ViewRootImpl@5c250a5[Login]: [DrawPending] performDraw() Waiting asnyc report
+12-16 12:05:46.378 14322 14322 I ViewRootImpl@5c250a5[Login]: [DrawPending] pendingDrawFinished(0) 1 android.view.ViewRootImpl.lambda$performDraw$1$ViewRootImpl:4058 android.view.-$$Lambda$ViewRootImpl$7A_3tkr_Kw4TZAeIUGVlOoTcZhg.run:4 android.os.Handler.handleCallback:883 
+12-16 12:05:46.378 14322 14322 I ViewRootImpl@5c250a5[Login]: [DrawPending] reportDrawFinished()
+12-16 12:05:46.383 14322 14322 I ViewRootImpl@5c250a5[Login]: MSG_WINDOW_FOCUS_CHANGED 1 1
+12-16 12:05:46.384 14322 14322 D InputMethodManager: prepareNavigationBarInfo() DecorView@7c8fc89[Login]
+12-16 12:05:46.384 14322 14322 D InputMethodManager: getNavigationBarColor() -855310
+12-16 12:05:46.392 14322 14322 D EmergencyMode: [EmergencyManager] android createPackageContext successful: com.rmc.natour21
+12-16 12:05:46.423 14322 14322 D InputMethodManager: prepareNavigationBarInfo() DecorView@7c8fc89[Login]
+12-16 12:05:46.423 14322 14322 D InputMethodManager: getNavigationBarColor() -855310
+12-16 12:05:46.423 14322 14322 V InputMethodManager: Starting input: tba=com.rmc.natour21 ic=null mNaviBarColor -855310 mIsGetNaviBarColorSuccess true , NavVisible : true , NavTrans : false
+12-16 12:05:46.423 14322 14322 D InputMethodManager: startInputInner - Id : 0
+12-16 12:05:46.423 14322 14322 I InputMethodManager: startInputInner - mService.startInputOrWindowGainedFocus
+12-16 12:05:46.424 14322 14322 D InputTransport: Input channel destroyed: 'ClientS', fd=102
+12-16 12:05:46.440 14322 14322 I ViewRootImpl@5c250a5[Login]: MSG_RESIZED: frame=(0,0,1080,2220) ci=(0,0,0,0) vi=(0,0,0,0) or=1
+12-16 12:05:46.797 14322 14505 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:05:46.797 14322 14505 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:05:46.819 14322 14540 W libEGL  : EGLNativeWindowType 0x79b52d5b90 disconnect failed
+12-16 12:05:46.826 14322 14322 I ViewRootImpl@220e9ed[Splashscreen]: Relayout returned: old=(0,0,1080,2220) new=(0,0,1080,2220) req=(1080,2220)8 dur=7 res=0x5 s={false 0} ch=true
+12-16 12:05:46.840 14322 14322 D ConnectivityManager: unregisterNetworkCallback; CallingUid : 10308, CallingPid : 14322
+12-16 12:05:46.841 14322 14322 I ViewRootImpl@220e9ed[Splashscreen]: stopped(true) old=false
+12-16 12:05:46.845 14322 14455 W om.rmc.natour2: Accessing hidden method Lsun/misc/Unsafe;->putObjectVolatile(Ljava/lang/Object;JLjava/lang/Object;)V (greylist, linking, allowed)
+12-16 12:05:46.846 14322 14322 I ViewRootImpl@220e9ed[Splashscreen]: dispatchDetachedFromWindow
+12-16 12:05:46.849 14322 14322 D InputTransport: Input channel destroyed: '39aa534', fd=92
+12-16 12:05:46.854 14322 14945 W om.rmc.natour2: Accessing hidden method Landroid/os/WorkSource;->add(I)Z (greylist, reflection, allowed)
+12-16 12:05:46.854 14322 14945 W om.rmc.natour2: Accessing hidden method Landroid/os/WorkSource;->add(ILjava/lang/String;)Z (greylist, reflection, allowed)
+12-16 12:05:46.854 14322 14945 W om.rmc.natour2: Accessing hidden method Landroid/os/WorkSource;->size()I (greylist, reflection, allowed)
+12-16 12:05:46.854 14322 14945 W om.rmc.natour2: Accessing hidden method Landroid/os/WorkSource;->get(I)I (greylist, reflection, allowed)
+12-16 12:05:46.854 14322 14945 W om.rmc.natour2: Accessing hidden method Landroid/os/WorkSource;->getName(I)Ljava/lang/String; (greylist, reflection, allowed)
+12-16 12:05:46.855 14322 14945 W om.rmc.natour2: Accessing hidden method Landroid/os/WorkSource;->isEmpty()Z (greylist-max-o, reflection, denied)
+12-16 12:05:46.886 14322 14953 E SendBird: [12:05:46.885 SendBird:getInstance():553] SendBird instance hasn't been initialized. Try SendBird.init().
+12-16 12:05:46.887 14322 14322 W System.err: SendBirdException{code=800220, message=SendBird instance hasn't been initialized.}
+12-16 12:05:46.887 14322 14322 W System.err: 	at com.sendbird.android.JobResultTask$callable$1.call(JobResultTask.kt:20)
+12-16 12:05:46.887 14322 14322 W System.err: 	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+12-16 12:05:46.887 14322 14322 W System.err: 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167)
+12-16 12:05:46.887 14322 14322 W System.err: 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641)
+12-16 12:05:46.887 14322 14322 W System.err: 	at java.lang.Thread.run(Thread.java:919)
+12-16 12:05:47.818 14322 14322 I ViewRootImpl@5c250a5[Login]: ViewPostIme pointer 0
+12-16 12:05:47.857 14322 14322 I ViewRootImpl@5c250a5[Login]: ViewPostIme pointer 1
+12-16 12:05:47.930 14322 14322 W ActivityThread: handleWindowVisibility: no activity for token android.os.BinderProxy@a196a4a
+12-16 12:05:47.975 14322 14322 D PhoneWindow: forceLight changed to true [] from com.android.internal.policy.PhoneWindow.updateForceLightNavigationBar:4274 com.android.internal.policy.DecorView.updateColorViews:1547 com.android.internal.policy.PhoneWindow.dispatchWindowAttributesChanged:3252 android.view.Window.setFlags:1153 com.android.internal.policy.PhoneWindow.generateLayout:2474 
+12-16 12:05:47.976 14322 14322 I MultiWindowDecorSupport: [INFO] isPopOver = false
+12-16 12:05:47.976 14322 14322 I MultiWindowDecorSupport: updateCaptionType >> DecorView@5027da1[], isFloating: false, isApplication: true, hasWindowDecorCaption: false, hasWindowControllerCallback: true
+12-16 12:05:47.976 14322 14322 D MultiWindowDecorSupport: setCaptionType = 0, DecorView = DecorView@5027da1[]
+12-16 12:05:47.995 14322 14322 I ViewRootImpl@5c80095[SignInHubActivity]: setView = com.android.internal.policy.DecorView@5027da1 TM=true MM=false
+12-16 12:05:47.996 14322 14322 I ViewRootImpl@5c250a5[Login]: MSG_WINDOW_FOCUS_CHANGED 0 1
+12-16 12:05:47.996 14322 14322 D InputMethodManager: prepareNavigationBarInfo() DecorView@7c8fc89[Login]
+12-16 12:05:47.996 14322 14322 D InputMethodManager: getNavigationBarColor() -855310
+12-16 12:05:48.021 14322 14322 I ViewRootImpl@5c80095[SignInHubActivity]: Relayout returned: old=(0,0,1080,2220) new=(0,0,1080,2220) req=(1080,2220)0 dur=8 res=0x7 s={true 522963402752} ch=true
+12-16 12:05:48.025 14322 14322 I ViewRootImpl@5c80095[SignInHubActivity]: [DrawPending] drawPending(1) 1 android.view.ViewRootImpl.reportNextDraw:9952 android.view.ViewRootImpl.performTraversals:3329 android.view.ViewRootImpl.doTraversal:2222 
+12-16 12:05:48.025 14322 14322 I ViewRootImpl@5c80095[SignInHubActivity]: [DrawPending] performDraw() Waiting asnyc report
+12-16 12:05:48.026 14322 14540 D mali_winsys: EGLint new_window_surface(egl_winsys_display *, void *, EGLSurface, EGLConfig, egl_winsys_surface **, EGLBoolean) returns 0x3000
+12-16 12:05:48.038 14322 14322 I ViewRootImpl@5c80095[SignInHubActivity]: [DrawPending] pendingDrawFinished(0) 1 android.view.ViewRootImpl.lambda$performDraw$1$ViewRootImpl:4058 android.view.-$$Lambda$ViewRootImpl$7A_3tkr_Kw4TZAeIUGVlOoTcZhg.run:4 android.os.Handler.handleCallback:883 
+12-16 12:05:48.038 14322 14322 I ViewRootImpl@5c80095[SignInHubActivity]: [DrawPending] reportDrawFinished()
+12-16 12:05:48.053 14322 14322 I ViewRootImpl@5c80095[SignInHubActivity]: MSG_WINDOW_FOCUS_CHANGED 1 1
+12-16 12:05:48.054 14322 14322 D InputMethodManager: prepareNavigationBarInfo() DecorView@5027da1[SignInHubActivity]
+12-16 12:05:48.054 14322 14322 D InputMethodManager: getNavigationBarColor() -855310
+12-16 12:05:48.057 14322 14322 D InputMethodManager: prepareNavigationBarInfo() DecorView@5027da1[SignInHubActivity]
+12-16 12:05:48.057 14322 14322 D InputMethodManager: getNavigationBarColor() -855310
+12-16 12:05:48.057 14322 14322 V InputMethodManager: Starting input: tba=com.rmc.natour21 ic=null mNaviBarColor -855310 mIsGetNaviBarColorSuccess true , NavVisible : true , NavTrans : false
+12-16 12:05:48.057 14322 14322 D InputMethodManager: startInputInner - Id : 0
+12-16 12:05:48.057 14322 14322 I InputMethodManager: startInputInner - mService.startInputOrWindowGainedFocus
+12-16 12:05:48.059 14322 14322 D InputTransport: Input channel destroyed: 'ClientS', fd=109
+12-16 12:05:48.060 14322 14322 I ViewRootImpl@5c80095[SignInHubActivity]: MSG_RESIZED: frame=(0,0,1080,2220) ci=(0,63,0,0) vi=(0,63,0,0) or=1
+12-16 12:05:48.116 14322 14322 I ViewRootImpl@5c80095[SignInHubActivity]: MSG_WINDOW_FOCUS_CHANGED 0 1
+12-16 12:05:48.116 14322 14322 D InputMethodManager: prepareNavigationBarInfo() DecorView@5027da1[SignInHubActivity]
+12-16 12:05:48.116 14322 14322 D InputMethodManager: getNavigationBarColor() -855310
+12-16 12:05:48.720 14322 14322 D InputTransport: Input channel destroyed: 'ClientS', fd=113
+12-16 12:05:51.954 14322 14322 I ViewRootImpl@5c80095[SignInHubActivity]: stopped(false) old=false
+12-16 12:05:51.957 14322 14322 I ViewRootImpl@5c80095[SignInHubActivity]: MSG_WINDOW_FOCUS_CHANGED 1 1
+12-16 12:05:51.958 14322 14322 D InputMethodManager: prepareNavigationBarInfo() DecorView@5027da1[SignInHubActivity]
+12-16 12:05:51.958 14322 14322 D InputMethodManager: getNavigationBarColor() -855310
+12-16 12:05:51.962 14322 14322 D InputMethodManager: prepareNavigationBarInfo() DecorView@5027da1[SignInHubActivity]
+12-16 12:05:51.962 14322 14322 D InputMethodManager: getNavigationBarColor() -855310
+12-16 12:05:51.962 14322 14322 V InputMethodManager: Starting input: tba=com.rmc.natour21 ic=null mNaviBarColor -855310 mIsGetNaviBarColorSuccess true , NavVisible : true , NavTrans : false
+12-16 12:05:51.962 14322 14322 D InputMethodManager: startInputInner - Id : 0
+12-16 12:05:51.962 14322 14322 I InputMethodManager: startInputInner - mService.startInputOrWindowGainedFocus
+12-16 12:05:51.995 14322 14322 I ViewRootImpl@5c250a5[Login]: stopped(false) old=false
+12-16 12:05:51.998 14322 14322 I ViewRootImpl@5c250a5[Login]: MSG_WINDOW_FOCUS_CHANGED 1 1
+12-16 12:05:51.998 14322 14322 D InputMethodManager: prepareNavigationBarInfo() DecorView@7c8fc89[Login]
+12-16 12:05:51.998 14322 14322 D InputMethodManager: getNavigationBarColor() -855310
+12-16 12:05:52.005 14322 15316 W System  : Ignoring header X-Firebase-Locale because its value was null.
+12-16 12:05:52.014 14322 14322 D InputMethodManager: prepareNavigationBarInfo() DecorView@7c8fc89[Login]
+12-16 12:05:52.014 14322 14322 D InputMethodManager: getNavigationBarColor() -855310
+12-16 12:05:52.014 14322 14322 V InputMethodManager: Starting input: tba=com.rmc.natour21 ic=null mNaviBarColor -855310 mIsGetNaviBarColorSuccess true , NavVisible : true , NavTrans : false
+12-16 12:05:52.014 14322 14322 D InputMethodManager: startInputInner - Id : 0
+12-16 12:05:52.014 14322 14322 I InputMethodManager: startInputInner - mService.startInputOrWindowGainedFocus
+12-16 12:05:52.015 14322 14322 D InputTransport: Input channel destroyed: 'ClientS', fd=109
+12-16 12:05:52.015 14322 14322 I ViewRootImpl@5c80095[SignInHubActivity]: MSG_WINDOW_FOCUS_CHANGED 0 1
+12-16 12:05:52.015 14322 14322 D InputMethodManager: prepareNavigationBarInfo() DecorView@5027da1[SignInHubActivity]
+12-16 12:05:52.015 14322 14322 D InputMethodManager: getNavigationBarColor() -855310
+12-16 12:05:52.016 14322 15316 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:05:52.016 14322 15316 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:05:52.023 14322 14322 I ViewRootImpl@5c80095[SignInHubActivity]: stopped(true) old=false
+12-16 12:05:52.046 14322 14540 W libEGL  : EGLNativeWindowType 0x79b52d8250 disconnect failed
+12-16 12:05:52.047 14322 14322 I ViewRootImpl@5c80095[SignInHubActivity]: dispatchDetachedFromWindow
+12-16 12:05:52.049 14322 14322 D InputTransport: Input channel destroyed: '2a421c9', fd=107
+12-16 12:05:52.582 14322 15316 W System  : Ignoring header X-Firebase-Locale because its value was null.
+12-16 12:05:52.588 14322 15316 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:05:52.588 14322 15316 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:05:52.832 14322 15316 D FirebaseAuth: Notifying id token listeners about user ( dOyjDFVmXBbtaV5V2GW8G96fUv43 ).
+12-16 12:05:52.833 14322 15316 D FirebaseAuth: Notifying auth state listeners about user ( dOyjDFVmXBbtaV5V2GW8G96fUv43 ).
+12-16 12:05:52.855 14322 14322 W ActivityThread: handleWindowVisibility: no activity for token android.os.BinderProxy@8d6350e
+12-16 12:05:52.876 14322 14322 D PhoneWindow: forceLight changed to true [] from com.android.internal.policy.PhoneWindow.updateForceLightNavigationBar:4274 com.android.internal.policy.DecorView.updateColorViews:1547 com.android.internal.policy.PhoneWindow.dispatchWindowAttributesChanged:3252 android.view.Window.setFlags:1153 com.android.internal.policy.PhoneWindow.generateLayout:2474 
+12-16 12:05:52.877 14322 14322 I MultiWindowDecorSupport: [INFO] isPopOver = false
+12-16 12:05:52.877 14322 14322 I MultiWindowDecorSupport: updateCaptionType >> DecorView@7c74540[], isFloating: false, isApplication: true, hasWindowDecorCaption: false, hasWindowControllerCallback: true
+12-16 12:05:52.877 14322 14322 D MultiWindowDecorSupport: setCaptionType = 0, DecorView = DecorView@7c74540[]
+12-16 12:05:52.938 14322 14322 D Log: AppIntroBaseFragm: Slide null has been selected.
+12-16 12:05:52.951 14322 14322 I ViewRootImpl@d94b65d[NaTourIntro]: setView = com.android.internal.policy.DecorView@7c74540 TM=true MM=false
+12-16 12:05:52.961 14322 14322 I ViewRootImpl@5c250a5[Login]: MSG_WINDOW_FOCUS_CHANGED 0 1
+12-16 12:05:52.961 14322 14322 D InputMethodManager: prepareNavigationBarInfo() DecorView@7c8fc89[Login]
+12-16 12:05:52.961 14322 14322 D InputMethodManager: getNavigationBarColor() -855310
+12-16 12:05:53.092 14322 14322 I ViewRootImpl@d94b65d[NaTourIntro]: Relayout returned: old=(0,0,1080,2220) new=(0,0,1080,2220) req=(1080,2220)0 dur=12 res=0x7 s={true 522729132032} ch=true
+12-16 12:05:53.093 14322 14540 D mali_winsys: EGLint new_window_surface(egl_winsys_display *, void *, EGLSurface, EGLConfig, egl_winsys_surface **, EGLBoolean) returns 0x3000
+12-16 12:05:53.118 14322 14322 I ViewRootImpl@d94b65d[NaTourIntro]: [DrawPending] drawPending(1) 1 android.view.ViewRootImpl.reportNextDraw:9952 android.view.ViewRootImpl.performTraversals:3329 android.view.ViewRootImpl.doTraversal:2222 
+12-16 12:05:53.118 14322 14322 I ViewRootImpl@d94b65d[NaTourIntro]: [DrawPending] performDraw() Waiting asnyc report
+12-16 12:05:53.155 14322 14322 I ViewRootImpl@d94b65d[NaTourIntro]: [DrawPending] pendingDrawFinished(0) 1 android.view.ViewRootImpl.lambda$performDraw$1$ViewRootImpl:4058 android.view.-$$Lambda$ViewRootImpl$7A_3tkr_Kw4TZAeIUGVlOoTcZhg.run:4 android.os.Handler.handleCallback:883 
+12-16 12:05:53.155 14322 14322 I ViewRootImpl@d94b65d[NaTourIntro]: [DrawPending] reportDrawFinished()
+12-16 12:05:53.157 14322 14322 D Log: AppIntroBaseFragm: Slide Benvenuto su Natour! has been selected.
+12-16 12:05:53.158 14322 14322 I ViewRootImpl@d94b65d[NaTourIntro]: MSG_WINDOW_FOCUS_CHANGED 1 1
+12-16 12:05:53.158 14322 14322 D InputMethodManager: prepareNavigationBarInfo() DecorView@7c74540[NaTourIntro]
+12-16 12:05:53.158 14322 14322 D InputMethodManager: getNavigationBarColor() -855310
+12-16 12:05:53.161 14322 14322 D InputMethodManager: prepareNavigationBarInfo() DecorView@7c74540[NaTourIntro]
+12-16 12:05:53.161 14322 14322 D InputMethodManager: getNavigationBarColor() -855310
+12-16 12:05:53.161 14322 14322 V InputMethodManager: Starting input: tba=com.rmc.natour21 ic=null mNaviBarColor -855310 mIsGetNaviBarColorSuccess true , NavVisible : true , NavTrans : false
+12-16 12:05:53.161 14322 14322 D InputMethodManager: startInputInner - Id : 0
+12-16 12:05:53.161 14322 14322 I InputMethodManager: startInputInner - mService.startInputOrWindowGainedFocus
+12-16 12:05:53.177 14322 14322 D InputTransport: Input channel destroyed: 'ClientS', fd=113
+12-16 12:05:53.178 14322 14322 I ViewRootImpl@d94b65d[NaTourIntro]: MSG_RESIZED: frame=(0,0,1080,2220) ci=(0,63,0,0) vi=(0,63,0,0) or=1
+12-16 12:05:53.588 14322 14540 W libEGL  : EGLNativeWindowType 0x79ba599f50 disconnect failed
+12-16 12:05:53.598 14322 14322 I ViewRootImpl@5c250a5[Login]: Relayout returned: old=(0,0,1080,2220) new=(0,0,1080,2220) req=(1080,2220)8 dur=10 res=0x5 s={false 0} ch=true
+12-16 12:05:53.599 14322 14322 I ViewRootImpl@5c250a5[Login]: stopped(true) old=false
+12-16 12:05:55.162 14322 14322 I ViewRootImpl@d94b65d[NaTourIntro]: ViewPostIme pointer 0
+12-16 12:05:55.204 14322 14322 I ViewRootImpl@d94b65d[NaTourIntro]: ViewPostIme pointer 1
+12-16 12:05:55.205 14322 14322 D Log: AppIntroBase: Change request will be allowed.
+12-16 12:05:55.253 14322 14322 D Log: AppIntroBaseFragm: Slide Benvenuto su Natour! has been deselected.
+12-16 12:05:55.253 14322 14322 D Log: AppIntroBaseFragm: Slide Cerca i percorsi più vicini a te! has been selected.
+12-16 12:05:55.743 14322 14322 I ViewRootImpl@d94b65d[NaTourIntro]: ViewPostIme pointer 0
+12-16 12:05:55.810 14322 14322 I ViewRootImpl@d94b65d[NaTourIntro]: ViewPostIme pointer 1
+12-16 12:05:55.811 14322 14322 D Log: AppIntroBase: Change request will be allowed.
+12-16 12:05:55.815 14322 14322 D Log: AppIntroBaseFragm: Slide Cerca i percorsi più vicini a te! has been deselected.
+12-16 12:05:55.815 14322 14322 D Log: AppIntroBaseFragm: Slide Chatta con i tuoi amici ! has been selected.
+12-16 12:05:56.223 14322 14322 I ViewRootImpl@d94b65d[NaTourIntro]: ViewPostIme pointer 0
+12-16 12:05:56.273 14322 14322 I ViewRootImpl@d94b65d[NaTourIntro]: ViewPostIme pointer 1
+12-16 12:05:56.274 14322 14322 D Log: AppIntroBase: Change request will be allowed.
+12-16 12:05:56.277 14322 14572 I System.out: Firebase token: eyJhbGciOiJSUzI1NiIsImtpZCI6Ijk3OGI1NmM2NmVhYmIwZDlhNmJhOGNhMzMwMTU2NGEyMzhlYWZjODciLCJ0eXAiOiJKV1QifQ.eyJuYW1lIjoiY2xhdWRpbyB2ZWxvdHRpIiwicGljdHVyZSI6Imh0dHBzOi8vbGgzLmdvb2dsZXVzZXJjb250ZW50LmNvbS9hL0FMbTV3dTI5V2MtR0dNWkljYk9qc2hic0pORFJ6OW9ZQjNYR3hXUmRWekdIPXM5Ni1jIiwiaXNzIjoiaHR0cHM6Ly9zZWN1cmV0b2tlbi5nb29nbGUuY29tL25hdG91cjIxLWZjNmVhIiwiYXVkIjoibmF0b3VyMjEtZmM2ZWEiLCJhdXRoX3RpbWUiOjE2NzExODg3NTEsInVzZXJfaWQiOiJkT3lqREZWbVhCYnRhVjVWMkdXOEc5NmZVdjQzIiwic3ViIjoiZE95akRGVm1YQmJ0YVY1VjJHVzhHOTZmVXY0MyIsImlhdCI6MTY3MTE4ODc1MSwiZXhwIjoxNjcxMTkyMzUxLCJlbWFpbCI6ImNsYWRvdHRpMzFAZ21haWwuY29tIiwiZW1haWxfdmVyaWZpZWQiOnRydWUsImZpcmViYXNlIjp7ImlkZW50aXRpZXMiOnsiZ29vZ2xlLmNvbSI6WyIxMTI0OTI4NzA2NDA3MTc2NTQ1NzAiXSwiZW1haWwiOlsiY2xhZG90dGkzMUBnbWFpbC5jb20iXX0sInNpZ25faW5fcHJvdmlkZXIiOiJnb29nbGUuY29tIn19.RxZplc6vZUPul4PopRgqN9-kUpK7g3_qk4s0eKM6LLgPKmAENhUhR7twdTH7WQWG292u_Xt47dqc16PEaSr2tntcXDhZ9HjDxwW66Sc8WebyQpJtMbTnV0cTGGQv0Kxb94mvni_99nppPGiy_p2Cf7BttcWujPkhJK-1mTB7lpX_Ca-658LcLoyHqkhYULg_hLvPFi4XgI9bZlmMi_Sk7Nw3nNzGPyCypL__P5YZiuqcx3H68zuotadKTPy7hU14uyjAU2hQKFRZzJSPH2dBWKs5nGn4OJe68m-Jr_XJ4qmXnAcHMH6cOq9yAZ7xA7Cz7jCSU1gobJHwNihRTfYW0g
+12-16 12:05:56.454 14322 15758 V NativeCrypto: Registering org/conscrypt/NativeCrypto's 286 native methods...
+12-16 12:05:57.361 14322 14572 W om.rmc.natour2: Accessing hidden method Ldalvik/system/BlockGuard;->getThreadPolicy()Ldalvik/system/BlockGuard$Policy; (greylist,core-platform-api, linking, allowed)
+12-16 12:05:57.361 14322 14572 W om.rmc.natour2: Accessing hidden method Ldalvik/system/BlockGuard$Policy;->onNetwork()V (greylist, linking, allowed)
+12-16 12:05:57.361 14322 14572 W om.rmc.natour2: Accessing hidden method Ldalvik/system/CloseGuard;->close()V (greylist,core-platform-api, linking, allowed)
+12-16 12:05:57.361 14322 14572 W om.rmc.natour2: Accessing hidden method Ldalvik/system/CloseGuard;->get()Ldalvik/system/CloseGuard; (greylist,core-platform-api, linking, allowed)
+12-16 12:05:57.361 14322 14572 W om.rmc.natour2: Accessing hidden method Ldalvik/system/CloseGuard;->open(Ljava/lang/String;)V (greylist,core-platform-api, linking, allowed)
+12-16 12:05:57.361 14322 14572 W om.rmc.natour2: Accessing hidden method Ldalvik/system/CloseGuard;->warnIfOpen()V (greylist,core-platform-api, linking, allowed)
+12-16 12:05:57.364 14322 14572 W om.rmc.natour2: Accessing hidden method Ljava/security/spec/ECParameterSpec;->getCurveName()Ljava/lang/String; (greylist, reflection, allowed)
+12-16 12:05:57.467 14322 14322 W ActivityThread: handleWindowVisibility: no activity for token android.os.BinderProxy@ad0fb63
+12-16 12:05:57.487 14322 14322 D PhoneWindow: forceLight changed to true [] from com.android.internal.policy.PhoneWindow.updateForceLightNavigationBar:4274 com.android.internal.policy.DecorView.updateColorViews:1547 com.android.internal.policy.PhoneWindow.dispatchWindowAttributesChanged:3252 android.view.Window.setFlags:1153 com.android.internal.policy.PhoneWindow.generateLayout:2474 
+12-16 12:05:57.487 14322 14322 I MultiWindowDecorSupport: [INFO] isPopOver = false
+12-16 12:05:57.487 14322 14322 I MultiWindowDecorSupport: updateCaptionType >> DecorView@29d01af[], isFloating: false, isApplication: true, hasWindowDecorCaption: false, hasWindowControllerCallback: true
+12-16 12:05:57.487 14322 14322 D MultiWindowDecorSupport: setCaptionType = 0, DecorView = DecorView@29d01af[]
+12-16 12:05:57.823 14322 14322 D ConnectivityManager: requestNetwork; CallingUid : 10308, CallingPid : 14322
+12-16 12:05:57.843 14322 14322 I ViewRootImpl@323ce5e[MainActivity]: setView = com.android.internal.policy.DecorView@29d01af TM=true MM=false
+12-16 12:05:57.847 14322 15879 W om.rmc.natour2: Accessing hidden field Ljava/net/Socket;->impl:Ljava/net/SocketImpl; (greylist, reflection, allowed)
+12-16 12:05:57.849 14322 14322 D SBUIKIT : [12:05:57.847 SendBirdUIKit$1:onInitSucceed():174] >> onInitSucceed()
+12-16 12:05:57.854 14322 14322 I ViewRootImpl@d94b65d[NaTourIntro]: MSG_WINDOW_FOCUS_CHANGED 0 1
+12-16 12:05:57.854 14322 14322 D InputMethodManager: prepareNavigationBarInfo() DecorView@7c74540[NaTourIntro]
+12-16 12:05:57.854 14322 14322 D InputMethodManager: getNavigationBarColor() -855310
+12-16 12:05:57.862 14322 15879 W om.rmc.natour2: Accessing hidden field Ljava/io/FileDescriptor;->descriptor:I (greylist, JNI, allowed)
+12-16 12:05:57.941 14322 14322 I ViewRootImpl@323ce5e[MainActivity]: Relayout returned: old=(0,0,1080,2220) new=(0,0,1080,2220) req=(1080,2220)0 dur=13 res=0x7 s={true 522730115072} ch=true
+12-16 12:05:57.942 14322 14540 D mali_winsys: EGLint new_window_surface(egl_winsys_display *, void *, EGLSurface, EGLConfig, egl_winsys_surface **, EGLBoolean) returns 0x3000
+12-16 12:05:57.967 14322 14322 I ViewRootImpl@323ce5e[MainActivity]: [DrawPending] drawPending(1) 1 android.view.ViewRootImpl.reportNextDraw:9952 android.view.ViewRootImpl.performTraversals:3329 android.view.ViewRootImpl.doTraversal:2222 
+12-16 12:05:57.967 14322 14322 I ViewRootImpl@323ce5e[MainActivity]: [DrawPending] performDraw() Waiting asnyc report
+12-16 12:05:58.000 14322 15879 W om.rmc.natour2: Accessing hidden method Ljava/security/spec/ECParameterSpec;->setCurveName(Ljava/lang/String;)V (greylist, reflection, allowed)
+12-16 12:05:58.223 14322 14322 I ViewRootImpl@323ce5e[MainActivity]: [DrawPending] pendingDrawFinished(0) 1 android.view.ViewRootImpl.lambda$performDraw$1$ViewRootImpl:4058 android.view.-$$Lambda$ViewRootImpl$7A_3tkr_Kw4TZAeIUGVlOoTcZhg.run:4 android.os.Handler.handleCallback:883 
+12-16 12:05:58.223 14322 14322 I ViewRootImpl@323ce5e[MainActivity]: [DrawPending] reportDrawFinished()
+12-16 12:05:58.230 14322 14322 I ViewRootImpl@323ce5e[MainActivity]: MSG_WINDOW_FOCUS_CHANGED 1 1
+12-16 12:05:58.231 14322 14322 D InputMethodManager: prepareNavigationBarInfo() DecorView@29d01af[MainActivity]
+12-16 12:05:58.231 14322 14322 D InputMethodManager: getNavigationBarColor() -855310
+12-16 12:05:58.244 14322 14322 D InputMethodManager: prepareNavigationBarInfo() DecorView@29d01af[MainActivity]
+12-16 12:05:58.244 14322 14322 D InputMethodManager: getNavigationBarColor() -855310
+12-16 12:05:58.244 14322 14322 V InputMethodManager: Starting input: tba=com.rmc.natour21 ic=null mNaviBarColor -855310 mIsGetNaviBarColorSuccess true , NavVisible : true , NavTrans : false
+12-16 12:05:58.244 14322 14322 D InputMethodManager: startInputInner - Id : 0
+12-16 12:05:58.244 14322 14322 I InputMethodManager: startInputInner - mService.startInputOrWindowGainedFocus
+12-16 12:05:58.247 14322 14322 D InputTransport: Input channel destroyed: 'ClientS', fd=115
+12-16 12:05:58.261 14322 15879 W SendBird: [12:05:58.261 Connection$1:onMessage():235] onMessage instance : [LOGI] com.sendbird.android.Connection@df8f48a
+12-16 12:05:58.263 14322 15879 W Sendbird: [12:05:58.262 Connection$1:onMessage():236] onMessage instance : [LOGI] com.sendbird.android.Connection@df8f48a
+12-16 12:05:58.266 14322 14572 W Glide   : Failed to find GeneratedAppGlideModule. You should include an annotationProcessor compile dependency on com.github.bumptech.glide:compiler in your application and a @GlideModule annotated AppGlideModule implementation or LibraryGlideModules will be silently ignored
+12-16 12:05:58.278 14322 14322 I ViewRootImpl@323ce5e[MainActivity]: MSG_RESIZED: frame=(0,0,1080,2220) ci=(0,63,0,0) vi=(0,63,0,0) or=1
+12-16 12:05:58.288 14322 15949 W SendBird: [12:05:58.288 EventController$1:call():141] ++ result[LOGI] runnable=null
+12-16 12:05:58.305 14322 14572 D ConnectivityManager: requestNetwork; CallingUid : 10308, CallingPid : 14322
+12-16 12:05:58.322 14322 15871 D SBUIKIT : [12:05:58.321 SendBirdUIKit$2:call():298] ++ user nickname = claudio velotti, profileUrl = http://18.195.186.181:8080/img/92/raw
+12-16 12:05:58.322 14322 15871 D SBUIKIT : [12:05:58.322 SendBirdUIKit:updateEmojiList():400] >> SendBirdUIkit::updateEmojiList()
+12-16 12:05:58.383 14322 15976 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:05:58.383 14322 15976 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:05:58.478 14322 15879 W SendBird: [12:05:58.477 Connection$1:onMessage():235] onMessage instance : [PONG] com.sendbird.android.Connection@df8f48a
+12-16 12:05:58.479 14322 15879 W Sendbird: [12:05:58.478 Connection$1:onMessage():236] onMessage instance : [PONG] com.sendbird.android.Connection@df8f48a
+12-16 12:05:58.482 14322 15949 W SendBird: [12:05:58.481 EventController$1:call():141] ++ result[PONG] runnable=null
+12-16 12:05:58.674 14322 14540 W libEGL  : EGLNativeWindowType 0x79b52d8250 disconnect failed
+12-16 12:05:58.685 14322 14322 I ViewRootImpl@d94b65d[NaTourIntro]: Relayout returned: old=(0,0,1080,2220) new=(0,0,1080,2220) req=(1080,2220)8 dur=10 res=0x5 s={false 0} ch=true
+12-16 12:05:58.687 14322 14322 I ViewRootImpl@d94b65d[NaTourIntro]: stopped(true) old=false
+12-16 12:05:59.010 14322 14322 I System.out: SENDBIRD TOKEN OK ckOTAZioSROKNMJFPmblOe:APA91bGVcG9r_iXcHFgG4Iporvbe7LY4wQBAVWfyWIWJnWzg5h8jwyooQ25LxvLEqeLKSFX8jlOxjHRr5t9uy5rrsHMA7I4iE0NfcLRlw_nQeNQWpru1u2nLitOl0dT_dISCBj72bvr1
+12-16 12:06:00.697 14322 14322 I Choreographer: Skipped 96 frames!  The application may be doing too much work on its main thread.
+12-16 12:06:01.639 14322 14540 I         : Increase max job count 60
+12-16 12:06:01.801 14322 16269 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:01.801 14322 16269 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:01.993 14322 15976 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:01.993 14322 15976 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:02.026 14322 16106 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:02.026 14322 16106 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:02.089 14322 16269 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:02.089 14322 16269 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:03.986 14322 14322 I ViewRootImpl@323ce5e[MainActivity]: ViewPostIme pointer 0
+12-16 12:06:04.143 14322 14322 I ViewRootImpl@323ce5e[MainActivity]: ViewPostIme pointer 1
+12-16 12:06:04.598 14322 14322 I ViewRootImpl@323ce5e[MainActivity]: ViewPostIme pointer 0
+12-16 12:06:04.732 14322 14322 I ViewRootImpl@323ce5e[MainActivity]: ViewPostIme pointer 1
+12-16 12:06:06.845 14322 14322 I ViewRootImpl@323ce5e[MainActivity]: ViewPostIme pointer 0
+12-16 12:06:06.887 14322 14322 I ViewRootImpl@323ce5e[MainActivity]: ViewPostIme pointer 1
+12-16 12:06:06.912 14322 14322 D ConnectivityManager: unregisterNetworkCallback; CallingUid : 10308, CallingPid : 14322
+12-16 12:06:06.937 14322 14322 I StorageUtils: /data/user/0/com.rmc.natour21/files is writable
+12-16 12:06:06.947 14322 14322 I StorageUtils: /storage/emulated/0/Android/data/com.rmc.natour21/files is writable
+12-16 12:06:06.948 14322 14322 I StorageUtils: /storage/0123-4567/Android/data/com.rmc.natour21/files is writable
+12-16 12:06:06.949 14322 14322 I StorageUtils: /data/user/0/com.rmc.natour21/files is writable
+12-16 12:06:06.950 14322 14322 I StorageUtils: /storage/emulated/0/Android/data/com.rmc.natour21/files is writable
+12-16 12:06:06.951 14322 14322 I StorageUtils: /storage/0123-4567/Android/data/com.rmc.natour21/files is writable
+12-16 12:06:06.958 14322 14322 I OsmDroid: Using tile source: Mapnik
+12-16 12:06:06.963 14322 14322 I OsmDroid: Tile cache increased from 0 to 9
+12-16 12:06:07.164 14322 14322 D ConnectivityManager: requestNetwork; CallingUid : 10308, CallingPid : 14322
+12-16 12:06:07.169 14322 14322 D InputMethodManager: prepareNavigationBarInfo() DecorView@29d01af[MainActivity]
+12-16 12:06:07.169 14322 14322 D InputMethodManager: getNavigationBarColor() -855310
+12-16 12:06:07.169 14322 14322 V InputMethodManager: Starting input: tba=com.rmc.natour21 ic=null mNaviBarColor -855310 mIsGetNaviBarColorSuccess true , NavVisible : true , NavTrans : false
+12-16 12:06:07.169 14322 14322 D InputMethodManager: startInputInner - Id : 0
+12-16 12:06:07.169 14322 14322 I InputMethodManager: startInputInner - mService.startInputOrWindowGainedFocus
+12-16 12:06:07.171 14322 14322 D InputTransport: Input channel destroyed: 'ClientS', fd=125
+12-16 12:06:07.201 14322 14322 I ViewRootImpl@323ce5e[MainActivity]: Relayout returned: old=(0,0,1080,2220) new=(0,0,1080,2220) req=(1080,2220)0 dur=4 res=0x1 s={true 522730115072} ch=false
+12-16 12:06:07.216 14322 14322 I OsmDroid: Tile cache increased from 9 to 54
+12-16 12:06:07.301 14322 14341 I om.rmc.natour2: Compiler allocated 4218KB to compile void android.view.ViewRootImpl.performTraversals()
+12-16 12:06:07.321 14322 16438 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:07.322 14322 16438 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:07.325 14322 16439 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:07.325 14322 16439 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:07.435 14322 14337 I om.rmc.natour2: NativeAlloc concurrent copying GC freed 72998(4016KB) AllocSpace objects, 41(6852KB) LOS objects, 49% free, 11MB/22MB, paused 321us total 143.175ms
+12-16 12:06:07.737 14322 16438 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:07.737 14322 16438 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:07.756 14322 16439 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:07.756 14322 16439 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:07.830 14322 16439 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:07.830 14322 16439 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:07.922 14322 16439 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:07.922 14322 16439 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:08.265 14322 16438 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:08.265 14322 16438 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:08.446 14322 16439 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:08.447 14322 16439 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:08.544 14322 16439 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:08.544 14322 16439 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:08.642 14322 16439 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:08.643 14322 16439 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:08.668 14322 14322 I ViewRootImpl@323ce5e[MainActivity]: ViewPostIme pointer 0
+12-16 12:06:08.687 14322 16438 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:08.687 14322 16438 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:08.718 14322 14322 I ViewRootImpl@323ce5e[MainActivity]: ViewPostIme pointer 1
+12-16 12:06:08.735 14322 14322 D InputMethodManager: prepareNavigationBarInfo() DecorView@29d01af[MainActivity]
+12-16 12:06:08.735 14322 14322 D InputMethodManager: getNavigationBarColor() -855310
+12-16 12:06:08.736 14322 14322 V InputMethodManager: Starting input: tba=com.rmc.natour21 ic=androidx.emoji2.viewsintegration.EmojiInputConnection@1b278ec mNaviBarColor -855310 mIsGetNaviBarColorSuccess true , NavVisible : true , NavTrans : false
+12-16 12:06:08.736 14322 14322 D InputMethodManager: startInputInner - Id : 0
+12-16 12:06:08.745 14322 14322 I InputMethodManager: startInputInner - mService.startInputOrWindowGainedFocus
+12-16 12:06:08.748 14322 14322 D InputTransport: Input channel destroyed: 'ClientS', fd=74
+12-16 12:06:08.748 14322 14322 D InputMethodManager: SSI - flag : 0 Pid : 14322 view : com.rmc.natour21
+12-16 12:06:08.748 14322 14322 D InputMethodManager: prepareNavigationBarInfo() DecorView@29d01af[MainActivity]
+12-16 12:06:08.748 14322 14322 D InputMethodManager: getNavigationBarColor() -855310
+12-16 12:06:08.753 14322 16439 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:08.753 14322 16439 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:08.757 14322 14322 D Editor  : waiting for the right moment
+12-16 12:06:08.775 14322 14322 I AssistStructure: Flattened final assist data: 5604 bytes, containing 1 windows, 44 views
+12-16 12:06:08.810 14322 16438 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:08.810 14322 16438 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:08.867 14322 16439 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:08.868 14322 16439 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:08.928 14322 14322 D InputMethodManager: prepareNavigationBarInfo() DecorView@29d01af[MainActivity]
+12-16 12:06:08.928 14322 14322 D InputMethodManager: getNavigationBarColor() -855310
+12-16 12:06:08.928 14322 14322 V InputMethodManager: Starting input: tba=com.rmc.natour21 ic=null mNaviBarColor -855310 mIsGetNaviBarColorSuccess true , NavVisible : true , NavTrans : false
+12-16 12:06:08.928 14322 14322 D InputMethodManager: startInputInner - Id : 0
+12-16 12:06:08.929 14322 14322 I InputMethodManager: startInputInner - mService.startInputOrWindowGainedFocus
+12-16 12:06:08.932 14322 14322 D InputTransport: Input channel destroyed: 'ClientS', fd=135
+12-16 12:06:08.944 14322 16438 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:08.944 14322 16438 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:08.972 14322 16439 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:08.972 14322 16439 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:09.040 14322 14322 I ViewRootImpl@323ce5e[MainActivity]: MSG_RESIZED: frame=(0,0,1080,2220) ci=(0,63,0,0) vi=(0,63,0,986) or=1
+12-16 12:06:09.055 14322 16438 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:09.055 14322 16438 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:09.066 14322 14322 W IInputConnectionWrapper: requestCursorAnchorInfo on inactive InputConnection
+12-16 12:06:09.082 14322 16439 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:09.082 14322 16439 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:09.170 14322 16438 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:09.170 14322 16438 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:09.183 14322 16439 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:09.183 14322 16439 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:09.246 14322 16439 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:09.246 14322 16439 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:09.253 14322 16438 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:09.253 14322 16438 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:09.315 14322 16439 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:09.315 14322 16439 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:09.329 14322 16438 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:09.329 14322 16438 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:09.397 14322 16439 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:09.397 14322 16439 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:09.402 14322 16438 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:09.402 14322 16438 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:09.480 14322 16439 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:09.480 14322 16439 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:09.514 14322 16438 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:09.515 14322 16438 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:09.569 14322 16439 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:09.570 14322 16439 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:09.582 14322 16438 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:09.582 14322 16438 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:09.643 14322 16439 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:09.643 14322 16439 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:09.664 14322 16438 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:09.664 14322 16438 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:09.719 14322 16439 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:09.719 14322 16439 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:09.735 14322 16438 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:09.735 14322 16438 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:09.820 14322 14322 I ViewRootImpl@323ce5e[MainActivity]: ViewPostIme pointer 0
+12-16 12:06:09.828 14322 16439 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:09.828 14322 16439 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:09.833 14322 16438 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:09.833 14322 16438 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:09.879 14322 14322 I ViewRootImpl@323ce5e[MainActivity]: ViewPostIme pointer 1
+12-16 12:06:09.885 14322 16439 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:09.885 14322 16439 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:09.917 14322 16438 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:09.917 14322 16438 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:09.982 14322 16439 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:09.982 14322 16439 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:10.003 14322 16438 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:10.003 14322 16438 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:10.050 14322 16439 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:10.050 14322 16439 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:10.067 14322 14322 D InputMethodManager: prepareNavigationBarInfo() DecorView@29d01af[MainActivity]
+12-16 12:06:10.067 14322 14322 D InputMethodManager: getNavigationBarColor() -855310
+12-16 12:06:10.067 14322 14322 V InputMethodManager: Starting input: tba=com.rmc.natour21 ic=null mNaviBarColor -855310 mIsGetNaviBarColorSuccess true , NavVisible : true , NavTrans : false
+12-16 12:06:10.067 14322 14322 D InputMethodManager: startInputInner - Id : 0
+12-16 12:06:10.067 14322 14322 I InputMethodManager: startInputInner - mService.startInputOrWindowGainedFocus
+12-16 12:06:10.069 14322 14322 D InputTransport: Input channel destroyed: 'ClientS', fd=139
+12-16 12:06:10.093 14322 16438 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:10.093 14322 16438 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:10.135 14322 16439 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:10.135 14322 16439 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:10.155 14322 16438 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:10.155 14322 16438 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:10.217 14322 16438 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:10.218 14322 16438 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:10.238 14322 16439 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:10.238 14322 16439 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:10.288 14322 16438 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:10.288 14322 16438 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:10.319 14322 16439 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:10.319 14322 16439 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:10.376 14322 16438 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:10.376 14322 16438 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:10.396 14322 16439 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:10.396 14322 16439 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:10.447 14322 16438 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:10.447 14322 16438 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:10.471 14322 16439 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:10.471 14322 16439 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:10.508 14322 16438 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:10.509 14322 16438 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:10.515 14322 14322 I ViewRootImpl@323ce5e[MainActivity]: ViewPostIme pointer 0
+12-16 12:06:10.528 14322 16439 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:10.528 14322 16439 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:10.574 14322 14322 I ViewRootImpl@323ce5e[MainActivity]: ViewPostIme pointer 1
+12-16 12:06:10.765 14322 14322 D InputMethodManager: prepareNavigationBarInfo() DecorView@29d01af[MainActivity]
+12-16 12:06:10.765 14322 14322 D InputMethodManager: getNavigationBarColor() -855310
+12-16 12:06:10.765 14322 14322 V InputMethodManager: Starting input: tba=com.rmc.natour21 ic=null mNaviBarColor -855310 mIsGetNaviBarColorSuccess true , NavVisible : true , NavTrans : false
+12-16 12:06:10.765 14322 14322 D InputMethodManager: startInputInner - Id : 0
+12-16 12:06:10.765 14322 14322 I InputMethodManager: startInputInner - mService.startInputOrWindowGainedFocus
+12-16 12:06:10.767 14322 14322 D InputTransport: Input channel destroyed: 'ClientS', fd=99
+12-16 12:06:11.460 14322 14322 I ViewRootImpl@323ce5e[MainActivity]: ViewPostIme pointer 0
+12-16 12:06:11.527 14322 14322 I ViewRootImpl@323ce5e[MainActivity]: ViewPostIme pointer 1
+12-16 12:06:11.716 14322 14322 D InputMethodManager: prepareNavigationBarInfo() DecorView@29d01af[MainActivity]
+12-16 12:06:11.716 14322 14322 D InputMethodManager: getNavigationBarColor() -855310
+12-16 12:06:11.716 14322 14322 V InputMethodManager: Starting input: tba=com.rmc.natour21 ic=null mNaviBarColor -855310 mIsGetNaviBarColorSuccess true , NavVisible : true , NavTrans : false
+12-16 12:06:11.716 14322 14322 D InputMethodManager: startInputInner - Id : 0
+12-16 12:06:11.716 14322 14322 I InputMethodManager: startInputInner - mService.startInputOrWindowGainedFocus
+12-16 12:06:11.718 14322 14322 D InputTransport: Input channel destroyed: 'ClientS', fd=98
+12-16 12:06:12.713 14322 14322 I ViewRootImpl@323ce5e[MainActivity]: ViewPostIme pointer 0
+12-16 12:06:12.969 14322 14322 D InputMethodManager: prepareNavigationBarInfo() DecorView@29d01af[MainActivity]
+12-16 12:06:12.969 14322 14322 D InputMethodManager: getNavigationBarColor() -855310
+12-16 12:06:12.969 14322 14322 V InputMethodManager: Starting input: tba=com.rmc.natour21 ic=null mNaviBarColor -855310 mIsGetNaviBarColorSuccess true , NavVisible : true , NavTrans : false
+12-16 12:06:12.969 14322 14322 D InputMethodManager: startInputInner - Id : 0
+12-16 12:06:12.969 14322 14322 I InputMethodManager: startInputInner - mService.startInputOrWindowGainedFocus
+12-16 12:06:12.970 14322 14322 D InputTransport: Input channel destroyed: 'ClientS', fd=99
+12-16 12:06:13.350 14322 15879 W SendBird: [12:06:13.350 Connection$1:onMessage():235] onMessage instance : [PONG] com.sendbird.android.Connection@df8f48a
+12-16 12:06:13.351 14322 15879 W Sendbird: [12:06:13.350 Connection$1:onMessage():236] onMessage instance : [PONG] com.sendbird.android.Connection@df8f48a
+12-16 12:06:13.353 14322 15949 W SendBird: [12:06:13.353 EventController$1:call():141] ++ result[PONG] runnable=null
+12-16 12:06:13.809 14322 14322 I ViewRootImpl@323ce5e[MainActivity]: ViewPostIme pointer 0
+12-16 12:06:13.866 14322 14322 I ViewRootImpl@323ce5e[MainActivity]: ViewPostIme pointer 1
+12-16 12:06:14.047 14322 14322 D InputMethodManager: prepareNavigationBarInfo() DecorView@29d01af[MainActivity]
+12-16 12:06:14.047 14322 14322 D InputMethodManager: getNavigationBarColor() -855310
+12-16 12:06:14.047 14322 14322 V InputMethodManager: Starting input: tba=com.rmc.natour21 ic=androidx.emoji2.viewsintegration.EmojiInputConnection@32dca00 mNaviBarColor -855310 mIsGetNaviBarColorSuccess true , NavVisible : true , NavTrans : false
+12-16 12:06:14.047 14322 14322 D InputMethodManager: startInputInner - Id : 0
+12-16 12:06:14.050 14322 14322 I InputMethodManager: startInputInner - mService.startInputOrWindowGainedFocus
+12-16 12:06:14.052 14322 14322 D InputTransport: Input channel destroyed: 'ClientS', fd=98
+12-16 12:06:14.738 14322 14322 I ViewRootImpl@323ce5e[MainActivity]: ViewPostIme pointer 0
+12-16 12:06:14.772 14322 14322 I ViewRootImpl@323ce5e[MainActivity]: ViewPostIme pointer 1
+12-16 12:06:15.564 14322 14322 I ViewRootImpl@323ce5e[MainActivity]: ViewPostIme pointer 0
+12-16 12:06:15.605 14322 14322 I ViewRootImpl@323ce5e[MainActivity]: ViewPostIme pointer 1
+12-16 12:06:16.132 14322 14322 I ViewRootImpl@323ce5e[MainActivity]: The input has been finished in ImeInputStage.
+12-16 12:06:16.188 14322 14322 I ViewRootImpl@323ce5e[MainActivity]: The input has been finished in ImeInputStage.
+12-16 12:06:16.225 14322 14322 I ViewRootImpl@323ce5e[MainActivity]: MSG_RESIZED: frame=(0,0,1080,2220) ci=(0,63,0,0) vi=(0,63,0,0) or=1
+12-16 12:06:20.309 14322 14322 I ViewRootImpl@323ce5e[MainActivity]: ViewPostIme pointer 0
+12-16 12:06:20.376 14322 14322 I ViewRootImpl@323ce5e[MainActivity]: ViewPostIme pointer 1
+12-16 12:06:20.376 14322 14322 D InputMethodManager: SSI - flag : 0 Pid : 14322 view : com.rmc.natour21
+12-16 12:06:20.376 14322 14322 D InputMethodManager: prepareNavigationBarInfo() DecorView@29d01af[MainActivity]
+12-16 12:06:20.376 14322 14322 D InputMethodManager: getNavigationBarColor() -855310
+12-16 12:06:20.381 14322 14322 D Editor  : waiting for the right moment
+12-16 12:06:20.445 14322 14322 I ViewRootImpl@323ce5e[MainActivity]: MSG_RESIZED: frame=(0,0,1080,2220) ci=(0,63,0,0) vi=(0,63,0,986) or=1
+12-16 12:06:28.351 14322 15879 W SendBird: [12:06:28.351 Connection$1:onMessage():235] onMessage instance : [PONG] com.sendbird.android.Connection@df8f48a
+12-16 12:06:28.352 14322 15879 W Sendbird: [12:06:28.351 Connection$1:onMessage():236] onMessage instance : [PONG] com.sendbird.android.Connection@df8f48a
+12-16 12:06:28.354 14322 15949 W SendBird: [12:06:28.354 EventController$1:call():141] ++ result[PONG] runnable=null
+12-16 12:06:28.448 14322 14322 I ViewRootImpl@323ce5e[MainActivity]: ViewPostIme pointer 0
+12-16 12:06:28.605 14322 14322 I ViewRootImpl@323ce5e[MainActivity]: The input has been finished in ImeInputStage.
+12-16 12:06:28.612 14322 14322 I ViewRootImpl@323ce5e[MainActivity]: The input has been finished in ImeInputStage.
+12-16 12:06:28.654 14322 14322 I ViewRootImpl@323ce5e[MainActivity]: MSG_RESIZED: frame=(0,0,1080,2220) ci=(0,63,0,0) vi=(0,63,0,0) or=1
+12-16 12:06:29.217 14322 14322 I ViewRootImpl@323ce5e[MainActivity]: ViewPostIme pointer 0
+12-16 12:06:29.267 14322 14322 I ViewRootImpl@323ce5e[MainActivity]: ViewPostIme pointer 1
+12-16 12:06:29.272 14322 14322 D InputMethodManager: prepareNavigationBarInfo() DecorView@29d01af[MainActivity]
+12-16 12:06:29.272 14322 14322 D InputMethodManager: getNavigationBarColor() -855310
+12-16 12:06:29.272 14322 14322 V InputMethodManager: Starting input: tba=com.rmc.natour21 ic=com.android.internal.widget.EditableInputConnection@c2cd25c mNaviBarColor -855310 mIsGetNaviBarColorSuccess true , NavVisible : true , NavTrans : false
+12-16 12:06:29.272 14322 14322 D InputMethodManager: startInputInner - Id : 0
+12-16 12:06:29.276 14322 14322 I InputMethodManager: startInputInner - mService.startInputOrWindowGainedFocus
+12-16 12:06:29.280 14322 14322 D InputTransport: Input channel destroyed: 'ClientS', fd=99
+12-16 12:06:29.284 14322 14322 D InputMethodManager: SSI - flag : 0 Pid : 14322 view : com.rmc.natour21
+12-16 12:06:29.284 14322 14322 D InputMethodManager: prepareNavigationBarInfo() DecorView@29d01af[MainActivity]
+12-16 12:06:29.284 14322 14322 D InputMethodManager: getNavigationBarColor() -855310
+12-16 12:06:29.393 14322 14322 I ViewRootImpl@323ce5e[MainActivity]: MSG_RESIZED: frame=(0,0,1080,2220) ci=(0,63,0,0) vi=(0,63,0,986) or=1
+12-16 12:06:30.592 14322 14322 I ViewRootImpl@e972aaf[PopupWindow:ec8990]: setView = android.widget.PopupWindow$PopupDecorView@7b8aebc TM=true MM=false
+12-16 12:06:30.601 14322 14322 V InputMethodManager: Not IME target window, ignoring
+12-16 12:06:30.613 14322 14322 I ViewRootImpl@e972aaf[PopupWindow:ec8990]: Relayout returned: old=(0,63,1080,2220) new=(0,356,875,503) req=(875,147)0 dur=8 res=0x7 s={true 522730668032} ch=true
+12-16 12:06:30.618 14322 14540 D mali_winsys: EGLint new_window_surface(egl_winsys_display *, void *, EGLSurface, EGLConfig, egl_winsys_surface **, EGLBoolean) returns 0x3000
+12-16 12:06:30.618 14322 14322 D AbsListView:  in onLayout changed 
+12-16 12:06:30.619 14322 14322 I ViewRootImpl@e972aaf[PopupWindow:ec8990]: [DrawPending] drawPending(1) 0 android.view.ViewRootImpl.reportNextDraw:9952 android.view.ViewRootImpl.performTraversals:3329 android.view.ViewRootImpl.doTraversal:2222 
+12-16 12:06:30.619 14322 14322 I ViewRootImpl@e972aaf[PopupWindow:ec8990]: [DrawPending] performDraw() Waiting asnyc report
+12-16 12:06:30.624 14322 14322 I ViewRootImpl@e972aaf[PopupWindow:ec8990]: [DrawPending] pendingDrawFinished(0) 0 android.view.ViewRootImpl.lambda$performDraw$1$ViewRootImpl:4058 android.view.-$$Lambda$ViewRootImpl$7A_3tkr_Kw4TZAeIUGVlOoTcZhg.run:4 android.os.Handler.handleCallback:883 
+12-16 12:06:30.624 14322 14322 I ViewRootImpl@e972aaf[PopupWindow:ec8990]: [DrawPending] reportDrawFinished()
+12-16 12:06:30.818 14322 14322 I ViewRootImpl@e972aaf[PopupWindow:ec8990]: MSG_RESIZED: frame=(0,356,875,503) ci=(0,0,0,0) vi=(0,0,0,0) or=1
+12-16 12:06:31.938 14322 14322 I ViewRootImpl@e972aaf[PopupWindow:ec8990]: ViewPostIme pointer 0
+12-16 12:06:31.938 14322 14322 I ViewRootImpl@e972aaf[PopupWindow:ec8990]: ViewPostIme pointer 0
+12-16 12:06:31.996 14322 14322 I ViewRootImpl@e972aaf[PopupWindow:ec8990]: ViewPostIme pointer 1
+12-16 12:06:31.997 14322 14322 D AbsListView: onTouchUp() mTouchMode : 0
+12-16 12:06:32.069 14322 14322 D InputMethodManager: prepareNavigationBarInfo() DecorView@29d01af[MainActivity]
+12-16 12:06:32.069 14322 14322 D InputMethodManager: getNavigationBarColor() -855310
+12-16 12:06:32.069 14322 14322 V InputMethodManager: Starting input: tba=com.rmc.natour21 ic=com.android.internal.widget.EditableInputConnection@43d76c0 mNaviBarColor -855310 mIsGetNaviBarColorSuccess true , NavVisible : true , NavTrans : false
+12-16 12:06:32.069 14322 14322 D InputMethodManager: startInputInner - Id : 0
+12-16 12:06:32.076 14322 14322 I InputMethodManager: startInputInner - mService.startInputOrWindowGainedFocus
+12-16 12:06:32.078 14322 14322 D InputTransport: Input channel destroyed: 'ClientS', fd=98
+12-16 12:06:32.224 14322 14322 D InputMethodManager: HSIFW - flag : 0
+12-16 12:06:32.385 14322 14540 W libEGL  : EGLNativeWindowType 0x78fa3a3990 disconnect failed
+12-16 12:06:32.386 14322 14322 I ViewRootImpl@e972aaf[PopupWindow:ec8990]: dispatchDetachedFromWindow
+12-16 12:06:32.392 14322 14322 D InputTransport: Input channel destroyed: 'fe21a04', fd=118
+12-16 12:06:32.442 14322 16438 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:32.442 14322 16438 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:32.442 14322 16439 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:32.443 14322 16439 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:32.477 14322 14322 W IInputConnectionWrapper: getExtractedText on inactive InputConnection
+12-16 12:06:32.529 14322 16438 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:32.529 14322 16438 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:32.543 14322 16439 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:32.543 14322 16439 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:32.660 14322 16438 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:32.660 14322 16438 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:32.674 14322 16439 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:32.674 14322 16439 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:32.710 14322 14322 I ViewRootImpl@323ce5e[MainActivity]: MSG_RESIZED: frame=(0,0,1080,2220) ci=(0,63,0,0) vi=(0,63,0,0) or=1
+12-16 12:06:32.743 14322 16438 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:32.743 14322 16438 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:32.766 14322 16439 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:32.766 14322 16439 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:32.830 14322 16438 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:32.830 14322 16438 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:32.838 14322 16439 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:32.839 14322 16439 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:32.915 14322 16438 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:32.915 14322 16438 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:32.923 14322 16439 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:32.923 14322 16439 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:33.009 14322 16439 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:33.009 14322 16439 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:33.022 14322 16438 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:33.023 14322 16438 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:33.107 14322 16439 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:33.107 14322 16439 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:33.118 14322 16438 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:33.118 14322 16438 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:33.205 14322 16439 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:33.205 14322 16439 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:33.212 14322 16438 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:33.212 14322 16438 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:33.295 14322 16438 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:33.295 14322 16438 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:33.301 14322 16439 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:33.301 14322 16439 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:33.383 14322 16438 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:33.383 14322 16438 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:33.389 14322 16439 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:33.389 14322 16439 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:33.463 14322 16438 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:33.463 14322 16438 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:33.473 14322 16439 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:33.473 14322 16439 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:33.541 14322 16438 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:33.541 14322 16438 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:33.549 14322 16439 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:33.550 14322 16439 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:33.608 14322 16438 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:33.608 14322 16438 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:33.623 14322 16439 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:33.623 14322 16439 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:33.689 14322 16438 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:33.689 14322 16438 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:33.697 14322 16439 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:33.698 14322 16439 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:33.765 14322 16438 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:33.765 14322 16438 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:33.894 14322 16438 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:33.894 14322 16438 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:33.992 14322 16439 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:33.992 14322 16439 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:33.997 14322 16438 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:33.997 14322 16438 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:34.055 14322 16438 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:34.055 14322 16438 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:34.070 14322 16439 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:34.070 14322 16439 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:34.153 14322 16438 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:34.153 14322 16438 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:34.162 14322 16439 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:34.162 14322 16439 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:34.242 14322 16439 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:34.242 14322 16439 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:34.248 14322 16438 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:34.249 14322 16438 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:34.343 14322 16439 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:34.343 14322 16439 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:34.349 14322 16438 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:34.349 14322 16438 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:34.407 14322 16439 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:34.407 14322 16439 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:34.428 14322 16438 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:34.428 14322 16438 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:34.502 14322 16439 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:34.502 14322 16439 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:34.509 14322 16438 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:34.509 14322 16438 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:34.582 14322 16439 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:34.582 14322 16439 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:34.593 14322 16438 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:34.593 14322 16438 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:35.377 14322 14322 I ViewRootImpl@323ce5e[MainActivity]: ViewPostIme pointer 0
+12-16 12:06:36.131 14322 14322 I ViewRootImpl@323ce5e[MainActivity]: ViewPostIme pointer 1
+12-16 12:06:37.408 14322 14322 I ViewRootImpl@323ce5e[MainActivity]: ViewPostIme pointer 0
+12-16 12:06:37.459 14322 14322 I ViewRootImpl@323ce5e[MainActivity]: ViewPostIme pointer 1
+12-16 12:06:37.462 14322 14322 D InputMethodManager: prepareNavigationBarInfo() DecorView@29d01af[MainActivity]
+12-16 12:06:37.462 14322 14322 D InputMethodManager: getNavigationBarColor() -855310
+12-16 12:06:37.463 14322 14322 V InputMethodManager: Starting input: tba=com.rmc.natour21 ic=com.android.internal.widget.EditableInputConnection@40ac5b mNaviBarColor -855310 mIsGetNaviBarColorSuccess true , NavVisible : true , NavTrans : false
+12-16 12:06:37.463 14322 14322 D InputMethodManager: startInputInner - Id : 0
+12-16 12:06:37.467 14322 14322 I InputMethodManager: startInputInner - mService.startInputOrWindowGainedFocus
+12-16 12:06:37.469 14322 14322 D InputTransport: Input channel destroyed: 'ClientS', fd=135
+12-16 12:06:37.565 14322 14322 W System.err: java.io.IOException: INVALID_ARGUMENT: At least one of address or componentFilters must be specified.
+12-16 12:06:37.568 14322 14322 W System.err: 	at android.location.Geocoder.getFromLocationName(Geocoder.java:178)
+12-16 12:06:37.568 14322 14322 W System.err: 	at com.rmc.natour21.Fragment.InsertPath.InsertFragment.geoCode(InsertFragment.kt:608)
+12-16 12:06:37.568 14322 14322 W System.err: 	at com.rmc.natour21.Fragment.InsertPath.InsertFragment$onViewCreated$2$1.onQueryTextChange(InsertFragment.kt:295)
+12-16 12:06:37.568 14322 14322 W System.err: 	at android.widget.SearchView.onTextChanged(SearchView.java:1516)
+12-16 12:06:37.568 14322 14322 W System.err: 	at android.widget.SearchView.access$2100(SearchView.java:113)
+12-16 12:06:37.568 14322 14322 W System.err: 	at android.widget.SearchView$10.onTextChanged(SearchView.java:2149)
+12-16 12:06:37.568 14322 14322 W System.err: 	at android.widget.TextView.sendOnTextChanged(TextView.java:11631)
+12-16 12:06:37.568 14322 14322 W System.err: 	at android.widget.TextView.setText(TextView.java:6841)
+12-16 12:06:37.568 14322 14322 W System.err: 	at android.widget.TextView.setText(TextView.java:6638)
+12-16 12:06:37.568 14322 14322 W System.err: 	at android.widget.EditText.setText(EditText.java:140)
+12-16 12:06:37.568 14322 14322 W System.err: 	at android.widget.TextView.setText(TextView.java:6590)
+12-16 12:06:37.568 14322 14322 W System.err: 	at android.widget.SearchView.onCloseClicked(SearchView.java:1554)
+12-16 12:06:37.568 14322 14322 W System.err: 	at android.widget.SearchView.access$800(SearchView.java:113)
+12-16 12:06:37.568 14322 14322 W System.err: 	at android.widget.SearchView$5.onClick(SearchView.java:1197)
+12-16 12:06:37.568 14322 14322 W System.err: 	at android.view.View.performClick(View.java:7862)
+12-16 12:06:37.568 14322 14322 W System.err: 	at android.view.View.performClickInternal(View.java:7831)
+12-16 12:06:37.568 14322 14322 W System.err: 	at android.view.View.access$3600(View.java:879)
+12-16 12:06:37.568 14322 14322 W System.err: 	at android.view.View$PerformClick.run(View.java:29359)
+12-16 12:06:37.569 14322 14322 W System.err: 	at android.os.Handler.handleCallback(Handler.java:883)
+12-16 12:06:37.569 14322 14322 W System.err: 	at android.os.Handler.dispatchMessage(Handler.java:100)
+12-16 12:06:37.569 14322 14322 W System.err: 	at android.os.Looper.loop(Looper.java:237)
+12-16 12:06:37.569 14322 14322 W System.err: 	at android.app.ActivityThread.main(ActivityThread.java:8167)
+12-16 12:06:37.569 14322 14322 W System.err: 	at java.lang.reflect.Method.invoke(Native Method)
+12-16 12:06:37.569 14322 14322 W System.err: 	at com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:496)
+12-16 12:06:37.569 14322 14322 W System.err: 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:1100)
+12-16 12:06:37.570 14322 14322 D InputMethodManager: SSI - flag : 0 Pid : 14322 view : com.rmc.natour21
+12-16 12:06:37.570 14322 14322 D InputMethodManager: prepareNavigationBarInfo() DecorView@29d01af[MainActivity]
+12-16 12:06:37.570 14322 14322 D InputMethodManager: getNavigationBarColor() -855310
+12-16 12:06:37.682 14322 14322 I ViewRootImpl@323ce5e[MainActivity]: MSG_RESIZED: frame=(0,0,1080,2220) ci=(0,63,0,0) vi=(0,63,0,986) or=1
+12-16 12:06:38.957 14322 14322 I ViewRootImpl@b41624b[PopupWindow:ec8990]: setView = android.widget.PopupWindow$PopupDecorView@7cbe428 TM=true MM=false
+12-16 12:06:38.975 14322 14322 V InputMethodManager: Not IME target window, ignoring
+12-16 12:06:38.983 14322 14322 I ViewRootImpl@b41624b[PopupWindow:ec8990]: Relayout returned: old=(0,63,1080,2220) new=(0,356,875,503) req=(875,147)0 dur=7 res=0x7 s={true 522963095552} ch=true
+12-16 12:06:38.985 14322 14540 D mali_winsys: EGLint new_window_surface(egl_winsys_display *, void *, EGLSurface, EGLConfig, egl_winsys_surface **, EGLBoolean) returns 0x3000
+12-16 12:06:38.986 14322 14322 D AbsListView:  in onLayout changed 
+12-16 12:06:38.987 14322 14322 I ViewRootImpl@b41624b[PopupWindow:ec8990]: [DrawPending] drawPending(1) 0 android.view.ViewRootImpl.reportNextDraw:9952 android.view.ViewRootImpl.performTraversals:3329 android.view.ViewRootImpl.doTraversal:2222 
+12-16 12:06:38.987 14322 14322 I ViewRootImpl@b41624b[PopupWindow:ec8990]: [DrawPending] performDraw() Waiting asnyc report
+12-16 12:06:38.994 14322 14322 I ViewRootImpl@b41624b[PopupWindow:ec8990]: [DrawPending] pendingDrawFinished(0) 0 android.view.ViewRootImpl.lambda$performDraw$1$ViewRootImpl:4058 android.view.-$$Lambda$ViewRootImpl$7A_3tkr_Kw4TZAeIUGVlOoTcZhg.run:4 android.os.Handler.handleCallback:883 
+12-16 12:06:38.994 14322 14322 I ViewRootImpl@b41624b[PopupWindow:ec8990]: [DrawPending] reportDrawFinished()
+12-16 12:06:39.092 14322 14322 I ViewRootImpl@b41624b[PopupWindow:ec8990]: MSG_RESIZED: frame=(0,356,875,503) ci=(0,0,0,0) vi=(0,0,0,0) or=1
+12-16 12:06:39.961 14322 14322 I ViewRootImpl@b41624b[PopupWindow:ec8990]: ViewPostIme pointer 0
+12-16 12:06:40.003 14322 14322 I ViewRootImpl@b41624b[PopupWindow:ec8990]: ViewPostIme pointer 1
+12-16 12:06:40.004 14322 14322 D AbsListView: onTouchUp() mTouchMode : 0
+12-16 12:06:40.071 14322 14322 D InputMethodManager: prepareNavigationBarInfo() DecorView@29d01af[MainActivity]
+12-16 12:06:40.071 14322 14322 D InputMethodManager: getNavigationBarColor() -855310
+12-16 12:06:40.071 14322 14322 V InputMethodManager: Starting input: tba=com.rmc.natour21 ic=com.android.internal.widget.EditableInputConnection@4e9cfc3 mNaviBarColor -855310 mIsGetNaviBarColorSuccess true , NavVisible : true , NavTrans : false
+12-16 12:06:40.071 14322 14322 D InputMethodManager: startInputInner - Id : 0
+12-16 12:06:40.074 14322 14322 I InputMethodManager: startInputInner - mService.startInputOrWindowGainedFocus
+12-16 12:06:40.077 14322 14322 D InputTransport: Input channel destroyed: 'ClientS', fd=99
+12-16 12:06:40.230 14322 14322 D InputMethodManager: HSIFW - flag : 0
+12-16 12:06:40.328 14322 14540 W libEGL  : EGLNativeWindowType 0x78de2f5690 disconnect failed
+12-16 12:06:40.328 14322 14322 I ViewRootImpl@b41624b[PopupWindow:ec8990]: dispatchDetachedFromWindow
+12-16 12:06:40.332 14322 14322 D InputTransport: Input channel destroyed: '84018e8', fd=130
+12-16 12:06:40.338 14322 14322 W IInputConnectionWrapper: getExtractedText on inactive InputConnection
+12-16 12:06:40.399 14322 16439 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:40.399 14322 16439 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:40.400 14322 16438 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:40.400 14322 16438 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:40.522 14322 14322 I ViewRootImpl@323ce5e[MainActivity]: MSG_RESIZED: frame=(0,0,1080,2220) ci=(0,63,0,0) vi=(0,63,0,0) or=1
+12-16 12:06:40.523 14322 16438 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:40.524 14322 16438 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:40.560 14322 16439 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:40.562 14322 16439 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:40.655 14322 16438 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:40.655 14322 16438 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:40.667 14322 16439 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:40.667 14322 16439 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:40.726 14322 14337 I om.rmc.natour2: Background concurrent copying GC freed 105630(5190KB) AllocSpace objects, 320(8036KB) LOS objects, 49% free, 14MB/28MB, paused 88us total 124.620ms
+12-16 12:06:40.741 14322 16438 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:40.741 14322 16438 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:40.768 14322 16439 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:40.768 14322 16439 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:40.810 14322 16438 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:40.810 14322 16438 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:40.838 14322 16439 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:40.839 14322 16439 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:40.886 14322 16438 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:40.886 14322 16438 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:40.931 14322 16439 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:40.931 14322 16439 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:40.960 14322 16438 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:40.960 14322 16438 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:41.045 14322 16438 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:41.046 14322 16438 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:41.133 14322 16438 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:41.133 14322 16438 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:41.221 14322 16438 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:41.221 14322 16438 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:41.265 14322 16439 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:41.265 14322 16439 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:41.315 14322 16438 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:41.315 14322 16438 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:41.369 14322 16439 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:41.369 14322 16439 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:41.396 14322 16438 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:41.396 14322 16438 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:41.455 14322 16439 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:41.455 14322 16439 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:41.477 14322 16438 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:41.477 14322 16438 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:41.567 14322 16438 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:41.567 14322 16438 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:41.574 14322 16439 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:41.574 14322 16439 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:41.646 14322 16438 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:41.646 14322 16438 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:41.684 14322 16439 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:41.684 14322 16439 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:41.775 14322 16438 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:41.775 14322 16438 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:41.851 14322 16438 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:41.851 14322 16438 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:41.940 14322 16438 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:41.940 14322 16438 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:42.027 14322 16438 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:42.027 14322 16438 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:42.062 14322 16439 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:42.062 14322 16439 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:42.102 14322 16438 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:42.102 14322 16438 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:42.164 14322 16439 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:42.165 14322 16439 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:42.184 14322 16438 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:42.184 14322 16438 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:42.259 14322 16439 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:42.259 14322 16439 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:42.274 14322 16438 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:42.274 14322 16438 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:42.329 14322 16439 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:42.329 14322 16439 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:42.347 14322 16438 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:42.347 14322 16438 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:42.427 14322 16439 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:42.428 14322 16439 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:42.435 14322 16438 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:42.436 14322 16438 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:42.530 14322 16439 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:42.530 14322 16439 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:42.550 14322 16438 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:42.550 14322 16438 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:42.638 14322 16438 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:42.638 14322 16438 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:42.660 14322 16439 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:42.660 14322 16439 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:42.760 14322 16438 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:42.760 14322 16438 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:42.781 14322 16439 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:42.781 14322 16439 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:42.882 14322 16439 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:42.882 14322 16439 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:42.889 14322 16438 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:42.889 14322 16438 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:43.013 14322 16439 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:43.013 14322 16439 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:43.023 14322 16438 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:43.023 14322 16438 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:43.066 14322 14322 I ViewRootImpl@323ce5e[MainActivity]: ViewPostIme pointer 0
+12-16 12:06:43.144 14322 16439 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:43.144 14322 16439 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:43.157 14322 16438 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:43.157 14322 16438 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:43.247 14322 16438 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:43.247 14322 16438 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:43.284 14322 16439 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:43.284 14322 16439 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:43.401 14322 15879 W SendBird: [12:06:43.401 Connection$1:onMessage():235] onMessage instance : [PONG] com.sendbird.android.Connection@df8f48a
+12-16 12:06:43.402 14322 15879 W Sendbird: [12:06:43.401 Connection$1:onMessage():236] onMessage instance : [PONG] com.sendbird.android.Connection@df8f48a
+12-16 12:06:43.404 14322 15949 W SendBird: [12:06:43.404 EventController$1:call():141] ++ result[PONG] runnable=null
+12-16 12:06:43.572 14322 14573 D BONUSPACK: OSRMRoadManager.getRoads:https://routing.openstreetmap.de/routed-car/route/v1/driving/14.2685365677,40.8524166435;12.5013256073,41.9014785048?alternatives=false&overview=full&steps=true
+12-16 12:06:43.951 14322 14573 D BONUSPACK: OSRMRoadManager.getRoads - finished
+12-16 12:06:43.969 14322 14322 I ViewRootImpl@323ce5e[MainActivity]: ViewPostIme pointer 1
+12-16 12:06:45.000 14322 14322 I ViewRootImpl@323ce5e[MainActivity]: ViewPostIme pointer 0
+12-16 12:06:45.141 14322 16438 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:45.141 14322 16438 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:45.148 14322 16439 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:45.148 14322 16439 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:45.289 14322 16438 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:45.289 14322 16438 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:45.304 14322 16439 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:45.304 14322 16439 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:45.374 14322 14322 I ViewRootImpl@323ce5e[MainActivity]: ViewPostIme pointer 1
+12-16 12:06:45.415 14322 16438 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:45.415 14322 16438 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:45.425 14322 16439 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:45.425 14322 16439 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:45.533 14322 16438 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:45.533 14322 16438 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:45.541 14322 16439 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:45.541 14322 16439 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:45.597 14322 14322 I ViewRootImpl@323ce5e[MainActivity]: ViewPostIme pointer 0
+12-16 12:06:45.643 14322 16438 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:45.644 14322 16438 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:45.665 14322 16439 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:45.665 14322 16439 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:45.747 14322 16438 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:45.747 14322 16438 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:45.772 14322 16439 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:45.772 14322 16439 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:45.833 14322 14322 I ViewRootImpl@323ce5e[MainActivity]: ViewPostIme pointer 1
+12-16 12:06:45.858 14322 16439 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:45.858 14322 16439 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:45.971 14322 16439 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:45.971 14322 16439 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:46.009 14322 14322 I ViewRootImpl@323ce5e[MainActivity]: ViewPostIme pointer 0
+12-16 12:06:46.097 14322 16439 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:46.097 14322 16439 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:46.116 14322 16438 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:46.116 14322 16438 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:46.184 14322 14322 I ViewRootImpl@323ce5e[MainActivity]: ViewPostIme pointer 1
+12-16 12:06:46.195 14322 16439 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:46.196 14322 16439 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:46.200 14322 14337 I om.rmc.natour2: Background concurrent copying GC freed 90922(4107KB) AllocSpace objects, 346(8712KB) LOS objects, 49% free, 13MB/27MB, paused 149us total 103.702ms
+12-16 12:06:46.228 14322 16438 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:46.228 14322 16438 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:46.336 14322 14322 I ViewRootImpl@323ce5e[MainActivity]: ViewPostIme pointer 0
+12-16 12:06:46.375 14322 16439 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:46.375 14322 16439 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:46.383 14322 16438 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:46.383 14322 16438 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:46.499 14322 16438 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:46.499 14322 16438 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:46.527 14322 16439 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:46.527 14322 16439 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:46.568 14322 14322 I ViewRootImpl@323ce5e[MainActivity]: ViewPostIme pointer 1
+12-16 12:06:46.836 14322 14322 I ViewRootImpl@323ce5e[MainActivity]: ViewPostIme pointer 0
+12-16 12:06:46.920 14322 16438 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:46.920 14322 16438 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:46.936 14322 16439 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:46.937 14322 16439 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:47.170 14322 14322 I ViewRootImpl@323ce5e[MainActivity]: ViewPostIme pointer 1
+12-16 12:06:47.215 14322 16438 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:47.216 14322 16438 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:47.231 14322 16439 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:47.231 14322 16439 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:47.368 14322 16438 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:47.368 14322 16438 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:47.457 14322 16438 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:47.457 14322 16438 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:47.481 14322 14322 I ViewRootImpl@323ce5e[MainActivity]: ViewPostIme pointer 0
+12-16 12:06:47.713 14322 16438 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:47.713 14322 16438 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:47.834 14322 14322 I ViewRootImpl@323ce5e[MainActivity]: ViewPostIme pointer 1
+12-16 12:06:48.030 14322 16438 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:48.030 14322 16438 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:48.084 14322 16439 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:48.084 14322 16439 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:48.119 14322 16438 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:48.119 14322 16438 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:48.156 14322 14322 I ViewRootImpl@323ce5e[MainActivity]: ViewPostIme pointer 0
+12-16 12:06:48.179 14322 16439 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:48.179 14322 16439 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:48.219 14322 16438 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:48.219 14322 16438 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:48.337 14322 16439 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:48.338 14322 16439 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:48.359 14322 16438 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:48.359 14322 16438 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:48.545 14322 16439 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:48.545 14322 16439 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:48.559 14322 16438 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:48.559 14322 16438 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:48.656 14322 16439 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:48.657 14322 16439 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:48.805 14322 16439 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:48.805 14322 16439 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:48.826 14322 14322 I ViewRootImpl@323ce5e[MainActivity]: ViewPostIme pointer 1
+12-16 12:06:48.881 14322 16439 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:48.881 14322 16439 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:48.934 14322 16438 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:48.934 14322 16438 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:48.958 14322 16439 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:48.958 14322 16439 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:49.117 14322 16439 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:49.117 14322 16439 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:49.132 14322 14322 I ViewRootImpl@323ce5e[MainActivity]: ViewPostIme pointer 0
+12-16 12:06:49.141 14322 16438 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:49.141 14322 16438 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:49.205 14322 16439 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:49.205 14322 16439 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:49.276 14322 16438 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:49.276 14322 16438 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:49.297 14322 16439 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:49.297 14322 16439 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:49.375 14322 14322 I ViewRootImpl@323ce5e[MainActivity]: ViewPostIme pointer 1
+12-16 12:06:49.397 14322 16438 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:49.397 14322 16438 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:49.405 14322 16439 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:49.405 14322 16439 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:49.585 14322 16438 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:49.585 14322 16438 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:49.593 14322 16439 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:49.593 14322 16439 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:49.710 14322 16439 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:49.710 14322 16439 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:49.733 14322 16438 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:49.733 14322 16438 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:49.806 14322 16439 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:49.806 14322 16439 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:49.825 14322 16438 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:49.825 14322 16438 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:49.851 14322 14322 I ViewRootImpl@323ce5e[MainActivity]: ViewPostIme pointer 0
+12-16 12:06:49.879 14322 16439 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:49.879 14322 16439 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:49.918 14322 14322 I ViewRootImpl@323ce5e[MainActivity]: ViewPostIme pointer 1
+12-16 12:06:49.920 14322 14322 D InputMethodManager: prepareNavigationBarInfo() DecorView@29d01af[MainActivity]
+12-16 12:06:49.920 14322 14322 D InputMethodManager: getNavigationBarColor() -855310
+12-16 12:06:49.920 14322 14322 V InputMethodManager: Starting input: tba=com.rmc.natour21 ic=com.android.internal.widget.EditableInputConnection@37dc4b9 mNaviBarColor -855310 mIsGetNaviBarColorSuccess true , NavVisible : true , NavTrans : false
+12-16 12:06:49.920 14322 14322 D InputMethodManager: startInputInner - Id : 0
+12-16 12:06:49.923 14322 14322 I InputMethodManager: startInputInner - mService.startInputOrWindowGainedFocus
+12-16 12:06:49.924 14322 14322 D InputTransport: Input channel destroyed: 'ClientS', fd=135
+12-16 12:06:49.936 14322 16438 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:49.936 14322 16438 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:49.954 14322 16439 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:49.954 14322 16439 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:50.067 14322 16438 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:50.067 14322 16438 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:50.073 14322 14322 W System.err: java.io.IOException: INVALID_ARGUMENT: At least one of address or componentFilters must be specified.
+12-16 12:06:50.074 14322 14322 W System.err: 	at android.location.Geocoder.getFromLocationName(Geocoder.java:178)
+12-16 12:06:50.074 14322 14322 W System.err: 	at com.rmc.natour21.Fragment.InsertPath.InsertFragment.geoCode(InsertFragment.kt:608)
+12-16 12:06:50.074 14322 14322 W System.err: 	at com.rmc.natour21.Fragment.InsertPath.InsertFragment$onViewCreated$2$1.onQueryTextChange(InsertFragment.kt:295)
+12-16 12:06:50.074 14322 14322 W System.err: 	at android.widget.SearchView.onTextChanged(SearchView.java:1516)
+12-16 12:06:50.074 14322 14322 W System.err: 	at android.widget.SearchView.access$2100(SearchView.java:113)
+12-16 12:06:50.074 14322 14322 W System.err: 	at android.widget.SearchView$10.onTextChanged(SearchView.java:2149)
+12-16 12:06:50.074 14322 14322 W System.err: 	at android.widget.TextView.sendOnTextChanged(TextView.java:11631)
+12-16 12:06:50.074 14322 14322 W System.err: 	at android.widget.TextView.setText(TextView.java:6841)
+12-16 12:06:50.074 14322 14322 W System.err: 	at android.widget.TextView.setText(TextView.java:6638)
+12-16 12:06:50.074 14322 14322 W System.err: 	at android.widget.EditText.setText(EditText.java:140)
+12-16 12:06:50.074 14322 14322 W System.err: 	at android.widget.TextView.setText(TextView.java:6590)
+12-16 12:06:50.074 14322 14322 W System.err: 	at android.widget.SearchView.onCloseClicked(SearchView.java:1554)
+12-16 12:06:50.074 14322 14322 W System.err: 	at android.widget.SearchView.access$800(SearchView.java:113)
+12-16 12:06:50.074 14322 14322 W System.err: 	at android.widget.SearchView$5.onClick(SearchView.java:1197)
+12-16 12:06:50.074 14322 14322 W System.err: 	at android.view.View.performClick(View.java:7862)
+12-16 12:06:50.074 14322 14322 W System.err: 	at android.view.View.performClickInternal(View.java:7831)
+12-16 12:06:50.074 14322 14322 W System.err: 	at android.view.View.access$3600(View.java:879)
+12-16 12:06:50.074 14322 14322 W System.err: 	at android.view.View$PerformClick.run(View.java:29359)
+12-16 12:06:50.074 14322 14322 W System.err: 	at android.os.Handler.handleCallback(Handler.java:883)
+12-16 12:06:50.074 14322 14322 W System.err: 	at android.os.Handler.dispatchMessage(Handler.java:100)
+12-16 12:06:50.074 14322 14322 W System.err: 	at android.os.Looper.loop(Looper.java:237)
+12-16 12:06:50.074 14322 14322 W System.err: 	at android.app.ActivityThread.main(ActivityThread.java:8167)
+12-16 12:06:50.074 14322 14322 W System.err: 	at java.lang.reflect.Method.invoke(Native Method)
+12-16 12:06:50.075 14322 14322 W System.err: 	at com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:496)
+12-16 12:06:50.075 14322 14322 W System.err: 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:1100)
+12-16 12:06:50.076 14322 14322 D InputMethodManager: SSI - flag : 0 Pid : 14322 view : com.rmc.natour21
+12-16 12:06:50.076 14322 14322 D InputMethodManager: prepareNavigationBarInfo() DecorView@29d01af[MainActivity]
+12-16 12:06:50.076 14322 14322 D InputMethodManager: getNavigationBarColor() -855310
+12-16 12:06:50.092 14322 16439 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:50.093 14322 16439 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:50.161 14322 16438 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:50.161 14322 16438 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:50.181 14322 14322 I ViewRootImpl@323ce5e[MainActivity]: MSG_RESIZED: frame=(0,0,1080,2220) ci=(0,63,0,0) vi=(0,63,0,986) or=1
+12-16 12:06:50.254 14322 16438 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:50.254 14322 16438 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:50.334 14322 16438 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:50.334 14322 16438 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:50.425 14322 16439 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:50.425 14322 16439 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:50.447 14322 16438 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:50.447 14322 16438 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:50.518 14322 16439 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:50.518 14322 16439 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:50.585 14322 16438 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:50.585 14322 16438 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:50.642 14322 16439 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:50.642 14322 16439 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:50.708 14322 16438 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:50.708 14322 16438 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:50.741 14322 16439 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:50.741 14322 16439 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:50.782 14322 16438 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:50.782 14322 16438 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:50.802 14322 16439 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:50.802 14322 16439 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:50.903 14322 16438 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:50.903 14322 16438 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:51.646 14322 14322 I ViewRootImpl@323ce5e[MainActivity]: The input has been finished in ImeInputStage.
+12-16 12:06:51.710 14322 14322 I ViewRootImpl@323ce5e[MainActivity]: The input has been finished in ImeInputStage.
+12-16 12:06:51.734 14322 14322 I ViewRootImpl@323ce5e[MainActivity]: MSG_RESIZED: frame=(0,0,1080,2220) ci=(0,63,0,0) vi=(0,63,0,0) or=1
+12-16 12:06:52.662 14322 14322 I ViewRootImpl@323ce5e[MainActivity]: ViewPostIme pointer 0
+12-16 12:06:52.712 14322 14322 I ViewRootImpl@323ce5e[MainActivity]: ViewPostIme pointer 1
+12-16 12:06:53.130 14322 14322 W ActivityThread: handleWindowVisibility: no activity for token android.os.BinderProxy@7757b7d
+12-16 12:06:53.158 14322 14322 D PhoneWindow: forceLight changed to true [] from com.android.internal.policy.PhoneWindow.updateForceLightNavigationBar:4274 com.android.internal.policy.DecorView.updateColorViews:1547 com.android.internal.policy.PhoneWindow.dispatchWindowAttributesChanged:3252 android.view.Window.setFlags:1153 com.android.internal.policy.PhoneWindow.generateLayout:2474 
+12-16 12:06:53.158 14322 14322 I MultiWindowDecorSupport: [INFO] isPopOver = false
+12-16 12:06:53.158 14322 14322 I MultiWindowDecorSupport: updateCaptionType >> DecorView@1d90eb3[], isFloating: false, isApplication: true, hasWindowDecorCaption: false, hasWindowControllerCallback: true
+12-16 12:06:53.159 14322 14322 D MultiWindowDecorSupport: setCaptionType = 0, DecorView = DecorView@1d90eb3[]
+12-16 12:06:53.182 14322 14322 I OsmDroid: Using tile source: Mapnik
+12-16 12:06:53.182 14322 14322 I OsmDroid: Tile cache increased from 0 to 9
+12-16 12:06:53.289 14322 14322 I ViewRootImpl@71b8432[PathAttributesActivity]: setView = com.android.internal.policy.DecorView@1d90eb3 TM=true MM=false
+12-16 12:06:53.314 14322 14322 I ViewRootImpl@71b8432[PathAttributesActivity]: Relayout returned: old=(0,0,1080,2220) new=(0,0,1080,2220) req=(1080,2220)0 dur=8 res=0x7 s={true 522817523712} ch=true
+12-16 12:06:53.315 14322 14540 D mali_winsys: EGLint new_window_surface(egl_winsys_display *, void *, EGLSurface, EGLConfig, egl_winsys_surface **, EGLBoolean) returns 0x3000
+12-16 12:06:53.321 14322 14322 I ViewRootImpl@71b8432[PathAttributesActivity]: [DrawPending] drawPending(1) 1 android.view.ViewRootImpl.reportNextDraw:9952 android.view.ViewRootImpl.performTraversals:3329 android.view.ViewRootImpl.doTraversal:2222 
+12-16 12:06:53.321 14322 14322 I ViewRootImpl@71b8432[PathAttributesActivity]: [DrawPending] performDraw() Waiting asnyc report
+12-16 12:06:53.342 14322 16988 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:53.342 14322 16988 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:53.349 14322 16989 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:53.349 14322 16989 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:53.363 14322 14322 I ViewRootImpl@71b8432[PathAttributesActivity]: [DrawPending] pendingDrawFinished(0) 1 android.view.ViewRootImpl.lambda$performDraw$1$ViewRootImpl:4058 android.view.-$$Lambda$ViewRootImpl$7A_3tkr_Kw4TZAeIUGVlOoTcZhg.run:4 android.os.Handler.handleCallback:883 
+12-16 12:06:53.363 14322 14322 I ViewRootImpl@71b8432[PathAttributesActivity]: [DrawPending] reportDrawFinished()
+12-16 12:06:53.364 14322 14322 I ViewRootImpl@323ce5e[MainActivity]: MSG_WINDOW_FOCUS_CHANGED 0 1
+12-16 12:06:53.365 14322 14322 D InputMethodManager: prepareNavigationBarInfo() DecorView@29d01af[MainActivity]
+12-16 12:06:53.365 14322 14322 D InputMethodManager: getNavigationBarColor() -855310
+12-16 12:06:53.374 14322 14322 I ViewRootImpl@71b8432[PathAttributesActivity]: MSG_WINDOW_FOCUS_CHANGED 1 1
+12-16 12:06:53.375 14322 14322 D InputMethodManager: prepareNavigationBarInfo() DecorView@1d90eb3[PathAttributesActivity]
+12-16 12:06:53.375 14322 14322 D InputMethodManager: getNavigationBarColor() -855310
+12-16 12:06:53.379 14322 14322 D InputMethodManager: prepareNavigationBarInfo() DecorView@1d90eb3[PathAttributesActivity]
+12-16 12:06:53.379 14322 14322 D InputMethodManager: getNavigationBarColor() -855310
+12-16 12:06:53.379 14322 14322 V InputMethodManager: Starting input: tba=com.rmc.natour21 ic=null mNaviBarColor -855310 mIsGetNaviBarColorSuccess true , NavVisible : true , NavTrans : false
+12-16 12:06:53.379 14322 14322 D InputMethodManager: startInputInner - Id : 0
+12-16 12:06:53.379 14322 14322 I InputMethodManager: startInputInner - mService.startInputOrWindowGainedFocus
+12-16 12:06:53.383 14322 14322 D InputTransport: Input channel destroyed: 'ClientS', fd=125
+12-16 12:06:53.398 14322 14322 I ViewRootImpl@71b8432[PathAttributesActivity]: MSG_RESIZED: frame=(0,0,1080,2220) ci=(0,63,0,0) vi=(0,63,0,0) or=1
+12-16 12:06:53.450 14322 16988 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:53.450 14322 16988 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:53.554 14322 16988 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:53.554 14322 16988 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:53.659 14322 16988 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:53.659 14322 16988 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:53.779 14322 16989 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:53.779 14322 16989 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:53.785 14322 14540 W libEGL  : EGLNativeWindowType 0x79ba59b490 disconnect failed
+12-16 12:06:53.790 14322 16988 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:53.791 14322 16988 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:53.791 14322 14322 I ViewRootImpl@323ce5e[MainActivity]: Relayout returned: old=(0,0,1080,2220) new=(0,0,1080,2220) req=(1080,2220)8 dur=6 res=0x5 s={false 0} ch=true
+12-16 12:06:53.792 14322 14322 I ViewRootImpl@323ce5e[MainActivity]: stopped(true) old=false
+12-16 12:06:53.793 14322 14322 D ConnectivityManager: unregisterNetworkCallback; CallingUid : 10308, CallingPid : 14322
+12-16 12:06:53.865 14322 16989 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:53.866 14322 16989 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:53.877 14322 16988 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:53.877 14322 16988 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-16 12:06:54.477 14322 14322 I ViewRootImpl@71b8432[PathAttributesActivity]: ViewPostIme pointer 0
+12-16 12:06:54.535 14322 14322 I ViewRootImpl@71b8432[PathAttributesActivity]: ViewPostIme pointer 1
+12-16 12:06:54.540 14322 14322 D InputMethodManager: prepareNavigationBarInfo() DecorView@1d90eb3[PathAttributesActivity]
+12-16 12:06:54.541 14322 14322 D InputMethodManager: getNavigationBarColor() -855310
+12-16 12:06:54.541 14322 14322 V InputMethodManager: Starting input: tba=com.rmc.natour21 ic=androidx.emoji2.viewsintegration.EmojiInputConnection@3726fe mNaviBarColor -855310 mIsGetNaviBarColorSuccess true , NavVisible : true , NavTrans : false
+12-16 12:06:54.541 14322 14322 D InputMethodManager: startInputInner - Id : 0
+12-16 12:06:54.543 14322 14322 I InputMethodManager: startInputInner - mService.startInputOrWindowGainedFocus
+12-16 12:06:54.545 14322 14322 D InputTransport: Input channel destroyed: 'ClientS', fd=140
+12-16 12:06:54.545 14322 14322 D InputMethodManager: SSI - flag : 0 Pid : 14322 view : com.rmc.natour21
+12-16 12:06:54.545 14322 14322 D InputMethodManager: SSI - flag : 0 Pid : 14322 view : com.rmc.natour21
+12-16 12:06:54.546 14322 14322 D InputMethodManager: prepareNavigationBarInfo() DecorView@1d90eb3[PathAttributesActivity]
+12-16 12:06:54.546 14322 14322 D InputMethodManager: getNavigationBarColor() -855310
+12-16 12:06:54.550 14322 14322 D Editor  : waiting for the right moment
+12-16 12:06:54.560 14322 14322 I AssistStructure: Flattened final assist data: 2932 bytes, containing 1 windows, 16 views
+12-16 12:06:54.626 14322 14322 I ViewRootImpl@71b8432[PathAttributesActivity]: MSG_RESIZED: frame=(0,0,1080,2220) ci=(0,63,0,876) vi=(0,63,0,876) or=1
+12-16 12:06:54.651 14322 14322 I ViewRootImpl@71b8432[PathAttributesActivity]: Relayout returned: old=(0,0,1080,2220) new=(0,0,1080,2220) req=(1080,2220)0 dur=13 res=0x1 s={true 522817523712} ch=false
+12-16 12:06:58.360 14322 15879 W SendBird: [12:06:58.360 Connection$1:onMessage():235] onMessage instance : [PONG] com.sendbird.android.Connection@df8f48a
+12-16 12:06:58.361 14322 15879 W Sendbird: [12:06:58.360 Connection$1:onMessage():236] onMessage instance : [PONG] com.sendbird.android.Connection@df8f48a
+12-16 12:06:58.363 14322 15949 W SendBird: [12:06:58.363 EventController$1:call():141] ++ result[PONG] runnable=null
+12-16 12:06:58.629 14322 14322 I ViewRootImpl@71b8432[PathAttributesActivity]: ViewPostIme key 0
+12-16 12:06:58.638 14322 14322 I ViewRootImpl@71b8432[PathAttributesActivity]: ViewPostIme key 1
+12-16 12:06:58.696 14322 14322 I ViewRootImpl@71b8432[PathAttributesActivity]: ViewPostIme key 0
+12-16 12:06:58.701 14322 14322 I ViewRootImpl@71b8432[PathAttributesActivity]: ViewPostIme key 1
+12-16 12:06:58.856 14322 14322 I ViewRootImpl@71b8432[PathAttributesActivity]: ViewPostIme key 0
+12-16 12:06:58.858 14322 14322 I ViewRootImpl@71b8432[PathAttributesActivity]: ViewPostIme key 1
+12-16 12:06:59.014 14322 16020 V NativeCrypto: SSL shutdown failed: ssl=0x79b50b9348: I/O error during system call, Broken pipe
+12-16 12:07:03.360 14322 14322 I ViewRootImpl@71b8432[PathAttributesActivity]: ViewPostIme pointer 0
+12-16 12:07:03.410 14322 14322 I ViewRootImpl@71b8432[PathAttributesActivity]: ViewPostIme pointer 1
+12-16 12:07:03.414 14322 14322 D InputMethodManager: prepareNavigationBarInfo() DecorView@1d90eb3[PathAttributesActivity]
+12-16 12:07:03.414 14322 14322 D InputMethodManager: getNavigationBarColor() -855310
+12-16 12:07:03.414 14322 14322 V InputMethodManager: Starting input: tba=com.rmc.natour21 ic=androidx.emoji2.viewsintegration.EmojiInputConnection@a5574f3 mNaviBarColor -855310 mIsGetNaviBarColorSuccess true , NavVisible : true , NavTrans : false
+12-16 12:07:03.414 14322 14322 D InputMethodManager: startInputInner - Id : 0
+12-16 12:07:03.417 14322 14322 I InputMethodManager: startInputInner - mService.startInputOrWindowGainedFocus
+12-16 12:07:03.419 14322 14322 D InputTransport: Input channel destroyed: 'ClientS', fd=120
+12-16 12:07:03.419 14322 14322 D InputMethodManager: SSI - flag : 0 Pid : 14322 view : com.rmc.natour21
+12-16 12:07:03.420 14322 14322 D InputMethodManager: prepareNavigationBarInfo() DecorView@1d90eb3[PathAttributesActivity]
+12-16 12:07:03.420 14322 14322 D InputMethodManager: getNavigationBarColor() -855310
+12-16 12:07:03.421 14322 14322 D Editor  : waiting for the right moment
+12-16 12:07:03.423 14322 14322 W IInputConnectionWrapper: requestCursorAnchorInfo on inactive InputConnection
+12-16 12:07:03.491 14322 14322 I ViewRootImpl@71b8432[PathAttributesActivity]: MSG_RESIZED: frame=(0,0,1080,2220) ci=(0,63,0,986) vi=(0,63,0,986) or=1
+12-16 12:07:03.526 14322 14322 I ViewRootImpl@71b8432[PathAttributesActivity]: Relayout returned: old=(0,0,1080,2220) new=(0,0,1080,2220) req=(1080,2220)0 dur=22 res=0x1 s={true 522817523712} ch=false
+12-16 12:07:07.836 14322 14322 I ViewRootImpl@71b8432[PathAttributesActivity]: ViewPostIme pointer 0
+12-16 12:07:07.974 14322 14322 I ViewRootImpl@71b8432[PathAttributesActivity]: The input has been finished in ImeInputStage.
+12-16 12:07:07.980 14322 14322 I ViewRootImpl@71b8432[PathAttributesActivity]: The input has been finished in ImeInputStage.
+12-16 12:07:08.024 14322 14322 I ViewRootImpl@71b8432[PathAttributesActivity]: MSG_RESIZED: frame=(0,0,1080,2220) ci=(0,63,0,0) vi=(0,63,0,0) or=1
+12-16 12:07:08.046 14322 14322 I ViewRootImpl@71b8432[PathAttributesActivity]: Relayout returned: old=(0,0,1080,2220) new=(0,0,1080,2220) req=(1080,2220)0 dur=5 res=0x1 s={true 522817523712} ch=false
+12-16 12:07:09.070 14322 14322 I ViewRootImpl@71b8432[PathAttributesActivity]: ViewPostIme pointer 0
+12-16 12:07:09.121 14322 14322 I ViewRootImpl@71b8432[PathAttributesActivity]: ViewPostIme pointer 1
+12-16 12:07:12.577 14322 14322 I ViewRootImpl@71b8432[PathAttributesActivity]: ViewPostIme pointer 0
+12-16 12:07:12.635 14322 14322 I ViewRootImpl@71b8432[PathAttributesActivity]: ViewPostIme pointer 1
+12-16 12:07:12.656 14322 14322 D Dialog  : mIsSamsungBasicInteraction = false
+12-16 12:07:12.656 14322 14322 D Dialog  : mIsSamsungBasicInteraction = false, isMetaDataInActivity = false
+12-16 12:07:12.666 14322 14322 I MultiWindowDecorSupport: [INFO] isPopOver = false
+12-16 12:07:12.667 14322 14322 I MultiWindowDecorSupport: updateCaptionType >> DecorView@d13c494[], isFloating: true, isApplication: true, hasWindowDecorCaption: false, hasWindowControllerCallback: false
+12-16 12:07:12.667 14322 14322 D MultiWindowDecorSupport: setCaptionType = 0, DecorView = DecorView@d13c494[]
+12-16 12:07:12.704 14322 14322 D ScrollView: initGoToTop
+12-16 12:07:12.729 14322 14322 I ViewRootImpl@ab96565[PathAttributesActivity]: setView = com.android.internal.policy.DecorView@d13c494 TM=true MM=false
+12-16 12:07:12.748 14322 14322 I ViewRootImpl@ab96565[PathAttributesActivity]: Relayout returned: old=(0,63,1080,2220) new=(28,874,1052,1408) req=(1024,534)0 dur=7 res=0x7 s={true 520977453056} ch=true
+12-16 12:07:12.750 14322 14540 D mali_winsys: EGLint new_window_surface(egl_winsys_display *, void *, EGLSurface, EGLConfig, egl_winsys_surface **, EGLBoolean) returns 0x3000
+12-16 12:07:12.754 14322 14322 I ViewRootImpl@ab96565[PathAttributesActivity]: [DrawPending] drawPending(1) 1 android.view.ViewRootImpl.reportNextDraw:9952 android.view.ViewRootImpl.performTraversals:3329 android.view.ViewRootImpl.doTraversal:2222 
+12-16 12:07:12.754 14322 14322 I ViewRootImpl@ab96565[PathAttributesActivity]: [DrawPending] performDraw() Waiting asnyc report
+12-16 12:07:12.758 14322 14322 E DecorView: mWindow.mActivityCurrentConfig is null
+12-16 12:07:12.765 14322 14322 I ViewRootImpl@ab96565[PathAttributesActivity]: [DrawPending] pendingDrawFinished(0) 1 android.view.ViewRootImpl.lambda$performDraw$1$ViewRootImpl:4058 android.view.-$$Lambda$ViewRootImpl$7A_3tkr_Kw4TZAeIUGVlOoTcZhg.run:4 android.os.Handler.handleCallback:883 
+12-16 12:07:12.765 14322 14322 I ViewRootImpl@ab96565[PathAttributesActivity]: [DrawPending] reportDrawFinished()
+12-16 12:07:12.766 14322 14322 I ViewRootImpl@ab96565[PathAttributesActivity]: MSG_WINDOW_FOCUS_CHANGED 1 1
+12-16 12:07:12.773 14322 14322 I ViewRootImpl@ab96565[PathAttributesActivity]: MSG_RESIZED: frame=(28,874,1052,1408) ci=(0,0,0,0) vi=(0,0,0,0) or=1
+12-16 12:07:12.786 14322 14322 I ViewRootImpl@71b8432[PathAttributesActivity]: MSG_WINDOW_FOCUS_CHANGED 0 1
+12-16 12:07:12.787 14322 14322 D InputMethodManager: prepareNavigationBarInfo() DecorView@1d90eb3[PathAttributesActivity]
+12-16 12:07:12.787 14322 14322 D InputMethodManager: getNavigationBarColor() -855310
+12-16 12:07:13.356 14322 15879 W SendBird: [12:07:13.356 Connection$1:onMessage():235] onMessage instance : [PONG] com.sendbird.android.Connection@df8f48a
+12-16 12:07:13.357 14322 15879 W Sendbird: [12:07:13.357 Connection$1:onMessage():236] onMessage instance : [PONG] com.sendbird.android.Connection@df8f48a
+12-16 12:07:13.359 14322 15949 W SendBird: [12:07:13.359 EventController$1:call():141] ++ result[PONG] runnable=null
+12-16 12:07:13.819 14322 14322 D Toast   : show: focusDisplayId = 0, isFocusInDesktop = false mCustomDisplayId=-1
+12-16 12:07:13.836 14322 17175 V Toast   : SHOW: android.widget.Toast$TN@c96becb
+12-16 12:07:13.840 14322 14540 W libEGL  : EGLNativeWindowType 0x79b51e3a10 disconnect failed
+12-16 12:07:13.840 14322 14322 I ViewRootImpl@ab96565[PathAttributesActivity]: dispatchDetachedFromWindow
+12-16 12:07:13.845 14322 14322 D InputTransport: Input channel destroyed: '4eeb9ac', fd=120
+12-16 12:07:13.846 14322 14322 I ViewRootImpl@323ce5e[MainActivity]: stopped(false) old=true
+12-16 12:07:13.849 14322 14322 D ConnectivityManager: requestNetwork; CallingUid : 10308, CallingPid : 14322
+12-16 12:07:13.854 14322 14322 I ViewRootImpl@323ce5e[MainActivity]: stopped(false) old=false
+12-16 12:07:13.859 14322 14322 E ViewRootImpl: sendUserActionEvent() mView returned.
+12-16 12:07:13.859 14322 14322 V Toast   : HANDLE SHOW: android.widget.Toast$TN@c96becb mView=null mNextView=android.widget.LinearLayout{be599f V.E...... ......I. 0,0-0,0}
+12-16 12:07:13.859 14322 14322 V Toast   : HANDLE HIDE: android.widget.Toast$TN@c96becb mView=null
+12-16 12:07:13.870 14322 14322 I ViewRootImpl@a0d494a[Toast]: setView = android.widget.LinearLayout@be599f TM=true MM=false
+12-16 12:07:13.871 14322 14322 V Toast   : Text: Qerc in android.widget.Toast$TN@c96becb
+12-16 12:07:13.883 14322 14322 I ViewRootImpl@323ce5e[MainActivity]: Relayout returned: old=(0,0,1080,2220) new=(0,0,1080,2220) req=(1080,2220)0 dur=8 res=0x7 s={true 520977453056} ch=true
+12-16 12:07:13.883 14322 14540 D mali_winsys: EGLint new_window_surface(egl_winsys_display *, void *, EGLSurface, EGLConfig, egl_winsys_surface **, EGLBoolean) returns 0x3000
+12-16 12:07:13.884 14322 14322 I ViewRootImpl@323ce5e[MainActivity]: [DrawPending] drawPending(1) 1 android.view.ViewRootImpl.reportNextDraw:9952 android.view.ViewRootImpl.performTraversals:3329 android.view.ViewRootImpl.doTraversal:2222 
+12-16 12:07:13.884 14322 14322 I ViewRootImpl@323ce5e[MainActivity]: [DrawPending] performDraw() Waiting asnyc report
+12-16 12:07:13.920 14322 14322 I ViewRootImpl@a0d494a[Toast]: Relayout returned: old=(0,63,1080,2220) new=(183,1936,896,2052) req=(713,116)0 dur=6 res=0x7 s={true 520198250496} ch=true
+12-16 12:07:13.921 14322 14540 D mali_winsys: EGLint new_window_surface(egl_winsys_display *, void *, EGLSurface, EGLConfig, egl_winsys_surface **, EGLBoolean) returns 0x3000
+12-16 12:07:13.922 14322 14322 I ViewRootImpl@a0d494a[Toast]: [DrawPending] drawPending(1) 0 android.view.ViewRootImpl.reportNextDraw:9952 android.view.ViewRootImpl.performTraversals:3329 android.view.ViewRootImpl.doTraversal:2222 
+12-16 12:07:13.922 14322 14322 I ViewRootImpl@a0d494a[Toast]: [DrawPending] performDraw() Waiting asnyc report
+12-16 12:07:13.941 14322 14322 I ViewRootImpl@a0d494a[Toast]: [DrawPending] pendingDrawFinished(0) 0 android.view.ViewRootImpl.lambda$performDraw$1$ViewRootImpl:4058 android.view.-$$Lambda$ViewRootImpl$7A_3tkr_Kw4TZAeIUGVlOoTcZhg.run:4 android.os.Handler.handleCallback:883 
+12-16 12:07:13.941 14322 14322 I ViewRootImpl@a0d494a[Toast]: [DrawPending] reportDrawFinished()
+12-16 12:07:13.942 14322 14322 I ViewRootImpl@323ce5e[MainActivity]: [DrawPending] pendingDrawFinished(0) 1 android.view.ViewRootImpl.lambda$performDraw$1$ViewRootImpl:4058 android.view.-$$Lambda$ViewRootImpl$7A_3tkr_Kw4TZAeIUGVlOoTcZhg.run:4 android.os.Handler.handleCallback:883 
+12-16 12:07:13.942 14322 14322 I ViewRootImpl@323ce5e[MainActivity]: [DrawPending] reportDrawFinished()
+12-16 12:07:13.954 14322 14322 I ViewRootImpl@323ce5e[MainActivity]: MSG_WINDOW_FOCUS_CHANGED 1 1
+12-16 12:07:13.954 14322 14322 D InputMethodManager: prepareNavigationBarInfo() DecorView@29d01af[MainActivity]
+12-16 12:07:13.954 14322 14322 D InputMethodManager: getNavigationBarColor() -855310
+12-16 12:07:13.968 14322 14322 D InputMethodManager: prepareNavigationBarInfo() DecorView@29d01af[MainActivity]
+12-16 12:07:13.968 14322 14322 D InputMethodManager: getNavigationBarColor() -855310
+12-16 12:07:13.968 14322 14322 V InputMethodManager: Starting input: tba=com.rmc.natour21 ic=com.android.internal.widget.EditableInputConnection@cf7dbf0 mNaviBarColor -855310 mIsGetNaviBarColorSuccess true , NavVisible : true , NavTrans : false
+12-16 12:07:13.968 14322 14322 D InputMethodManager: startInputInner - Id : 0
+12-16 12:07:13.972 14322 14322 I InputMethodManager: startInputInner - mService.startInputOrWindowGainedFocus
+12-16 12:07:13.975 14322 14322 D InputTransport: Input channel destroyed: 'ClientS', fd=115
+12-16 12:07:13.975 14322 14322 I ViewRootImpl@a0d494a[Toast]: MSG_RESIZED: frame=(183,1936,896,2052) ci=(0,0,0,0) vi=(357,116,713,116) or=1
+12-16 12:07:13.977 14322 14322 D InputMethodManager: SSI - flag : 0 Pid : 14322 view : com.rmc.natour21
+12-16 12:07:13.977 14322 14322 D InputMethodManager: prepareNavigationBarInfo() DecorView@29d01af[MainActivity]
+12-16 12:07:13.977 14322 14322 D InputMethodManager: getNavigationBarColor() -855310
+12-16 12:07:14.066 14322 14322 I ViewRootImpl@323ce5e[MainActivity]: MSG_RESIZED: frame=(0,0,1080,2220) ci=(0,63,0,0) vi=(0,63,0,986) or=1
+12-16 12:07:14.371 14322 14540 W libEGL  : EGLNativeWindowType 0x794ce24ad0 disconnect failed
+12-16 12:07:14.377 14322 14322 I ViewRootImpl@71b8432[PathAttributesActivity]: Relayout returned: old=(0,0,1080,2220) new=(0,0,1080,2220) req=(1080,2220)8 dur=5 res=0x5 s={false 0} ch=true
+12-16 12:07:14.378 14322 14322 I ViewRootImpl@71b8432[PathAttributesActivity]: stopped(true) old=false
+12-16 12:07:14.395 14322 14322 I ViewRootImpl@71b8432[PathAttributesActivity]: dispatchDetachedFromWindow
+12-16 12:07:14.402 14322 14322 D InputTransport: Input channel destroyed: '692d4b ', fd=83
+12-16 12:07:17.017 14322 14322 I ViewRootImpl@323ce5e[MainActivity]: ViewPostIme pointer 0
+12-16 12:07:17.187 14322 14322 I ViewRootImpl@323ce5e[MainActivity]: The input has been finished in ImeInputStage.
+12-16 12:07:17.191 14322 14322 I ViewRootImpl@323ce5e[MainActivity]: The input has been finished in ImeInputStage.
+12-16 12:07:17.232 14322 14322 I ViewRootImpl@323ce5e[MainActivity]: MSG_RESIZED: frame=(0,0,1080,2220) ci=(0,63,0,0) vi=(0,63,0,0) or=1
+12-16 12:07:17.336 14322 14343 V Toast   : HIDE: android.widget.Toast$TN@c96becb
+12-16 12:07:17.337 14322 14322 V Toast   : HANDLE HIDE: android.widget.Toast$TN@c96becb mView=android.widget.LinearLayout{be599f V.E...... ........ 0,0-713,116}
+12-16 12:07:17.337 14322 14322 V Toast   : REMOVE! android.widget.LinearLayout{be599f V.E...... ........ 0,0-713,116} in android.widget.Toast$TN@c96becb
+12-16 12:07:17.339 14322 14540 W libEGL  : EGLNativeWindowType 0x78fa3a3350 disconnect failed
+12-16 12:07:17.339 14322 14322 I ViewRootImpl@a0d494a[Toast]: dispatchDetachedFromWindow
+12-16 12:07:17.344 14322 14322 D InputTransport: Input channel destroyed: 'b96bec0', fd=120
+12-16 12:07:28.356 14322 15879 W SendBird: [12:07:28.356 Connection$1:onMessage():235] onMessage instance : [PONG] com.sendbird.android.Connection@df8f48a
+12-16 12:07:28.357 14322 15879 W Sendbird: [12:07:28.356 Connection$1:onMessage():236] onMessage instance : [PONG] com.sendbird.android.Connection@df8f48a
+12-16 12:07:28.359 14322 15949 W SendBird: [12:07:28.359 EventController$1:call():141] ++ result[PONG] runnable=null
+12-16 12:07:43.340 14322 15879 W SendBird: [12:07:43.340 Connection$1:onMessage():235] onMessage instance : [PONG] com.sendbird.android.Connection@df8f48a
+12-16 12:07:43.341 14322 15879 W Sendbird: [12:07:43.340 Connection$1:onMessage():236] onMessage instance : [PONG] com.sendbird.android.Connection@df8f48a
+12-16 12:07:43.343 14322 15949 W SendBird: [12:07:43.343 EventController$1:call():141] ++ result[PONG] runnable=null
+12-16 12:07:45.523 14322 14322 I ViewRootImpl@323ce5e[MainActivity]: ViewPostIme pointer 0
+12-16 12:07:45.577 14322 14322 I ViewRootImpl@323ce5e[MainActivity]: ViewPostIme pointer 1
+12-16 12:07:45.610 14322 14322 D ConnectivityManager: unregisterNetworkCallback; CallingUid : 10308, CallingPid : 14322
+12-16 12:07:45.670 14322 15767 V NativeCrypto: SSL shutdown failed: ssl=0x794fdea208: I/O error during system call, Broken pipe
+12-16 12:07:45.706 14322 14322 D ConnectivityManager: requestNetwork; CallingUid : 10308, CallingPid : 14322
+12-16 12:07:45.712 14322 14322 D InputMethodManager: HSIFW - flag : 0
+12-16 12:07:45.951 14322 14322 I ViewRootImpl@323ce5e[MainActivity]: Relayout returned: old=(0,0,1080,2220) new=(0,0,1080,2220) req=(1080,2220)0 dur=9 res=0x1 s={true 520977453056} ch=false
+12-16 12:07:46.034 14322 14322 I ViewRootImpl@323ce5e[MainActivity]: ViewPostIme pointer 0
+12-16 12:07:46.950 14322 14540 W libEGL  : EGLNativeWindowType 0x79b51e3a10 disconnect failed
+12-16 12:07:46.964 14322 14322 I ViewRootImpl@323ce5e[MainActivity]: Relayout returned: old=(0,0,1080,2220) new=(0,0,1080,2220) req=(1080,2220)8 dur=10 res=0x5 s={false 0} ch=true
+12-16 12:07:46.965 14322 14322 I ViewRootImpl@323ce5e[MainActivity]: MSG_WINDOW_FOCUS_CHANGED 0 1
+12-16 12:07:46.966 14322 14322 D InputMethodManager: prepareNavigationBarInfo() DecorView@29d01af[MainActivity]
+12-16 12:07:46.966 14322 14322 D InputMethodManager: getNavigationBarColor() -855310
+12-16 12:07:47.026 14322 14322 I ViewRootImpl@323ce5e[MainActivity]: stopped(true) old=false
+12-16 12:07:47.067 14322 14322 D ConnectivityManager: unregisterNetworkCallback; CallingUid : 10308, CallingPid : 14322
+12-16 12:07:47.096 14322 14322 D InputTransport: Input channel destroyed: 'ClientS', fd=128
+12-16 12:07:47.106 14322 14322 I ViewRootImpl@323ce5e[MainActivity]: Relayout returned: old=(0,0,1080,2220) new=(0,0,1080,2220) req=(1080,2220)8 dur=6 res=0x5 s={false 0} ch=false
